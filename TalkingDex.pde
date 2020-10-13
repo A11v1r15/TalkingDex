@@ -28,6 +28,8 @@ void setup () {
     if (!galar.hasValue(i))
       natGalar.append(i);
   }
+  alola.sort();
+  natGalar.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() { 
@@ -50,7 +52,7 @@ void setup () {
 void draw() {
   checkMaxDex();
   drawFace();
-  dial(width/2, height/2, diameter/2);
+  if (!changingVersion) dial(width/2, height/2, diameter/2);
   textSize(50);
   text(versions.get(versioN), width/3, height*0.9);
 }
@@ -100,8 +102,12 @@ void touchStarted() {
 
 void touchMoved() {
   if (changingVersion) {
+    pkn = 1;
     int test = 0;
-    test = (int)((touchStart.dist(new PVector(mouseX, mouseY))) / (width/3));
+    if (touchStart.dist(new PVector(mouseX, mouseY)) > width/10) {
+      test = (touchStart.x < mouseX)? 1 : -1;
+      touchStart = new PVector(mouseX, mouseY);
+    }
     test += versioN;
     if (test < 0)
       test += versions.size();
@@ -119,7 +125,7 @@ void touchEnded() {
   dialing = false;
   changingVersion = false;
   if (wasDialing) {
-    JSONObject pkm = loadJSONObject(String.format("%03d.pkm", index()));
+    pkm = loadJSONObject(String.format("%03d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
@@ -184,7 +190,7 @@ void checkMaxDex() {
   } else if (versioN < 30) {//LGpe
     MaxDex = 153;
   } else if (versioN < 32) {//SwSh
-    MaxDex = galar.size();
+    MaxDex = natGalar.size();
   }
 }
 
@@ -192,15 +198,15 @@ int index() {
   if (versioN < 24) {//RBY GSC RSE FrLg DPP HgSs BW BW2 XY OrAs
     return pkn;
   } else if (versioN < 26) {//SM
-    return alola.get(pkn);
+    return alola.get(pkn-1);
   } else if (versioN < 28) {//UsUm
-    return alola.get(pkn);
+    return alola.get(pkn-1);
   } else if (versioN < 30) {//LGpe
     if (pkn <= 151)
       return pkn;
     return pkn+656;
   } else if (versioN < 32) {//SwSh
-    return galar.get(pkn);
+    return natGalar.get(pkn-1);
   }
   return pkn;
 }
