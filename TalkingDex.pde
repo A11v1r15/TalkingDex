@@ -247,3 +247,9 @@ void drawFace() {
   popMatrix();
   popStyle();
 }
+
+@Override
+public void onDestroy() {
+  super.onDestroy();
+  if( t1 != null ) t1.shutdown();
+}
