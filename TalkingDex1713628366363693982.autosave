@@ -3,8 +3,6 @@ import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import java.util.Locale;
 
-//.getString("name").replace("'", "").replace(":", "").replace(".", "").replace(" ", "-").replace("é", "e")
-
 TextToSpeech t1;
 float diameter;
 ArrayList<PImage> list = new ArrayList<PImage>();
@@ -248,10 +246,4 @@ void drawFace() {
   ellipse(0, 0, diameter/8, diameter * 0.35);
   popMatrix();
   popStyle();
-}
-
-@Override
-public void onDestroy() {
-  super.onDestroy();
-  if( t1 != null ) t1.shutdown();
 }
