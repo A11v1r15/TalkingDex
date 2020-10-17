@@ -14,6 +14,7 @@ JSONObject pkm;
 int MaxDex = 893;
 
 IntList alola;
+IntList alolaUltra;
 IntList galar;
 IntList ioa;
 IntList natGalar;
@@ -21,7 +22,8 @@ StringList versions;
 
 void setup () {
   //size(400, 800);
-  alola = new IntList(loadJSONArray("UltraAlola.pkm").getIntArray());
+  alola = new IntList(loadJSONArray("Alola.pkm").getIntArray());
+  alolaUltra = new IntList(loadJSONArray("UltraAlola.pkm").getIntArray());
   galar = new IntList(loadJSONArray("Galar.pkm").getIntArray());
   ioa = new IntList(loadJSONArray("IoA.pkm").getIntArray());
   natGalar = new IntList(loadJSONArray("Galar.pkm").getIntArray());
@@ -31,6 +33,7 @@ void setup () {
       natGalar.append(i);
   }
   alola.sort();
+  alolaUltra.sort();
   natGalar.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
@@ -188,7 +191,7 @@ void checkMaxDex() {
   } else if (versioN < 26) {//SM
     MaxDex = alola.size();
   } else if (versioN < 28) {//UsUm
-    MaxDex = alola.size();
+    MaxDex = alolaUltra.size();
   } else if (versioN < 30) {//LGpe
     MaxDex = 153;
   } else if (versioN < 32) {//SwSh
@@ -202,7 +205,7 @@ int index() {
   } else if (versioN < 26) {//SM
     return alola.get(pkn-1);
   } else if (versioN < 28) {//UsUm
-    return alola.get(pkn-1);
+    return alolaUltra.get(pkn-1);
   } else if (versioN < 30) {//LGpe
     if (pkn <= 151)
       return pkn;
