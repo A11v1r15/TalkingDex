@@ -11,7 +11,7 @@ ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
 JSONObject pkm;
-int MaxDex = 893;
+int MaxDex = 898;
 
 IntList alola;
 IntList alolaUltra;
@@ -32,6 +32,9 @@ void setup () {
     if (!galar.hasValue(i))
       natGalar.append(i);
   }
+  natGalar.append(896);
+  natGalar.append(897);
+  natGalar.append(898);
   alola.sort();
   alolaUltra.sort();
   natGalar.sort();
