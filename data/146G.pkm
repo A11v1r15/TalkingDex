@@ -1,6 +1,4 @@
 {
-  "eggMoves": [],
-  "number": 146,
   "lvlUpMoves": [
     {
       "move": "Gust",
@@ -67,7 +65,9 @@
       "lvl": "70"
     }
   ],
-  "name": "Galarian Moltres",
+  "spd": 90,
+  "hp": 90,
+  "weight": "66.0kg",
   "tmTrMoves": [
     {
       "move": "Fly",
@@ -182,6 +182,10 @@
       "technical": "TR66"
     },
     {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
       "move": "Foul Play",
       "technical": "TR81"
     },
@@ -189,5 +193,22 @@
       "move": "Hurricane",
       "technical": "TR89"
     }
-  ]
+  ],
+  "eggMoves": [],
+  "dfs": 90,
+  "number": 146,
+  "colour": "Red",
+  "spatk": 100,
+  "name": "Galarian Moltres",
+  "atk": 85,
+  "spdfs": 125,
+  "height": "2.0m",
+  "ability1": "Berserk",
+  "ability2": "",
+  "abilityHidden": "",
+  "type1": "Dark",
+  "type2": "Flying",
+  "eggGroup2": "",
+  "eggGroup1": "Undiscovered",
+  "category": "Malevolent Pokémon"
 }

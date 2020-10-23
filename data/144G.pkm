@@ -1,6 +1,4 @@
 {
-  "eggMoves": [],
-  "number": 144,
   "lvlUpMoves": [
     {
       "move": "Gust",
@@ -67,7 +65,9 @@
       "lvl": "70"
     }
   ],
-  "name": "Galarian Articuno",
+  "spd": 95,
+  "hp": 90,
+  "weight": "50.9kg",
   "tmTrMoves": [
     {
       "move": "Fly",
@@ -209,5 +209,22 @@
       "move": "Hurricane",
       "technical": "TR89"
     }
-  ]
+  ],
+  "eggMoves": [],
+  "dfs": 85,
+  "number": 144,
+  "colour": "Purple",
+  "spatk": 125,
+  "name": "Galarian Articuno",
+  "atk": 85,
+  "spdfs": 100,
+  "height": "1.7m",
+  "ability1": "Competitive",
+  "ability2": "",
+  "abilityHidden": "",
+  "type1": "Psychic",
+  "type2": "Flying",
+  "eggGroup2": "",
+  "eggGroup1": "Undiscovered",
+  "category": "Cruel Pokémon"
 }

@@ -1,6 +1,4 @@
 {
-  "eggMoves": [],
-  "number": 145,
   "lvlUpMoves": [
     {
       "move": "Peck",
@@ -67,7 +65,9 @@
       "lvl": "70"
     }
   ],
-  "name": "Galarian Zapdos",
+  "spd": 100,
+  "hp": 90,
+  "weight": "58.2kg",
   "tmTrMoves": [
     {
       "move": "Mega Kick",
@@ -225,5 +225,22 @@
       "move": "Throat Chop",
       "technical": "TR95"
     }
-  ]
+  ],
+  "eggMoves": [],
+  "dfs": 90,
+  "number": 145,
+  "colour": "Yellow",
+  "spatk": 85,
+  "name": "Galarian Zapdos",
+  "atk": 125,
+  "spdfs": 90,
+  "height": "1.6m",
+  "ability1": "Defiant",
+  "ability2": "",
+  "abilityHidden": "",
+  "type1": "Fighting",
+  "type2": "Flying",
+  "eggGroup2": "",
+  "eggGroup1": "Undiscovered",
+  "category": "Strong Legs Pokémon"
 }
