@@ -209,6 +209,10 @@
       "technical": "TR58"
     },
     {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
       "move": "Focus Blast",
       "technical": "TR64"
     },
@@ -246,12 +250,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aqua Tail"},
-    {"move": "Counter"},
-    {"move": "Double-Edge"},
-    {"move": "Spite"}
-  ],
+  "eggMoves": [],
   "XEntry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
   "UltraMoonEntry": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.",
   "number": 553,
@@ -260,6 +259,7 @@
   "UltraSunEntry": "When it spots prey, even at a distance of over 30 miles, it swims through the desert as if it were water, then jumps out and chomps them.",
   "atk": 117,
   "abilityHidden": "Anger Point",
+  "height": "1.5m",
   "lvlUpMoves": [
     {
       "move": "Power Trip",
@@ -330,6 +330,7 @@
   "WhiteEntry": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.",
   "eggGroup2": "",
   "spd": 92,
+  "weight": "96.3kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
@@ -337,6 +338,7 @@
   "BlackEntry": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
   "OmegaRubyEntry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
   "dfs": 80,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Krookodile",
   "White2Entry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",

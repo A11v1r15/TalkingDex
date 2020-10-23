@@ -121,9 +121,9 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Thrash"},
     {"move": "Endeavor"},
-    {"move": "Last Resort"},
-    {"move": "Thrash"}
+    {"move": "Last Resort"}
   ],
   "UltraMoonEntry": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
   "number": 744,
@@ -132,6 +132,7 @@
   "UltraSunEntry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
   "atk": 65,
   "abilityHidden": "Steadfast",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -193,11 +194,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "9.2kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Rockruff",
   "SwordEntry": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",

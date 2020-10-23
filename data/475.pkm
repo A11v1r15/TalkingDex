@@ -330,23 +330,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Destiny Bond"},
-    {"move": "Disable"},
-    {"move": "Grudge"},
-    {"move": "Knock Off"},
-    {"move": "Mean Look"},
-    {"move": "Memento"},
-    {"move": "Shadow Sneak"}
-  ],
+  "eggMoves": [],
   "XEntry": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",
   "number": 475,
   "spatk": 65,
   "atk": 125,
   "PlatinumEntry": "When protecting someone, it extends its elbows as if they were swords and fights savagely.",
   "abilityHidden": "Justified",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Slash",
+      "lvl": "0"
+    },
     {
       "move": "Slash",
       "lvl": "1"
@@ -420,10 +416,6 @@
       "lvl": "1"
     },
     {
-      "move": "Slash",
-      "lvl": ""
-    },
-    {
       "move": "Helping Hand",
       "lvl": "9"
     },
@@ -476,6 +468,7 @@
   "WhiteEntry": "When protecting someone, it extends its elbows as if they were swords and fights savagely.",
   "eggGroup2": "Amorphous",
   "spd": 80,
+  "weight": "52.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": true,
   "type1": "Psychic",
@@ -483,6 +476,7 @@
   "BlackEntry": "When protecting someone, it extends its elbows as if they were swords and fights savagely.",
   "OmegaRubyEntry": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",
   "dfs": 65,
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
   "SoulsilverEntry": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",

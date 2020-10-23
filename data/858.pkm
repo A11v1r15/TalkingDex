@@ -175,17 +175,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "After You"},
-    {"move": "Aromatic Mist"},
-    {"move": "Nuzzle"},
-    {"move": "Quash"}
-  ],
+  "eggMoves": [],
   "number": 858,
   "spatk": 136,
   "atk": 90,
   "abilityHidden": "Magic Bounce",
+  "height": "2.1m",
   "lvlUpMoves": [
+    {
+      "move": "Psycho Cut",
+      "lvl": "0"
+    },
     {
       "move": "Psycho Cut",
       "lvl": "1"
@@ -209,10 +209,6 @@
     {
       "move": "Disarming Voice",
       "lvl": "1"
-    },
-    {
-      "move": "Psycho Cut",
-      "lvl": ""
     },
     {
       "move": "Aromatherapy",
@@ -250,11 +246,13 @@
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 29,
+  "weight": "5.1kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 95,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Hatterene",
   "SwordEntry": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",

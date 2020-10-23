@@ -240,7 +240,12 @@
   "UltraSunEntry": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
   "atk": 137,
   "abilityHidden": "",
+  "height": "3.4m",
   "lvlUpMoves": [
+    {
+      "move": "Sunsteel Strike",
+      "lvl": "0"
+    },
     {
       "move": "Sunsteel Strike",
       "lvl": "1"
@@ -260,10 +265,6 @@
     {
       "move": "Noble Roar",
       "lvl": "1"
-    },
-    {
-      "move": "Sunsteel Strike",
-      "lvl": ""
     },
     {
       "move": "Iron Head",
@@ -317,11 +318,13 @@
   "type2": "Steel",
   "eggGroup2": "",
   "spd": 97,
+  "weight": "230.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 107,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Solgaleo",
   "SwordEntry": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",

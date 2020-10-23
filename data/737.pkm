@@ -112,10 +112,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Discharge"},
-    {"move": "Harden"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
   "number": 737,
   "MoonEntry": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
@@ -123,7 +120,12 @@
   "UltraSunEntry": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
   "atk": 82,
   "abilityHidden": "",
+  "height": "0.5m",
   "lvlUpMoves": [
+    {
+      "move": "Charge",
+      "lvl": "0"
+    },
     {
       "move": "Charge",
       "lvl": "1"
@@ -143,10 +145,6 @@
     {
       "move": "Bug Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": ""
     },
     {
       "move": "Bite",
@@ -184,11 +182,13 @@
   "type2": "Electric",
   "eggGroup2": "",
   "spd": 36,
+  "weight": "10.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 95,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Charjabug",
   "SwordEntry": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",

@@ -5,25 +5,20 @@
   "hp": 90,
   "SilverEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
   "ability2": "Damp",
-  "eggMoves": [
-    {"move": "Endeavor"},
-    {"move": "Haze"},
-    {"move": "Mind Reader"},
-    {"move": "Mist"},
-    {"move": "Splash"},
-    {"move": "Water Pulse"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
   "number": 186,
   "MoonEntry": "It's the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear.",
   "spatk": 90,
   "UltraSunEntry": "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds.",
   "atk": 75,
+  "height": "1.1m",
   "type2": "",
   "WhiteEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
   "eggGroup2": "",
   "spd": 70,
   "CrystalEntry": "When it expands its throat to croak out a tune, nearby Poliwag and Poliwhirl gather immediately.",
+  "weight": "33.9kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
@@ -237,6 +232,10 @@
   "lvlUpMoves": [
     {
       "move": "Bounce",
+      "lvl": "0"
+    },
+    {
+      "move": "Bounce",
       "lvl": "1"
     },
     {
@@ -294,15 +293,12 @@
     {
       "move": "Mud Shot",
       "lvl": "1"
-    },
-    {
-      "move": "Bounce",
-      "lvl": ""
     }
   ],
   "RubyEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
   "BlackEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
   "OmegaRubyEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+  "colour": "Green",
   "SoulsilverEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
   "FireRedEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
   "White2Entry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",

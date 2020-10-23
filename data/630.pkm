@@ -146,11 +146,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Mean Look"},
-    {"move": "Roost"},
-    {"move": "Toxic"}
-  ],
+  "eggMoves": [],
   "XEntry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
   "UltraMoonEntry": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
   "number": 630,
@@ -159,7 +155,12 @@
   "UltraSunEntry": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
   "atk": 65,
   "abilityHidden": "Weak Armor",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Bone Rush",
+      "lvl": "0"
+    },
     {
       "move": "Bone Rush",
       "lvl": "1"
@@ -187,10 +188,6 @@
     {
       "move": "Pluck",
       "lvl": "1"
-    },
-    {
-      "move": "Bone Rush",
-      "lvl": ""
     },
     {
       "move": "Tailwind",
@@ -237,6 +234,7 @@
   "WhiteEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
   "eggGroup2": "",
   "spd": 80,
+  "weight": "39.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Dark",
@@ -244,6 +242,7 @@
   "BlackEntry": "It makes a nest out of the bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
   "OmegaRubyEntry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
   "dfs": 105,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Mandibuzz",
   "White2Entry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",

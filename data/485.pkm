@@ -6,17 +6,256 @@
   "AlphaSapphireEntry": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
   "hp": 91,
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Heat Crash",
+      "technical": "TR88"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+  "eggMoves": [],
   "number": 485,
   "spatk": 130,
   "atk": 90,
   "PlatinumEntry": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
   "abilityHidden": "Flame Body",
+  "height": "1.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Fire Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "6"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "12"
+    },
+    {
+      "move": "Fire Fang",
+      "lvl": "18"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "24"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "30"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "36"
+    },
+    {
+      "move": "Lava Plume",
+      "lvl": "42"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "48"
+    },
+    {
+      "move": "Earth Power",
+      "lvl": "54"
+    },
+    {
+      "move": "Heat Wave",
+      "lvl": "60"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "66"
+    },
+    {
+      "move": "Magma Storm",
+      "lvl": "72"
+    }
+  ],
   "type2": "Steel",
   "WhiteEntry": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
   "eggGroup2": "",
   "spd": 77,
+  "weight": "430.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fire",
@@ -24,6 +263,7 @@
   "BlackEntry": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
   "OmegaRubyEntry": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
   "dfs": 106,
+  "colour": "Brown",
   "hasAlolan": false,
   "DiamondEntry": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
   "SoulsilverEntry": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",

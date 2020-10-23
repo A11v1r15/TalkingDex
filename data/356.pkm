@@ -199,19 +199,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Grudge"},
-    {"move": "Haze"},
-    {"move": "Memento"},
-    {"move": "Pain Split"}
-  ],
+  "eggMoves": [],
   "XEntry": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
   "number": 356,
   "spatk": 60,
   "atk": 70,
   "PlatinumEntry": "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
   "abilityHidden": "Frisk",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Shadow Punch",
+      "lvl": "0"
+    },
     {
       "move": "Shadow Punch",
       "lvl": "1"
@@ -251,10 +251,6 @@
     {
       "move": "Shadow Sneak",
       "lvl": "1"
-    },
-    {
-      "move": "Shadow Punch",
-      "lvl": ""
     },
     {
       "move": "Confuse Ray",
@@ -297,6 +293,7 @@
   "WhiteEntry": "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
   "eggGroup2": "",
   "spd": 25,
+  "weight": "30.6kg",
   "eggGroup1": "Amorphous",
   "RubyEntry": "Dusclops's body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This Pokémon will absorb anything into its body, but nothing will ever come back out.",
   "hasMega": false,
@@ -306,6 +303,7 @@
   "OmegaRubyEntry": "Dusclops's body is completely hollow\u2014there is nothing at all inside. It is said that its body is like a black hole. This Pokémon will absorb anything into its body, but nothing will ever come back out.",
   "dfs": 130,
   "SapphireEntry": "Dusclops absorbs anything, however large the object may be. This Pokémon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops's bidding.",
+  "colour": "Black",
   "hasAlolan": false,
   "DiamondEntry": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
   "SoulsilverEntry": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",

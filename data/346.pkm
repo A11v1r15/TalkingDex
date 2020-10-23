@@ -7,19 +7,238 @@
   "AlphaSapphireEntry": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
   "hp": 86,
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Power Whip",
+      "technical": "TR72"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
   "UltraMoonEntry": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
+  "eggMoves": [],
   "number": 346,
   "spatk": 81,
   "UltraSunEntry": "Normally, it lived on shallow sea shoals. When the tide went out, this Pokémon came up on land to search for prey.",
   "atk": 81,
   "PlatinumEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
   "abilityHidden": "Storm Drain",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Leech Seed",
+      "lvl": "1"
+    },
+    {
+      "move": "Wrap",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "1"
+    },
+    {
+      "move": "Ingrain",
+      "lvl": "12"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "16"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "20"
+    },
+    {
+      "move": "Brine",
+      "lvl": "24"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "28"
+    },
+    {
+      "move": "Gastro Acid",
+      "lvl": "32"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "36"
+    },
+    {
+      "move": "Stockpile",
+      "lvl": "43"
+    },
+    {
+      "move": "Spit Up",
+      "lvl": "43"
+    },
+    {
+      "move": "Swallow",
+      "lvl": "43"
+    },
+    {
+      "move": "Energy Ball",
+      "lvl": "48"
+    }
+  ],
   "type2": "Grass",
   "WhiteEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
   "eggGroup2": "",
   "spd": 43,
+  "weight": "60.4kg",
   "eggGroup1": "Water 3",
   "RubyEntry": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
   "hasMega": false,
@@ -29,6 +248,7 @@
   "OmegaRubyEntry": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
   "dfs": 97,
   "SapphireEntry": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
+  "colour": "Green",
   "hasAlolan": false,
   "DiamondEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
   "SoulsilverEntry": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather.",

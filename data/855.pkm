@@ -136,7 +136,12 @@
   "spatk": 134,
   "atk": 65,
   "abilityHidden": "Cursed Body",
+  "height": "0.2m",
   "lvlUpMoves": [
+    {
+      "move": "Teatime",
+      "lvl": "0"
+    },
     {
       "move": "Teatime",
       "lvl": "1"
@@ -160,10 +165,6 @@
     {
       "move": "Mega Drain",
       "lvl": "1"
-    },
-    {
-      "move": "Teatime",
-      "lvl": ""
     },
     {
       "move": "Protect",
@@ -205,11 +206,13 @@
   "type2": "",
   "eggGroup2": "Amorphous",
   "spd": 70,
+  "weight": "0.4kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Polteageist",
   "SwordEntry": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",

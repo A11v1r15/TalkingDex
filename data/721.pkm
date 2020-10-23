@@ -5,21 +5,297 @@
   "AlphaSapphireEntry": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
   "hp": 80,
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Heat Crash",
+      "technical": "TR88"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
+  "eggMoves": [],
   "number": 721,
   "spatk": 130,
   "atk": 110,
   "abilityHidden": "",
+  "height": "1.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Fire Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "6"
+    },
+    {
+      "move": "Weather Ball",
+      "lvl": "12"
+    },
+    {
+      "move": "Flame Charge",
+      "lvl": "18"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "30"
+    },
+    {
+      "move": "Incinerate",
+      "lvl": "36"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "42"
+    },
+    {
+      "move": "Scald",
+      "lvl": "48"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "54"
+    },
+    {
+      "move": "Mist",
+      "lvl": "60"
+    },
+    {
+      "move": "Haze",
+      "lvl": "60"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "66"
+    },
+    {
+      "move": "Steam Eruption",
+      "lvl": "72"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "78"
+    },
+    {
+      "move": "Overheat",
+      "lvl": "84"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "90"
+    }
+  ],
   "type2": "Water",
   "eggGroup2": "",
   "spd": 70,
+  "weight": "195.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "OmegaRubyEntry": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
   "dfs": 120,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Volcanion",
   "spdfs": 90,

@@ -110,13 +110,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Autotomize"},
-    {"move": "Curse"},
-    {"move": "Gravity"},
-    {"move": "Take Down"},
-    {"move": "Wide Guard"}
-  ],
+  "eggMoves": [],
   "XEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
   "UltraMoonEntry": "Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.",
   "number": 525,
@@ -125,7 +119,12 @@
   "UltraSunEntry": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
   "atk": 105,
   "abilityHidden": "Sand Force",
+  "height": "0.9m",
   "lvlUpMoves": [
+    {
+      "move": "Power Gem",
+      "lvl": "0"
+    },
     {
       "move": "Power Gem",
       "lvl": "1"
@@ -145,10 +144,6 @@
     {
       "move": "Stealth Rock",
       "lvl": "1"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": ""
     },
     {
       "move": "Mud-Slap",
@@ -191,6 +186,7 @@
   "WhiteEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
   "eggGroup2": "",
   "spd": 20,
+  "weight": "102.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
@@ -198,6 +194,7 @@
   "BlackEntry": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
   "OmegaRubyEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
   "dfs": 105,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Boldore",
   "White2Entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",

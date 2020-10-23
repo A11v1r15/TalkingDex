@@ -101,8 +101,8 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Discharge"},
-    {"move": "Harden"}
+    {"move": "Harden"},
+    {"move": "Discharge"}
   ],
   "UltraMoonEntry": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
   "number": 736,
@@ -111,6 +111,7 @@
   "UltraSunEntry": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
   "atk": 62,
   "abilityHidden": "",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Vise Grip",
@@ -156,11 +157,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 46,
+  "weight": "4.4kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 45,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Grubbin",
   "SwordEntry": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",

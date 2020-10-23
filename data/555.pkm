@@ -238,20 +238,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Extrasensory"},
-    {"move": "Flame Wheel"},
-    {"move": "Focus Punch"},
-    {"move": "Hammer Arm"},
-    {"move": "Take Down"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "XEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
   "number": 555,
   "spatk": 30,
   "atk": 140,
   "abilityHidden": "Zen Mode",
+  "height": "1.3m",
   "lvlUpMoves": [
+    {
+      "move": "Hammer Arm",
+      "lvl": "0"
+    },
     {
       "move": "Hammer Arm",
       "lvl": "1"
@@ -271,10 +269,6 @@
     {
       "move": "Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": ""
     },
     {
       "move": "Incinerate",
@@ -321,6 +315,7 @@
   "WhiteEntry": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "92.9kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
@@ -328,6 +323,7 @@
   "BlackEntry": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
   "OmegaRubyEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
   "dfs": 55,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Darmanitan",
   "White2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",

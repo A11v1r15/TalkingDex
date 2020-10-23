@@ -201,10 +201,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Curse"},
+    {"move": "Wide Guard"},
     {"move": "Head Smash"},
     {"move": "Rapid Spin"},
-    {"move": "Wide Guard"}
+    {"move": "Curse"}
   ],
   "UltraMoonEntry": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
   "number": 776,
@@ -213,6 +213,7 @@
   "UltraSunEntry": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
   "atk": 78,
   "abilityHidden": "",
+  "height": "2.0m",
   "lvlUpMoves": [
     {
       "move": "Smog",
@@ -278,11 +279,13 @@
   "type2": "Dragon",
   "eggGroup2": "Dragon",
   "spd": 36,
+  "weight": "212.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "dfs": 135,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Turtonator",
   "SwordEntry": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",

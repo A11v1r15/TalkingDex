@@ -143,17 +143,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Defense Curl"},
-    {"move": "Recycle"},
-    {"move": "Rollout"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "number": 842,
   "spatk": 100,
   "atk": 85,
   "abilityHidden": "Thick Fat",
+  "height": "0.4m",
   "lvlUpMoves": [
+    {
+      "move": "Headbutt",
+      "lvl": "0"
+    },
     {
       "move": "Headbutt",
       "lvl": "1"
@@ -177,10 +177,6 @@
     {
       "move": "Sweet Scent",
       "lvl": "1"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": ""
     },
     {
       "move": "Curse",
@@ -230,11 +226,13 @@
   "type2": "Dragon",
   "eggGroup2": "Dragon",
   "spd": 30,
+  "weight": "13.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Appletun",
   "SwordEntry": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",

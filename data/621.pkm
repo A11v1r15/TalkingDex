@@ -206,8 +206,8 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Glare"},
     {"move": "Night Slash"},
+    {"move": "Glare"},
     {"move": "Poison Tail"},
     {"move": "Sucker Punch"}
   ],
@@ -218,6 +218,7 @@
   "UltraSunEntry": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
   "atk": 120,
   "abilityHidden": "Mold Breaker",
+  "height": "1.6m",
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -276,6 +277,7 @@
   "WhiteEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "eggGroup2": "Monster",
   "spd": 48,
+  "weight": "139.0kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
@@ -283,6 +285,7 @@
   "BlackEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "OmegaRubyEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "dfs": 90,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Druddigon",
   "White2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",

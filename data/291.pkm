@@ -131,20 +131,27 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Bug Bite"},
-    {"move": "Final Gambit"},
-    {"move": "Flail"},
-    {"move": "Gust"},
-    {"move": "Night Slash"}
-  ],
+  "eggMoves": [],
   "XEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
   "number": 291,
   "spatk": 50,
   "atk": 90,
   "PlatinumEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
   "abilityHidden": "Infiltrator",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "Double Team",
+      "lvl": "0"
+    },
+    {
+      "move": "Screech",
+      "lvl": "0"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "0"
+    },
     {
       "move": "Double Team",
       "lvl": "1"
@@ -194,18 +201,6 @@
       "lvl": "1"
     },
     {
-      "move": "Double Team",
-      "lvl": ""
-    },
-    {
-      "move": "Screech",
-      "lvl": ""
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": ""
-    },
-    {
       "move": "Agility",
       "lvl": "15"
     },
@@ -242,6 +237,7 @@
   "WhiteEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
   "eggGroup2": "",
   "spd": 160,
+  "weight": "12.0kg",
   "eggGroup1": "Bug",
   "RubyEntry": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
   "hasMega": false,
@@ -251,6 +247,7 @@
   "OmegaRubyEntry": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
   "dfs": 45,
   "SapphireEntry": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test.",
+  "colour": "Yellow",
   "hasAlolan": false,
   "DiamondEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
   "SoulsilverEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",

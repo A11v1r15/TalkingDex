@@ -227,12 +227,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [{"move": "Memento"}],
+  "eggMoves": [],
   "number": 867,
   "spatk": 50,
   "atk": 95,
   "abilityHidden": "",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Shadow Claw",
+      "lvl": "0"
+    },
     {
       "move": "Shadow Claw",
       "lvl": "1"
@@ -256,10 +261,6 @@
     {
       "move": "Night Shade",
       "lvl": "1"
-    },
-    {
-      "move": "Shadow Claw",
-      "lvl": ""
     },
     {
       "move": "Disable",
@@ -313,11 +314,13 @@
   "type2": "Ghost",
   "eggGroup2": "Amorphous",
   "spd": 30,
+  "weight": "66.6kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
   "dfs": 145,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Runerigus",
   "SwordEntry": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",

@@ -152,10 +152,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Discharge"},
-    {"move": "Harden"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
   "number": 738,
   "MoonEntry": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
@@ -163,7 +160,12 @@
   "UltraSunEntry": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
   "atk": 70,
   "abilityHidden": "",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Thunderbolt",
+      "lvl": "0"
+    },
     {
       "move": "Thunderbolt",
       "lvl": "1"
@@ -209,10 +211,6 @@
       "lvl": "1"
     },
     {
-      "move": "Thunderbolt",
-      "lvl": ""
-    },
-    {
       "move": "Bite",
       "lvl": "15"
     },
@@ -248,11 +246,13 @@
   "type2": "Electric",
   "eggGroup2": "",
   "spd": 43,
+  "weight": "45.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Vikavolt",
   "SwordEntry": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",

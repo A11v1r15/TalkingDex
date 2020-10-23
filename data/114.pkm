@@ -18,11 +18,13 @@
   "spatk": 100,
   "atk": 55,
   "RedEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+  "height": "1.0m",
   "type2": "",
   "WhiteEntry": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
   "eggGroup2": "",
   "spd": 60,
   "CrystalEntry": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+  "weight": "35.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -76,6 +78,10 @@
     {
       "move": "Giga Drain",
       "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
     },
     {
       "move": "Sunny Day",
@@ -225,6 +231,7 @@
   "BlackEntry": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
   "OmegaRubyEntry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
   "LetsGoEeveeEntry": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+  "colour": "Blue",
   "SoulsilverEntry": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
   "FireRedEntry": "Blue plant vines cloak the Pokémon's identity in a tangled mass. It entangles anything that gets close.",
   "White2Entry": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",

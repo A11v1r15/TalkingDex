@@ -108,14 +108,15 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Block"},
     {"move": "Explosion"},
-    {"move": "Mud-Slap"}
+    {"move": "Mud"},
+    {"move": "Block"}
   ],
   "number": 837,
   "spatk": 40,
   "atk": 40,
   "abilityHidden": "Flash Fire",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -161,11 +162,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "12.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "dfs": 50,
+  "colour": "Black",
   "hasAlolan": false,
   "name": "Rolycoly",
   "SwordEntry": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",

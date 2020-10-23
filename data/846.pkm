@@ -120,15 +120,16 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Thrash"},
     {"move": "Acupressure"},
-    {"move": "Night Slash"},
     {"move": "Slash"},
-    {"move": "Thrash"}
+    {"move": "Night Slash"}
   ],
   "number": 846,
   "spatk": 40,
   "atk": 63,
   "abilityHidden": "Propeller Tail",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Peck",
@@ -174,11 +175,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 66,
+  "weight": "1.0kg",
   "eggGroup1": "Water 2",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Arrokuda",
   "SwordEntry": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",

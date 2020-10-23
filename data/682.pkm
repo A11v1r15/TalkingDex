@@ -130,15 +130,16 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "After You"},
     {"move": "Disable"},
-    {"move": "Wish"}
+    {"move": "Wish"},
+    {"move": "After You"}
   ],
   "XEntry": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
   "number": 682,
   "spatk": 63,
   "atk": 52,
   "abilityHidden": "Aroma Veil",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Fairy Wind",
@@ -204,12 +205,14 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 23,
+  "weight": "0.5kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
   "OmegaRubyEntry": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
   "dfs": 60,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Spritzee",
   "SwordEntry": "A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.",

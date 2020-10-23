@@ -138,17 +138,18 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Struggle Bug"},
     {"move": "First Impression"},
-    {"move": "Flail"},
-    {"move": "Infestation"},
     {"move": "Metal Burst"},
-    {"move": "Struggle Bug"}
+    {"move": "Infestation"},
+    {"move": "Flail"}
   ],
   "XEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "number": 632,
   "spatk": 48,
   "atk": 109,
   "abilityHidden": "Truant",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Fury Cutter",
@@ -219,6 +220,7 @@
   "WhiteEntry": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
   "eggGroup2": "",
   "spd": 109,
+  "weight": "33.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
@@ -226,6 +228,7 @@
   "BlackEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "OmegaRubyEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "dfs": 112,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Durant",
   "White2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",

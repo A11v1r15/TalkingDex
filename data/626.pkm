@@ -156,6 +156,10 @@
       "technical": "TR57"
     },
     {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
       "move": "Iron Head",
       "technical": "TR74"
     },
@@ -183,18 +187,19 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Belch"},
-    {"move": "Cotton Guard"},
-    {"move": "Endeavor"},
     {"move": "Headbutt"},
-    {"move": "Mud-Slap"},
+    {"move": "Mud"},
     {"move": "Skull Bash"},
-    {"move": "Stomp"}
+    {"move": "Stomp"},
+    {"move": "Cotton Guard"},
+    {"move": "Endeavor"}
   ],
   "XEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
   "number": 626,
   "spatk": 40,
   "atk": 110,
   "abilityHidden": "Soundproof",
+  "height": "1.6m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -253,6 +258,7 @@
   "WhiteEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
   "eggGroup2": "",
   "spd": 55,
+  "weight": "94.6kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
@@ -260,6 +266,7 @@
   "BlackEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
   "OmegaRubyEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
   "dfs": 95,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Bouffalant",
   "White2Entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",

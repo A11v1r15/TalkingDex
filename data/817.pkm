@@ -111,19 +111,12 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aqua Jet"},
-    {"move": "Aqua Ring"},
-    {"move": "Double Team"},
-    {"move": "Fell Stinger"},
-    {"move": "Haze"},
-    {"move": "Ice Shard"},
-    {"move": "Mist"}
-  ],
+  "eggMoves": [],
   "number": 817,
   "spatk": 95,
   "atk": 60,
   "abilityHidden": "Sniper",
+  "height": "0.7m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -173,11 +166,13 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 90,
+  "weight": "11.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 55,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Drizzile",
   "SwordEntry": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",

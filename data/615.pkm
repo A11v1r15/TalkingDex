@@ -5,16 +5,199 @@
   "AlphaSapphireEntry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
   "hp": 80,
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+  "eggMoves": [],
   "number": 615,
   "spatk": 95,
   "atk": 50,
   "abilityHidden": "",
+  "height": "1.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Bind",
+      "lvl": "1"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "1"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "4"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "8"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "12"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "16"
+    },
+    {
+      "move": "Mist",
+      "lvl": "20"
+    },
+    {
+      "move": "Haze",
+      "lvl": "20"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "24"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "28"
+    },
+    {
+      "move": "Slash",
+      "lvl": "32"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "32"
+    },
+    {
+      "move": "Freeze-Dry",
+      "lvl": "36"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "40"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "40"
+    },
+    {
+      "move": "Recover",
+      "lvl": "44"
+    },
+    {
+      "move": "Ice Beam",
+      "lvl": "48"
+    },
+    {
+      "move": "Acid Armor",
+      "lvl": "52"
+    },
+    {
+      "move": "Solar Beam",
+      "lvl": "56"
+    },
+    {
+      "move": "Sheer Cold",
+      "lvl": "60"
+    }
+  ],
   "type2": "",
   "WhiteEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
   "eggGroup2": "",
   "spd": 105,
+  "weight": "148.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ice",
@@ -22,6 +205,7 @@
   "BlackEntry": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
   "OmegaRubyEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
   "dfs": 50,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Cryogonal",
   "White2Entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",

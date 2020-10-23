@@ -147,16 +147,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Block"},
-    {"move": "Explosion"},
-    {"move": "Mud-Slap"}
-  ],
+  "eggMoves": [],
   "number": 838,
   "spatk": 60,
   "atk": 60,
   "abilityHidden": "Flash Fire",
+  "height": "1.1m",
   "lvlUpMoves": [
+    {
+      "move": "Flame Charge",
+      "lvl": "0"
+    },
     {
       "move": "Flame Charge",
       "lvl": "1"
@@ -176,10 +177,6 @@
     {
       "move": "Smack Down",
       "lvl": "1"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": ""
     },
     {
       "move": "Rock Polish",
@@ -213,11 +210,13 @@
   "type2": "Fire",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "78.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Black",
   "hasAlolan": false,
   "name": "Carkol",
   "SwordEntry": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",

@@ -124,17 +124,18 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Circle Throw"},
     {"move": "Pain Split"},
-    {"move": "Power-Up Punch"},
-    {"move": "Seismic Toss"},
     {"move": "Soak"},
-    {"move": "Sucker Punch"}
+    {"move": "Sucker Punch"},
+    {"move": "Circle Throw"},
+    {"move": "Seismic Toss"},
+    {"move": "Power"}
   ],
   "number": 852,
   "spatk": 50,
   "atk": 68,
   "abilityHidden": "Technician",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Rock Smash",
@@ -184,11 +185,13 @@
   "type2": "",
   "eggGroup2": "Human-Like",
   "spd": 32,
+  "weight": "4.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "dfs": 60,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Clobbopus",
   "SwordEntry": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",

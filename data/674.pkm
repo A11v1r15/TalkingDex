@@ -203,11 +203,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Power Trip"},
     {"move": "Quash"},
     {"move": "Quick Guard"},
-    {"move": "Seismic Toss"},
-    {"move": "Storm Throw"}
+    {"move": "Storm Throw"},
+    {"move": "Power Trip"},
+    {"move": "Seismic Toss"}
   ],
   "XEntry": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
   "UltraMoonEntry": "It's desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
@@ -217,6 +217,7 @@
   "UltraSunEntry": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
   "atk": 82,
   "abilityHidden": "Scrappy",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -274,12 +275,14 @@
   "type2": "",
   "eggGroup2": "Human-Like",
   "spd": 43,
+  "weight": "8.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "OmegaRubyEntry": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
   "dfs": 62,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Pancham",
   "SwordEntry": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",

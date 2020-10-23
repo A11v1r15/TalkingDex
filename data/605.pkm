@@ -170,10 +170,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Astonish"},
-    {"move": "Destiny Bond"},
     {"move": "Disable"},
-    {"move": "Psych Up"}
+    {"move": "Astonish"},
+    {"move": "Psych Up"},
+    {"move": "Destiny Bond"}
   ],
   "XEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "UltraMoonEntry": "This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.",
@@ -182,6 +182,7 @@
   "UltraSunEntry": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
   "atk": 55,
   "abilityHidden": "Analytic",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Confusion",
@@ -240,6 +241,7 @@
   "WhiteEntry": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "9.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Psychic",
@@ -247,6 +249,7 @@
   "BlackEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "OmegaRubyEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "dfs": 55,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Elgyem",
   "White2Entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",

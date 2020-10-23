@@ -175,23 +175,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Circle Throw"},
-    {"move": "Disarming Voice"},
-    {"move": "Endeavor"},
-    {"move": "Extrasensory"},
-    {"move": "Hammer Arm"},
-    {"move": "Smokescreen"},
-    {"move": "Take Down"},
-    {"move": "Whirlwind"}
-  ],
+  "eggMoves": [],
   "XEntry": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
   "number": 294,
   "spatk": 71,
   "atk": 71,
   "PlatinumEntry": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
   "abilityHidden": "Scrappy",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Bite",
+      "lvl": "0"
+    },
     {
       "move": "Bite",
       "lvl": "1"
@@ -211,10 +207,6 @@
     {
       "move": "Howl",
       "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": ""
     },
     {
       "move": "Rest",
@@ -253,6 +245,7 @@
   "WhiteEntry": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
   "eggGroup2": "Field",
   "spd": 48,
+  "weight": "40.5kg",
   "eggGroup1": "Monster",
   "RubyEntry": "Loudred's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon's round ears serve as loudspeakers.",
   "hasMega": false,
@@ -262,6 +255,7 @@
   "OmegaRubyEntry": "Loudred\u2019s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon\u2019s round ears serve as loudspeakers.",
   "dfs": 43,
   "SapphireEntry": "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+  "colour": "Blue",
   "hasAlolan": false,
   "DiamondEntry": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
   "SoulsilverEntry": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",

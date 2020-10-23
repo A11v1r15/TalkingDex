@@ -1,48 +1,240 @@
 {
   "YellowEntry": "A mild-mannered Pokémon that does not like to fight. Beware, its small horns secrete venom.",
-  "extraMega": false,
-  "HearthGoldEntry": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
   "EmeraldEntry": "Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
-  "YEntry": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
   "hp": 55,
   "SilverEntry": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
   "ability2": "Rivalry",
-  "hasGigantamax": false,
-  "XEntry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Disable"},
+    {"move": "Poison Tail"},
+    {"move": "Skull Bash"},
+    {"move": "Supersonic"},
+    {"move": "Take Down"},
+    {"move": "Poison Fang"}
+  ],
   "number": 29,
   "spatk": 40,
   "atk": 47,
-  "PlatinumEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
-  "abilityHidden": "Hustle",
   "RedEntry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+  "height": "0.4m",
   "type2": "",
   "WhiteEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
   "eggGroup2": "Field",
   "spd": 41,
   "CrystalEntry": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+  "weight": "7.0kg",
   "eggGroup1": "Monster",
-  "RubyEntry": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "BlackEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
-  "OmegaRubyEntry": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
   "BlueEntry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
   "dfs": 52,
   "GoldEntry": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
-  "LetsGoEeveeEntry": "A mild-mannered Pokémon that does not like to fight. Beware\u2013its small horn secretes venom.",
   "SapphireEntry": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
   "hasAlolan": false,
   "LetsGoPikachuEntry": "A mild-mannered Pokémon that does not like to fight. Beware\u2013its small horn secretes venom.",
   "DiamondEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
-  "SoulsilverEntry": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
   "name": "Nidoran♀",
+  "spdfs": 40,
+  "extraMega": false,
+  "HearthGoldEntry": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+  "YEntry": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
+  "hasGigantamax": false,
+  "XEntry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+  "PlatinumEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
+  "abilityHidden": "Hustle",
+  "lvlUpMoves": [
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Sting",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "5"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "10"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "15"
+    },
+    {
+      "move": "Toxic Spikes",
+      "lvl": "20"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "25"
+    },
+    {
+      "move": "Bite",
+      "lvl": "30"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "35"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "40"
+    },
+    {
+      "move": "Flatter",
+      "lvl": "45"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "50"
+    },
+    {
+      "move": "Earth Power",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+  "BlackEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
+  "OmegaRubyEntry": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+  "LetsGoEeveeEntry": "A mild-mannered Pokémon that does not like to fight. Beware\u2013its small horn secretes venom.",
+  "colour": "Blue",
+  "SoulsilverEntry": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
   "FireRedEntry": "Though small, it must be treated with caution because of its powerfully toxic barbs. The female has smaller horns.",
   "White2Entry": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
   "PearlEntry": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
-  "spdfs": 40,
   "category": "Poison Pin Pokémon",
   "LeafGreenEntry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
   "Black2Entry": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."

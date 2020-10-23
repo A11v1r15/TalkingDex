@@ -8,17 +8,20 @@
   "SilverEntry": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
   "ability2": "",
   "UltraMoonEntry": "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+  "eggMoves": [],
   "number": 42,
   "MoonEntry": "Sometimes they drink so much blood, they can't fly anymore. Then they fall to the ground and become food for other Pokémon.",
   "spatk": 65,
   "UltraSunEntry": "Every once in a while, you'll see a Golbat that's missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
   "atk": 80,
   "RedEntry": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+  "height": "1.6m",
   "type2": "Flying",
   "WhiteEntry": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
   "eggGroup2": "",
   "spd": 90,
   "CrystalEntry": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
+  "weight": "55.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Poison",
@@ -36,14 +39,223 @@
   "HearthGoldEntry": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
   "YEntry": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
   "SunEntry": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
   "PlatinumEntry": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
   "abilityHidden": "Infiltrator",
+  "lvlUpMoves": [
+    {
+      "move": "Screech",
+      "lvl": "1"
+    },
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Mean Look",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Fang",
+      "lvl": "15"
+    },
+    {
+      "move": "Quick Guard",
+      "lvl": "20"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "27"
+    },
+    {
+      "move": "Bite",
+      "lvl": "34"
+    },
+    {
+      "move": "Haze",
+      "lvl": "41"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "48"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "55"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "62"
+    },
+    {
+      "move": "Leech Life",
+      "lvl": "69"
+    }
+  ],
   "RubyEntry": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
   "BlackEntry": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
   "OmegaRubyEntry": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
   "LetsGoEeveeEntry": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+  "colour": "Purple",
   "SoulsilverEntry": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
   "FireRedEntry": "It clamps down on its prey with needle-sharp fangs and drains over 10 ounces of blood in one gulp.",
   "White2Entry": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",

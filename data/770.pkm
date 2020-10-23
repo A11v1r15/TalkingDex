@@ -132,14 +132,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Curse"},
-    {"move": "Destiny Bond"},
-    {"move": "Spit Up"},
-    {"move": "Stockpile"},
-    {"move": "Swallow"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
   "number": 770,
   "MoonEntry": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
@@ -147,6 +140,7 @@
   "UltraSunEntry": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
   "atk": 75,
   "abilityHidden": "Sand Veil",
+  "height": "1.3m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -208,11 +202,13 @@
   "type2": "Ground",
   "eggGroup2": "",
   "spd": 35,
+  "weight": "250.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "dfs": 110,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Palossand",
   "SwordEntry": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",

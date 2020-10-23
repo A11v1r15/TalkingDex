@@ -175,16 +175,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "XEntry": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
   "UltraMoonEntry": "It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow.",
   "number": 470,
@@ -194,7 +185,12 @@
   "atk": 110,
   "PlatinumEntry": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
   "abilityHidden": "Chlorophyll",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Razor Leaf",
+      "lvl": "0"
+    },
     {
       "move": "Razor Leaf",
       "lvl": "1"
@@ -248,10 +244,6 @@
       "lvl": "1"
     },
     {
-      "move": "Razor Leaf",
-      "lvl": ""
-    },
-    {
       "move": "Sand Attack",
       "lvl": "5"
     },
@@ -300,6 +292,7 @@
   "WhiteEntry": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "25.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
@@ -307,6 +300,7 @@
   "BlackEntry": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
   "OmegaRubyEntry": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
   "dfs": 130,
+  "colour": "Green",
   "hasAlolan": false,
   "DiamondEntry": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
   "SoulsilverEntry": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",

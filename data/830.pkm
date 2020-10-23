@@ -115,19 +115,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Growth"},
-    {"move": "Leech Seed"},
-    {"move": "Poison Powder"},
-    {"move": "Sleep Powder"},
-    {"move": "Stun Spore"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "number": 830,
   "spatk": 80,
   "atk": 50,
   "abilityHidden": "Effect Spore",
+  "height": "0.5m",
   "lvlUpMoves": [
+    {
+      "move": "Cotton Spore",
+      "lvl": "0"
+    },
     {
       "move": "Cotton Spore",
       "lvl": "1"
@@ -147,10 +145,6 @@
     {
       "move": "Sweet Scent",
       "lvl": "1"
-    },
-    {
-      "move": "Cotton Spore",
-      "lvl": ""
     },
     {
       "move": "Razor Leaf",
@@ -188,11 +182,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "2.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Eldegoss",
   "SwordEntry": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",

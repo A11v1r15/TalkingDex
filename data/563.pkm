@@ -173,13 +173,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [{"move": "Memento"}],
+  "eggMoves": [],
   "XEntry": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
   "number": 563,
   "spatk": 95,
   "atk": 50,
   "abilityHidden": "",
+  "height": "1.7m",
   "lvlUpMoves": [
+    {
+      "move": "Shadow Claw",
+      "lvl": "0"
+    },
     {
       "move": "Shadow Claw",
       "lvl": "1"
@@ -203,10 +208,6 @@
     {
       "move": "Night Shade",
       "lvl": "1"
-    },
-    {
-      "move": "Shadow Claw",
-      "lvl": ""
     },
     {
       "move": "Disable",
@@ -261,6 +262,7 @@
   "WhiteEntry": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
   "eggGroup2": "Amorphous",
   "spd": 30,
+  "weight": "76.5kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ghost",
@@ -268,6 +270,7 @@
   "BlackEntry": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
   "OmegaRubyEntry": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
   "dfs": 145,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Cofagrigus",
   "White2Entry": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",

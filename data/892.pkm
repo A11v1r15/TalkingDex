@@ -237,7 +237,12 @@
   "spatk": 63,
   "atk": 130,
   "abilityHidden": "",
+  "height": "1.9m",
   "lvlUpMoves": [
+    {
+      "move": "Wicked Blow",
+      "lvl": "0"
+    },
     {
       "move": "Wicked Blow",
       "lvl": "1"
@@ -261,10 +266,6 @@
     {
       "move": "Focus Energy",
       "lvl": "1"
-    },
-    {
-      "move": "Wicked Blow",
-      "lvl": ""
     },
     {
       "move": "Aerial Ace",
@@ -314,11 +315,13 @@
   "type2": "Dark",
   "eggGroup2": "",
   "spd": 97,
+  "weight": "105.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "dfs": 100,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Urshifu",
   "SwordEntry": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",

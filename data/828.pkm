@@ -159,17 +159,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Howl"},
-    {"move": "Knock Off"},
-    {"move": "Quick Guard"},
-    {"move": "Torment"}
-  ],
+  "eggMoves": [],
   "number": 828,
   "spatk": 87,
   "atk": 58,
   "abilityHidden": "Stakeout",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Thief",
+      "lvl": "0"
+    },
     {
       "move": "Thief",
       "lvl": "1"
@@ -189,10 +189,6 @@
     {
       "move": "Hone Claws",
       "lvl": "1"
-    },
-    {
-      "move": "Thief",
-      "lvl": ""
     },
     {
       "move": "Snarl",
@@ -230,11 +226,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 90,
+  "weight": "19.9kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "dfs": 58,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Thievul",
   "SwordEntry": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",

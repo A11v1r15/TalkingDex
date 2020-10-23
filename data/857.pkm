@@ -123,17 +123,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "After You"},
-    {"move": "Aromatic Mist"},
-    {"move": "Nuzzle"},
-    {"move": "Quash"}
-  ],
+  "eggMoves": [],
   "number": 857,
   "spatk": 86,
   "atk": 40,
   "abilityHidden": "Magic Bounce",
+  "height": "0.6m",
   "lvlUpMoves": [
+    {
+      "move": "Brutal Swing",
+      "lvl": "0"
+    },
     {
       "move": "Brutal Swing",
       "lvl": "1"
@@ -153,10 +153,6 @@
     {
       "move": "Disarming Voice",
       "lvl": "1"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": ""
     },
     {
       "move": "Aromatherapy",
@@ -190,11 +186,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 49,
+  "weight": "4.8kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Hattrem",
   "SwordEntry": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",

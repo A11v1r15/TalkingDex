@@ -1,13 +1,35 @@
 {
-  "ShieldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-  "extraMega": false,
-  "HearthGoldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
   "EmeraldEntry": "A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
   "ability1": "Hyper Cutter",
-  "YEntry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
   "AlphaSapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
   "hp": 63,
   "ability2": "Shell Armor",
+  "eggMoves": [],
+  "UltraMoonEntry": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
+  "number": 342,
+  "spatk": 90,
+  "UltraSunEntry": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
+  "atk": 120,
+  "height": "1.1m",
+  "type2": "Dark",
+  "WhiteEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+  "eggGroup2": "Water 3",
+  "spd": 55,
+  "weight": "32.8kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 85,
+  "SapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
+  "hasAlolan": false,
+  "DiamondEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+  "name": "Crawdaunt",
+  "spdfs": 55,
+  "ShieldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+  "extraMega": false,
+  "HearthGoldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+  "YEntry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
   "tmTrMoves": [
     {
       "move": "Hyper Beam",
@@ -215,23 +237,14 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Aqua Jet"},
-    {"move": "Double-Edge"},
-    {"move": "Metal Claw"},
-    {"move": "Slash"},
-    {"move": "Switcheroo"}
-  ],
   "XEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "UltraMoonEntry": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
-  "number": 342,
-  "spatk": 90,
-  "UltraSunEntry": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
-  "atk": 120,
   "PlatinumEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
   "abilityHidden": "Adaptability",
   "lvlUpMoves": [
+    {
+      "move": "Swift",
+      "lvl": "0"
+    },
     {
       "move": "Swift",
       "lvl": "1"
@@ -251,10 +264,6 @@
     {
       "move": "Taunt",
       "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": ""
     },
     {
       "move": "Bubble Beam",
@@ -301,28 +310,15 @@
       "lvl": "64"
     }
   ],
-  "type2": "Dark",
-  "WhiteEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "eggGroup2": "Water 3",
-  "spd": 55,
-  "eggGroup1": "Water 1",
   "RubyEntry": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
   "BlackEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
   "OmegaRubyEntry": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
-  "dfs": 85,
-  "SapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
-  "hasAlolan": false,
-  "DiamondEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+  "colour": "Red",
   "SoulsilverEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-  "name": "Crawdaunt",
   "FireRedEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
   "White2Entry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
   "SwordEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
   "PearlEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "spdfs": 55,
   "category": "Rogue Pokémon",
   "LeafGreenEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
   "Black2Entry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out."

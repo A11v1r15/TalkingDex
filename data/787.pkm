@@ -4,22 +4,302 @@
   "hp": 70,
   "SunEntry": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Smart Strike",
+      "technical": "TM96"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Megahorn",
+      "technical": "TR28"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    },
+    {
+      "move": "Darkest Lariat",
+      "technical": "TR93"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    }
+  ],
   "hasGigantamax": false,
   "UltraMoonEntry": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula'ula controls plants.",
+  "eggMoves": [],
   "number": 787,
   "MoonEntry": "The guardian deity of Ula'ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
   "spatk": 85,
   "UltraSunEntry": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
   "atk": 130,
   "abilityHidden": "Telepathy",
+  "height": "1.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Rock Smash",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "5"
+    },
+    {
+      "move": "Disable",
+      "lvl": "10"
+    },
+    {
+      "move": "Leech Seed",
+      "lvl": "15"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "20"
+    },
+    {
+      "move": "Whirlwind",
+      "lvl": "25"
+    },
+    {
+      "move": "Horn Attack",
+      "lvl": "30"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "35"
+    },
+    {
+      "move": "Horn Leech",
+      "lvl": "40"
+    },
+    {
+      "move": "Zen Headbutt",
+      "lvl": "45"
+    },
+    {
+      "move": "Mean Look",
+      "lvl": "50"
+    },
+    {
+      "move": "Nature\u2019s Madness",
+      "lvl": "55"
+    },
+    {
+      "move": "Wood Hammer",
+      "lvl": "60"
+    },
+    {
+      "move": "Megahorn",
+      "lvl": "65"
+    },
+    {
+      "move": "Skull Bash",
+      "lvl": "70"
+    },
+    {
+      "move": "Grassy Terrain",
+      "lvl": "75"
+    }
+  ],
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 75,
+  "weight": "45.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 115,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Tapu Bulu",
   "spdfs": 95,

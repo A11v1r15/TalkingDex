@@ -136,18 +136,19 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Fake Out"},
     {"move": "Growth"},
     {"move": "Hammer Arm"},
-    {"move": "Leech Seed"},
-    {"move": "Nature Power"},
+    {"move": "Fake Out"},
     {"move": "Strength"},
-    {"move": "Worry Seed"}
+    {"move": "Nature Power"},
+    {"move": "Worry Seed"},
+    {"move": "Leech Seed"}
   ],
   "number": 810,
   "spatk": 40,
   "atk": 65,
   "abilityHidden": "Grassy Surge",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -197,11 +198,13 @@
   "type2": "",
   "eggGroup2": "Grass",
   "spd": 65,
+  "weight": "5.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 50,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Grookey",
   "SwordEntry": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",

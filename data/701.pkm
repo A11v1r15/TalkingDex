@@ -238,12 +238,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Cross Chop"},
-    {"move": "Defog"},
     {"move": "Entrainment"},
+    {"move": "Quick Guard"},
     {"move": "Feint"},
+    {"move": "Defog"},
     {"move": "Mean Look"},
-    {"move": "Quick Guard"}
+    {"move": "Cross Chop"}
   ],
   "XEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
   "UltraMoonEntry": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds.",
@@ -252,6 +252,7 @@
   "UltraSunEntry": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
   "atk": 92,
   "abilityHidden": "Mold Breaker",
+  "height": "0.8m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -321,12 +322,14 @@
   "type2": "Flying",
   "eggGroup2": "Human-Like",
   "spd": 118,
+  "weight": "21.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "OmegaRubyEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
   "dfs": 75,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Hawlucha",
   "SwordEntry": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",

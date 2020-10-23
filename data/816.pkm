@@ -109,17 +109,18 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Aqua Jet"},
-    {"move": "Aqua Ring"},
     {"move": "Double Team"},
-    {"move": "Fell Stinger"},
+    {"move": "Aqua Ring"},
+    {"move": "Mist"},
     {"move": "Haze"},
     {"move": "Ice Shard"},
-    {"move": "Mist"}
+    {"move": "Fell Stinger"}
   ],
   "number": 816,
   "spatk": 70,
   "atk": 40,
   "abilityHidden": "Sniper",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -169,11 +170,13 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 70,
+  "weight": "4.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Sobble",
   "SwordEntry": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",

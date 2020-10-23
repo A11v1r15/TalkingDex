@@ -109,10 +109,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Growth"},
-    {"move": "Leech Seed"},
     {"move": "Poison Powder"},
-    {"move": "Stun Spore"}
+    {"move": "Stun Spore"},
+    {"move": "Growth"},
+    {"move": "Leech Seed"}
   ],
   "UltraMoonEntry": "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
   "number": 755,
@@ -121,6 +121,7 @@
   "UltraSunEntry": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
   "atk": 35,
   "abilityHidden": "Rain Dish",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -178,11 +179,13 @@
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 15,
+  "weight": "1.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 55,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Morelull",
   "SwordEntry": "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",

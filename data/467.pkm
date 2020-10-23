@@ -7,9 +7,204 @@
   "hp": 75,
   "SunEntry": "They dwell in volcanic craters. According to what is known, a single pair of male and female Magmortar lives in one volcano.",
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
   "UltraMoonEntry": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
+  "eggMoves": [],
   "number": 467,
   "MoonEntry": "From its arm, it launches fireballs hotter than 3,500 degrees Fahrenheit. Its arm starts to melt when it fires a whole barrage.",
   "spatk": 125,
@@ -17,10 +212,74 @@
   "atk": 95,
   "PlatinumEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
   "abilityHidden": "Vital Spirit",
+  "height": "1.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Smog",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "1"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "12"
+    },
+    {
+      "move": "Flame Wheel",
+      "lvl": "16"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "20"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "24"
+    },
+    {
+      "move": "Fire Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Lava Plume",
+      "lvl": "34"
+    },
+    {
+      "move": "Low Kick",
+      "lvl": "40"
+    },
+    {
+      "move": "Flamethrower",
+      "lvl": "46"
+    },
+    {
+      "move": "Sunny Day",
+      "lvl": "52"
+    },
+    {
+      "move": "Fire Blast",
+      "lvl": "58"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "64"
+    }
+  ],
   "type2": "",
   "WhiteEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
   "eggGroup2": "",
   "spd": 83,
+  "weight": "68.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Fire",
@@ -28,6 +287,7 @@
   "BlackEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
   "OmegaRubyEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
   "dfs": 67,
+  "colour": "Red",
   "hasAlolan": false,
   "DiamondEntry": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
   "SoulsilverEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",

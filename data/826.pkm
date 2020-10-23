@@ -183,16 +183,12 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Infestation"},
-    {"move": "Recover"},
-    {"move": "Sticky Web"},
-    {"move": "Supersonic"}
-  ],
+  "eggMoves": [],
   "number": 826,
   "spatk": 80,
   "atk": 45,
   "abilityHidden": "Telepathy",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Reflect",
@@ -262,11 +258,13 @@
   "type2": "Psychic",
   "eggGroup2": "",
   "spd": 90,
+  "weight": "40.8kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 110,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Orbeetle",
   "SwordEntry": "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",

@@ -4,7 +4,7 @@
   "ability1": "Pickup",
   "YEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "AlphaSapphireEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
-  "hp": 59,
+  "hp": 49,
   "ability2": "Frisk",
   "title": "Super Size",
   "tmTrMoves": [
@@ -159,15 +159,16 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Curse"},
+    {"move": "Disable"},
     {"move": "Destiny Bond"},
-    {"move": "Disable"}
+    {"move": "Curse"}
   ],
   "XEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
   "number": 710,
   "spatk": 44,
   "atk": 66,
   "abilityHidden": "Insomnia",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Trick-or-Treat",
@@ -236,13 +237,15 @@
   ],
   "type2": "Grass",
   "eggGroup2": "",
-  "spd": 41,
+  "spd": 51,
+  "weight": "5.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
   "dfs": 70,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Pumpkaboo",
   "SwordEntry": "When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.",

@@ -6,25 +6,18 @@
   "hp": 50,
   "SilverEntry": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
   "ability2": "Iron Fist",
-  "eggMoves": [
-    {"move": "Bullet Punch"},
-    {"move": "Counter"},
-    {"move": "Feint"},
-    {"move": "High Jump Kick"},
-    {"move": "Mach Punch"},
-    {"move": "Mind Reader"},
-    {"move": "Rapid Spin"},
-    {"move": "Vacuum Wave"}
-  ],
+  "eggMoves": [],
   "number": 107,
   "spatk": 35,
   "atk": 105,
   "RedEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+  "height": "1.4m",
   "type2": "",
   "WhiteEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
   "eggGroup2": "",
   "spd": 76,
   "CrystalEntry": "To increase the strength of all its punch moves, it spins its arms just before making contact.",
+  "weight": "50.2kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Fighting",
@@ -220,6 +213,10 @@
   "lvlUpMoves": [
     {
       "move": "Drain Punch",
+      "lvl": "0"
+    },
+    {
+      "move": "Drain Punch",
       "lvl": "1"
     },
     {
@@ -249,10 +246,6 @@
     {
       "move": "Focus Energy",
       "lvl": "1"
-    },
-    {
-      "move": "Drain Punch",
-      "lvl": ""
     },
     {
       "move": "Mach Punch",
@@ -311,6 +304,7 @@
   "BlackEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
   "OmegaRubyEntry": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
   "LetsGoEeveeEntry": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+  "colour": "Brown",
   "SoulsilverEntry": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
   "FireRedEntry": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
   "White2Entry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",

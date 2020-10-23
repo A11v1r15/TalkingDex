@@ -198,22 +198,23 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Switcheroo"},
     {"move": "Night Slash"},
-    {"move": "Sand Attack"},
-    {"move": "Switcheroo"}
+    {"move": "Sand Attack"}
   ],
   "XEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
   "number": 688,
   "spatk": 39,
   "atk": 52,
   "abilityHidden": "Pickpocket",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
-      "move": "Scratch",
+      "move": "Mud-Slap",
       "lvl": "1"
     },
     {
-      "move": "Mud-Slap",
+      "move": "Scratch",
       "lvl": "1"
     },
     {
@@ -264,12 +265,14 @@
   "type2": "Water",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "31.0kg",
   "eggGroup1": "Water 3",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
   "dfs": 67,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Binacle",
   "SwordEntry": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",

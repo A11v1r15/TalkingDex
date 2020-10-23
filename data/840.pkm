@@ -10,15 +10,16 @@
   }],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Defense Curl"},
-    {"move": "Recycle"},
+    {"move": "Sucker Punch"},
     {"move": "Rollout"},
-    {"move": "Sucker Punch"}
+    {"move": "Defense Curl"},
+    {"move": "Recycle"}
   ],
   "number": 840,
   "spatk": 40,
   "atk": 40,
   "abilityHidden": "Bulletproof",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Withdraw",
@@ -32,11 +33,13 @@
   "type2": "Dragon",
   "eggGroup2": "Dragon",
   "spd": 20,
+  "weight": "0.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Applin",
   "SwordEntry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",

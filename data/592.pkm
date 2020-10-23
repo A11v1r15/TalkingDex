@@ -155,10 +155,10 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Acid Armor"},
-    {"move": "Bubble Beam"},
     {"move": "Confuse Ray"},
-    {"move": "Mist"},
     {"move": "Pain Split"},
+    {"move": "Mist"},
+    {"move": "Bubble Beam"},
     {"move": "Strength Sap"}
   ],
   "XEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
@@ -168,6 +168,7 @@
   "UltraSunEntry": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
   "atk": 40,
   "abilityHidden": "Damp",
+  "height": "1.2m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -230,6 +231,7 @@
   "WhiteEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
   "eggGroup2": "",
   "spd": 40,
+  "weight": "33.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Water",
@@ -237,6 +239,7 @@
   "BlackEntry": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
   "OmegaRubyEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
   "dfs": 50,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Frillish",
   "White2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",

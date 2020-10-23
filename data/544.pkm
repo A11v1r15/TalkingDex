@@ -105,16 +105,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Bite"},
-    {"move": "Fury Cutter"}
-  ],
+  "eggMoves": [],
   "XEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "number": 544,
   "spatk": 40,
   "atk": 55,
   "abilityHidden": "Speed Boost",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Iron Defense",
+      "lvl": "0"
+    },
     {
       "move": "Iron Defense",
       "lvl": "1"
@@ -134,10 +136,6 @@
     {
       "move": "Protect",
       "lvl": "1"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": ""
     },
     {
       "move": "Poison Tail",
@@ -180,6 +178,7 @@
   "WhiteEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "eggGroup2": "",
   "spd": 47,
+  "weight": "58.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
@@ -187,6 +186,7 @@
   "BlackEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "OmegaRubyEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "dfs": 99,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Whirlipede",
   "White2Entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",

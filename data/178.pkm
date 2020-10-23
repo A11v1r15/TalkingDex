@@ -5,24 +5,19 @@
   "hp": 65,
   "SilverEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
   "ability2": "Early Bird",
-  "eggMoves": [
-    {"move": "Drill Peck"},
-    {"move": "Feather Dance"},
-    {"move": "Quick Attack"},
-    {"move": "Roost"},
-    {"move": "Simple Beam"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
   "number": 178,
   "spatk": 95,
   "UltraSunEntry": "It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees.",
   "atk": 75,
+  "height": "1.5m",
   "type2": "Flying",
   "WhiteEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
   "eggGroup2": "",
   "spd": 95,
   "CrystalEntry": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+  "weight": "15.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Psychic",
@@ -227,6 +222,10 @@
   "lvlUpMoves": [
     {
       "move": "Air Slash",
+      "lvl": "0"
+    },
+    {
+      "move": "Air Slash",
       "lvl": "1"
     },
     {
@@ -248,10 +247,6 @@
     {
       "move": "Teleport",
       "lvl": "1"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": ""
     },
     {
       "move": "Confuse Ray",
@@ -289,6 +284,7 @@
   "RubyEntry": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
   "BlackEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
   "OmegaRubyEntry": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+  "colour": "Green",
   "SoulsilverEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
   "FireRedEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
   "White2Entry": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",

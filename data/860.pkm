@@ -148,7 +148,12 @@
   "spatk": 75,
   "atk": 60,
   "abilityHidden": "Pickpocket",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "False Surrender",
+      "lvl": "0"
+    },
     {
       "move": "False Surrender",
       "lvl": "1"
@@ -168,10 +173,6 @@
     {
       "move": "Flatter",
       "lvl": "1"
-    },
-    {
-      "move": "False Surrender",
-      "lvl": ""
     },
     {
       "move": "Fake Tears",
@@ -213,11 +214,13 @@
   "type2": "Fairy",
   "eggGroup2": "Human-Like",
   "spd": 70,
+  "weight": "12.5kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "dfs": 45,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Morgrem",
   "SwordEntry": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.",

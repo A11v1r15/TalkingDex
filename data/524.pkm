@@ -103,10 +103,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Autotomize"},
     {"move": "Curse"},
-    {"move": "Gravity"},
+    {"move": "Autotomize"},
     {"move": "Take Down"},
+    {"move": "Gravity"},
     {"move": "Wide Guard"}
   ],
   "XEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
@@ -117,6 +117,7 @@
   "UltraSunEntry": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
   "atk": 75,
   "abilityHidden": "Sand Force",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Sand Attack",
@@ -175,6 +176,7 @@
   "WhiteEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
   "eggGroup2": "",
   "spd": 15,
+  "weight": "18.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
@@ -182,6 +184,7 @@
   "BlackEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
   "OmegaRubyEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
   "dfs": 85,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Roggenrola",
   "White2Entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",

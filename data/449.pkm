@@ -131,10 +131,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Spit Up"},
     {"move": "Stockpile"},
     {"move": "Swallow"},
+    {"move": "Spit Up"},
+    {"move": "Curse"},
     {"move": "Whirlwind"}
   ],
   "XEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
@@ -143,6 +143,7 @@
   "atk": 72,
   "PlatinumEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
   "abilityHidden": "Sand Force",
+  "height": "0.8m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -209,6 +210,7 @@
   "WhiteEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
   "eggGroup2": "",
   "spd": 32,
+  "weight": "49.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
@@ -216,6 +218,7 @@
   "BlackEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
   "OmegaRubyEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
   "dfs": 78,
+  "colour": "Brown",
   "hasAlolan": false,
   "DiamondEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
   "SoulsilverEntry": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",

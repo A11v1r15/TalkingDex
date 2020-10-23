@@ -195,17 +195,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "High Jump Kick"},
-    {"move": "Sand Attack"},
-    {"move": "Sucker Punch"},
-    {"move": "Super Fang"}
-  ],
+  "eggMoves": [],
   "number": 815,
   "spatk": 65,
   "atk": 116,
   "abilityHidden": "Libero",
+  "height": "1.4m",
   "lvlUpMoves": [
+    {
+      "move": "Pyro Ball",
+      "lvl": "0"
+    },
     {
       "move": "Pyro Ball",
       "lvl": "1"
@@ -229,10 +229,6 @@
     {
       "move": "Quick Attack",
       "lvl": "1"
-    },
-    {
-      "move": "Pyro Ball",
-      "lvl": ""
     },
     {
       "move": "Double Kick",
@@ -270,11 +266,13 @@
   "type2": "",
   "eggGroup2": "Human-Like",
   "spd": 119,
+  "weight": "33.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Cinderace",
   "SwordEntry": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",

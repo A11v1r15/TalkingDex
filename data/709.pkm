@@ -194,11 +194,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Disable"},
-    {"move": "Grudge"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "XEntry": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
   "UltraMoonEntry": "This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.",
   "number": 709,
@@ -207,7 +203,12 @@
   "UltraSunEntry": "It's feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.",
   "atk": 110,
   "abilityHidden": "Harvest",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Shadow Claw",
+      "lvl": "0"
+    },
     {
       "move": "Shadow Claw",
       "lvl": "1"
@@ -227,10 +228,6 @@
     {
       "move": "Leech Seed",
       "lvl": "1"
-    },
-    {
-      "move": "Shadow Claw",
-      "lvl": ""
     },
     {
       "move": "Confuse Ray",
@@ -273,19 +270,21 @@
       "lvl": "48"
     },
     {
-      "move": "Forest's Curse",
+      "move": "Forest\u2019s Curse",
       "lvl": "52"
     }
   ],
   "type2": "Grass",
   "eggGroup2": "Amorphous",
   "spd": 56,
+  "weight": "71.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
   "dfs": 76,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Trevenant",
   "SwordEntry": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",

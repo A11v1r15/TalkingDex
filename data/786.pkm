@@ -4,22 +4,266 @@
   "hp": 70,
   "SunEntry": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Speed Swap",
+      "technical": "TM62"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Psychic Terrain",
+      "technical": "TM91"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
   "hasGigantamax": false,
   "UltraMoonEntry": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+  "eggMoves": [],
   "number": 786,
   "MoonEntry": "As it flutters about, it scatters its strangely glowing scales. Touching them is said to restore good health on the spot.",
   "spatk": 130,
   "UltraSunEntry": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
   "atk": 85,
   "abilityHidden": "Telepathy",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "5"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "10"
+    },
+    {
+      "move": "Draining Kiss",
+      "lvl": "15"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "20"
+    },
+    {
+      "move": "Flatter",
+      "lvl": "25"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "30"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "35"
+    },
+    {
+      "move": "Extrasensory",
+      "lvl": "40"
+    },
+    {
+      "move": "Psyshock",
+      "lvl": "45"
+    },
+    {
+      "move": "Mean Look",
+      "lvl": "50"
+    },
+    {
+      "move": "Nature\u2019s Madness",
+      "lvl": "55"
+    },
+    {
+      "move": "Moonblast",
+      "lvl": "60"
+    },
+    {
+      "move": "Tickle",
+      "lvl": "65"
+    },
+    {
+      "move": "Skill Swap",
+      "lvl": "70"
+    },
+    {
+      "move": "Psychic Terrain",
+      "lvl": "75"
+    }
+  ],
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "18.6kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Tapu Lele",
   "spdfs": 115,

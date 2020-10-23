@@ -199,20 +199,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Curse"},
-    {"move": "Disable"},
-    {"move": "Double Team"},
-    {"move": "Dragon Tail"},
-    {"move": "Grudge"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "number": 887,
   "spatk": 100,
   "atk": 120,
   "abilityHidden": "Cursed Body",
+  "height": "3.0m",
   "lvlUpMoves": [
+    {
+      "move": "Dragon Darts",
+      "lvl": "0"
+    },
     {
       "move": "Dragon Darts",
       "lvl": "1"
@@ -240,10 +237,6 @@
     {
       "move": "Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Dragon Darts",
-      "lvl": ""
     },
     {
       "move": "Lock-On",
@@ -297,11 +290,13 @@
   "type2": "Ghost",
   "eggGroup2": "Dragon",
   "spd": 142,
+  "weight": "50.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Dragapult",
   "SwordEntry": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",

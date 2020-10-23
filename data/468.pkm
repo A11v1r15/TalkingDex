@@ -250,21 +250,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aerial Ace"},
-    {"move": "Extrasensory"},
-    {"move": "Morning Sun"},
-    {"move": "Peck"},
-    {"move": "Present"},
-    {"move": "Psycho Shift"}
-  ],
+  "eggMoves": [],
   "XEntry": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
   "number": 468,
   "spatk": 120,
   "atk": 50,
   "PlatinumEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
   "abilityHidden": "Super Luck",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Air Slash",
+      "lvl": "0"
+    },
     {
       "move": "Air Slash",
       "lvl": "1"
@@ -348,16 +346,13 @@
     {
       "move": "Life Dew",
       "lvl": "1"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": ""
     }
   ],
   "type2": "Flying",
   "WhiteEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
   "eggGroup2": "Fairy",
   "spd": 80,
+  "weight": "38.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fairy",
@@ -365,6 +360,7 @@
   "BlackEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
   "OmegaRubyEntry": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
   "dfs": 95,
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "It will never appear where there is strife. Its sightings have become rare recently.",
   "SoulsilverEntry": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",

@@ -215,15 +215,15 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Feint"},
+    {"move": "Dynamic Punch"},
+    {"move": "Headbutt"},
+    {"move": "Vacuum Wave"},
+    {"move": "Fake Out"},
+    {"move": "Cross Chop"},
     {"move": "Bullet Punch"},
     {"move": "Counter"},
-    {"move": "Cross Chop"},
-    {"move": "Dynamic Punch"},
-    {"move": "Fake Out"},
-    {"move": "Feint"},
-    {"move": "Headbutt"},
-    {"move": "Quick Guard"},
-    {"move": "Vacuum Wave"}
+    {"move": "Quick Guard"}
   ],
   "XEntry": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
   "number": 453,
@@ -231,6 +231,7 @@
   "atk": 61,
   "PlatinumEntry": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
   "abilityHidden": "Poison Touch",
+  "height": "0.7m",
   "lvlUpMoves": [
     {
       "move": "Poison Sting",
@@ -293,6 +294,7 @@
   "WhiteEntry": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "23.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Poison",
@@ -300,6 +302,7 @@
   "BlackEntry": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
   "OmegaRubyEntry": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
   "dfs": 40,
+  "colour": "Blue",
   "hasAlolan": false,
   "DiamondEntry": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
   "SoulsilverEntry": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower back pain.",

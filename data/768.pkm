@@ -224,13 +224,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aqua Jet"},
-    {"move": "Harden"},
-    {"move": "Metal Claw"},
-    {"move": "Rollout"},
-    {"move": "Wide Guard"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
   "number": 768,
   "MoonEntry": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
@@ -238,7 +232,12 @@
   "UltraSunEntry": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
   "atk": 125,
   "abilityHidden": "",
+  "height": "2.0m",
   "lvlUpMoves": [
+    {
+      "move": "First Impression",
+      "lvl": "0"
+    },
     {
       "move": "First Impression",
       "lvl": "1"
@@ -258,10 +257,6 @@
     {
       "move": "Spite",
       "lvl": "1"
-    },
-    {
-      "move": "First Impression",
-      "lvl": ""
     },
     {
       "move": "Rock Smash",
@@ -311,11 +306,13 @@
   "type2": "Water",
   "eggGroup2": "Water 3",
   "spd": 40,
+  "weight": "108.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 140,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Golisopod",
   "SwordEntry": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",

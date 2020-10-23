@@ -127,8 +127,8 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Mist"},
-    {"move": "Take Down"},
-    {"move": "Water Pulse"}
+    {"move": "Water Pulse"},
+    {"move": "Take Down"}
   ],
   "UltraMoonEntry": "When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
   "number": 746,
@@ -137,6 +137,7 @@
   "UltraSunEntry": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
   "atk": 20,
   "abilityHidden": "",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -198,11 +199,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 40,
+  "weight": "0.3kg",
   "eggGroup1": "Water 2",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 20,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Wishiwashi",
   "SwordEntry": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",

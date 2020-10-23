@@ -142,8 +142,8 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Fake Out"},
-    {"move": "Parting Shot"},
-    {"move": "Power Trip"}
+    {"move": "Power Trip"},
+    {"move": "Parting Shot"}
   ],
   "UltraMoonEntry": "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.",
   "number": 725,
@@ -152,6 +152,7 @@
   "UltraSunEntry": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
   "atk": 65,
   "abilityHidden": "Intimidate",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -213,11 +214,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 70,
+  "weight": "4.3kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Litten",
   "SwordEntry": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",

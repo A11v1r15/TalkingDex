@@ -213,13 +213,13 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Feint"},
-    {"move": "Knock Off"},
-    {"move": "Quick Attack"},
-    {"move": "Quick Guard"},
     {"move": "Seismic Toss"},
-    {"move": "Vital Throw"}
+    {"move": "Vital Throw"},
+    {"move": "Quick Guard"},
+    {"move": "Quick Attack"},
+    {"move": "Feint"},
+    {"move": "Counter"},
+    {"move": "Knock Off"}
   ],
   "UltraMoonEntry": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
   "number": 766,
@@ -228,6 +228,7 @@
   "UltraSunEntry": "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves.",
   "atk": 120,
   "abilityHidden": "Defiant",
+  "height": "2.0m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -289,11 +290,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 80,
+  "weight": "82.8kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Passimian",
   "SwordEntry": "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",

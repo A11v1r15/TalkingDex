@@ -201,10 +201,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Dream Eater"},
     {"move": "Extrasensory"},
+    {"move": "Yawn"},
     {"move": "Last Resort"},
-    {"move": "Yawn"}
+    {"move": "Dream Eater"}
   ],
   "UltraMoonEntry": "Oranguru don't get along with each other, so they're always engaging in battles of wits to decide which one is superior.",
   "number": 765,
@@ -213,6 +213,7 @@
   "UltraSunEntry": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
   "atk": 60,
   "abilityHidden": "Symbiosis",
+  "height": "1.5m",
   "lvlUpMoves": [
     {
       "move": "Confusion",
@@ -274,11 +275,13 @@
   "type2": "Psychic",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "76.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Oranguru",
   "SwordEntry": "With waves of its fan\u2014made from leaves and its own fur\u2014Oranguru skillfully gives instructions to other Pokémon.",

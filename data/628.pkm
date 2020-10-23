@@ -155,7 +155,12 @@
   "UltraSunEntry": "The more scars it has on its front, the more heroic it's considered to be. Those with many scars on their back are mocked by the flock.",
   "atk": 123,
   "abilityHidden": "Defiant",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Superpower",
+      "lvl": "0"
+    },
     {
       "move": "Superpower",
       "lvl": "1"
@@ -179,10 +184,6 @@
     {
       "move": "Wing Attack",
       "lvl": "1"
-    },
-    {
-      "move": "Superpower",
-      "lvl": ""
     },
     {
       "move": "Tailwind",
@@ -229,6 +230,7 @@
   "WhiteEntry": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
   "eggGroup2": "",
   "spd": 80,
+  "weight": "41.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Normal",
@@ -236,6 +238,7 @@
   "BlackEntry": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
   "OmegaRubyEntry": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
   "dfs": 75,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Braviary",
   "White2Entry": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",

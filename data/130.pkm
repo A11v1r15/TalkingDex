@@ -14,12 +14,14 @@
   "UltraSunEntry": "It fires hyper beams in all directions, burning the surrounding area to ash. There are some regions where it's called \u201cthe deity of destruction.\u201d",
   "atk": 125,
   "RedEntry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+  "height": "6.5m",
   "type2": "Flying",
   "WhiteEntry": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
   "130Entry": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
   "eggGroup2": "Dragon",
   "spd": 81,
   "CrystalEntry": "It appears whenever there is world conflict, burning down any place it travels through.",
+  "weight": "235.0kg",
   "eggGroup1": "Water 2",
   "hasMega": true,
   "type1": "Water",
@@ -251,6 +253,10 @@
   "lvlUpMoves": [
     {
       "move": "Bite",
+      "lvl": "0"
+    },
+    {
+      "move": "Bite",
       "lvl": "1"
     },
     {
@@ -272,10 +278,6 @@
     {
       "move": "Twister",
       "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": ""
     },
     {
       "move": "Whirlpool",
@@ -334,6 +336,7 @@
   "BlackEntry": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
   "OmegaRubyEntry": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
   "LetsGoEeveeEntry": "Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.",
+  "colour": "Blue",
   "SoulsilverEntry": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
   "FireRedEntry": "It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.",
   "White2Entry": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",

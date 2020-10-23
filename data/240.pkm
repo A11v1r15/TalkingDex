@@ -1,47 +1,253 @@
 {
-  "extraMega": false,
-  "HearthGoldEntry": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
   "EmeraldEntry": "If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
   "ability1": "Flame Body",
-  "YEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
   "AlphaSapphireEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
   "hp": 45,
   "SilverEntry": "It is found in volcanic craters. Its body temp. is over 1100 degrees, so don't under-estimate it.",
-  "SunEntry": "Many of these Pokémon can be seen in areas with volcanic activity. Feeding can get them so excited, they exhale flames of 1,100 degrees F.",
   "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "It's small, but its body temperature is over 1,100 degrees Fahrenheit. Embers escape its mouth and nose when it breathes.",
   "UltraMoonEntry": "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up.",
+  "eggMoves": [
+    {"move": "Belch"},
+    {"move": "Dynamic Punch"},
+    {"move": "Focus Punch"},
+    {"move": "Mach Punch"},
+    {"move": "Cross Chop"}
+  ],
   "number": 240,
   "MoonEntry": "A famous potter lives with a Magby. Apparently its soft flames produce fine works.",
   "spatk": 70,
   "UltraSunEntry": "When flames drip from its nose, that means it has a cold. Have it lie down for a nice rest in some magma.",
   "atk": 75,
-  "PlatinumEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
-  "abilityHidden": "Vital Spirit",
+  "height": "0.7m",
   "type2": "",
   "WhiteEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
   "eggGroup2": "",
   "spd": 83,
   "CrystalEntry": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption.",
+  "weight": "21.4kg",
   "eggGroup1": "Undiscovered",
-  "RubyEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "BlackEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
-  "OmegaRubyEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
   "dfs": 37,
   "GoldEntry": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
   "SapphireEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
   "hasAlolan": false,
   "DiamondEntry": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
-  "SoulsilverEntry": "It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don't underestimate it.",
   "name": "Magby",
+  "spdfs": 55,
+  "extraMega": false,
+  "HearthGoldEntry": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+  "YEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+  "SunEntry": "Many of these Pokémon can be seen in areas with volcanic activity. Feeding can get them so excited, they exhale flames of 1,100 degrees F.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    }
+  ],
+  "hasGigantamax": false,
+  "XEntry": "It's small, but its body temperature is over 1,100 degrees Fahrenheit. Embers escape its mouth and nose when it breathes.",
+  "PlatinumEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+  "abilityHidden": "Vital Spirit",
+  "lvlUpMoves": [
+    {
+      "move": "Smog",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Ember",
+      "lvl": "4"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "8"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "12"
+    },
+    {
+      "move": "Flame Wheel",
+      "lvl": "16"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "20"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "24"
+    },
+    {
+      "move": "Fire Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Lava Plume",
+      "lvl": "32"
+    },
+    {
+      "move": "Low Kick",
+      "lvl": "36"
+    },
+    {
+      "move": "Flamethrower",
+      "lvl": "40"
+    },
+    {
+      "move": "Sunny Day",
+      "lvl": "44"
+    },
+    {
+      "move": "Fire Blast",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+  "BlackEntry": "Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees F.",
+  "OmegaRubyEntry": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+  "colour": "Red",
+  "SoulsilverEntry": "It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don't underestimate it.",
   "FireRedEntry": "It is found in volcanic craters. Its body heat exceeds 1,100 degrees F, so don't underestimate it.",
   "White2Entry": "It's small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes.",
   "PearlEntry": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
-  "spdfs": 55,
   "category": "Live Coal Pokémon",
   "LeafGreenEntry": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
   "Black2Entry": "It's small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes."

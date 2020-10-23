@@ -116,12 +116,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Defog"},
-    {"move": "Double Team"},
-    {"move": "Knock Off"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
   "number": 723,
   "MoonEntry": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
@@ -129,6 +124,7 @@
   "UltraSunEntry": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it will stop listening to you.",
   "atk": 75,
   "abilityHidden": "Long Reach",
+  "height": "0.7m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -190,11 +186,13 @@
   "type2": "Flying",
   "eggGroup2": "",
   "spd": 52,
+  "weight": "16.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Dartrix",
   "SwordEntry": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",

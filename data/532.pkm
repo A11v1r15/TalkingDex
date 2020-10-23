@@ -171,17 +171,18 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Counter"},
-    {"move": "Defog"},
     {"move": "Detect"},
+    {"move": "Wide Guard"},
     {"move": "Mach Punch"},
-    {"move": "Power-Up Punch"},
-    {"move": "Wide Guard"}
+    {"move": "Power"},
+    {"move": "Defog"}
   ],
   "XEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
   "number": 532,
   "spatk": 25,
   "atk": 80,
   "abilityHidden": "Iron Fist",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -244,6 +245,7 @@
   "WhiteEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
   "eggGroup2": "",
   "spd": 35,
+  "weight": "12.5kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Fighting",
@@ -251,6 +253,7 @@
   "BlackEntry": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
   "OmegaRubyEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
   "dfs": 55,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Timburr",
   "White2Entry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",

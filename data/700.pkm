@@ -174,16 +174,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "XEntry": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
   "UltraMoonEntry": "Sylveon wraps its ribbonlike feelers around its Trainer's arm because this touch enables it to read its Trainer's feelings.",
   "number": 700,
@@ -192,7 +183,12 @@
   "UltraSunEntry": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
   "atk": 65,
   "abilityHidden": "Pixilate",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Disarming Voice",
+      "lvl": "0"
+    },
     {
       "move": "Disarming Voice",
       "lvl": "1"
@@ -242,10 +238,6 @@
       "lvl": "1"
     },
     {
-      "move": "Disarming Voice",
-      "lvl": ""
-    },
-    {
       "move": "Sand Attack",
       "lvl": "5"
     },
@@ -293,12 +285,14 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "23.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
   "OmegaRubyEntry": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
   "dfs": 65,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Sylveon",
   "SwordEntry": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",

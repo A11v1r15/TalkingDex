@@ -1,25 +1,253 @@
 {
   "extraMega": false,
   "ability1": "Beast Boost",
+  "hp": 61,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Heat Crash",
+      "technical": "TR88"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "UltraMoonEntry": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+  "eggMoves": [],
+  "number": 805,
+  "spatk": 53,
+  "UltraSunEntry": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+  "atk": 131,
+  "abilityHidden": "",
+  "height": "5.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Rock Throw",
+      "lvl": "5"
+    },
+    {
+      "move": "Protect",
+      "lvl": "10"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "15"
+    },
+    {
+      "move": "Block",
+      "lvl": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "25"
+    },
+    {
+      "move": "Wide Guard",
+      "lvl": "30"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "35"
+    },
+    {
+      "move": "Rock Blast",
+      "lvl": "40"
+    },
+    {
+      "move": "Magnet Rise",
+      "lvl": "45"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "50"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "55"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "60"
+    },
+    {
+      "move": "Stealth Rock",
+      "lvl": "65"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "70"
+    }
+  ],
   "type2": "Steel",
   "eggGroup2": "",
   "spd": 13,
-  "hp": 61,
+  "weight": "820.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
-  "ability2": "",
   "type1": "Rock",
   "hasGalarian": false,
-  "hasGigantamax": false,
   "dfs": 211,
-  "UltraMoonEntry": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
-  "number": 805,
-  "spatk": 53,
+  "colour": "Gray",
   "hasAlolan": false,
-  "UltraSunEntry": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
   "name": "Stakataka",
-  "atk": 131,
-  "abilityHidden": "",
   "spdfs": 101,
   "category": "Rampart Pokémon"
 }

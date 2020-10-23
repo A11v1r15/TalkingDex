@@ -142,11 +142,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Defog"},
-    {"move": "Flame Charge"},
-    {"move": "Quick Guard"}
-  ],
+  "eggMoves": [],
   "XEntry": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
   "UltraMoonEntry": "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
   "number": 663,
@@ -155,6 +151,7 @@
   "UltraSunEntry": "Its tough wings don't allow fire to pass through them. A long time ago, firefighters' outfits were made from Talonflame wings.",
   "atk": 81,
   "abilityHidden": "Gale Wings",
+  "height": "1.2m",
   "lvlUpMoves": [
     {
       "move": "Flame Charge",
@@ -224,12 +221,14 @@
   "type2": "Flying",
   "eggGroup2": "",
   "spd": 126,
+  "weight": "24.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "OmegaRubyEntry": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
   "dfs": 71,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Talonflame",
   "SwordEntry": "Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",

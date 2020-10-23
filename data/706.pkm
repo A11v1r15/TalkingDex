@@ -194,10 +194,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Life Dew"}
-  ],
+  "eggMoves": [],
   "XEntry": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
   "UltraMoonEntry": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.",
   "number": 706,
@@ -206,7 +203,12 @@
   "UltraSunEntry": "It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.",
   "atk": 100,
   "abilityHidden": "Gooey",
+  "height": "2.0m",
   "lvlUpMoves": [
+    {
+      "move": "Aqua Tail",
+      "lvl": "0"
+    },
     {
       "move": "Aqua Tail",
       "lvl": "1"
@@ -242,10 +244,6 @@
     {
       "move": "Dragon Breath",
       "lvl": "1"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": ""
     },
     {
       "move": "Protect",
@@ -287,12 +285,14 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 80,
+  "weight": "150.5kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "OmegaRubyEntry": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
   "dfs": 70,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Goodra",
   "SwordEntry": "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.",

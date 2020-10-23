@@ -192,15 +192,15 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Bite"},
-    {"move": "Bullet Punch"},
-    {"move": "Circle Throw"},
     {"move": "Cross Chop"},
     {"move": "Detect"},
-    {"move": "High Jump Kick"},
-    {"move": "Howl"},
+    {"move": "Bite"},
     {"move": "Mind Reader"},
-    {"move": "Vacuum Wave"}
+    {"move": "High Jump Kick"},
+    {"move": "Vacuum Wave"},
+    {"move": "Bullet Punch"},
+    {"move": "Circle Throw"},
+    {"move": "Howl"}
   ],
   "XEntry": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
   "UltraMoonEntry": "It uses waves called auras to communicate with others of its kind. It doesn't make any noise during this time, so its enemies can't detect it.",
@@ -211,6 +211,7 @@
   "atk": 70,
   "PlatinumEntry": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
   "abilityHidden": "Prankster",
+  "height": "0.7m",
   "lvlUpMoves": [
     {
       "move": "Quick Attack",
@@ -281,6 +282,7 @@
   "WhiteEntry": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "20.2kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fighting",
@@ -288,6 +290,7 @@
   "BlackEntry": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
   "OmegaRubyEntry": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
   "dfs": 40,
+  "colour": "Blue",
   "hasAlolan": false,
   "DiamondEntry": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
   "SoulsilverEntry": "They communicate with one another using their auras. They are able to run all through the night.",

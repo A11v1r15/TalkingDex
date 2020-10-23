@@ -131,11 +131,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Growth"},
     {"move": "Leech Seed"},
-    {"move": "Skull Bash"},
-    {"move": "Stomp"}
+    {"move": "Growth"},
+    {"move": "Double"},
+    {"move": "Stomp"},
+    {"move": "Skull Bash"}
   ],
   "XEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
   "number": 459,
@@ -143,6 +143,7 @@
   "atk": 62,
   "PlatinumEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
   "abilityHidden": "Soundproof",
+  "height": "1.0m",
   "lvlUpMoves": [
     {
       "move": "Powder Snow",
@@ -197,6 +198,7 @@
   "WhiteEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
   "eggGroup2": "Grass",
   "spd": 40,
+  "weight": "50.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Grass",
@@ -204,6 +206,7 @@
   "BlackEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
   "OmegaRubyEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
   "dfs": 50,
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
   "SoulsilverEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",

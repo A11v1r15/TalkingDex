@@ -131,9 +131,9 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Acid Armor"},
-    {"move": "Dragon Tail"},
     {"move": "Haze"},
-    {"move": "Twister"}
+    {"move": "Twister"},
+    {"move": "Dragon Tail"}
   ],
   "XEntry": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
   "UltraMoonEntry": "It's not good at swimming, so it clings to the seaweed. In the Alola region, it's often found near Dhelmise.",
@@ -142,6 +142,7 @@
   "UltraSunEntry": "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pokémon. Rotten seaweed is its main food source.",
   "atk": 60,
   "abilityHidden": "Adaptability",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -199,12 +200,14 @@
   "type2": "Water",
   "eggGroup2": "Dragon",
   "spd": 30,
+  "weight": "7.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
   "OmegaRubyEntry": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
   "dfs": 60,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Skrelp",
   "SwordEntry": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",

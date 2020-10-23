@@ -5,24 +5,20 @@
   "hp": 70,
   "SilverEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
   "ability2": "Technician",
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Defog"},
-    {"move": "Feint"},
-    {"move": "Night Slash"},
-    {"move": "Quick Guard"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there's nothing left but scraps.",
   "number": 212,
   "MoonEntry": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
   "spatk": 55,
   "UltraSunEntry": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
   "atk": 130,
+  "height": "1.8m",
   "type2": "Steel",
   "WhiteEntry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
   "eggGroup2": "",
   "spd": 65,
   "CrystalEntry": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+  "weight": "118.0kg",
   "eggGroup1": "Bug",
   "hasMega": true,
   "type1": "Bug",
@@ -216,6 +212,10 @@
   "lvlUpMoves": [
     {
       "move": "Bullet Punch",
+      "lvl": "0"
+    },
+    {
+      "move": "Bullet Punch",
       "lvl": "1"
     },
     {
@@ -245,10 +245,6 @@
     {
       "move": "False Swipe",
       "lvl": "1"
-    },
-    {
-      "move": "Bullet Punch",
-      "lvl": ""
     },
     {
       "move": "Metal Claw",
@@ -294,6 +290,7 @@
   "RubyEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
   "BlackEntry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
   "OmegaRubyEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+  "colour": "Red",
   "SoulsilverEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
   "FireRedEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
   "White2Entry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",

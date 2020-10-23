@@ -209,18 +209,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Mist"},
-    {"move": "Mud-Slap"},
-    {"move": "Toxic"},
-    {"move": "Water Pulse"}
-  ],
+  "eggMoves": [],
   "XEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
   "number": 537,
   "spatk": 85,
   "atk": 95,
   "abilityHidden": "Water Absorb",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Drain Punch",
+      "lvl": "0"
+    },
     {
       "move": "Drain Punch",
       "lvl": "1"
@@ -244,10 +244,6 @@
     {
       "move": "Supersonic",
       "lvl": "1"
-    },
-    {
-      "move": "Drain Punch",
-      "lvl": ""
     },
     {
       "move": "Mud Shot",
@@ -294,6 +290,7 @@
   "WhiteEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
   "eggGroup2": "",
   "spd": 74,
+  "weight": "62.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
@@ -301,6 +298,7 @@
   "BlackEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
   "OmegaRubyEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
   "dfs": 75,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Seismitoad",
   "White2Entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",

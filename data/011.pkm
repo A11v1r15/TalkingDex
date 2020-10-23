@@ -15,11 +15,13 @@
   "atk": 20,
   "RedEntry": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
   "11Entry": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
+  "height": "0.7m",
   "type2": "",
   "WhiteEntry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
   "eggGroup2": "",
   "spd": 30,
   "CrystalEntry": "This is its preevolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
+  "weight": "9.9kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
@@ -55,17 +57,18 @@
   "lvlUpMoves": [
     {
       "move": "Harden",
-      "lvl": "1"
+      "lvl": "0"
     },
     {
       "move": "Harden",
-      "lvl": ""
+      "lvl": "1"
     }
   ],
   "RubyEntry": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
   "BlackEntry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
   "OmegaRubyEntry": "The shell covering this Pokémon\u2019s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
   "LetsGoEeveeEntry": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+  "colour": "Green",
   "SoulsilverEntry": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
   "FireRedEntry": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
   "White2Entry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",

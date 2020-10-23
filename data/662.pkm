@@ -114,11 +114,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Defog"},
-    {"move": "Flame Charge"},
-    {"move": "Quick Guard"}
-  ],
+  "eggMoves": [],
   "XEntry": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
   "UltraMoonEntry": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
   "number": 662,
@@ -127,7 +123,12 @@
   "UltraSunEntry": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
   "atk": 73,
   "abilityHidden": "Gale Wings",
+  "height": "0.7m",
   "lvlUpMoves": [
+    {
+      "move": "Flame Charge",
+      "lvl": "0"
+    },
     {
       "move": "Flame Charge",
       "lvl": "1"
@@ -151,10 +152,6 @@
     {
       "move": "Ember",
       "lvl": "1"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": ""
     },
     {
       "move": "Flail",
@@ -192,12 +189,14 @@
   "type2": "Flying",
   "eggGroup2": "",
   "spd": 84,
+  "weight": "16.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "OmegaRubyEntry": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
   "dfs": 55,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Fletchinder",
   "SwordEntry": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder's sharp talons finish it off.",

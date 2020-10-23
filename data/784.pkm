@@ -244,11 +244,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Dragon Breath"},
-    {"move": "Focus Punch"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
   "number": 784,
   "MoonEntry": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
@@ -256,7 +252,12 @@
   "UltraSunEntry": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
   "atk": 110,
   "abilityHidden": "Overcoat",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Clanging Scales",
+      "lvl": "0"
+    },
     {
       "move": "Clanging Scales",
       "lvl": "1"
@@ -284,10 +285,6 @@
     {
       "move": "Dragon Tail",
       "lvl": "1"
-    },
-    {
-      "move": "Clanging Scales",
-      "lvl": ""
     },
     {
       "move": "Scary Face",
@@ -341,13 +338,15 @@
   "type2": "Fighting",
   "eggGroup2": "",
   "spd": 85,
+  "weight": "78.2kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "dfs": 125,
+  "colour": "Gray",
   "hasAlolan": false,
-  "name": "Kommo-o",
+  "name": "Kommo",
   "SwordEntry": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
   "spdfs": 105,
   "category": "Scaly Pokémon"

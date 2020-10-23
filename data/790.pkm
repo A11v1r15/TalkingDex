@@ -18,7 +18,12 @@
   "UltraSunEntry": "The king who ruled Alola in times of antiquity called it the \u201ccocoon of the stars\u201d and built an altar to worship it.",
   "atk": 29,
   "abilityHidden": "",
+  "height": "0.1m",
   "lvlUpMoves": [
+    {
+      "move": "Cosmic Power",
+      "lvl": "0"
+    },
     {
       "move": "Cosmic Power",
       "lvl": "1"
@@ -26,20 +31,18 @@
     {
       "move": "Teleport",
       "lvl": "1"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": ""
     }
   ],
   "type2": "",
   "eggGroup2": "",
   "spd": 37,
+  "weight": "999.9kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 131,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Cosmoem",
   "SwordEntry": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",

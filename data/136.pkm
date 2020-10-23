@@ -6,16 +6,7 @@
   "hp": 65,
   "SilverEntry": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees.",
   "ability2": "Download",
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "The flame chamber inside its body ignites when Flareon gets agitated, reaching temperatures of up to 1,650 degrees Fahrenheit.",
   "number": 136,
   "MoonEntry": "Its average body temperature is between 1,300 and 1,500 degrees Fahrenheit. In its internal flame sac, temperatures reach 3,000 degrees.",
@@ -23,11 +14,13 @@
   "UltraSunEntry": "If it inhales deeply, that's a sign it's about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit!",
   "atk": 130,
   "RedEntry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+  "height": "0.9m",
   "type2": "",
   "WhiteEntry": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
   "eggGroup2": "",
   "spd": 65,
   "CrystalEntry": "Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1700 degrees.",
+  "weight": "25.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
@@ -215,6 +208,10 @@
   "lvlUpMoves": [
     {
       "move": "Ember",
+      "lvl": "0"
+    },
+    {
+      "move": "Ember",
       "lvl": "1"
     },
     {
@@ -260,10 +257,6 @@
     {
       "move": "Tail Whip",
       "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": ""
     },
     {
       "move": "Sand Attack",
@@ -315,6 +308,7 @@
   "BlackEntry": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
   "OmegaRubyEntry": "Flareon's fluffy fur has a functional purpose-it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
   "LetsGoEeveeEntry": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit.",
+  "colour": "Red",
   "SoulsilverEntry": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
   "FireRedEntry": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit.",
   "White2Entry": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",

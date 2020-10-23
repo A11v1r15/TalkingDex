@@ -139,16 +139,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Bug Bite"},
-    {"move": "Fairy Wind"},
-    {"move": "Mirror Coat"}
-  ],
+  "eggMoves": [],
   "number": 873,
   "spatk": 125,
   "atk": 65,
   "abilityHidden": "Ice Scales",
+  "height": "1.3m",
   "lvlUpMoves": [
+    {
+      "move": "Icy Wind",
+      "lvl": "0"
+    },
     {
       "move": "Icy Wind",
       "lvl": "1"
@@ -168,10 +169,6 @@
     {
       "move": "Attract",
       "lvl": "1"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": ""
     },
     {
       "move": "Stun Spore",
@@ -229,11 +226,13 @@
   "type2": "Bug",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "42.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
   "dfs": 60,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Frosmoth",
   "SwordEntry": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than -290 degrees Fahrenheit.",

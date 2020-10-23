@@ -5,27 +5,20 @@
   "hp": 95,
   "SilverEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously.",
   "number": 197,
   "MoonEntry": "With its black fur, it blends into the darkness. It bides its time, and when prey appears, this Pokémon goes for its throat, and then eats it.",
   "spatk": 60,
   "UltraSunEntry": "This Pokémon is nocturnal. Even in total darkness, its large eyes can spot its prey clearly!",
   "atk": 65,
+  "height": "1.0m",
   "type2": "",
   "WhiteEntry": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
   "eggGroup2": "",
   "spd": 65,
   "CrystalEntry": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+  "weight": "27.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
@@ -219,6 +212,10 @@
   "lvlUpMoves": [
     {
       "move": "Snarl",
+      "lvl": "0"
+    },
+    {
+      "move": "Snarl",
       "lvl": "1"
     },
     {
@@ -270,10 +267,6 @@
       "lvl": "1"
     },
     {
-      "move": "Snarl",
-      "lvl": ""
-    },
-    {
       "move": "Sand Attack",
       "lvl": "5"
     },
@@ -321,6 +314,7 @@
   "RubyEntry": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
   "BlackEntry": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
   "OmegaRubyEntry": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+  "colour": "Black",
   "SoulsilverEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "FireRedEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "White2Entry": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",

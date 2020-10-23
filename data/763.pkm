@@ -164,11 +164,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Acupressure"},
-    {"move": "Endeavor"},
-    {"move": "Synthesis"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
   "number": 763,
   "MoonEntry": "A Pokémon known for the beauty of its well-shaped legs, it sometimes appears as a mascot in advertisements for beauty salons.",
@@ -176,7 +172,12 @@
   "UltraSunEntry": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
   "atk": 120,
   "abilityHidden": "Sweet Veil",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Trop Kick",
+      "lvl": "0"
+    },
     {
       "move": "Trop Kick",
       "lvl": "1"
@@ -208,10 +209,6 @@
     {
       "move": "Razor Leaf",
       "lvl": "1"
-    },
-    {
-      "move": "Trop Kick",
-      "lvl": ""
     },
     {
       "move": "Sweet Scent",
@@ -249,11 +246,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 72,
+  "weight": "21.4kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 98,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Tsareena",
   "SwordEntry": "This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",

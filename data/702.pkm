@@ -147,8 +147,8 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Covet"},
-    {"move": "Magnet Rise"},
-    {"move": "Tearful Look"}
+    {"move": "Tearful Look"},
+    {"move": "Magnet Rise"}
   ],
   "XEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
   "UltraMoonEntry": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
@@ -157,6 +157,7 @@
   "UltraSunEntry": "It sneaks into people's homes and steals electricity from their outlets. When your electric bill seems off, it's the handiwork of this rascal.",
   "atk": 58,
   "abilityHidden": "Plus",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Nuzzle",
@@ -222,12 +223,14 @@
   "type2": "Fairy",
   "eggGroup2": "Fairy",
   "spd": 101,
+  "weight": "2.2kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
   "OmegaRubyEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
   "dfs": 57,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Dedenne",
   "SwordEntry": "A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",

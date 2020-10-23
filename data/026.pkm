@@ -6,16 +6,7 @@
   "hp": 60,
   "SilverEntry": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Charge"},
-    {"move": "Disarming Voice"},
-    {"move": "Fake Out"},
-    {"move": "Flail"},
-    {"move": "Present"},
-    {"move": "Tickle"},
-    {"move": "Volt Tackle"},
-    {"move": "Wish"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Because so many Trainers like the way Pikachu looks, you don't see this Pokémon very often.",
   "number": 26,
   "MoonEntry": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
@@ -24,11 +15,13 @@
   "UltraSunEntry": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
   "atk": 90,
   "RedEntry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+  "height": "0.8m",
   "type2": "",
   "WhiteEntry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
   "eggGroup2": "Fairy",
   "spd": 110,
   "CrystalEntry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+  "weight": "30.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
@@ -252,6 +245,10 @@
   "lvlUpMoves": [
     {
       "move": "Thunder Punch",
+      "lvl": "0"
+    },
+    {
+      "move": "Thunder Punch",
       "lvl": "1"
     },
     {
@@ -333,16 +330,13 @@
     {
       "move": "Quick Attack",
       "lvl": "1"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": ""
     }
   ],
   "RubyEntry": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
   "BlackEntry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
   "OmegaRubyEntry": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
   "LetsGoEeveeEntry": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+  "colour": "Yellow",
   "SoulsilverEntry": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
   "FireRedEntry": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
   "White2Entry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",

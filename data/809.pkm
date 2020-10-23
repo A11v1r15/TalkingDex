@@ -156,7 +156,12 @@
   "spatk": 80,
   "atk": 143,
   "abilityHidden": "",
+  "height": "2.5m",
   "lvlUpMoves": [
+    {
+      "move": "Thunder Punch",
+      "lvl": "0"
+    },
     {
       "move": "Thunder Punch",
       "lvl": "1"
@@ -176,10 +181,6 @@
     {
       "move": "Headbutt",
       "lvl": "1"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": ""
     },
     {
       "move": "Thunder Wave",
@@ -225,12 +226,14 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 34,
+  "weight": "800.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "dfs": 143,
   "LetsGoEeveeEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+  "colour": "Gray",
   "hasAlolan": false,
   "LetsGoPikachuEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
   "name": "Melmetal",

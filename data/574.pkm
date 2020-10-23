@@ -182,17 +182,18 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Fake Out"},
-    {"move": "Heal Pulse"},
-    {"move": "Mean Look"},
     {"move": "Mirror Coat"},
-    {"move": "Torment"}
+    {"move": "Mean Look"},
+    {"move": "Heal Pulse"},
+    {"move": "Torment"},
+    {"move": "Fake Out"}
   ],
   "XEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
   "number": 574,
   "spatk": 55,
   "atk": 30,
   "abilityHidden": "Shadow Tag",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -255,6 +256,7 @@
   "WhiteEntry": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
   "eggGroup2": "",
   "spd": 45,
+  "weight": "5.8kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Psychic",
@@ -262,6 +264,7 @@
   "BlackEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
   "OmegaRubyEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
   "dfs": 50,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Gothita",
   "White2Entry": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",

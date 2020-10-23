@@ -163,19 +163,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Circle Throw"},
-    {"move": "Pain Split"},
-    {"move": "Power-Up Punch"},
-    {"move": "Seismic Toss"},
-    {"move": "Soak"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "number": 853,
   "spatk": 70,
   "atk": 118,
   "abilityHidden": "Technician",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Octolock",
+      "lvl": "0"
+    },
     {
       "move": "Octolock",
       "lvl": "1"
@@ -199,10 +197,6 @@
     {
       "move": "Bind",
       "lvl": "1"
-    },
-    {
-      "move": "Octolock",
-      "lvl": ""
     },
     {
       "move": "Detect",
@@ -240,11 +234,13 @@
   "type2": "",
   "eggGroup2": "Human-Like",
   "spd": 42,
+  "weight": "39.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Grapploct",
   "SwordEntry": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",

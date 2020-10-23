@@ -119,8 +119,8 @@
   "eggMoves": [
     {"move": "Confuse Ray"},
     {"move": "Defog"},
-    {"move": "Double Team"},
-    {"move": "Knock Off"}
+    {"move": "Knock Off"},
+    {"move": "Double Team"}
   ],
   "UltraMoonEntry": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
   "number": 722,
@@ -129,6 +129,7 @@
   "UltraSunEntry": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
   "atk": 55,
   "abilityHidden": "Long Reach",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -190,11 +191,13 @@
   "type2": "Flying",
   "eggGroup2": "",
   "spd": 42,
+  "weight": "1.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 55,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Rowlet",
   "SwordEntry": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",

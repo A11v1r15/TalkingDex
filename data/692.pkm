@@ -126,9 +126,9 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Entrainment"},
     {"move": "Aqua Tail"},
-    {"move": "Bubble Beam"},
-    {"move": "Entrainment"}
+    {"move": "Bubble Beam"}
   ],
   "XEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
   "UltraMoonEntry": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it's terrible at swimming straight.",
@@ -137,6 +137,7 @@
   "UltraSunEntry": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
   "atk": 53,
   "abilityHidden": "",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Splash",
@@ -194,12 +195,14 @@
   "type2": "",
   "eggGroup2": "Water 3",
   "spd": 44,
+  "weight": "8.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "OmegaRubyEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
   "dfs": 62,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Clauncher",
   "SwordEntry": "Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.",

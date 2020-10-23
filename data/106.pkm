@@ -6,25 +6,18 @@
   "hp": 50,
   "SilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
   "ability2": "Reckless",
-  "eggMoves": [
-    {"move": "Bullet Punch"},
-    {"move": "Counter"},
-    {"move": "Feint"},
-    {"move": "High Jump Kick"},
-    {"move": "Mach Punch"},
-    {"move": "Mind Reader"},
-    {"move": "Rapid Spin"},
-    {"move": "Vacuum Wave"}
-  ],
+  "eggMoves": [],
   "number": 106,
   "spatk": 35,
   "atk": 120,
   "RedEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+  "height": "1.5m",
   "type2": "",
   "WhiteEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
   "eggGroup2": "",
   "spd": 87,
   "CrystalEntry": "It is also called the Kick Master. It uses its elastic legs to execute every known kick.",
+  "weight": "49.8kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Fighting",
@@ -224,6 +217,10 @@
   "lvlUpMoves": [
     {
       "move": "Brick Break",
+      "lvl": "0"
+    },
+    {
+      "move": "Brick Break",
       "lvl": "1"
     },
     {
@@ -249,10 +246,6 @@
     {
       "move": "Focus Energy",
       "lvl": "1"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": ""
     },
     {
       "move": "Double Kick",
@@ -303,6 +296,7 @@
   "BlackEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
   "OmegaRubyEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
   "LetsGoEeveeEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+  "colour": "Brown",
   "SoulsilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
   "FireRedEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
   "White2Entry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",

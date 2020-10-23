@@ -6,24 +6,19 @@
   "hp": 65,
   "SilverEntry": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
   "ability2": "Flash Fire",
-  "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Double Kick"},
-    {"move": "Horn Drill"},
-    {"move": "Hypnosis"},
-    {"move": "Morning Sun"},
-    {"move": "Thrash"}
-  ],
+  "eggMoves": [],
   "number": 78,
   "spatk": 80,
   "78Entry": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
   "atk": 100,
   "RedEntry": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+  "height": "1.7m",
   "type2": "",
   "WhiteEntry": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
   "eggGroup2": "",
   "spd": 105,
   "CrystalEntry": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.",
+  "weight": "95.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
@@ -214,6 +209,10 @@
   "lvlUpMoves": [
     {
       "move": "Smart Strike",
+      "lvl": "0"
+    },
+    {
+      "move": "Smart Strike",
       "lvl": "1"
     },
     {
@@ -243,10 +242,6 @@
     {
       "move": "Ember",
       "lvl": "1"
-    },
-    {
-      "move": "Smart Strike",
-      "lvl": ""
     },
     {
       "move": "Flame Charge",
@@ -289,6 +284,7 @@
   "BlackEntry": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
   "OmegaRubyEntry": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
   "LetsGoEeveeEntry": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+  "colour": "Yellow",
   "SoulsilverEntry": "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps.",
   "FireRedEntry": "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.",
   "White2Entry": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",

@@ -142,16 +142,17 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Astonish"},
-    {"move": "Belch"},
     {"move": "Double Hit"},
-    {"move": "Head Smash"}
+    {"move": "Astonish"},
+    {"move": "Head Smash"},
+    {"move": "Belch"}
   ],
   "XEntry": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
   "number": 633,
   "spatk": 45,
   "atk": 65,
   "abilityHidden": "",
+  "height": "0.8m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -226,6 +227,7 @@
   "WhiteEntry": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
   "eggGroup2": "",
   "spd": 38,
+  "weight": "17.3kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dark",
@@ -233,6 +235,7 @@
   "BlackEntry": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
   "OmegaRubyEntry": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
   "dfs": 50,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Deino",
   "White2Entry": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",

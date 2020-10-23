@@ -176,12 +176,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Belch"},
-    {"move": "Fake Out"},
-    {"move": "Mud-Slap"},
-    {"move": "Sand Attack"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
   "number": 758,
   "MoonEntry": "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.",
@@ -189,7 +184,12 @@
   "UltraSunEntry": "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it.",
   "atk": 64,
   "abilityHidden": "Oblivious",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Fire Lash",
+      "lvl": "0"
+    },
     {
       "move": "Fire Lash",
       "lvl": "1"
@@ -239,10 +239,6 @@
       "lvl": "1"
     },
     {
-      "move": "Fire Lash",
-      "lvl": ""
-    },
-    {
       "move": "Poison Fang",
       "lvl": "15"
     },
@@ -282,11 +278,13 @@
   "type2": "Fire",
   "eggGroup2": "Dragon",
   "spd": 117,
+  "weight": "22.2kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
   "dfs": 60,
+  "colour": "Black",
   "hasAlolan": false,
   "name": "Salazzle",
   "SwordEntry": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",

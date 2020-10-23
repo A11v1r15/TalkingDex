@@ -146,8 +146,8 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Aqua Ring"},
-    {"move": "Life Dew"},
-    {"move": "Perish Song"}
+    {"move": "Perish Song"},
+    {"move": "Life Dew"}
   ],
   "UltraMoonEntry": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!",
   "number": 728,
@@ -156,6 +156,7 @@
   "UltraSunEntry": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
   "atk": 54,
   "abilityHidden": "Liquid Voice",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -217,11 +218,13 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 40,
+  "weight": "7.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 54,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Popplio",
   "SwordEntry": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",

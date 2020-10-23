@@ -6,23 +6,18 @@
   "hp": 80,
   "SilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Ingrain"},
-    {"move": "Nature Power"},
-    {"move": "Petal Dance"},
-    {"move": "Skull Bash"},
-    {"move": "Toxic"}
-  ],
+  "eggMoves": [],
   "number": 3,
   "spatk": 100,
   "atk": 82,
   "RedEntry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+  "height": "2.0m",
   "type2": "Poison",
   "WhiteEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "eggGroup2": "Grass",
   "spd": 80,
   "CrystalEntry": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+  "weight": "100.0kg",
   "eggGroup1": "Monster",
   "hasMega": true,
   "type1": "Grass",
@@ -205,6 +200,10 @@
   "lvlUpMoves": [
     {
       "move": "Petal Blizzard",
+      "lvl": "0"
+    },
+    {
+      "move": "Petal Blizzard",
       "lvl": "1"
     },
     {
@@ -226,10 +225,6 @@
     {
       "move": "Growth",
       "lvl": "1"
-    },
-    {
-      "move": "Petal Blizzard",
-      "lvl": ""
     },
     {
       "move": "Leech Seed",
@@ -280,6 +275,7 @@
   "BlackEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "OmegaRubyEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
   "LetsGoEeveeEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
+  "colour": "Green",
   "SoulsilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
   "FireRedEntry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
   "3Entry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",

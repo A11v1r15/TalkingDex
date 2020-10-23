@@ -169,12 +169,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Disarming Voice"},
-    {"move": "Fake Out"},
-    {"move": "Flail"},
     {"move": "Present"},
+    {"move": "Wish"},
+    {"move": "Fake Out"},
     {"move": "Tickle"},
-    {"move": "Wish"}
+    {"move": "Flail"},
+    {"move": "Disarming Voice"}
   ],
   "UltraMoonEntry": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
   "number": 777,
@@ -183,6 +183,7 @@
   "UltraSunEntry": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
   "atk": 98,
   "abilityHidden": "Sturdy",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Nuzzle",
@@ -244,11 +245,13 @@
   "type2": "Steel",
   "eggGroup2": "Fairy",
   "spd": 96,
+  "weight": "3.3kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
   "dfs": 63,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Togedemaru",
   "SwordEntry": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",

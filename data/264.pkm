@@ -187,18 +187,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Extreme Speed"},
-    {"move": "Simple Beam"},
-    {"move": "Tickle"}
-  ],
+  "eggMoves": [],
   "XEntry": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
   "number": 264,
   "spatk": 50,
   "atk": 70,
   "PlatinumEntry": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
   "abilityHidden": "Quick Feet",
+  "height": "0.5m",
   "lvlUpMoves": [
+    {
+      "move": "Slash",
+      "lvl": "0"
+    },
     {
       "move": "Slash",
       "lvl": "1"
@@ -230,10 +231,6 @@
     {
       "move": "Tail Whip",
       "lvl": "1"
-    },
-    {
-      "move": "Slash",
-      "lvl": ""
     },
     {
       "move": "Covet",
@@ -280,6 +277,7 @@
   "WhiteEntry": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
   "eggGroup2": "",
   "spd": 100,
+  "weight": "32.5kg",
   "eggGroup1": "Field",
   "RubyEntry": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads.",
   "hasMega": false,
@@ -289,6 +287,7 @@
   "OmegaRubyEntry": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads.",
   "dfs": 61,
   "SapphireEntry": "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
   "SoulsilverEntry": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",

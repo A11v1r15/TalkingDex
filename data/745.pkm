@@ -169,11 +169,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Endeavor"},
-    {"move": "Last Resort"},
-    {"move": "Thrash"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
   "number": 745,
   "MoonEntry": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
@@ -181,7 +177,12 @@
   "UltraSunEntry": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
   "atk": 115,
   "abilityHidden": "",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "Sucker Punch",
+      "lvl": "0"
+    },
     {
       "move": "Sucker Punch",
       "lvl": "1"
@@ -213,10 +214,6 @@
     {
       "move": "Double Team",
       "lvl": "1"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": ""
     },
     {
       "move": "Rock Throw",
@@ -262,11 +259,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 112,
+  "weight": "25.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Lycanroc",
   "SwordEntry": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.",

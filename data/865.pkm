@@ -123,24 +123,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Covet"},
-    {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Feint"},
-    {"move": "Flail"},
-    {"move": "Night Slash"},
-    {"move": "Quick Attack"},
-    {"move": "Quick Guard"},
-    {"move": "Simple Beam"},
-    {"move": "Sky Attack"}
-  ],
+  "eggMoves": [],
   "number": 865,
   "spatk": 68,
   "atk": 135,
   "abilityHidden": "Scrappy",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "Iron Defense",
+      "lvl": "0"
+    },
     {
       "move": "Iron Defense",
       "lvl": "1"
@@ -164,10 +157,6 @@
     {
       "move": "Fury Cutter",
       "lvl": "1"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": ""
     },
     {
       "move": "Rock Smash",
@@ -221,13 +210,15 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 65,
+  "weight": "117.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "dfs": 95,
+  "colour": "White",
   "hasAlolan": false,
-  "name": "Sirfetch'd",
+  "name": "Sirfetch\u2019d",
   "SwordEntry": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.",
   "spdfs": 82,
   "category": "Wild Duck Pokémon"

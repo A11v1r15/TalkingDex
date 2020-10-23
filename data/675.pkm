@@ -278,13 +278,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Power Trip"},
-    {"move": "Quash"},
-    {"move": "Quick Guard"},
-    {"move": "Seismic Toss"},
-    {"move": "Storm Throw"}
-  ],
+  "eggMoves": [],
   "XEntry": "Although it possesses a violent temperament, it won\u2019t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
   "UltraMoonEntry": "Pangoro is the type to talk with its fists. It doesn't say much as it pummels opponents with enough force to send a dump truck flying.",
   "number": 675,
@@ -293,7 +287,12 @@
   "UltraSunEntry": "This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character.",
   "atk": 124,
   "abilityHidden": "Scrappy",
+  "height": "2.1m",
   "lvlUpMoves": [
+    {
+      "move": "Night Slash",
+      "lvl": "0"
+    },
     {
       "move": "Night Slash",
       "lvl": "1"
@@ -317,10 +316,6 @@
     {
       "move": "Taunt",
       "lvl": "1"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": ""
     },
     {
       "move": "Circle Throw",
@@ -366,12 +361,14 @@
   "type2": "Dark",
   "eggGroup2": "Human-Like",
   "spd": 58,
+  "weight": "136.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "OmegaRubyEntry": "Although it possesses a violent temperament, it won\u2019t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.",
   "dfs": 78,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Pangoro",
   "SwordEntry": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",

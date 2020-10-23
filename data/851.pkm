@@ -135,16 +135,12 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Defense Curl"},
-    {"move": "Knock Off"},
-    {"move": "Rollout"},
-    {"move": "Struggle Bug"}
-  ],
+  "eggMoves": [],
   "number": 851,
   "spatk": 90,
   "atk": 115,
   "abilityHidden": "Flame Body",
+  "height": "3.0m",
   "lvlUpMoves": [
     {
       "move": "Inferno",
@@ -206,11 +202,13 @@
   "type2": "Bug",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "120.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Centiskorch",
   "SwordEntry": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",

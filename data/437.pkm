@@ -209,7 +209,12 @@
   "atk": 89,
   "PlatinumEntry": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
   "abilityHidden": "Heavy Metal",
+  "height": "1.3m",
   "lvlUpMoves": [
+    {
+      "move": "Block",
+      "lvl": "0"
+    },
     {
       "move": "Block",
       "lvl": "1"
@@ -237,10 +242,6 @@
     {
       "move": "Payback",
       "lvl": "1"
-    },
-    {
-      "move": "Block",
-      "lvl": ""
     },
     {
       "move": "Imprison",
@@ -287,6 +288,7 @@
   "WhiteEntry": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
   "eggGroup2": "",
   "spd": 33,
+  "weight": "187.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Steel",
@@ -294,6 +296,7 @@
   "BlackEntry": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
   "OmegaRubyEntry": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
   "dfs": 116,
+  "colour": "Green",
   "hasAlolan": false,
   "DiamondEntry": "One caused a news sensation when it was dug up at a construction site after a 2000-year sleep.",
   "SoulsilverEntry": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",

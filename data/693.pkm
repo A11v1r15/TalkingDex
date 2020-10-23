@@ -149,11 +149,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aqua Tail"},
-    {"move": "Bubble Beam"},
-    {"move": "Entrainment"}
-  ],
+  "eggMoves": [],
   "XEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
   "UltraMoonEntry": "Its right arm is packed with meat. When its pincer falls off, it's exported to be used as a cooking ingredient.",
   "number": 693,
@@ -161,6 +157,7 @@
   "UltraSunEntry": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
   "atk": 73,
   "abilityHidden": "",
+  "height": "1.3m",
   "lvlUpMoves": [
     {
       "move": "Dark Pulse",
@@ -230,12 +227,14 @@
   "type2": "",
   "eggGroup2": "Water 3",
   "spd": 59,
+  "weight": "35.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "OmegaRubyEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
   "dfs": 88,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Clawitzer",
   "SwordEntry": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",

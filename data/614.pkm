@@ -205,17 +205,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Focus Punch"},
-    {"move": "Night Slash"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "XEntry": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
   "number": 614,
   "spatk": 70,
   "atk": 130,
   "abilityHidden": "Swift Swim",
+  "height": "2.6m",
   "lvlUpMoves": [
+    {
+      "move": "Icicle Crash",
+      "lvl": "0"
+    },
     {
       "move": "Icicle Crash",
       "lvl": "1"
@@ -243,10 +244,6 @@
     {
       "move": "Fury Swipes",
       "lvl": "1"
-    },
-    {
-      "move": "Icicle Crash",
-      "lvl": ""
     },
     {
       "move": "Icy Wind",
@@ -305,6 +302,7 @@
   "WhiteEntry": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "260.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ice",
@@ -312,6 +310,7 @@
   "BlackEntry": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
   "OmegaRubyEntry": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
   "dfs": 80,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Beartic",
   "White2Entry": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",

@@ -7,25 +7,27 @@
   "SilverEntry": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
   "ability2": "Neutralizing Gas",
   "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Grudge"},
-    {"move": "Pain Split"},
     {"move": "Psybeam"},
+    {"move": "Pain Split"},
+    {"move": "Grudge"},
     {"move": "Spite"},
+    {"move": "Curse"},
     {"move": "Stockpile"},
-    {"move": "Spit Up"},
-    {"move": "Swallow"}
+    {"move": "Swallow"},
+    {"move": "Spit Up"}
   ],
   "number": 109,
   "109Entry": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
   "spatk": 60,
   "atk": 65,
   "RedEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "height": "0.6m",
   "type2": "",
   "WhiteEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
   "eggGroup2": "",
   "spd": 35,
   "CrystalEntry": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen.",
+  "weight": "1.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Poison",
@@ -44,10 +46,6 @@
   "HearthGoldEntry": "Its thin, flimsy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
   "YEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
   "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
     {
       "move": "Screech",
       "technical": "TM16"
@@ -243,6 +241,7 @@
   "BlackEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
   "OmegaRubyEntry": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
   "LetsGoEeveeEntry": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+  "colour": "Purple",
   "SoulsilverEntry": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
   "FireRedEntry": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
   "White2Entry": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",

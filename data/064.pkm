@@ -6,11 +6,7 @@
   "hp": 40,
   "SilverEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
   "ability2": "Inner Focus",
-  "eggMoves": [
-    {"move": "Confusion"},
-    {"move": "Guard Split"},
-    {"move": "Magic Coat"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It possesses strong mental capabilities, but its psychic powers are halved when it's not holding a silver spoon.",
   "number": 64,
   "MoonEntry": "Kadabra's presence infests televisions and monitors with creepy shadows that bring bad luck.",
@@ -19,11 +15,13 @@
   "64Entry": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
   "atk": 35,
   "RedEntry": "It emits special alpha waves from its body that induce headaches just by being close by.",
+  "height": "1.3m",
   "type2": "",
   "WhiteEntry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
   "eggGroup2": "",
   "spd": 105,
   "CrystalEntry": "When it closes its eyes, twice as many alpha particles come out of the surface of its body.",
+  "weight": "56.5kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Psychic",
@@ -255,6 +253,10 @@
   "lvlUpMoves": [
     {
       "move": "Confusion",
+      "lvl": "0"
+    },
+    {
+      "move": "Confusion",
       "lvl": "1"
     },
     {
@@ -268,10 +270,6 @@
     {
       "move": "Teleport",
       "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": ""
     },
     {
       "move": "Psybeam",
@@ -318,6 +316,7 @@
   "BlackEntry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
   "OmegaRubyEntry": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a trainer of this Pokémon.",
   "LetsGoEeveeEntry": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+  "colour": "Brown",
   "SoulsilverEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
   "FireRedEntry": "It happened one morning - a boy with extrasensory powers awoke in bed transformed into Kadabra.",
   "White2Entry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",

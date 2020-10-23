@@ -140,19 +140,20 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Double"},
     {"move": "Belch"},
     {"move": "Curse"},
-    {"move": "Defense Curl"},
-    {"move": "Double-Edge"},
-    {"move": "Fissure"},
     {"move": "Slam"},
+    {"move": "Fissure"},
     {"move": "Swagger"},
-    {"move": "Whirlwind"}
+    {"move": "Whirlwind"},
+    {"move": "Defense Curl"}
   ],
   "number": 878,
   "spatk": 40,
   "atk": 80,
   "abilityHidden": "Heavy Metal",
+  "height": "1.2m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -210,11 +211,13 @@
   "type2": "",
   "eggGroup2": "Mineral",
   "spd": 40,
+  "weight": "100.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "dfs": 49,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Cufant",
   "SwordEntry": "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",

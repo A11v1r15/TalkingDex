@@ -6,27 +6,18 @@
   "hp": 75,
   "SilverEntry": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "After You"},
-    {"move": "Flail"},
-    {"move": "Ingrain"},
-    {"move": "Leech Seed"},
-    {"move": "Nature Power"},
-    {"move": "Razor Leaf"},
-    {"move": "Strength Sap"},
-    {"move": "Synthesis"},
-    {"move": "Teeter Dance"},
-    {"move": "Tickle"}
-  ],
+  "eggMoves": [],
   "number": 45,
   "spatk": 110,
   "atk": 80,
   "RedEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+  "height": "1.2m",
   "type2": "Poison",
   "WhiteEntry": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
   "eggGroup2": "",
   "spd": 50,
   "CrystalEntry": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow.",
+  "weight": "18.6kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -174,6 +165,10 @@
   "lvlUpMoves": [
     {
       "move": "Petal Blizzard",
+      "lvl": "0"
+    },
+    {
+      "move": "Petal Blizzard",
       "lvl": "1"
     },
     {
@@ -235,16 +230,13 @@
     {
       "move": "Sweet Scent",
       "lvl": "1"
-    },
-    {
-      "move": "Petal Blizzard",
-      "lvl": ""
     }
   ],
   "RubyEntry": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
   "BlackEntry": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
   "OmegaRubyEntry": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
   "LetsGoEeveeEntry": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+  "colour": "Red",
   "SoulsilverEntry": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
   "FireRedEntry": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.",
   "White2Entry": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",

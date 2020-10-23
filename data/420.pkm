@@ -111,16 +111,16 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Razor Leaf"},
+    {"move": "Sweet Scent"},
+    {"move": "Tickle"},
+    {"move": "Nature Power"},
     {"move": "Aromatherapy"},
-    {"move": "Defense Curl"},
-    {"move": "Flower Shield"},
     {"move": "Heal Pulse"},
     {"move": "Healing Wish"},
-    {"move": "Nature Power"},
-    {"move": "Razor Leaf"},
-    {"move": "Rollout"},
-    {"move": "Sweet Scent"},
-    {"move": "Tickle"}
+    {"move": "Defense Curl"},
+    {"move": "Flower Shield"},
+    {"move": "Rollout"}
   ],
   "XEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
   "number": 420,
@@ -128,6 +128,7 @@
   "atk": 35,
   "PlatinumEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
   "abilityHidden": "",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Morning Sun",
@@ -178,6 +179,7 @@
   "WhiteEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
   "eggGroup2": "Grass",
   "spd": 35,
+  "weight": "3.3kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Grass",
@@ -185,6 +187,7 @@
   "BlackEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
   "OmegaRubyEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
   "dfs": 45,
+  "colour": "Pink",
   "hasAlolan": false,
   "DiamondEntry": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
   "SoulsilverEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",

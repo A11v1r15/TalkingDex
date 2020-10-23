@@ -157,17 +157,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Metal Sound"},
-    {"move": "Slash"},
-    {"move": "Submission"}
-  ],
+  "eggMoves": [],
   "XEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
   "number": 530,
   "spatk": 50,
   "atk": 135,
   "abilityHidden": "Mold Breaker",
+  "height": "0.7m",
   "lvlUpMoves": [
+    {
+      "move": "Horn Drill",
+      "lvl": "0"
+    },
     {
       "move": "Horn Drill",
       "lvl": "1"
@@ -187,10 +188,6 @@
     {
       "move": "Hone Claws",
       "lvl": "1"
-    },
-    {
-      "move": "Horn Drill",
-      "lvl": ""
     },
     {
       "move": "Fury Swipes",
@@ -237,6 +234,7 @@
   "WhiteEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
   "eggGroup2": "",
   "spd": 88,
+  "weight": "40.4kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
@@ -244,6 +242,7 @@
   "BlackEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
   "OmegaRubyEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
   "dfs": 60,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Excadrill",
   "White2Entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",

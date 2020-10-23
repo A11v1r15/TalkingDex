@@ -56,14 +56,15 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Bug Bite"},
     {"move": "Fairy Wind"},
-    {"move": "Mirror Coat"}
+    {"move": "Mirror Coat"},
+    {"move": "Bug Bite"}
   ],
   "number": 872,
   "spatk": 45,
   "atk": 25,
   "abilityHidden": "Ice Scales",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Powder Snow",
@@ -77,11 +78,13 @@
   "type2": "Bug",
   "eggGroup2": "",
   "spd": 20,
+  "weight": "3.8kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
   "dfs": 35,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Snom",
   "SwordEntry": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",

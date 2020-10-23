@@ -114,16 +114,17 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Water Pulse"},
     {"move": "Mist"},
-    {"move": "Mud-Slap"},
     {"move": "Toxic"},
-    {"move": "Water Pulse"}
+    {"move": "Mud"}
   ],
   "XEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
   "number": 535,
   "spatk": 50,
   "atk": 50,
   "abilityHidden": "Water Absorb",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Echoed Voice",
@@ -186,6 +187,7 @@
   "WhiteEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
   "eggGroup2": "",
   "spd": 64,
+  "weight": "4.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
@@ -193,6 +195,7 @@
   "BlackEntry": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
   "OmegaRubyEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
   "dfs": 40,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Tympole",
   "White2Entry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",

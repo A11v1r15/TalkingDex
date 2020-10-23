@@ -191,21 +191,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Belch"},
-    {"move": "Curse"},
-    {"move": "Defense Curl"},
-    {"move": "Double-Edge"},
-    {"move": "Fissure"},
-    {"move": "Slam"},
-    {"move": "Swagger"},
-    {"move": "Whirlwind"}
-  ],
+  "eggMoves": [],
   "number": 879,
   "spatk": 80,
   "atk": 130,
   "abilityHidden": "Heavy Metal",
+  "height": "3.0m",
   "lvlUpMoves": [
+    {
+      "move": "Heavy Slam",
+      "lvl": "0"
+    },
     {
       "move": "Heavy Slam",
       "lvl": "1"
@@ -225,10 +221,6 @@
     {
       "move": "Rock Smash",
       "lvl": "1"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": ""
     },
     {
       "move": "Bulldoze",
@@ -270,11 +262,13 @@
   "type2": "",
   "eggGroup2": "Mineral",
   "spd": 30,
+  "weight": "650.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "dfs": 69,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Copperajah",
   "SwordEntry": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",

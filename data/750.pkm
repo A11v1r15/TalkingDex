@@ -152,12 +152,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Fissure"},
-    {"move": "Roar"},
-    {"move": "Smack Down"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load.",
   "number": 750,
   "MoonEntry": "Its heavy, mud-covered kicks are its best means of attack, and it can reduce large trucks to scrap without breaking a sweat.",
@@ -165,6 +160,7 @@
   "UltraSunEntry": "It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.",
   "atk": 125,
   "abilityHidden": "Inner Focus",
+  "height": "2.5m",
   "lvlUpMoves": [
     {
       "move": "Mud-Slap",
@@ -222,11 +218,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 35,
+  "weight": "920.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
   "dfs": 100,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Mudsdale",
   "SwordEntry": "Mud that hardens around a Mudsdale's legs sets harder than stone. It's so hard that it allows this Pokémon to scrap a truck with a single kick.",

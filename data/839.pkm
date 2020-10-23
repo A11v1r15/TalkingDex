@@ -187,16 +187,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Block"},
-    {"move": "Explosion"},
-    {"move": "Mud-Slap"}
-  ],
+  "eggMoves": [],
   "number": 839,
   "spatk": 80,
   "atk": 80,
   "abilityHidden": "Flash Fire",
+  "height": "2.8m",
   "lvlUpMoves": [
+    {
+      "move": "Tar Shot",
+      "lvl": "0"
+    },
     {
       "move": "Tar Shot",
       "lvl": "1"
@@ -220,10 +221,6 @@
     {
       "move": "Smack Down",
       "lvl": "1"
-    },
-    {
-      "move": "Tar Shot",
-      "lvl": ""
     },
     {
       "move": "Rock Polish",
@@ -257,11 +254,13 @@
   "type2": "Fire",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "310.5kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "dfs": 120,
+  "colour": "Black",
   "hasAlolan": false,
   "name": "Coalossal",
   "SwordEntry": "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",

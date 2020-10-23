@@ -126,25 +126,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aromatherapy"},
-    {"move": "Defense Curl"},
-    {"move": "Flower Shield"},
-    {"move": "Heal Pulse"},
-    {"move": "Healing Wish"},
-    {"move": "Nature Power"},
-    {"move": "Razor Leaf"},
-    {"move": "Rollout"},
-    {"move": "Sweet Scent"},
-    {"move": "Tickle"}
-  ],
+  "eggMoves": [],
   "XEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
   "number": 421,
   "spatk": 87,
   "atk": 60,
   "PlatinumEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
   "abilityHidden": "",
+  "height": "0.5m",
   "lvlUpMoves": [
+    {
+      "move": "Sunny Day",
+      "lvl": "0"
+    },
     {
       "move": "Sunny Day",
       "lvl": "1"
@@ -168,10 +162,6 @@
     {
       "move": "Growth",
       "lvl": "1"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": ""
     },
     {
       "move": "Helping Hand",
@@ -210,6 +200,7 @@
   "WhiteEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
   "eggGroup2": "Grass",
   "spd": 85,
+  "weight": "9.3kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Grass",
@@ -217,6 +208,7 @@
   "BlackEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
   "OmegaRubyEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
   "dfs": 70,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
   "SoulsilverEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",

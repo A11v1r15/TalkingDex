@@ -213,17 +213,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Acid Armor"},
-    {"move": "Astonish"},
-    {"move": "Confuse Ray"}
-  ],
+  "eggMoves": [],
   "XEntry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
   "number": 579,
   "spatk": 125,
   "atk": 65,
   "abilityHidden": "Regenerator",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Hammer Arm",
+      "lvl": "0"
+    },
     {
       "move": "Hammer Arm",
       "lvl": "1"
@@ -243,10 +244,6 @@
     {
       "move": "Endeavor",
       "lvl": "1"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": ""
     },
     {
       "move": "Psybeam",
@@ -297,6 +294,7 @@
   "WhiteEntry": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "20.1kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Psychic",
@@ -304,6 +302,7 @@
   "BlackEntry": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
   "OmegaRubyEntry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
   "dfs": 75,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Reuniclus",
   "White2Entry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",

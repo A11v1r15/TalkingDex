@@ -112,17 +112,17 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Acid Armor"},
-    {"move": "Clear Smog"},
     {"move": "Counter"},
-    {"move": "Curse"},
     {"move": "Mirror Coat"},
-    {"move": "Mist"},
-    {"move": "Sludge"},
-    {"move": "Spit Up"},
     {"move": "Stockpile"},
     {"move": "Swallow"},
-    {"move": "Yawn"}
+    {"move": "Spit Up"},
+    {"move": "Yawn"},
+    {"move": "Curse"},
+    {"move": "Sludge"},
+    {"move": "Clear Smog"},
+    {"move": "Mist"},
+    {"move": "Acid Armor"}
   ],
   "XEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
   "UltraMoonEntry": "Scientists interested in its great regenerative capabilities are currently analyzing the materials from which its cells are made.",
@@ -133,6 +133,7 @@
   "atk": 48,
   "PlatinumEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
   "abilityHidden": "Sand Force",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -183,6 +184,7 @@
   "WhiteEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
   "eggGroup2": "Amorphous",
   "spd": 34,
+  "weight": "6.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
@@ -190,6 +192,7 @@
   "BlackEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
   "OmegaRubyEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
   "dfs": 48,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "Its color and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
   "SoulsilverEntry": "Its shape and coloration vary, depending on its habitat.",

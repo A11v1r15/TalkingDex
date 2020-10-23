@@ -144,11 +144,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aqua Ring"},
-    {"move": "Life Dew"},
-    {"move": "Perish Song"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
   "number": 729,
   "MoonEntry": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
@@ -156,6 +152,7 @@
   "UltraSunEntry": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
   "atk": 69,
   "abilityHidden": "Liquid Voice",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -217,11 +214,13 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 50,
+  "weight": "17.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 69,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Brionne",
   "SwordEntry": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.",

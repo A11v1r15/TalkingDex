@@ -128,12 +128,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Growth"},
-    {"move": "Leech Seed"},
-    {"move": "Poison Powder"},
-    {"move": "Stun Spore"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
   "number": 756,
   "MoonEntry": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
@@ -141,6 +136,7 @@
   "UltraSunEntry": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
   "atk": 45,
   "abilityHidden": "Rain Dish",
+  "height": "1.0m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -198,11 +194,13 @@
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "11.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Shiinotic",
   "SwordEntry": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",

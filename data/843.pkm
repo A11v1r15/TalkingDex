@@ -84,16 +84,17 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Belch"},
     {"move": "Dragon Rush"},
+    {"move": "Mud"},
     {"move": "Last Resort"},
-    {"move": "Mud-Slap"},
+    {"move": "Belch"},
     {"move": "Poison Tail"}
   ],
   "number": 843,
   "spatk": 35,
   "atk": 57,
   "abilityHidden": "Sand Veil",
+  "height": "2.2m",
   "lvlUpMoves": [
     {
       "move": "Wrap",
@@ -147,11 +148,13 @@
   "type2": "",
   "eggGroup2": "Dragon",
   "spd": 46,
+  "weight": "7.6kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Silicobra",
   "SwordEntry": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",

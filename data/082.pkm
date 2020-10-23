@@ -14,11 +14,13 @@
   "UltraSunEntry": "Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.",
   "atk": 60,
   "RedEntry": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+  "height": "1.0m",
   "type2": "Steel",
   "WhiteEntry": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
   "eggGroup2": "",
   "spd": 70,
   "CrystalEntry": "When many Magneton gather together, the resulting magnetic storm disrupts radio waves.",
+  "weight": "60.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Electric",
@@ -159,6 +161,10 @@
   "lvlUpMoves": [
     {
       "move": "Tri Attack",
+      "lvl": "0"
+    },
+    {
+      "move": "Tri Attack",
       "lvl": "1"
     },
     {
@@ -180,10 +186,6 @@
     {
       "move": "Thunder Wave",
       "lvl": "1"
-    },
-    {
-      "move": "Tri Attack",
-      "lvl": ""
     },
     {
       "move": "Electro Ball",
@@ -234,6 +236,7 @@
   "BlackEntry": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
   "OmegaRubyEntry": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
   "LetsGoEeveeEntry": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+  "colour": "Gray",
   "SoulsilverEntry": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinity.",
   "FireRedEntry": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
   "White2Entry": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",

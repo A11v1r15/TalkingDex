@@ -134,17 +134,18 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Double Team"},
-    {"move": "Infestation"},
-    {"move": "Lunge"},
     {"move": "Poison Sting"},
-    {"move": "Struggle Bug"}
+    {"move": "Lunge"},
+    {"move": "Struggle Bug"},
+    {"move": "Double Team"},
+    {"move": "Infestation"}
   ],
   "XEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "number": 595,
   "spatk": 57,
   "atk": 47,
   "abilityHidden": "Swarm",
+  "height": "0.1m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -207,6 +208,7 @@
   "WhiteEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "0.6kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
@@ -214,6 +216,7 @@
   "BlackEntry": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
   "OmegaRubyEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "dfs": 50,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Joltik",
   "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",

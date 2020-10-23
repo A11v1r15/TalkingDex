@@ -119,11 +119,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Autotomize"},
-    {"move": "Curse"},
     {"move": "Haze"},
-    {"move": "Rollout"},
-    {"move": "Sand Attack"}
+    {"move": "Curse"},
+    {"move": "Sand Attack"},
+    {"move": "Autotomize"},
+    {"move": "Rollout"}
   ],
   "XEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
   "UltraMoonEntry": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
@@ -133,6 +133,7 @@
   "UltraSunEntry": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
   "atk": 50,
   "abilityHidden": "Aftermath",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -207,6 +208,7 @@
   "WhiteEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "31.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Poison",
@@ -214,6 +216,7 @@
   "BlackEntry": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
   "OmegaRubyEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
   "dfs": 62,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Trubbish",
   "White2Entry": "Wanting more garbage, they follow people who litter. They always belch poison gas.",

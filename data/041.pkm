@@ -7,6 +7,15 @@
   "SilverEntry": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
   "ability2": "",
   "UltraMoonEntry": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
+  "eggMoves": [
+    {"move": "Curse"},
+    {"move": "Defog"},
+    {"move": "Gust"},
+    {"move": "Hypnosis"},
+    {"move": "Quick Attack"},
+    {"move": "Whirlwind"},
+    {"move": "Wing Attack"}
+  ],
   "number": 41,
   "MoonEntry": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
   "spatk": 30,
@@ -14,11 +23,13 @@
   "41Entry": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
   "atk": 45,
   "RedEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+  "height": "0.8m",
   "type2": "Flying",
   "WhiteEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
   "eggGroup2": "",
   "spd": 55,
   "CrystalEntry": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
+  "weight": "7.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Poison",
@@ -36,14 +47,207 @@
   "HearthGoldEntry": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
   "YEntry": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
   "SunEntry": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
   "PlatinumEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
   "abilityHidden": "Infiltrator",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "5"
+    },
+    {
+      "move": "Mean Look",
+      "lvl": "10"
+    },
+    {
+      "move": "Poison Fang",
+      "lvl": "15"
+    },
+    {
+      "move": "Quick Guard",
+      "lvl": "20"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "25"
+    },
+    {
+      "move": "Bite",
+      "lvl": "30"
+    },
+    {
+      "move": "Haze",
+      "lvl": "35"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "40"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "45"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "50"
+    },
+    {
+      "move": "Leech Life",
+      "lvl": "55"
+    }
+  ],
   "RubyEntry": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
   "BlackEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
   "OmegaRubyEntry": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
   "LetsGoEeveeEntry": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+  "colour": "Purple",
   "SoulsilverEntry": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
   "FireRedEntry": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
   "White2Entry": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",

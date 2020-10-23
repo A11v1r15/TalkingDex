@@ -1,14 +1,36 @@
 {
-  "ShieldEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-  "extraMega": false,
-  "HearthGoldEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
   "EmeraldEntry": "A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
   "ability1": "Oblivious",
-  "YEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
   "AlphaSapphireEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
   "hp": 100,
   "SilverEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "ability2": "Snow Cloak",
+  "eggMoves": [],
+  "number": 221,
+  "spatk": 60,
+  "atk": 100,
+  "height": "1.1m",
+  "type2": "Ground",
+  "WhiteEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+  "eggGroup2": "",
+  "spd": 50,
+  "CrystalEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+  "weight": "55.8kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Ice",
+  "hasGalarian": false,
+  "dfs": 80,
+  "GoldEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+  "SapphireEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+  "hasAlolan": false,
+  "DiamondEntry": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+  "name": "Piloswine",
+  "spdfs": 60,
+  "ShieldEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+  "extraMega": false,
+  "HearthGoldEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+  "YEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
   "tmTrMoves": [
     {
       "move": "Hyper Beam",
@@ -164,22 +186,14 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Bite"},
-    {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Fissure"},
-    {"move": "Freeze-Dry"},
-    {"move": "Icicle Crash"}
-  ],
   "XEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-  "number": 221,
-  "spatk": 60,
-  "atk": 100,
   "PlatinumEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
   "abilityHidden": "Thick Fat",
   "lvlUpMoves": [
+    {
+      "move": "Ice Fang",
+      "lvl": "0"
+    },
     {
       "move": "Ice Fang",
       "lvl": "1"
@@ -203,10 +217,6 @@
     {
       "move": "Flail",
       "lvl": "1"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": ""
     },
     {
       "move": "Ice Shard",
@@ -245,30 +255,15 @@
       "lvl": "65"
     }
   ],
-  "type2": "Ground",
-  "WhiteEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
-  "eggGroup2": "",
-  "spd": 50,
-  "CrystalEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
-  "eggGroup1": "Field",
   "RubyEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": false,
   "BlackEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
   "OmegaRubyEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
-  "dfs": 80,
-  "GoldEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-  "SapphireEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
-  "hasAlolan": false,
-  "DiamondEntry": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+  "colour": "Brown",
   "SoulsilverEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
-  "name": "Piloswine",
   "FireRedEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "White2Entry": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground.",
   "SwordEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "PearlEntry": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
-  "spdfs": 60,
   "category": "Swine Pokémon",
   "LeafGreenEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
   "Black2Entry": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground."

@@ -128,13 +128,13 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Leech Seed"},
+    {"move": "Synthesis"},
     {"move": "Razor Leaf"},
     {"move": "Sweet Scent"},
-    {"move": "Synthesis"},
-    {"move": "Teeter Dance"},
-    {"move": "Tickle"}
+    {"move": "Leech Seed"},
+    {"move": "Tickle"},
+    {"move": "Counter"},
+    {"move": "Teeter Dance"}
   ],
   "XEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "number": 270,
@@ -142,6 +142,7 @@
   "atk": 30,
   "PlatinumEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "abilityHidden": "Own Tempo",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Astonish",
@@ -200,6 +201,7 @@
   "WhiteEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "eggGroup2": "Grass",
   "spd": 30,
+  "weight": "2.6kg",
   "eggGroup1": "Water 1",
   "RubyEntry": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
   "hasMega": false,
@@ -209,6 +211,7 @@
   "OmegaRubyEntry": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
   "dfs": 30,
   "SapphireEntry": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+  "colour": "Green",
   "hasAlolan": false,
   "DiamondEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "SoulsilverEntry": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",

@@ -116,18 +116,19 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Sky Attack"},
+    {"move": "Sand Attack"},
+    {"move": "Tailwind"},
     {"move": "Defog"},
     {"move": "Rock Smash"},
-    {"move": "Roost"},
-    {"move": "Sand Attack"},
-    {"move": "Sky Attack"},
     {"move": "Spite"},
-    {"move": "Tailwind"}
+    {"move": "Roost"}
   ],
   "number": 821,
   "spatk": 33,
   "atk": 47,
   "abilityHidden": "Big Pecks",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Peck",
@@ -177,11 +178,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 57,
+  "weight": "1.8kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
   "dfs": 35,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Rookidee",
   "SwordEntry": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle\u2014even a defeat increases its strength a bit.",

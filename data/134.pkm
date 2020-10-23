@@ -6,16 +6,7 @@
   "hp": 130,
   "SilverEntry": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
   "number": 134,
   "MoonEntry": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
@@ -23,11 +14,13 @@
   "UltraSunEntry": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
   "atk": 65,
   "RedEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+  "height": "1.0m",
   "type2": "",
   "WhiteEntry": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
   "eggGroup2": "",
   "spd": 65,
   "CrystalEntry": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+  "weight": "29.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Water",
@@ -223,6 +216,10 @@
   "lvlUpMoves": [
     {
       "move": "Water Gun",
+      "lvl": "0"
+    },
+    {
+      "move": "Water Gun",
       "lvl": "1"
     },
     {
@@ -274,10 +271,6 @@
       "lvl": "1"
     },
     {
-      "move": "Water Gun",
-      "lvl": ""
-    },
-    {
       "move": "Sand Attack",
       "lvl": "5"
     },
@@ -326,6 +319,7 @@
   "BlackEntry": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
   "OmegaRubyEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
   "LetsGoEeveeEntry": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+  "colour": "Blue",
   "134Entry": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
   "SoulsilverEntry": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
   "FireRedEntry": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",

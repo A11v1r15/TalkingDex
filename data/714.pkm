@@ -164,13 +164,14 @@
   "UltraSunEntry": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.",
   "atk": 30,
   "abilityHidden": "Telepathy",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
-      "move": "Tackle",
+      "move": "Absorb",
       "lvl": "1"
     },
     {
-      "move": "Absorb",
+      "move": "Tackle",
       "lvl": "1"
     },
     {
@@ -229,12 +230,14 @@
   "type2": "Dragon",
   "eggGroup2": "Dragon",
   "spd": 55,
+  "weight": "8.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
   "OmegaRubyEntry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
   "dfs": 35,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Noibat",
   "SwordEntry": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",

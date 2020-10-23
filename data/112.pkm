@@ -6,24 +6,18 @@
   "hp": 105,
   "SilverEntry": "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
   "ability2": "Rock Head",
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Curse"},
-    {"move": "Dragon Rush"},
-    {"move": "Guard Split"},
-    {"move": "Metal Burst"},
-    {"move": "Rock Polish"},
-    {"move": "Skull Bash"}
-  ],
+  "eggMoves": [],
   "number": 112,
   "spatk": 45,
   "atk": 130,
   "RedEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+  "height": "1.9m",
   "type2": "Rock",
   "WhiteEntry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
   "eggGroup2": "Field",
   "spd": 40,
   "CrystalEntry": "By lightly spinning its drill-like horn, it can easily shatter even a diamond in the rough.",
+  "weight": "120.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Ground",
@@ -342,6 +336,10 @@
   "lvlUpMoves": [
     {
       "move": "Hammer Arm",
+      "lvl": "0"
+    },
+    {
+      "move": "Hammer Arm",
       "lvl": "1"
     },
     {
@@ -359,10 +357,6 @@
     {
       "move": "Bulldoze",
       "lvl": "1"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": ""
     },
     {
       "move": "Horn Attack",
@@ -409,6 +403,7 @@
   "BlackEntry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
   "OmegaRubyEntry": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
   "LetsGoEeveeEntry": "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
+  "colour": "Gray",
   "SoulsilverEntry": "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
   "FireRedEntry": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
   "White2Entry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",

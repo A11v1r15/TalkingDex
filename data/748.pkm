@@ -148,13 +148,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Haze"},
-    {"move": "Infestation"},
-    {"move": "Spit Up"},
-    {"move": "Stockpile"},
-    {"move": "Swallow"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.",
   "number": 748,
   "MoonEntry": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
@@ -162,7 +156,12 @@
   "UltraSunEntry": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
   "atk": 63,
   "abilityHidden": "Regenerator",
+  "height": "0.7m",
   "lvlUpMoves": [
+    {
+      "move": "Baneful Bunker",
+      "lvl": "0"
+    },
     {
       "move": "Baneful Bunker",
       "lvl": "1"
@@ -182,10 +181,6 @@
     {
       "move": "Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Baneful Bunker",
-      "lvl": ""
     },
     {
       "move": "Venoshock",
@@ -223,11 +218,13 @@
   "type2": "Water",
   "eggGroup2": "",
   "spd": 35,
+  "weight": "14.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
   "dfs": 152,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Toxapex",
   "SwordEntry": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",

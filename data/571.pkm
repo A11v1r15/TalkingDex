@@ -209,14 +209,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Copycat"},
-    {"move": "Counter"},
-    {"move": "Detect"},
-    {"move": "Extrasensory"},
-    {"move": "Memento"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "XEntry": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
   "UltraMoonEntry": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
   "number": 571,
@@ -224,7 +217,12 @@
   "UltraSunEntry": "It doesn't just transform itself\u2014it also has the power to make hundreds of people see its illusions.",
   "atk": 105,
   "abilityHidden": "",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Night Slash",
+      "lvl": "0"
+    },
     {
       "move": "Night Slash",
       "lvl": "1"
@@ -248,10 +246,6 @@
     {
       "move": "Hone Claws",
       "lvl": "1"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": ""
     },
     {
       "move": "Fury Swipes",
@@ -298,6 +292,7 @@
   "WhiteEntry": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
   "eggGroup2": "",
   "spd": 105,
+  "weight": "81.1kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
@@ -305,6 +300,7 @@
   "BlackEntry": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
   "OmegaRubyEntry": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
   "dfs": 60,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Zoroark",
   "White2Entry": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",

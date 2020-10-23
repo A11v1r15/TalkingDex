@@ -128,12 +128,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Power Split"},
-    {"move": "Spit Up"},
-    {"move": "Sticky Web"},
-    {"move": "Stockpile"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!",
   "number": 752,
   "MoonEntry": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.",
@@ -141,6 +136,7 @@
   "UltraSunEntry": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
   "atk": 70,
   "abilityHidden": "Water Absorb",
+  "height": "1.8m",
   "lvlUpMoves": [
     {
       "move": "Wide Guard",
@@ -206,11 +202,13 @@
   "type2": "Bug",
   "eggGroup2": "Bug",
   "spd": 42,
+  "weight": "82.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 92,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Araquanid",
   "SwordEntry": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",

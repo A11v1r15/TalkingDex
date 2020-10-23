@@ -191,21 +191,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Defog"},
-    {"move": "Leech Seed"},
-    {"move": "Night Slash"},
-    {"move": "Quick Attack"},
-    {"move": "Take Down"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "XEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "number": 274,
   "spatk": 60,
   "atk": 70,
   "PlatinumEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "abilityHidden": "Pickpocket",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Razor Leaf",
+      "lvl": "0"
+    },
     {
       "move": "Razor Leaf",
       "lvl": "1"
@@ -251,10 +249,6 @@
       "lvl": "1"
     },
     {
-      "move": "Razor Leaf",
-      "lvl": ""
-    },
-    {
       "move": "Growth",
       "lvl": "9"
     },
@@ -295,6 +289,7 @@
   "WhiteEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "eggGroup2": "Grass",
   "spd": 60,
+  "weight": "28.0kg",
   "eggGroup1": "Field",
   "RubyEntry": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to scare people. This Pokémon dislikes having its long nose pinched.",
   "hasMega": false,
@@ -304,6 +299,7 @@
   "OmegaRubyEntry": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched.",
   "dfs": 40,
   "SapphireEntry": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+  "colour": "Brown",
   "hasAlolan": false,
   "DiamondEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "SoulsilverEntry": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",

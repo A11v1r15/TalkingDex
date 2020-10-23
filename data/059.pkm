@@ -6,13 +6,7 @@
   "hp": 90,
   "SilverEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
   "ability2": "Flash Fire",
-  "eggMoves": [
-    {"move": "Covet"},
-    {"move": "Double-Edge"},
-    {"move": "Double Kick"},
-    {"move": "Morning Sun"},
-    {"move": "Thrash"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "There are so many old tales about them that they're called legendary Pokémon, but there are way more of them around than you'd expect.",
   "number": 59,
   "MoonEntry": "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
@@ -20,11 +14,13 @@
   "UltraSunEntry": "Legends tell of its fighting alongside a general and conquering a whole country.",
   "atk": 110,
   "RedEntry": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+  "height": "1.9m",
   "type2": "",
   "WhiteEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "eggGroup2": "",
   "spd": 95,
   "CrystalEntry": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+  "weight": "155.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
@@ -229,6 +225,10 @@
   "lvlUpMoves": [
     {
       "move": "Extreme Speed",
+      "lvl": "0"
+    },
+    {
+      "move": "Extreme Speed",
       "lvl": "1"
     },
     {
@@ -298,16 +298,13 @@
     {
       "move": "Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Extreme Speed",
-      "lvl": ""
     }
   ],
   "RubyEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
   "BlackEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "OmegaRubyEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
   "LetsGoEeveeEntry": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
+  "colour": "Brown",
   "SoulsilverEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
   "FireRedEntry": "A Pokémon that is described in Chinese legends. It is said to race at an unbelievable speed.",
   "White2Entry": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",

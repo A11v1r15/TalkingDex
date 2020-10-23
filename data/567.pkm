@@ -6,19 +6,270 @@
   "hp": 75,
   "SunEntry": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph.",
   "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Dragon Claw",
+      "technical": "TR47"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
   "UltraMoonEntry": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+  "eggMoves": [],
   "number": 567,
   "MoonEntry": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
   "spatk": 112,
   "UltraSunEntry": "This ancient Pokémon's plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
   "atk": 140,
   "abilityHidden": "",
+  "height": "1.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Rock Throw",
+      "lvl": "1"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "9"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "12"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "15"
+    },
+    {
+      "move": "Quick Guard",
+      "lvl": "18"
+    },
+    {
+      "move": "U-turn",
+      "lvl": "21"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "27"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "30"
+    },
+    {
+      "move": "Agility",
+      "lvl": "33"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "36"
+    },
+    {
+      "move": "Dragon Claw",
+      "lvl": "41"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "46"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "51"
+    }
+  ],
   "type2": "Flying",
   "WhiteEntry": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
   "eggGroup2": "Water 3",
   "spd": 110,
+  "weight": "32.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Rock",
@@ -26,6 +277,7 @@
   "BlackEntry": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
   "OmegaRubyEntry": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
   "dfs": 65,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Archeops",
   "White2Entry": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",

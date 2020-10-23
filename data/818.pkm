@@ -183,20 +183,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Aqua Jet"},
-    {"move": "Aqua Ring"},
-    {"move": "Double Team"},
-    {"move": "Fell Stinger"},
-    {"move": "Haze"},
-    {"move": "Ice Shard"},
-    {"move": "Mist"}
-  ],
+  "eggMoves": [],
   "number": 818,
   "spatk": 125,
   "atk": 85,
   "abilityHidden": "Sniper",
+  "height": "1.9m",
   "lvlUpMoves": [
+    {
+      "move": "Snipe Shot",
+      "lvl": "0"
+    },
     {
       "move": "Snipe Shot",
       "lvl": "1"
@@ -220,10 +217,6 @@
     {
       "move": "Bind",
       "lvl": "1"
-    },
-    {
-      "move": "Snipe Shot",
-      "lvl": ""
     },
     {
       "move": "Water Pulse",
@@ -261,11 +254,13 @@
   "type2": "",
   "eggGroup2": "Field",
   "spd": 120,
+  "weight": "45.2kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Inteleon",
   "SwordEntry": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",

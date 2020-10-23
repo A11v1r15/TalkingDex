@@ -181,11 +181,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Acupressure"},
-    {"move": "Destiny Bond"},
-    {"move": "Disable"}
-  ],
+  "eggMoves": [],
   "XEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
   "UltraMoonEntry": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
   "number": 687,
@@ -193,6 +189,7 @@
   "UltraSunEntry": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
   "atk": 92,
   "abilityHidden": "Infiltrator",
+  "height": "1.5m",
   "lvlUpMoves": [
     {
       "move": "Reversal",
@@ -262,12 +259,14 @@
   "type2": "Psychic",
   "eggGroup2": "Water 2",
   "spd": 73,
+  "weight": "47.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "OmegaRubyEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
   "dfs": 88,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Malamar",
   "SwordEntry": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",

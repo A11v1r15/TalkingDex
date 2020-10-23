@@ -137,11 +137,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Haze"},
-    {"move": "Infestation"},
-    {"move": "Spit Up"},
     {"move": "Stockpile"},
-    {"move": "Swallow"}
+    {"move": "Swallow"},
+    {"move": "Spit Up"},
+    {"move": "Haze"},
+    {"move": "Infestation"}
   ],
   "UltraMoonEntry": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.",
   "number": 747,
@@ -150,6 +150,7 @@
   "UltraSunEntry": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
   "atk": 53,
   "abilityHidden": "Regenerator",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Poison Sting",
@@ -203,11 +204,13 @@
   "type2": "Water",
   "eggGroup2": "",
   "spd": 45,
+  "weight": "8.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
   "dfs": 62,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Mareanie",
   "SwordEntry": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",

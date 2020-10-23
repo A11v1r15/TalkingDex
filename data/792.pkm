@@ -204,7 +204,12 @@
   "UltraSunEntry": "Records of it exist in writings from long, long ago, where it was known by the name \u201cthe beast that calls the moon.\u201d",
   "atk": 113,
   "abilityHidden": "",
+  "height": "4.0m",
   "lvlUpMoves": [
+    {
+      "move": "Moongeist Beam",
+      "lvl": "0"
+    },
     {
       "move": "Moongeist Beam",
       "lvl": "1"
@@ -224,10 +229,6 @@
     {
       "move": "Hypnosis",
       "lvl": "1"
-    },
-    {
-      "move": "Moongeist Beam",
-      "lvl": ""
     },
     {
       "move": "Night Shade",
@@ -281,11 +282,13 @@
   "type2": "Ghost",
   "eggGroup2": "",
   "spd": 97,
+  "weight": "120.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "dfs": 89,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Lunala",
   "SwordEntry": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",

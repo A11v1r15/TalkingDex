@@ -135,20 +135,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Fake Out"},
-    {"move": "Growth"},
-    {"move": "Hammer Arm"},
-    {"move": "Leech Seed"},
-    {"move": "Nature Power"},
-    {"move": "Strength"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "number": 811,
   "spatk": 55,
   "atk": 85,
   "abilityHidden": "Grassy Surge",
+  "height": "0.7m",
   "lvlUpMoves": [
+    {
+      "move": "Double Hit",
+      "lvl": "0"
+    },
     {
       "move": "Double Hit",
       "lvl": "1"
@@ -168,10 +165,6 @@
     {
       "move": "Taunt",
       "lvl": "1"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": ""
     },
     {
       "move": "Razor Leaf",
@@ -205,11 +198,13 @@
   "type2": "",
   "eggGroup2": "Grass",
   "spd": 80,
+  "weight": "14.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 70,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Thwackey",
   "SwordEntry": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",

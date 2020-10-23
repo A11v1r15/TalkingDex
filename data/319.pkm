@@ -1,14 +1,37 @@
 {
+  "EmeraldEntry": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 mph per hour.",
+  "ability1": "Rough Skin",
+  "AlphaSapphireEntry": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon\u2019s drawback is its inability to swim long distances.",
+  "hp": 70,
+  "ability2": "",
+  "eggMoves": [],
+  "UltraMoonEntry": "It drinks in seawater and jets it from its rear to propel itself. It's very sensitive to the scent of blood.",
+  "number": 319,
+  "MoonEntry": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
+  "spatk": 95,
+  "UltraSunEntry": "People believe that carrying one of its discarded fangs will prevent mishaps at sea, so the fangs are made into accessories.",
+  "atk": 120,
+  "height": "1.8m",
+  "type2": "Dark",
+  "WhiteEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+  "eggGroup2": "",
+  "spd": 95,
+  "weight": "88.8kg",
+  "eggGroup1": "Water 2",
+  "hasMega": true,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 40,
+  "SapphireEntry": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon's drawback is its inability to swim long distances.",
+  "hasAlolan": false,
+  "DiamondEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+  "name": "Sharpedo",
+  "spdfs": 40,
   "ShieldEntry": "This Pokémon is known a the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked-no exceptions.",
   "extraMega": false,
   "HearthGoldEntry": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-  "EmeraldEntry": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 mph per hour.",
-  "ability1": "Rough Skin",
   "YEntry": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-  "AlphaSapphireEntry": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon\u2019s drawback is its inability to swim long distances.",
-  "hp": 70,
   "SunEntry": "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
-  "ability2": "",
   "tmTrMoves": [
     {
       "move": "Hyper Beam",
@@ -204,23 +227,14 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Destiny Bond"},
-    {"move": "Double-Edge"},
-    {"move": "Thrash"},
-    {"move": "Water Pulse"}
-  ],
   "XEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
-  "UltraMoonEntry": "It drinks in seawater and jets it from its rear to propel itself. It's very sensitive to the scent of blood.",
-  "number": 319,
-  "MoonEntry": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
-  "spatk": 95,
-  "UltraSunEntry": "People believe that carrying one of its discarded fangs will prevent mishaps at sea, so the fangs are made into accessories.",
-  "atk": 120,
   "PlatinumEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "abilityHidden": "Speed Boost",
   "lvlUpMoves": [
+    {
+      "move": "Slash",
+      "lvl": "0"
+    },
     {
       "move": "Slash",
       "lvl": "1"
@@ -244,10 +258,6 @@
     {
       "move": "Focus Energy",
       "lvl": "1"
-    },
-    {
-      "move": "Slash",
-      "lvl": ""
     },
     {
       "move": "Scary Face",
@@ -286,28 +296,15 @@
       "lvl": "52"
     }
   ],
-  "type2": "Dark",
-  "WhiteEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
-  "eggGroup2": "",
-  "spd": 95,
-  "eggGroup1": "Water 2",
   "RubyEntry": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
-  "hasMega": true,
-  "type1": "Water",
-  "hasGalarian": false,
   "BlackEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "OmegaRubyEntry": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
-  "dfs": 40,
-  "SapphireEntry": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon's drawback is its inability to swim long distances.",
-  "hasAlolan": false,
-  "DiamondEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+  "colour": "Blue",
   "SoulsilverEntry": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
-  "name": "Sharpedo",
   "FireRedEntry": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
   "White2Entry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "SwordEntry": "As soon as it catches the scent of its prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
   "PearlEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
-  "spdfs": 40,
   "category": "Brutal Pokémon",
   "LeafGreenEntry": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
   "Black2Entry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\""

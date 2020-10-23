@@ -6,14 +6,7 @@
   "hp": 90,
   "SilverEntry": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
   "ability2": "Damp",
-  "eggMoves": [
-    {"move": "Endeavor"},
-    {"move": "Haze"},
-    {"move": "Mind Reader"},
-    {"move": "Mist"},
-    {"move": "Splash"},
-    {"move": "Water Pulse"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "The muscles it has developed through swimming are thick and powerful. When it lands a square punch, it can turn huge boulders to dust.",
   "number": 62,
   "MoonEntry": "Its percentage of body fat is nearly zero. Its body is entirely muscle, which makes it heavy and forces its swimming prowess to develop.",
@@ -21,11 +14,13 @@
   "UltraSunEntry": "It's quite a gifted swimmer, even among Water-type Pokémon, but it normally spends its time on land.",
   "atk": 95,
   "RedEntry": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+  "height": "1.3m",
   "type2": "Fighting",
   "WhiteEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
   "eggGroup2": "",
   "spd": 70,
   "CrystalEntry": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
+  "weight": "54.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
@@ -273,6 +268,10 @@
   "lvlUpMoves": [
     {
       "move": "Submission",
+      "lvl": "0"
+    },
+    {
+      "move": "Submission",
       "lvl": "1"
     },
     {
@@ -330,16 +329,13 @@
     {
       "move": "Mud Shot",
       "lvl": "1"
-    },
-    {
-      "move": "Submission",
-      "lvl": ""
     }
   ],
   "RubyEntry": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the Pacific Ocean without effort.",
   "BlackEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
   "OmegaRubyEntry": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
   "LetsGoEeveeEntry": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
+  "colour": "Blue",
   "62Entry": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
   "SoulsilverEntry": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
   "FireRedEntry": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",

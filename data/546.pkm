@@ -115,11 +115,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Memento"},
-    {"move": "Nature Power"},
-    {"move": "Switcheroo"},
     {"move": "Tickle"},
-    {"move": "Worry Seed"}
+    {"move": "Memento"},
+    {"move": "Switcheroo"},
+    {"move": "Worry Seed"},
+    {"move": "Nature Power"}
   ],
   "XEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
   "UltraMoonEntry": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
@@ -129,6 +129,7 @@
   "UltraSunEntry": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can't move as well.",
   "atk": 27,
   "abilityHidden": "Chlorophyll",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -203,6 +204,7 @@
   "WhiteEntry": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
   "eggGroup2": "Fairy",
   "spd": 66,
+  "weight": "0.6kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -210,6 +212,7 @@
   "BlackEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
   "OmegaRubyEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
   "dfs": 60,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Cottonee",
   "White2Entry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",

@@ -183,13 +183,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Block"},
-    {"move": "Disable"},
-    {"move": "Icicle Crash"},
-    {"move": "Rollout"},
-    {"move": "Switcheroo"}
-  ],
+  "eggMoves": [],
   "XEntry": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.",
   "UltraMoonEntry": "It's said that on nights of terrible blizzards, it comes down to human settlements. If you hear it knocking at your door, do not open it!",
   "number": 478,
@@ -199,7 +193,12 @@
   "atk": 80,
   "PlatinumEntry": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
   "abilityHidden": "Cursed Body",
+  "height": "1.3m",
   "lvlUpMoves": [
+    {
+      "move": "Hex",
+      "lvl": "0"
+    },
     {
       "move": "Hex",
       "lvl": "1"
@@ -243,10 +242,6 @@
     {
       "move": "Double Team",
       "lvl": "1"
-    },
-    {
-      "move": "Hex",
-      "lvl": ""
     },
     {
       "move": "Ice Shard",
@@ -293,6 +288,7 @@
   "WhiteEntry": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
   "eggGroup2": "Mineral",
   "spd": 110,
+  "weight": "26.6kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Ice",
@@ -300,6 +296,7 @@
   "BlackEntry": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
   "OmegaRubyEntry": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.",
   "dfs": 70,
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
   "SoulsilverEntry": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass",

@@ -7,24 +7,260 @@
   "SunEntry": "This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
   "ability2": "Power Construct",
   "title": "50% Forme",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Breaking Swipe",
+      "technical": "TM99"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
   "UltraMoonEntry": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+  "eggMoves": [],
   "number": 718,
   "MoonEntry": "It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
   "spatk": 81,
   "UltraSunEntry": "This is Zygarde's form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
   "atk": 100,
   "abilityHidden": "",
+  "height": "5.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Thousand Arrows",
+      "lvl": "1"
+    },
+    {
+      "move": "Thousand Waves",
+      "lvl": "1"
+    },
+    {
+      "move": "Core Enforcer",
+      "lvl": "1"
+    },
+    {
+      "move": "Bind",
+      "lvl": "1"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "1"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Haze",
+      "lvl": "8"
+    },
+    {
+      "move": "Dig",
+      "lvl": "16"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "24"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "32"
+    },
+    {
+      "move": "Dragon Pulse",
+      "lvl": "40"
+    },
+    {
+      "move": "Land\u2019s Wrath",
+      "lvl": "48"
+    },
+    {
+      "move": "Glare",
+      "lvl": "56"
+    },
+    {
+      "move": "Sandstorm",
+      "lvl": "64"
+    },
+    {
+      "move": "Coil",
+      "lvl": "72"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "80"
+    },
+    {
+      "move": "Outrage",
+      "lvl": "88"
+    }
+  ],
   "type2": "Ground",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "305.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "OmegaRubyEntry": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
   "dfs": 121,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Zygarde",
   "spdfs": 95,

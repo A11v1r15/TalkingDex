@@ -6,12 +6,12 @@
   "SilverEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
   "ability2": "Rock Head",
   "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Defense Curl"},
-    {"move": "Harden"},
     {"move": "Headbutt"},
-    {"move": "Rock Polish"},
-    {"move": "Rollout"}
+    {"move": "Harden"},
+    {"move": "Defense Curl"},
+    {"move": "Curse"},
+    {"move": "Rollout"},
+    {"move": "Rock Polish"}
   ],
   "UltraMoonEntry": "The result of its holding the same pose all the time is arms that have become supple yet strong.",
   "number": 185,
@@ -19,11 +19,13 @@
   "spatk": 30,
   "UltraSunEntry": "It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
   "atk": 100,
+  "height": "1.2m",
   "type2": "",
   "WhiteEntry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
   "eggGroup2": "",
   "spd": 30,
   "CrystalEntry": "If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.",
+  "weight": "38.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
@@ -213,6 +215,10 @@
   "lvlUpMoves": [
     {
       "move": "Slam",
+      "lvl": "0"
+    },
+    {
+      "move": "Slam",
       "lvl": "1"
     },
     {
@@ -242,10 +248,6 @@
     {
       "move": "Rock Throw",
       "lvl": "1"
-    },
-    {
-      "move": "Slam",
-      "lvl": ""
     },
     {
       "move": "Block",
@@ -291,6 +293,7 @@
   "RubyEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
   "BlackEntry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
   "OmegaRubyEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
+  "colour": "Brown",
   "SoulsilverEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
   "FireRedEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
   "White2Entry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",

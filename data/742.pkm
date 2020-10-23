@@ -153,9 +153,9 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Aromatic Mist"},
     {"move": "Moonblast"},
-    {"move": "Sticky Web"}
+    {"move": "Sticky Web"},
+    {"move": "Aromatic Mist"}
   ],
   "UltraMoonEntry": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.",
   "number": 742,
@@ -164,6 +164,7 @@
   "UltraSunEntry": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
   "atk": 45,
   "abilityHidden": "Sweet Veil",
+  "height": "0.1m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -213,11 +214,13 @@
   "type2": "Fairy",
   "eggGroup2": "Fairy",
   "spd": 84,
+  "weight": "0.2kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Cutiefly",
   "SwordEntry": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",

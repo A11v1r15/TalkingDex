@@ -156,11 +156,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aromatherapy"},
-    {"move": "Defog"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "As it slashes into its enemies, it looks like it's dancing. Its elegant appearance has led some to call it the most glamorous Grass Pokémon.",
   "number": 754,
   "MoonEntry": "It fires beams from its sickle-shaped petals. These beams are powerful enough to cleave through thick metal plates.",
@@ -168,7 +164,12 @@
   "UltraSunEntry": "For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.",
   "atk": 105,
   "abilityHidden": "Contrary",
+  "height": "0.9m",
   "lvlUpMoves": [
+    {
+      "move": "Petal Blizzard",
+      "lvl": "0"
+    },
     {
       "move": "Petal Blizzard",
       "lvl": "1"
@@ -200,10 +201,6 @@
     {
       "move": "Ingrain",
       "lvl": "1"
-    },
-    {
-      "move": "Petal Blizzard",
-      "lvl": ""
     },
     {
       "move": "Razor Leaf",
@@ -241,11 +238,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 45,
+  "weight": "18.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Pink",
   "hasAlolan": false,
   "name": "Lurantis",
   "SwordEntry": "This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.",

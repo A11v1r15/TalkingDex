@@ -123,12 +123,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Synthesis"},
     {"move": "Cotton Spore"},
-    {"move": "Extrasensory"},
-    {"move": "Life Dew"},
-    {"move": "Razor Leaf"},
     {"move": "Sleep Powder"},
-    {"move": "Synthesis"}
+    {"move": "Razor Leaf"},
+    {"move": "Extrasensory"},
+    {"move": "Life Dew"}
   ],
   "XEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
   "number": 406,
@@ -136,6 +136,7 @@
   "atk": 30,
   "PlatinumEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
   "abilityHidden": "Leaf Guard",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -158,6 +159,7 @@
   "WhiteEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
   "eggGroup2": "",
   "spd": 55,
+  "weight": "1.2kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Grass",
@@ -165,6 +167,7 @@
   "BlackEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
   "OmegaRubyEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
   "dfs": 35,
+  "colour": "Green",
   "hasAlolan": false,
   "DiamondEntry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
   "SoulsilverEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",

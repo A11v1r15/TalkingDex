@@ -263,16 +263,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Knock Off"},
-    {"move": "Parting Shot"},
-    {"move": "Quick Guard"}
-  ],
+  "eggMoves": [],
   "number": 862,
   "spatk": 60,
   "atk": 90,
   "abilityHidden": "Defiant",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Obstruct",
+      "lvl": "0"
+    },
     {
       "move": "Obstruct",
       "lvl": "1"
@@ -318,10 +319,6 @@
       "lvl": "1"
     },
     {
-      "move": "Obstruct",
-      "lvl": ""
-    },
-    {
       "move": "Snarl",
       "lvl": "9"
     },
@@ -365,11 +362,13 @@
   "type2": "Normal",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "46.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "dfs": 101,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Obstagoon",
   "SwordEntry": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout\u2014this move is known as Obstruct.",

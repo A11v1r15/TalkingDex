@@ -1,44 +1,283 @@
 {
-  "extraMega": false,
-  "HearthGoldEntry": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
   "EmeraldEntry": "A Pokémon that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
   "ability1": "Swift Swim",
-  "YEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
   "AlphaSapphireEntry": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon\u2019s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
   "hp": 100,
-  "SunEntry": "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea.",
   "ability2": "Rock Head",
-  "hasGigantamax": false,
-  "XEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
   "UltraMoonEntry": "The reason it hasn't changed at all in a hundred million years is that it's apparently already a perfect life-form.",
+  "eggMoves": [
+    {"move": "Mud"},
+    {"move": "Skull Bash"}
+  ],
   "number": 369,
   "MoonEntry": "It was fortuitously discovered during a deep sea expedition. Its teeth have atrophied, so it now survives on microscopic organisms it sucks up.",
   "spatk": 45,
   "UltraSunEntry": "Thought to have gone extinct, Relicanth was given a name that is a variation of the name of the person who discovered it.",
   "atk": 90,
-  "PlatinumEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-  "abilityHidden": "Sturdy",
+  "height": "1.0m",
   "type2": "Rock",
   "WhiteEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
   "eggGroup2": "Water 2",
   "spd": 55,
+  "weight": "23.4kg",
   "eggGroup1": "Water 1",
-  "RubyEntry": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "BlackEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-  "OmegaRubyEntry": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
   "dfs": 130,
   "SapphireEntry": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon's body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
   "hasAlolan": false,
   "DiamondEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-  "SoulsilverEntry": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
   "name": "Relicanth",
+  "spdfs": 65,
+  "extraMega": false,
+  "HearthGoldEntry": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
+  "YEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+  "SunEntry": "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea.",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "XEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+  "PlatinumEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+  "abilityHidden": "Sturdy",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "5"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "10"
+    },
+    {
+      "move": "Yawn",
+      "lvl": "15"
+    },
+    {
+      "move": "Dive",
+      "lvl": "20"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "25"
+    },
+    {
+      "move": "Aqua Tail",
+      "lvl": "30"
+    },
+    {
+      "move": "Rest",
+      "lvl": "35"
+    },
+    {
+      "move": "Flail",
+      "lvl": "40"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "45"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "50"
+    },
+    {
+      "move": "Head Smash",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
+  "BlackEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+  "OmegaRubyEntry": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
+  "colour": "Gray",
+  "SoulsilverEntry": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
   "FireRedEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
   "White2Entry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
   "PearlEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
-  "spdfs": 65,
   "category": "Longevity Pokémon",
   "LeafGreenEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
   "Black2Entry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."

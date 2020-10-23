@@ -126,11 +126,11 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Ancient Power"},
-    {"move": "Curse"},
     {"move": "Destiny Bond"},
     {"move": "Spit Up"},
     {"move": "Stockpile"},
-    {"move": "Swallow"}
+    {"move": "Swallow"},
+    {"move": "Curse"}
   ],
   "UltraMoonEntry": "If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.",
   "number": 769,
@@ -139,6 +139,7 @@
   "UltraSunEntry": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
   "atk": 55,
   "abilityHidden": "Sand Veil",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -200,11 +201,13 @@
   "type2": "Ground",
   "eggGroup2": "",
   "spd": 15,
+  "weight": "70.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Sandygast",
   "SwordEntry": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",

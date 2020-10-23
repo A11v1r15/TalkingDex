@@ -173,18 +173,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Gravity"},
-    {"move": "Knock Off"},
-    {"move": "Leech Seed"},
-    {"move": "Toxic"}
-  ],
+  "eggMoves": [],
   "XEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
   "number": 598,
   "spatk": 54,
   "atk": 94,
   "abilityHidden": "Anticipation",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Power Whip",
+      "lvl": "0"
+    },
     {
       "move": "Power Whip",
       "lvl": "1"
@@ -204,10 +204,6 @@
     {
       "move": "Pin Missile",
       "lvl": "1"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": ""
     },
     {
       "move": "Ingrain",
@@ -246,6 +242,7 @@
   "WhiteEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "eggGroup2": "Mineral",
   "spd": 20,
+  "weight": "110.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -253,6 +250,7 @@
   "BlackEntry": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
   "OmegaRubyEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
   "dfs": 131,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Ferrothorn",
   "White2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",

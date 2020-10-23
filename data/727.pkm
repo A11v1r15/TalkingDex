@@ -248,11 +248,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Fake Out"},
-    {"move": "Parting Shot"},
-    {"move": "Power Trip"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
   "number": 727,
   "MoonEntry": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
@@ -260,7 +256,12 @@
   "UltraSunEntry": "Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
   "atk": 115,
   "abilityHidden": "Intimidate",
+  "height": "1.8m",
   "lvlUpMoves": [
+    {
+      "move": "Darkest Lariat",
+      "lvl": "0"
+    },
     {
       "move": "Darkest Lariat",
       "lvl": "1"
@@ -292,10 +293,6 @@
     {
       "move": "Lick",
       "lvl": "1"
-    },
-    {
-      "move": "Darkest Lariat",
-      "lvl": ""
     },
     {
       "move": "Roar",
@@ -341,11 +338,13 @@
   "type2": "Dark",
   "eggGroup2": "",
   "spd": 60,
+  "weight": "83.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Red",
   "hasAlolan": false,
   "name": "Incineroar",
   "SwordEntry": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",

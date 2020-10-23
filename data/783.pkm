@@ -180,11 +180,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Dragon Breath"},
-    {"move": "Focus Punch"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.",
   "number": 783,
   "MoonEntry": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
@@ -192,6 +188,7 @@
   "UltraSunEntry": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
   "atk": 75,
   "abilityHidden": "Overcoat",
+  "height": "1.2m",
   "lvlUpMoves": [
     {
       "move": "Autotomize",
@@ -257,13 +254,15 @@
   "type2": "Fighting",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "47.0kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Gray",
   "hasAlolan": false,
-  "name": "Hakamo-o",
+  "name": "Hakamo",
   "SwordEntry": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
   "spdfs": 70,
   "category": "Scaly Pokémon"

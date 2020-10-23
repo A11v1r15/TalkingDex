@@ -7,17 +7,228 @@
   "AlphaSapphireEntry": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
   "hp": 60,
   "ability2": "Rock Head",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+  "eggMoves": [],
   "number": 305,
   "spatk": 50,
   "atk": 90,
   "PlatinumEntry": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
   "abilityHidden": "Heavy Metal",
+  "height": "0.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "1"
+    },
+    {
+      "move": "Rock Tomb",
+      "lvl": "1"
+    },
+    {
+      "move": "Roar",
+      "lvl": "12"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "16"
+    },
+    {
+      "move": "Protect",
+      "lvl": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "24"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "28"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "35"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "46"
+    },
+    {
+      "move": "Iron Tail",
+      "lvl": "52"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "58"
+    },
+    {
+      "move": "Heavy Slam",
+      "lvl": "64"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "70"
+    },
+    {
+      "move": "Metal Burst",
+      "lvl": "76"
+    }
+  ],
   "type2": "Rock",
   "WhiteEntry": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
   "eggGroup2": "",
   "spd": 40,
+  "weight": "120.0kg",
   "eggGroup1": "Monster",
   "RubyEntry": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water.",
   "hasMega": false,
@@ -27,6 +238,7 @@
   "OmegaRubyEntry": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water.",
   "dfs": 140,
   "SapphireEntry": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
+  "colour": "Gray",
   "hasAlolan": false,
   "DiamondEntry": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
   "SoulsilverEntry": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",

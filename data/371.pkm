@@ -1,44 +1,229 @@
 {
-  "extraMega": false,
-  "HearthGoldEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
   "EmeraldEntry": "Although it is small, this Pokémon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
   "ability1": "Rock Head",
-  "YEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
   "AlphaSapphireEntry": "Bagon harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this Pokémon slams its hard head against huge rocks and shatters them into pebbles.",
   "hp": 45,
-  "SunEntry": "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes.",
   "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
   "UltraMoonEntry": "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution.",
+  "eggMoves": [
+    {"move": "Defense Curl"},
+    {"move": "Dragon Rush"},
+    {"move": "Thrash"},
+    {"move": "Twister"}
+  ],
   "number": 371,
   "MoonEntry": "With its steel-hard stone head, it headbutts indiscriminately. This is because of the stress it feels at being unable to fly.",
   "spatk": 40,
   "UltraSunEntry": "Whenever it sees bird Pokémon flying through the sky, it becomes envious and smashes its surroundings to bits with headbutts.",
   "atk": 75,
-  "PlatinumEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
-  "abilityHidden": "Sheer Force",
+  "height": "0.6m",
   "type2": "",
   "WhiteEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "42.1kg",
   "eggGroup1": "Dragon",
-  "RubyEntry": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "BlackEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
-  "OmegaRubyEntry": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
   "dfs": 60,
   "SapphireEntry": "Bagon harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this Pokémon slams its hard head against huge rocks and shatters them into pebbles.",
   "hasAlolan": false,
   "DiamondEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
-  "SoulsilverEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
   "name": "Bagon",
+  "spdfs": 30,
+  "extraMega": false,
+  "HearthGoldEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
+  "YEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+  "SunEntry": "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes.",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Dragon Claw",
+      "technical": "TR47"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    }
+  ],
+  "hasGigantamax": false,
+  "XEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
+  "PlatinumEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+  "abilityHidden": "Sheer Force",
+  "lvlUpMoves": [
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "5"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "10"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "15"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "20"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "25"
+    },
+    {
+      "move": "Dragon Claw",
+      "lvl": "31"
+    },
+    {
+      "move": "Zen Headbutt",
+      "lvl": "35"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "40"
+    },
+    {
+      "move": "Flamethrower",
+      "lvl": "45"
+    },
+    {
+      "move": "Outrage",
+      "lvl": "50"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+  "BlackEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+  "OmegaRubyEntry": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+  "colour": "Blue",
+  "SoulsilverEntry": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
   "FireRedEntry": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
   "White2Entry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
   "PearlEntry": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
-  "spdfs": 30,
   "category": "Rock Head Pokémon",
   "LeafGreenEntry": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
   "Black2Entry": "Dreaming of one day flying, it practices by leaping off cliffs every day."

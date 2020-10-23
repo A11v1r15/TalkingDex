@@ -108,7 +108,7 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Double-Edge"},
+    {"move": "Double"},
     {"move": "Sand Attack"},
     {"move": "Flame Charge"},
     {"move": "Discharge"},
@@ -118,6 +118,7 @@
   "spatk": 40,
   "atk": 45,
   "abilityHidden": "Rattled",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -167,11 +168,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 26,
+  "weight": "13.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
   "dfs": 50,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Yamper",
   "SwordEntry": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",

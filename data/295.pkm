@@ -223,23 +223,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Circle Throw"},
-    {"move": "Disarming Voice"},
-    {"move": "Endeavor"},
-    {"move": "Extrasensory"},
-    {"move": "Hammer Arm"},
-    {"move": "Smokescreen"},
-    {"move": "Take Down"},
-    {"move": "Whirlwind"}
-  ],
+  "eggMoves": [],
   "XEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
   "number": 295,
   "spatk": 91,
   "atk": 91,
   "PlatinumEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
   "abilityHidden": "Scrappy",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Crunch",
+      "lvl": "0"
+    },
     {
       "move": "Crunch",
       "lvl": "1"
@@ -275,10 +271,6 @@
     {
       "move": "Howl",
       "lvl": "1"
-    },
-    {
-      "move": "Crunch",
-      "lvl": ""
     },
     {
       "move": "Rest",
@@ -325,6 +317,7 @@
   "WhiteEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
   "eggGroup2": "Field",
   "spd": 68,
+  "weight": "84.0kg",
   "eggGroup1": "Monster",
   "RubyEntry": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
   "hasMega": false,
@@ -334,6 +327,7 @@
   "OmegaRubyEntry": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it\u2019s a sign that it is preparing to let loose a huge bellow.",
   "dfs": 63,
   "SapphireEntry": "Exploud communicates its feelings to others by emitting whistle-like sounds from the tubes of its body. This Pokémon only raises its voice when it is in battle.",
+  "colour": "Blue",
   "hasAlolan": false,
   "DiamondEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
   "SoulsilverEntry": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",

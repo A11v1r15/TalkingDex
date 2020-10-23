@@ -6,16 +6,7 @@
   "hp": 95,
   "SilverEntry": "If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Block"},
-    {"move": "Curse"},
-    {"move": "Ingrain"},
-    {"move": "Moonlight"},
-    {"move": "Poison Powder"},
-    {"move": "Sleep Powder"},
-    {"move": "Stun Spore"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move.",
   "number": 103,
   "MoonEntry": "When the time comes, one of its three heads falls off. Before long, the fallen head grows into an Exeggcute.",
@@ -24,11 +15,13 @@
   "103Entry": "When they work together, Exeggutor's three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
   "atk": 95,
   "RedEntry": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+  "height": "2.0m",
   "type2": "Psychic",
   "WhiteEntry": "It is called \"The Walking Jungle.\" If a head grows too big, it falls off and becomes an Exeggcute.",
   "eggGroup2": "",
   "spd": 55,
   "CrystalEntry": "Living in a good environment makes it grow lots of heads. A head that drops off becomes an Exeggcute.",
+  "weight": "120.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -216,6 +209,10 @@
   "lvlUpMoves": [
     {
       "move": "Stomp",
+      "lvl": "0"
+    },
+    {
+      "move": "Stomp",
       "lvl": "1"
     },
     {
@@ -285,16 +282,13 @@
     {
       "move": "Leech Seed",
       "lvl": "1"
-    },
-    {
-      "move": "Stomp",
-      "lvl": ""
     }
   ],
   "RubyEntry": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
   "BlackEntry": "It is called \"The Walking Jungle.\" If a head grows too big, it falls off and becomes an Exeggcute.",
   "OmegaRubyEntry": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
   "LetsGoEeveeEntry": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
+  "colour": "Yellow",
   "SoulsilverEntry": "If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.",
   "FireRedEntry": "It is called \"The Walking Tropical Rainforest.\" Each of the nuts has a face and will of its own.",
   "White2Entry": "It is called \"The Walking Jungle.\" If a head grows too big, it falls off and becomes an Exeggcute.",

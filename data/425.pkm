@@ -152,12 +152,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Clear Smog"},
-    {"move": "Defog"},
+    {"move": "Memento"},
     {"move": "Disable"},
     {"move": "Haze"},
     {"move": "Hypnosis"},
-    {"move": "Memento"}
+    {"move": "Clear Smog"},
+    {"move": "Defog"}
   ],
   "XEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "UltraMoonEntry": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
@@ -168,6 +168,7 @@
   "atk": 50,
   "PlatinumEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
   "abilityHidden": "Flare Boost",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Minimize",
@@ -234,6 +235,7 @@
   "WhiteEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
   "eggGroup2": "",
   "spd": 70,
+  "weight": "1.2kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
@@ -241,6 +243,7 @@
   "BlackEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
   "OmegaRubyEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "dfs": 34,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "SoulsilverEntry": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",

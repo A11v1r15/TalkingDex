@@ -6,14 +6,7 @@
   "hp": 65,
   "SilverEntry": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
   "ability2": "Technician",
-  "eggMoves": [
-    {"move": "Covet"},
-    {"move": "Flail"},
-    {"move": "Hypnosis"},
-    {"move": "Last Resort"},
-    {"move": "Spite"},
-    {"move": "Tail Whip"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "This Pokémon is popular with rich people. It's also targeted by hunters who are after the jewel in its forehead.",
   "number": 53,
   "MoonEntry": "It has a high opinion of itself, although not to the same extent as the Alolan Persian. It's quite difficult to make friends with this Pokémon.",
@@ -21,11 +14,13 @@
   "UltraSunEntry": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it's mostly made of the same material.",
   "atk": 70,
   "RedEntry": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+  "height": "1.0m",
   "type2": "",
   "WhiteEntry": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
   "eggGroup2": "",
   "spd": 115,
   "CrystalEntry": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
+  "weight": "32.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
@@ -226,6 +221,10 @@
   "lvlUpMoves": [
     {
       "move": "Power Gem",
+      "lvl": "0"
+    },
+    {
+      "move": "Power Gem",
       "lvl": "1"
     },
     {
@@ -247,10 +246,6 @@
     {
       "move": "Scratch",
       "lvl": "1"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": ""
     },
     {
       "move": "Pay Day",
@@ -293,6 +288,7 @@
   "BlackEntry": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
   "OmegaRubyEntry": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
   "LetsGoEeveeEntry": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+  "colour": "Yellow",
   "SoulsilverEntry": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
   "FireRedEntry": "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.",
   "White2Entry": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",

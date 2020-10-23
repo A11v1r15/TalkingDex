@@ -243,21 +243,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Defog"},
-    {"move": "Leech Seed"},
-    {"move": "Night Slash"},
-    {"move": "Quick Attack"},
-    {"move": "Take Down"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "XEntry": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
   "number": 275,
   "spatk": 90,
   "atk": 100,
   "PlatinumEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
   "abilityHidden": "Pickpocket",
+  "height": "1.3m",
   "lvlUpMoves": [
+    {
+      "move": "Leaf Tornado",
+      "lvl": "0"
+    },
     {
       "move": "Leaf Tornado",
       "lvl": "1"
@@ -349,16 +347,13 @@
     {
       "move": "Astonish",
       "lvl": "1"
-    },
-    {
-      "move": "Leaf Tornado",
-      "lvl": ""
     }
   ],
   "type2": "Dark",
   "WhiteEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
   "eggGroup2": "Grass",
   "spd": 80,
+  "weight": "59.6kg",
   "eggGroup1": "Field",
   "RubyEntry": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
   "hasMega": false,
@@ -368,6 +363,7 @@
   "OmegaRubyEntry": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
   "dfs": 60,
   "SapphireEntry": "Shiftry's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
+  "colour": "Brown",
   "hasAlolan": false,
   "DiamondEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
   "SoulsilverEntry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",

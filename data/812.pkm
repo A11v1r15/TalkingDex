@@ -223,20 +223,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Fake Out"},
-    {"move": "Growth"},
-    {"move": "Hammer Arm"},
-    {"move": "Leech Seed"},
-    {"move": "Nature Power"},
-    {"move": "Strength"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "number": 812,
   "spatk": 60,
   "atk": 125,
   "abilityHidden": "Grassy Surge",
+  "height": "2.1m",
   "lvlUpMoves": [
+    {
+      "move": "Drum Beating",
+      "lvl": "0"
+    },
     {
       "move": "Drum Beating",
       "lvl": "1"
@@ -268,10 +265,6 @@
     {
       "move": "Taunt",
       "lvl": "1"
-    },
-    {
-      "move": "Drum Beating",
-      "lvl": ""
     },
     {
       "move": "Razor Leaf",
@@ -309,11 +302,13 @@
   "type2": "",
   "eggGroup2": "Grass",
   "spd": 85,
+  "weight": "90.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Rillaboom",
   "SwordEntry": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",

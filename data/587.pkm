@@ -149,10 +149,10 @@
   "eggMoves": [
     {"move": "Astonish"},
     {"move": "Covet"},
-    {"move": "Defog"},
     {"move": "Roost"},
     {"move": "Shock Wave"},
-    {"move": "Tickle"}
+    {"move": "Tickle"},
+    {"move": "Defog"}
   ],
   "XEntry": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
   "UltraMoonEntry": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That's why Emolga can keep all its food to itself.",
@@ -162,6 +162,7 @@
   "UltraSunEntry": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
   "atk": 75,
   "abilityHidden": "Motor Drive",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Nuzzle",
@@ -220,6 +221,7 @@
   "WhiteEntry": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
   "eggGroup2": "",
   "spd": 103,
+  "weight": "5.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
@@ -227,6 +229,7 @@
   "BlackEntry": "The energy made in its cheeks' electric pouches is stored inside its membranes and released while it is gliding.",
   "OmegaRubyEntry": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
   "dfs": 60,
+  "colour": "White",
   "hasAlolan": false,
   "name": "Emolga",
   "White2Entry": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",

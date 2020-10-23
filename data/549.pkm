@@ -126,12 +126,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Healing Wish"},
-    {"move": "Ingrain"},
-    {"move": "Sweet Scent"},
-    {"move": "Worry Seed"}
-  ],
+  "eggMoves": [],
   "XEntry": "The fragrance of the garland on its head has a relaxing effect. It withers if a trainer does not take good care of it.",
   "UltraMoonEntry": "It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
   "number": 549,
@@ -140,7 +135,12 @@
   "UltraSunEntry": "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.",
   "atk": 60,
   "abilityHidden": "Leaf Guard",
+  "height": "1.1m",
   "lvlUpMoves": [
+    {
+      "move": "Petal Dance",
+      "lvl": "0"
+    },
     {
       "move": "Petal Dance",
       "lvl": "1"
@@ -220,16 +220,13 @@
     {
       "move": "Stun Spore",
       "lvl": "1"
-    },
-    {
-      "move": "Petal Dance",
-      "lvl": ""
     }
   ],
   "type2": "",
   "WhiteEntry": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
   "eggGroup2": "",
   "spd": 90,
+  "weight": "16.3kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
@@ -237,6 +234,7 @@
   "BlackEntry": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
   "OmegaRubyEntry": "The fragrance of the garland on its head has a relaxing effect. It withers if a trainer does not take good care of it.",
   "dfs": 75,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Lilligant",
   "White2Entry": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",

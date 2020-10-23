@@ -73,10 +73,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Mirror Coat"},
+    {"move": "Tickle"},
     {"move": "Spite"},
-    {"move": "Swagger"},
-    {"move": "Tickle"}
+    {"move": "Mirror Coat"},
+    {"move": "Swagger"}
   ],
   "UltraMoonEntry": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
   "number": 771,
@@ -85,6 +85,7 @@
   "UltraSunEntry": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
   "atk": 60,
   "abilityHidden": "Unaware",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Baton Pass",
@@ -146,11 +147,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 5,
+  "weight": "1.2kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 130,
+  "colour": "Black",
   "hasAlolan": false,
   "name": "Pyukumuku",
   "SwordEntry": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",

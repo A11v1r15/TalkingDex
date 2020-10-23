@@ -223,16 +223,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Dragon Tail"},
-    {"move": "Gastro Acid"},
-    {"move": "Skull Bash"}
-  ],
+  "eggMoves": [],
   "number": 834,
   "spatk": 48,
   "atk": 115,
   "abilityHidden": "Swift Swim",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Rock Tomb",
+      "lvl": "0"
+    },
     {
       "move": "Rock Tomb",
       "lvl": "1"
@@ -266,10 +267,6 @@
       "lvl": "1"
     },
     {
-      "move": "Rock Tomb",
-      "lvl": ""
-    },
-    {
       "move": "Headbutt",
       "lvl": "21"
     },
@@ -297,11 +294,13 @@
   "type2": "Rock",
   "eggGroup2": "Water 1",
   "spd": 74,
+  "weight": "115.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "dfs": 90,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Drednaw",
   "SwordEntry": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",

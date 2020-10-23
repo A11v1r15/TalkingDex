@@ -155,17 +155,25 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Infestation"},
-    {"move": "Recover"},
-    {"move": "Sticky Web"},
-    {"move": "Supersonic"}
-  ],
+  "eggMoves": [],
   "number": 825,
   "spatk": 50,
   "atk": 35,
   "abilityHidden": "Telepathy",
+  "height": "0.4m",
   "lvlUpMoves": [
+    {
+      "move": "Reflect",
+      "lvl": "0"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "0"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "0"
+    },
     {
       "move": "Reflect",
       "lvl": "1"
@@ -181,28 +189,18 @@
     {
       "move": "Struggle Bug",
       "lvl": "1"
-    },
-    {
-      "move": "Reflect",
-      "lvl": ""
-    },
-    {
-      "move": "Light Screen",
-      "lvl": ""
-    },
-    {
-      "move": "Confusion",
-      "lvl": ""
     }
   ],
   "type2": "Psychic",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "19.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 80,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Dottler",
   "SwordEntry": "It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",

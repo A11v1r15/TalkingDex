@@ -120,12 +120,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Defense Curl"},
-    {"move": "Harden"},
     {"move": "Headbutt"},
-    {"move": "Rock Polish"},
-    {"move": "Rollout"}
+    {"move": "Harden"},
+    {"move": "Defense Curl"},
+    {"move": "Curse"},
+    {"move": "Rollout"},
+    {"move": "Rock Polish"}
   ],
   "XEntry": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
   "UltraMoonEntry": "If its body gets too damp, it will die. So, in a process reminiscent of sweating, its eyes expel moisture.",
@@ -136,6 +136,7 @@
   "atk": 80,
   "PlatinumEntry": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
   "abilityHidden": "Rattled",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Fake Tears",
@@ -194,6 +195,7 @@
   "WhiteEntry": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
   "eggGroup2": "",
   "spd": 10,
+  "weight": "15.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Rock",
@@ -201,6 +203,7 @@
   "BlackEntry": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
   "OmegaRubyEntry": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
   "dfs": 95,
+  "colour": "Brown",
   "hasAlolan": false,
   "DiamondEntry": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
   "SoulsilverEntry": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",

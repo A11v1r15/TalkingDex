@@ -161,17 +161,18 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aurora Veil"},
-    {"move": "Mirror Coat"},
-    {"move": "Mist"}
-  ],
+  "eggMoves": [],
   "XEntry": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
   "number": 713,
   "spatk": 44,
   "atk": 117,
   "abilityHidden": "Sturdy",
+  "height": "2.0m",
   "lvlUpMoves": [
+    {
+      "move": "Body Slam",
+      "lvl": "0"
+    },
     {
       "move": "Body Slam",
       "lvl": "1"
@@ -195,10 +196,6 @@
     {
       "move": "Powder Snow",
       "lvl": "1"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": ""
     },
     {
       "move": "Curse",
@@ -256,12 +253,14 @@
   "type2": "",
   "eggGroup2": "Mineral",
   "spd": 28,
+  "weight": "505.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
   "OmegaRubyEntry": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
   "dfs": 184,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Avalugg",
   "SwordEntry": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",

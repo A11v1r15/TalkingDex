@@ -139,8 +139,8 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Magnet Rise"},
-    {"move": "Switcheroo"}
+    {"move": "Switcheroo"},
+    {"move": "Magnet Rise"}
   ],
   "XEntry": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
   "UltraMoonEntry": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
@@ -150,6 +150,7 @@
   "UltraSunEntry": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
   "atk": 80,
   "abilityHidden": "Magician",
+  "height": "0.2m",
   "lvlUpMoves": [
     {
       "move": "Fairy Lock",
@@ -215,12 +216,14 @@
   "type2": "Fairy",
   "eggGroup2": "",
   "spd": 75,
+  "weight": "3.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "OmegaRubyEntry": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
   "dfs": 91,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Klefki",
   "SwordEntry": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",

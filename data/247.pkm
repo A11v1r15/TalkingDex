@@ -5,21 +5,19 @@
   "hp": 70,
   "SilverEntry": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
   "ability2": "",
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Curse"},
-    {"move": "Stomp"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.",
   "number": 247,
   "spatk": 65,
   "UltraSunEntry": "This troublesome Pokémon can't wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.",
   "atk": 84,
+  "height": "1.2m",
   "type2": "Ground",
   "WhiteEntry": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
   "eggGroup2": "",
   "spd": 51,
   "CrystalEntry": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.",
+  "weight": "152.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Rock",
@@ -216,6 +214,10 @@
   "lvlUpMoves": [
     {
       "move": "Iron Defense",
+      "lvl": "0"
+    },
+    {
+      "move": "Iron Defense",
       "lvl": "1"
     },
     {
@@ -233,10 +235,6 @@
     {
       "move": "Payback",
       "lvl": "1"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": ""
     },
     {
       "move": "Bite",
@@ -290,6 +288,7 @@
   "RubyEntry": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
   "BlackEntry": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
   "OmegaRubyEntry": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable--it avoids damage even if it hits solid steel.",
+  "colour": "Gray",
   "SoulsilverEntry": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
   "FireRedEntry": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
   "White2Entry": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",

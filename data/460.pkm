@@ -190,20 +190,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Growth"},
-    {"move": "Leech Seed"},
-    {"move": "Skull Bash"},
-    {"move": "Stomp"}
-  ],
+  "eggMoves": [],
   "XEntry": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\"",
   "number": 460,
   "spatk": 92,
   "atk": 92,
   "PlatinumEntry": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
   "abilityHidden": "Soundproof",
+  "height": "2.2m",
   "lvlUpMoves": [
+    {
+      "move": "Ice Punch",
+      "lvl": "0"
+    },
     {
       "move": "Ice Punch",
       "lvl": "1"
@@ -227,10 +226,6 @@
     {
       "move": "Mist",
       "lvl": "1"
-    },
-    {
-      "move": "Ice Punch",
-      "lvl": ""
     },
     {
       "move": "Ice Shard",
@@ -269,6 +264,7 @@
   "WhiteEntry": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
   "eggGroup2": "Grass",
   "spd": 60,
+  "weight": "135.5kg",
   "eggGroup1": "Monster",
   "hasMega": true,
   "type1": "Grass",
@@ -276,6 +272,7 @@
   "BlackEntry": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
   "OmegaRubyEntry": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\"",
   "dfs": 75,
+  "colour": "White",
   "hasAlolan": false,
   "DiamondEntry": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
   "SoulsilverEntry": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",

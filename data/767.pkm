@@ -97,11 +97,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Aqua Jet"},
-    {"move": "Harden"},
     {"move": "Metal Claw"},
-    {"move": "Rollout"},
-    {"move": "Wide Guard"}
+    {"move": "Wide Guard"},
+    {"move": "Harden"},
+    {"move": "Aqua Jet"},
+    {"move": "Rollout"}
   ],
   "UltraMoonEntry": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
   "number": 767,
@@ -110,6 +110,7 @@
   "UltraSunEntry": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
   "atk": 35,
   "abilityHidden": "",
+  "height": "0.5m",
   "lvlUpMoves": [
     {
       "move": "Struggle Bug",
@@ -127,11 +128,13 @@
   "type2": "Water",
   "eggGroup2": "Water 3",
   "spd": 80,
+  "weight": "12.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 40,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Wimpod",
   "SwordEntry": "It's nature's cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",

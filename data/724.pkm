@@ -172,12 +172,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Defog"},
-    {"move": "Double Team"},
-    {"move": "Knock Off"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
   "number": 724,
   "MoonEntry": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
@@ -185,7 +180,12 @@
   "UltraSunEntry": "It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.",
   "atk": 107,
   "abilityHidden": "Long Reach",
+  "height": "1.6m",
   "lvlUpMoves": [
+    {
+      "move": "Spirit Shackle",
+      "lvl": "0"
+    },
     {
       "move": "Spirit Shackle",
       "lvl": "1"
@@ -221,10 +221,6 @@
     {
       "move": "Astonish",
       "lvl": "1"
-    },
-    {
-      "move": "Spirit Shackle",
-      "lvl": ""
     },
     {
       "move": "Peck",
@@ -270,11 +266,13 @@
   "type2": "Ghost",
   "eggGroup2": "",
   "spd": 70,
+  "weight": "36.6kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 75,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Decidueye",
   "SwordEntry": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",

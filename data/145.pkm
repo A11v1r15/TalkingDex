@@ -1,49 +1,245 @@
 {
   "YellowEntry": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
-  "extraMega": false,
-  "HearthGoldEntry": "This legendary bird Pokémon cause savage thunderstorms by flapping its glittering wings.",
   "EmeraldEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
   "ability1": "Pressure",
-  "YEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
   "AlphaSapphireEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "hp": 90,
   "SilverEntry": "This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.",
   "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+  "eggMoves": [],
   "number": 145,
   "spatk": 125,
   "atk": 90,
-  "PlatinumEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
-  "abilityHidden": "Flame Body",
   "RedEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+  "height": "1.6m",
   "type2": "Flying",
   "WhiteEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
   "eggGroup2": "",
   "spd": 100,
   "CrystalEntry": "Legendary bird Pokémon. They say lightning caused by the flapping of its wings causes summer storms.",
+  "weight": "52.6kg",
   "eggGroup1": "Undiscovered",
-  "RubyEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": true,
-  "BlackEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
-  "OmegaRubyEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "BlueEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
-  "145Entry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "dfs": 85,
   "GoldEntry": "This legendary bird Pokémon causes savage thunderstorms by flapping its glittering wings.",
-  "LetsGoEeveeEntry": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
   "SapphireEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "hasAlolan": false,
   "LetsGoPikachuEntry": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
   "DiamondEntry": "A legendary Pokémon that is said to live inside thunder clouds. It can freely control thunder.",
-  "SoulsilverEntry": "This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.",
   "name": "Zapdos",
+  "spdfs": 90,
+  "extraMega": false,
+  "HearthGoldEntry": "This legendary bird Pokémon cause savage thunderstorms by flapping its glittering wings.",
+  "YEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Hurricane",
+      "technical": "TR89"
+    }
+  ],
+  "hasGigantamax": false,
+  "XEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+  "PlatinumEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+  "abilityHidden": "Flame Body",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "5"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "10"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "15"
+    },
+    {
+      "move": "Agility",
+      "lvl": "20"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "25"
+    },
+    {
+      "move": "Charge",
+      "lvl": "30"
+    },
+    {
+      "move": "Drill Peck",
+      "lvl": "35"
+    },
+    {
+      "move": "Roost",
+      "lvl": "40"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "45"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "50"
+    },
+    {
+      "move": "Thunder",
+      "lvl": "55"
+    },
+    {
+      "move": "Detect",
+      "lvl": "60"
+    },
+    {
+      "move": "Magnetic Flux",
+      "lvl": "65"
+    },
+    {
+      "move": "Zap Cannon",
+      "lvl": "70"
+    }
+  ],
+  "RubyEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+  "BlackEntry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+  "OmegaRubyEntry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+  "145Entry": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+  "LetsGoEeveeEntry": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
+  "colour": "Yellow",
+  "SoulsilverEntry": "This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves.",
   "FireRedEntry": "One of the legendary bird Pokémon. While it is flying, it makes crackling and snapping sounds.",
   "White2Entry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
   "PearlEntry": "A legendary Pokémon that is said to live inside thunder clouds. It can freely control thunder.",
-  "spdfs": 90,
   "category": "Electric Pokémon",
   "LeafGreenEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
   "Black2Entry": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts."

@@ -224,11 +224,11 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Belch"},
-    {"move": "Counter"},
+    {"move": "Double"},
     {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Fissure"}
+    {"move": "Fissure"},
+    {"move": "Counter"},
+    {"move": "Belch"}
   ],
   "XEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "UltraMoonEntry": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
@@ -239,6 +239,7 @@
   "atk": 85,
   "PlatinumEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
   "abilityHidden": "Gluttony",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Lick",
@@ -309,6 +310,7 @@
   "WhiteEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
   "eggGroup2": "",
   "spd": 5,
+  "weight": "105.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Normal",
@@ -316,6 +318,7 @@
   "BlackEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
   "OmegaRubyEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "dfs": 40,
+  "colour": "Black",
   "hasAlolan": false,
   "DiamondEntry": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
   "SoulsilverEntry": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",

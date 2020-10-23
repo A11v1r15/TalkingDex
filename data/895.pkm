@@ -1,78 +1,9 @@
 {
   "ShieldEntry": "Its body is composed of crystalized dragon energy. Regidrago is said to have the powers of every dragon Pokemon.",
   "extraMega": false,
-  "lvlUpMoves": [
-    {
-      "move": "Twister",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "6"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "18"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "30"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "36"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "42"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "48"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "54"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "60"
-    },
-    {
-      "move": "Dragon Energy",
-      "lvl": "66"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "72"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "78"
-    }
-  ],
   "ability1": "Dragon's Maw",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 80,
   "hp": 200,
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "ability2": "",
-  "type1": "Dragon",
-  "hasGalarian": false,
   "tmTrMoves": [
     {
       "move": "Hyper Beam",
@@ -173,14 +104,86 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [],
-  "dfs": 50,
   "number": 895,
   "spatk": 100,
-  "hasAlolan": false,
-  "name": "Regidrago",
   "atk": 100,
   "abilityHidden": "",
+  "height": "2.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Twister",
+      "lvl": "1"
+    },
+    {
+      "move": "Vise Grip",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "6"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "12"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "18"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "24"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "30"
+    },
+    {
+      "move": "Dragon Claw",
+      "lvl": "36"
+    },
+    {
+      "move": "Hammer Arm",
+      "lvl": "42"
+    },
+    {
+      "move": "Dragon Dance",
+      "lvl": "48"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "54"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "60"
+    },
+    {
+      "move": "Dragon Energy",
+      "lvl": "66"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "72"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "78"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 80,
+  "weight": "200.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Dragon",
+  "hasGalarian": false,
+  "dfs": 50,
+  "colour": "Green",
+  "hasAlolan": false,
+  "name": "Regidrago",
+  "SwordEntry": "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon. The theory remains unproven.",
   "spdfs": 50,
-  "category": "Dragon Orb Pokémon",
-  "SwordEntry": "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon. The theory remains unproven."
+  "category": "Dragon Orb Pokémon"
 }

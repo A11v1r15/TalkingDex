@@ -155,16 +155,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Detect"},
-    {"move": "Double Kick"},
-    {"move": "Flail"},
-    {"move": "Mud-Slap"},
-    {"move": "Tickle"},
-    {"move": "Wish"},
-    {"move": "Yawn"}
-  ],
+  "eggMoves": [],
   "XEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "UltraMoonEntry": "It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey.",
   "number": 471,
@@ -174,7 +165,12 @@
   "atk": 60,
   "PlatinumEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "abilityHidden": "Ice Body",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "Icy Wind",
+      "lvl": "0"
+    },
     {
       "move": "Icy Wind",
       "lvl": "1"
@@ -222,10 +218,6 @@
     {
       "move": "Tail Whip",
       "lvl": "1"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": ""
     },
     {
       "move": "Sand Attack",
@@ -276,6 +268,7 @@
   "WhiteEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "eggGroup2": "",
   "spd": 65,
+  "weight": "25.9kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ice",
@@ -283,6 +276,7 @@
   "BlackEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "OmegaRubyEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "dfs": 110,
+  "colour": "Blue",
   "hasAlolan": false,
   "DiamondEntry": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
   "SoulsilverEntry": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",

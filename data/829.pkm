@@ -102,15 +102,16 @@
   "eggMoves": [
     {"move": "Growth"},
     {"move": "Leech Seed"},
+    {"move": "Worry Seed"},
     {"move": "Poison Powder"},
-    {"move": "Sleep Powder"},
     {"move": "Stun Spore"},
-    {"move": "Worry Seed"}
+    {"move": "Sleep Powder"}
   ],
   "number": 829,
   "spatk": 40,
   "atk": 40,
   "abilityHidden": "Effect Spore",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Leafage",
@@ -160,11 +161,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 10,
+  "weight": "2.2kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 60,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Gossifleur",
   "SwordEntry": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",

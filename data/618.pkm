@@ -158,19 +158,20 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Yawn"},
     {"move": "Astonish"},
     {"move": "Curse"},
-    {"move": "Pain Split"},
-    {"move": "Reflect Type"},
-    {"move": "Spark"},
     {"move": "Spite"},
-    {"move": "Yawn"}
+    {"move": "Spark"},
+    {"move": "Pain Split"},
+    {"move": "Reflect Type"}
   ],
   "XEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
   "number": 618,
   "spatk": 81,
   "atk": 66,
   "abilityHidden": "Sand Veil",
+  "height": "0.7m",
   "lvlUpMoves": [
     {
       "move": "Mud-Slap",
@@ -237,6 +238,7 @@
   "WhiteEntry": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
   "eggGroup2": "Amorphous",
   "spd": 32,
+  "weight": "11.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Ground",
@@ -244,6 +246,7 @@
   "BlackEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
   "OmegaRubyEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
   "dfs": 84,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Stunfisk",
   "White2Entry": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",

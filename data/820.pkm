@@ -159,17 +159,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Belly Drum"},
-    {"move": "Defense Curl"},
-    {"move": "Last Resort"},
-    {"move": "Rollout"}
-  ],
+  "eggMoves": [],
   "number": 820,
   "spatk": 55,
   "atk": 95,
   "abilityHidden": "Gluttony",
+  "height": "0.6m",
   "lvlUpMoves": [
+    {
+      "move": "Covet",
+      "lvl": "0"
+    },
     {
       "move": "Covet",
       "lvl": "1"
@@ -189,10 +189,6 @@
     {
       "move": "Stuff Cheeks",
       "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": ""
     },
     {
       "move": "Stockpile",
@@ -234,11 +230,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 20,
+  "weight": "6.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
   "dfs": 95,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Greedent",
   "SwordEntry": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",

@@ -8,14 +8,15 @@
   "hasGigantamax": false,
   "eggMoves": [
     {"move": "Infestation"},
-    {"move": "Recover"},
+    {"move": "Supersonic"},
     {"move": "Sticky Web"},
-    {"move": "Supersonic"}
+    {"move": "Recover"}
   ],
   "number": 824,
   "spatk": 25,
   "atk": 20,
   "abilityHidden": "Telepathy",
+  "height": "0.4m",
   "lvlUpMoves": [{
     "move": "Struggle Bug",
     "lvl": "1"
@@ -23,11 +24,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 45,
+  "weight": "8.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 20,
+  "colour": "Blue",
   "hasAlolan": false,
   "name": "Blipbug",
   "SwordEntry": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",

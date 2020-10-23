@@ -174,21 +174,19 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Astonish"},
-    {"move": "Double-Edge"},
-    {"move": "Haze"},
-    {"move": "Leer"},
-    {"move": "Slash"},
-    {"move": "Smog"}
-  ],
+  "eggMoves": [],
   "XEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
   "number": 435,
   "spatk": 71,
   "atk": 93,
   "PlatinumEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
   "abilityHidden": "Keen Eye",
+  "height": "1.0m",
   "lvlUpMoves": [
+    {
+      "move": "Flamethrower",
+      "lvl": "0"
+    },
     {
       "move": "Flamethrower",
       "lvl": "1"
@@ -208,10 +206,6 @@
     {
       "move": "Smokescreen",
       "lvl": "1"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": ""
     },
     {
       "move": "Acid Spray",
@@ -270,6 +264,7 @@
   "WhiteEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
   "eggGroup2": "",
   "spd": 84,
+  "weight": "38.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Poison",
@@ -277,6 +272,7 @@
   "BlackEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
   "OmegaRubyEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
   "dfs": 67,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
   "SoulsilverEntry": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",

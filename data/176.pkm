@@ -1,14 +1,36 @@
 {
-  "ShieldEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-  "extraMega": false,
-  "HearthGoldEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
   "EmeraldEntry": "It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
   "ability1": "Hustle",
-  "YEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
   "AlphaSapphireEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
   "hp": 55,
   "SilverEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "ability2": "Serene Grace",
+  "eggMoves": [],
+  "number": 176,
+  "spatk": 80,
+  "atk": 40,
+  "height": "0.6m",
+  "type2": "Flying",
+  "WhiteEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
+  "eggGroup2": "Fairy",
+  "spd": 40,
+  "CrystalEntry": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
+  "weight": "3.2kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Fairy",
+  "hasGalarian": false,
+  "dfs": 85,
+  "GoldEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+  "SapphireEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+  "hasAlolan": false,
+  "DiamondEntry": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
+  "name": "Togetic",
+  "spdfs": 105,
+  "ShieldEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+  "extraMega": false,
+  "HearthGoldEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+  "YEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
   "tmTrMoves": [
     {
       "move": "Mega Punch",
@@ -236,21 +258,14 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aerial Ace"},
-    {"move": "Extrasensory"},
-    {"move": "Morning Sun"},
-    {"move": "Peck"},
-    {"move": "Present"},
-    {"move": "Psycho Shift"}
-  ],
   "XEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-  "number": 176,
-  "spatk": 80,
-  "atk": 40,
   "PlatinumEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
   "abilityHidden": "Super Luck",
   "lvlUpMoves": [
+    {
+      "move": "Fairy Wind",
+      "lvl": "0"
+    },
     {
       "move": "Fairy Wind",
       "lvl": "1"
@@ -270,10 +285,6 @@
     {
       "move": "Life Dew",
       "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": ""
     },
     {
       "move": "Charm",
@@ -320,30 +331,15 @@
       "lvl": "52"
     }
   ],
-  "type2": "Flying",
-  "WhiteEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
-  "eggGroup2": "Fairy",
-  "spd": 40,
-  "CrystalEntry": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
-  "eggGroup1": "Flying",
   "RubyEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-  "hasMega": false,
-  "type1": "Fairy",
-  "hasGalarian": false,
   "BlackEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
   "OmegaRubyEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-  "dfs": 85,
-  "GoldEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-  "SapphireEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
-  "hasAlolan": false,
-  "DiamondEntry": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
+  "colour": "White",
   "SoulsilverEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
-  "name": "Togetic",
   "FireRedEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "White2Entry": "To share its happiness, it flies around the world seeking kind-hearted people.",
   "SwordEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
   "PearlEntry": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
-  "spdfs": 105,
   "category": "Happiness Pokémon",
   "LeafGreenEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
   "Black2Entry": "To share its happiness, it flies around the world seeking kind-hearted people."

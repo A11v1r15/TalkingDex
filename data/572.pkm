@@ -150,10 +150,10 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Tail Whip"},
     {"move": "Aqua Tail"},
-    {"move": "Flail"},
     {"move": "Knock Off"},
-    {"move": "Tail Whip"}
+    {"move": "Flail"}
   ],
   "XEntry": "Minccino greet each other by grooming one another thoroughly with their tails.",
   "UltraMoonEntry": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
@@ -162,6 +162,7 @@
   "UltraSunEntry": "A clean freak that will not allow even the slightest mess, it uses its tail like a mop to thoroughly clean any and all filth.",
   "atk": 50,
   "abilityHidden": "Skill Link",
+  "height": "0.4m",
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -224,6 +225,7 @@
   "WhiteEntry": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
   "eggGroup2": "",
   "spd": 75,
+  "weight": "5.8kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
@@ -231,6 +233,7 @@
   "BlackEntry": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
   "OmegaRubyEntry": "Minccino greet each other by grooming one another thoroughly with their tails.",
   "dfs": 40,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Minccino",
   "White2Entry": "Minccino greet each other by grooming one another thoroughly with their tails.",

@@ -7,17 +7,219 @@
   "AlphaSapphireEntry": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
   "hp": 50,
   "ability2": "Rock Head",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
   "hasGigantamax": false,
   "XEntry": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+  "eggMoves": [
+    {"move": "Curse"},
+    {"move": "Dragon Rush"},
+    {"move": "Endeavor"},
+    {"move": "Head Smash"},
+    {"move": "Stomp"},
+    {"move": "Mud"}
+  ],
   "number": 304,
   "spatk": 40,
   "atk": 70,
   "PlatinumEntry": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
   "abilityHidden": "Heavy Metal",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "4"
+    },
+    {
+      "move": "Rock Tomb",
+      "lvl": "8"
+    },
+    {
+      "move": "Roar",
+      "lvl": "12"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "16"
+    },
+    {
+      "move": "Protect",
+      "lvl": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "24"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "28"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "33"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "36"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "40"
+    },
+    {
+      "move": "Iron Tail",
+      "lvl": "44"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "48"
+    },
+    {
+      "move": "Heavy Slam",
+      "lvl": "52"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "56"
+    },
+    {
+      "move": "Metal Burst",
+      "lvl": "60"
+    }
+  ],
   "type2": "Rock",
   "WhiteEntry": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
   "eggGroup2": "",
   "spd": 30,
+  "weight": "60.0kg",
   "eggGroup1": "Monster",
   "RubyEntry": "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
   "hasMega": false,
@@ -27,6 +229,7 @@
   "OmegaRubyEntry": "This Pokémon has a body of steel. To make its body, Aron feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
   "dfs": 100,
   "SapphireEntry": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
+  "colour": "Gray",
   "hasAlolan": false,
   "DiamondEntry": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
   "SoulsilverEntry": "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",

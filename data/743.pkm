@@ -172,11 +172,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Aromatic Mist"},
-    {"move": "Moonblast"},
-    {"move": "Sticky Web"}
-  ],
+  "eggMoves": [],
   "UltraMoonEntry": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
   "number": 743,
   "MoonEntry": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
@@ -184,7 +180,12 @@
   "UltraSunEntry": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
   "atk": 55,
   "abilityHidden": "Sweet Veil",
+  "height": "0.2m",
   "lvlUpMoves": [
+    {
+      "move": "Pollen Puff",
+      "lvl": "0"
+    },
     {
       "move": "Pollen Puff",
       "lvl": "1"
@@ -208,10 +209,6 @@
     {
       "move": "Sweet Scent",
       "lvl": "1"
-    },
-    {
-      "move": "Pollen Puff",
-      "lvl": ""
     },
     {
       "move": "Draining Kiss",
@@ -245,11 +242,13 @@
   "type2": "Fairy",
   "eggGroup2": "Fairy",
   "spd": 124,
+  "weight": "0.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
   "dfs": 60,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Ribombee",
   "SwordEntry": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",

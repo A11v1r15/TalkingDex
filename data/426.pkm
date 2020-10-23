@@ -171,14 +171,7 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Clear Smog"},
-    {"move": "Defog"},
-    {"move": "Disable"},
-    {"move": "Haze"},
-    {"move": "Hypnosis"},
-    {"move": "Memento"}
-  ],
+  "eggMoves": [],
   "XEntry": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
   "UltraMoonEntry": "The raw material for the gas inside its body is souls. When its body starts to deflate, it's thought to carry away people and Pokémon.",
   "number": 426,
@@ -188,7 +181,12 @@
   "atk": 80,
   "PlatinumEntry": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
   "abilityHidden": "Flare Boost",
+  "height": "1.2m",
   "lvlUpMoves": [
+    {
+      "move": "Phantom Force",
+      "lvl": "0"
+    },
     {
       "move": "Phantom Force",
       "lvl": "1"
@@ -212,10 +210,6 @@
     {
       "move": "Focus Energy",
       "lvl": "1"
-    },
-    {
-      "move": "Phantom Force",
-      "lvl": ""
     },
     {
       "move": "Payback",
@@ -266,6 +260,7 @@
   "WhiteEntry": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
   "eggGroup2": "",
   "spd": 80,
+  "weight": "15.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
@@ -273,6 +268,7 @@
   "BlackEntry": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
   "OmegaRubyEntry": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
   "dfs": 44,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
   "SoulsilverEntry": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",

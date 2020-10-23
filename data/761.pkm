@@ -113,9 +113,9 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
+    {"move": "Synthesis"},
     {"move": "Acupressure"},
-    {"move": "Endeavor"},
-    {"move": "Synthesis"}
+    {"move": "Endeavor"}
   ],
   "UltraMoonEntry": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt.",
   "number": 761,
@@ -124,6 +124,7 @@
   "UltraSunEntry": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
   "atk": 30,
   "abilityHidden": "Sweet Veil",
+  "height": "0.3m",
   "lvlUpMoves": [
     {
       "move": "Splash",
@@ -169,11 +170,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 32,
+  "weight": "3.2kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
   "dfs": 38,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Bounsweet",
   "SwordEntry": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",

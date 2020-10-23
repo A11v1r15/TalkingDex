@@ -163,20 +163,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Curse"},
-    {"move": "Disable"},
-    {"move": "Double Team"},
-    {"move": "Dragon Tail"},
-    {"move": "Grudge"},
-    {"move": "Sucker Punch"}
-  ],
+  "eggMoves": [],
   "number": 886,
   "spatk": 60,
   "atk": 80,
   "abilityHidden": "Cursed Body",
+  "height": "1.4m",
   "lvlUpMoves": [
+    {
+      "move": "Dragon Pulse",
+      "lvl": "0"
+    },
     {
       "move": "Dragon Pulse",
       "lvl": "1"
@@ -196,10 +193,6 @@
     {
       "move": "Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": ""
     },
     {
       "move": "Lock-On",
@@ -253,11 +246,13 @@
   "type2": "Ghost",
   "eggGroup2": "Dragon",
   "spd": 102,
+  "weight": "11.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "dfs": 50,
+  "colour": "Green",
   "hasAlolan": false,
   "name": "Drakloak",
   "SwordEntry": "It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",

@@ -245,27 +245,24 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Night Slash"},
-    {"move": "Sand Attack"},
-    {"move": "Switcheroo"}
-  ],
+  "eggMoves": [],
   "XEntry": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
   "number": 689,
   "spatk": 54,
   "atk": 105,
   "abilityHidden": "Pickpocket",
+  "height": "1.3m",
   "lvlUpMoves": [
     {
       "move": "Skull Bash",
       "lvl": "1"
     },
     {
-      "move": "Scratch",
+      "move": "Mud-Slap",
       "lvl": "1"
     },
     {
-      "move": "Mud-Slap",
+      "move": "Scratch",
       "lvl": "1"
     },
     {
@@ -320,12 +317,14 @@
   "type2": "Water",
   "eggGroup2": "",
   "spd": 68,
+  "weight": "96.0kg",
   "eggGroup1": "Water 3",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
   "dfs": 115,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Barbaracle",
   "SwordEntry": "Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.",

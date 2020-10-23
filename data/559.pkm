@@ -218,12 +218,12 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Acid Spray"},
     {"move": "Counter"},
     {"move": "Detect"},
     {"move": "Fake Out"},
-    {"move": "Power-Up Punch"},
-    {"move": "Quick Guard"}
+    {"move": "Quick Guard"},
+    {"move": "Power"},
+    {"move": "Acid Spray"}
   ],
   "XEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
   "UltraMoonEntry": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
@@ -232,6 +232,7 @@
   "UltraSunEntry": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
   "atk": 75,
   "abilityHidden": "Intimidate",
+  "height": "0.6m",
   "lvlUpMoves": [
     {
       "move": "Low Kick",
@@ -298,6 +299,7 @@
   "WhiteEntry": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
   "eggGroup2": "Dragon",
   "spd": 48,
+  "weight": "11.8kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
@@ -305,6 +307,7 @@
   "BlackEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
   "OmegaRubyEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
   "dfs": 70,
+  "colour": "Yellow",
   "hasAlolan": false,
   "name": "Scraggy",
   "White2Entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",

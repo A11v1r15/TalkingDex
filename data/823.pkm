@@ -171,20 +171,17 @@
     }
   ],
   "hasGigantamax": true,
-  "eggMoves": [
-    {"move": "Defog"},
-    {"move": "Rock Smash"},
-    {"move": "Roost"},
-    {"move": "Sand Attack"},
-    {"move": "Sky Attack"},
-    {"move": "Spite"},
-    {"move": "Tailwind"}
-  ],
+  "eggMoves": [],
   "number": 823,
   "spatk": 53,
   "atk": 87,
   "abilityHidden": "Mirror Armor",
+  "height": "2.2m",
   "lvlUpMoves": [
+    {
+      "move": "Steel Wing",
+      "lvl": "0"
+    },
     {
       "move": "Steel Wing",
       "lvl": "1"
@@ -212,10 +209,6 @@
     {
       "move": "Hone Claws",
       "lvl": "1"
-    },
-    {
-      "move": "Steel Wing",
-      "lvl": ""
     },
     {
       "move": "Fury Attack",
@@ -249,11 +242,13 @@
   "type2": "Steel",
   "eggGroup2": "",
   "spd": 67,
+  "weight": "75.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
   "dfs": 105,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Corviknight",
   "SwordEntry": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",

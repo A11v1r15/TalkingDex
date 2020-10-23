@@ -14,11 +14,13 @@
   "UltraSunEntry": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
   "atk": 45,
   "RedEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+  "height": "1.1m",
   "type2": "Flying",
   "WhiteEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "eggGroup2": "",
   "spd": 70,
   "CrystalEntry": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
+  "weight": "32.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
@@ -179,6 +181,10 @@
   "lvlUpMoves": [
     {
       "move": "Gust",
+      "lvl": "0"
+    },
+    {
+      "move": "Gust",
       "lvl": "1"
     },
     {
@@ -196,10 +202,6 @@
     {
       "move": "Bug Bite",
       "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": ""
     },
     {
       "move": "Supersonic",
@@ -258,6 +260,7 @@
   "BlackEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "OmegaRubyEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
   "LetsGoEeveeEntry": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+  "colour": "White",
   "SoulsilverEntry": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
   "FireRedEntry": "The wings are protected by a rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
   "White2Entry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",

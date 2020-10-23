@@ -228,7 +228,12 @@
   "spatk": 95,
   "atk": 120,
   "abilityHidden": "Pickpocket",
+  "height": "1.5m",
   "lvlUpMoves": [
+    {
+      "move": "Spirit Break",
+      "lvl": "0"
+    },
     {
       "move": "Spirit Break",
       "lvl": "1"
@@ -260,10 +265,6 @@
     {
       "move": "Flatter",
       "lvl": "1"
-    },
-    {
-      "move": "Spirit Break",
-      "lvl": ""
     },
     {
       "move": "Fake Tears",
@@ -309,11 +310,13 @@
   "type2": "Fairy",
   "eggGroup2": "Human-Like",
   "spd": 60,
+  "weight": "61.0kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "dfs": 65,
+  "colour": "Purple",
   "hasAlolan": false,
   "name": "Grimmsnarl",
   "SwordEntry": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",

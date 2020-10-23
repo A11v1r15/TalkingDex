@@ -199,19 +199,17 @@
     }
   ],
   "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Covet"},
-    {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Flail"},
-    {"move": "Night Slash"},
-    {"move": "Spite"}
-  ],
+  "eggMoves": [],
   "number": 863,
   "spatk": 50,
   "atk": 110,
   "abilityHidden": "Steely Spirit",
+  "height": "0.8m",
   "lvlUpMoves": [
+    {
+      "move": "Iron Head",
+      "lvl": "0"
+    },
     {
       "move": "Iron Head",
       "lvl": "1"
@@ -239,10 +237,6 @@
     {
       "move": "Scratch",
       "lvl": "1"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": ""
     },
     {
       "move": "Pay Day",
@@ -284,11 +278,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 50,
+  "weight": "28.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "dfs": 100,
+  "colour": "Brown",
   "hasAlolan": false,
   "name": "Perrserker",
   "SwordEntry": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",

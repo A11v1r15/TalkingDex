@@ -216,7 +216,12 @@
   "UltraSunEntry": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
   "atk": 95,
   "abilityHidden": "",
+  "height": "2.3m",
   "lvlUpMoves": [
+    {
+      "move": "Multi-Attack",
+      "lvl": "0"
+    },
     {
       "move": "Multi-Attack",
       "lvl": "1"
@@ -266,10 +271,6 @@
       "lvl": "1"
     },
     {
-      "move": "Multi-Attack",
-      "lvl": ""
-    },
-    {
       "move": "Double Hit",
       "lvl": "15"
     },
@@ -313,11 +314,13 @@
   "type2": "",
   "eggGroup2": "",
   "spd": 95,
+  "weight": "100.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
   "dfs": 95,
+  "colour": "Gray",
   "hasAlolan": false,
   "name": "Silvally",
   "SwordEntry": "A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",

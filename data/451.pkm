@@ -155,9 +155,9 @@
   ],
   "hasGigantamax": false,
   "eggMoves": [
-    {"move": "Confuse Ray"},
     {"move": "Sand Attack"},
     {"move": "Slash"},
+    {"move": "Confuse Ray"},
     {"move": "Whirlwind"}
   ],
   "XEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
@@ -166,6 +166,7 @@
   "atk": 50,
   "PlatinumEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
   "abilityHidden": "Keen Eye",
+  "height": "0.8m",
   "lvlUpMoves": [
     {
       "move": "Poison Sting",
@@ -244,6 +245,7 @@
   "WhiteEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
   "eggGroup2": "Water 3",
   "spd": 65,
+  "weight": "12.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Poison",
@@ -251,6 +253,7 @@
   "BlackEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
   "OmegaRubyEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
   "dfs": 90,
+  "colour": "Purple",
   "hasAlolan": false,
   "DiamondEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
   "SoulsilverEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
