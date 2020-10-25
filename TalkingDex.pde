@@ -16,28 +16,27 @@ int MaxDex = 898;
 IntList alola;
 IntList alolaUltra;
 IntList galar;
-IntList ioa;
-IntList natGalar;
 StringList versions;
 
 void setup () {
   //size(400, 800);
-  alola = new IntList(loadJSONArray("Alola.pkm").getIntArray());
-  alolaUltra = new IntList(loadJSONArray("UltraAlola.pkm").getIntArray());
-  galar = new IntList(loadJSONArray("Galar.pkm").getIntArray());
-  ioa = new IntList(loadJSONArray("IoA.pkm").getIntArray());
-  natGalar = new IntList(loadJSONArray("Galar.pkm").getIntArray());
-  versions = new StringList(loadJSONArray("Version.pkm").getStringArray());
-  for (int i : ioa) {
+  alola = new IntList(loadJSONArray("pkm/Alola.pkm").getIntArray());
+  alolaUltra = new IntList(loadJSONArray("pkm/UltraAlola.pkm").getIntArray());
+  galar = new IntList(loadJSONArray("pkm/Galar.pkm").getIntArray());
+  versions = new StringList(loadJSONArray("pkm/Version.pkm").getStringArray());
+  IntList ex = new IntList(loadJSONArray("pkm/IoA.pkm").getIntArray());
+  for (int i : ex) {
     if (!galar.hasValue(i))
-      natGalar.append(i);
+      galar.append(i);
   }
-  natGalar.append(896);
-  natGalar.append(897);
-  natGalar.append(898);
+  ex = new IntList(loadJSONArray("pkm/CT.pkm").getIntArray());
+  for (int i : ex) {
+    if (!galar.hasValue(i))
+      galar.append(i);
+  }
   alola.sort();
   alolaUltra.sort();
-  natGalar.sort();
+  galar.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() { 
@@ -51,9 +50,9 @@ void setup () {
   t1.setPitch(0.4f);
   diameter = (min(width, height)*0.7);
   for (int i = 1; i < MaxDex+1; i++) {
-    list.add(loadImage(String.format("%03d.png", i)));
+    list.add(loadImage(String.format("png/%03d.png", i)));
   }
-  pkm = loadJSONObject(String.format("%03d.pkm", pkn));
+  pkm = loadJSONObject(String.format("pkm/%03d.pkm", pkn));
   MaxDex = 151;
 }
 
@@ -133,7 +132,7 @@ void touchEnded() {
   dialing = false;
   changingVersion = false;
   if (wasDialing) {
-    pkm = loadJSONObject(String.format("%03d.pkm", index()));
+    pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
@@ -257,7 +256,7 @@ void drawFace() {
 }
 
 @Override
-public void onDestroy() {
+  public void onDestroy() {
   super.onDestroy();
-  if( t1 != null ) t1.shutdown();
+  if ( t1 != null ) t1.shutdown();
 }
