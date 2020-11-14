@@ -1,250 +1,256 @@
 {
-  "ShieldEntry": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
-  "extraMega": false,
-  "ability1": "Water Absorb",
-  "YEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-  "AlphaSapphireEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-  "hp": 55,
-  "ability2": "Cursed Body",
-  "tmTrMoves": [
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Acid Armor"},
-    {"move": "Confuse Ray"},
-    {"move": "Pain Split"},
-    {"move": "Mist"},
-    {"move": "Bubble Beam"},
-    {"move": "Strength Sap"}
-  ],
-  "XEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-  "UltraMoonEntry": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
   "number": 592,
-  "spatk": 65,
-  "UltraSunEntry": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
-  "atk": 40,
-  "abilityHidden": "Damp",
-  "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "4"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "8"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "12"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "16"
-    },
-    {
-      "move": "Hex",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Recover",
-      "lvl": "28"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "32"
-    },
-    {
-      "move": "Whirlpool",
-      "lvl": "36"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "41"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "44"
-    },
-    {
-      "move": "Water Spout",
-      "lvl": "48"
-    }
-  ],
-  "type2": "Ghost",
-  "WhiteEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-  "eggGroup2": "",
-  "spd": 40,
-  "weight": "33.0kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlackEntry": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
-  "OmegaRubyEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-  "dfs": 50,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+    "White": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+    "UltraMoon": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
+    "Sword": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
+    "Shield": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
+    "X": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+    "White2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+    "Y": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+    "UltraSun": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
+    "Black": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+    "Black2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+    "OmegaRuby": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "lvl": "4"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "8"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "12"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "16"
+      },
+      {
+        "move": "Hex",
+        "lvl": "20"
+      },
+      {
+        "move": "Brine",
+        "lvl": "24"
+      },
+      {
+        "move": "Recover",
+        "lvl": "28"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "32"
+      },
+      {
+        "move": "Whirlpool",
+        "lvl": "36"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "41"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "44"
+      },
+      {
+        "move": "Water Spout",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Acid Armor"},
+      {"move": "Confuse Ray"},
+      {"move": "Pain Split"},
+      {"move": "Mist"},
+      {"move": "Bubble Beam"},
+      {"move": "Strength Sap"}
+    ]
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "33.0kg",
+    "category": "Floating Pokémon",
+    "height": "1.2m"
+  },
   "name": "Frillish",
-  "White2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-  "SwordEntry": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
-  "spdfs": 85,
-  "category": "Floating Pokémon",
-  "Black2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 65,
+    "spd": 40,
+    "hp": 55,
+    "atk": 40,
+    "spdfs": 85
+  },
+  "Biology": {
+    "ability1": "Water Absorb",
+    "type2": "Ghost",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Damp",
+    "ability2": "Cursed Body",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

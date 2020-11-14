@@ -1,29 +1,32 @@
 {
-  "extraMega": false,
-  "ability1": "Flower Veil",
-  "YEntry": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
-  "AlphaSapphireEntry": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
-  "hp": 78,
-  "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
-  "UltraMoonEntry": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
   "number": 671,
-  "spatk": 112,
-  "UltraSunEntry": "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
-  "atk": 65,
-  "abilityHidden": "Symbiosis",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 75,
-  "eggGroup1": "Fairy",
-  "hasMega": false,
-  "type1": "Fairy",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
-  "dfs": 68,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+    "UltraMoon": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
+    "X": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+    "Y": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+    "UltraSun": "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
+    "OmegaRuby": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants."
+  },
+  "Moves": {},
+  "Flair": {"category": "Garden Pokémon"},
   "name": "Florges",
-  "spdfs": 154,
-  "category": "Garden Pokémon"
+  "Stats": {
+    "dfs": 68,
+    "spatk": 112,
+    "spd": 75,
+    "hp": 78,
+    "atk": 65,
+    "spdfs": 154
+  },
+  "Biology": {
+    "ability1": "Flower Veil",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Fairy",
+    "abilityHidden": "Symbiosis",
+    "ability2": "",
+    "type1": "Fairy"
+  },
+  "hasGigantamax": false
 }

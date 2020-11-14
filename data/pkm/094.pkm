@@ -1,356 +1,361 @@
 {
-  "YellowEntry": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-  "EmeraldEntry": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-  "ability1": "Cursed Body",
-  "AlphaSapphireEntry": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-  "hp": 60,
-  "SilverEntry": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "Even your home isn't safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
   "number": 94,
-  "MoonEntry": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
-  "spatk": 130,
-  "UltraSunEntry": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
-  "atk": 65,
-  "RedEntry": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
-  "height": "1.5m",
-  "type2": "Poison",
-  "WhiteEntry": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-  "eggGroup2": "",
-  "spd": 110,
-  "CrystalEntry": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
-  "weight": "40.5kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": true,
-  "type1": "Ghost",
-  "hasGalarian": false,
-  "BlueEntry": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
-  "dfs": 60,
-  "GoldEntry": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
-  "SapphireEntry": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-  "DiamondEntry": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees F.",
+  "Entry": {
+    "Shield": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+    "Moon": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
+    "Black": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "Black2": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "FireRed": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+    "HearthGold": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+    "Sword": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
+    "Sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "Platinum": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "Emerald": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "X": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+    "Y": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+    "Ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "Soulsilver": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+    "AlphaSapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "Gold": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+    "UltraMoon": "Even your home isn't safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
+    "Blue": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "LetsGoPikachu": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+    "White2": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "Diamond": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees F.",
+    "UltraSun": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
+    "Sun": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
+    "OmegaRuby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "Red": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "Pearl": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life force.",
+    "Silver": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+    "White": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "Yellow": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+    "LeafGreen": "On the night of the full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
+    "LetsGoEevee": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+    "Crystal": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Phantom Force",
+        "technical": "TM86"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Shadow Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Perish Song",
+        "lvl": "1"
+      },
+      {
+        "move": "Reflect Type",
+        "lvl": "1"
+      },
+      {
+        "move": "Lick",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Mean Look",
+        "lvl": "1"
+      },
+      {
+        "move": "Payback",
+        "lvl": "12"
+      },
+      {
+        "move": "Spite",
+        "lvl": "16"
+      },
+      {
+        "move": "Curse",
+        "lvl": "20"
+      },
+      {
+        "move": "Hex",
+        "lvl": "24"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "30"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "36"
+      },
+      {
+        "move": "Dark Pulse",
+        "lvl": "42"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "48"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "54"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "60"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "40.5kg",
+    "category": "Shadow Pokémon",
+    "height": "1.5m"
+  },
   "name": "Gengar",
-  "spdfs": 75,
-  "ShieldEntry": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
-  "extraMega": false,
-  "HearthGoldEntry": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
-  "YEntry": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
-  "SunEntry": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": true,
-  "XEntry": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
-  "PlatinumEntry": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Shadow Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "1"
-    },
-    {
-      "move": "Reflect Type",
-      "lvl": "1"
-    },
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "12"
-    },
-    {
-      "move": "Spite",
-      "lvl": "16"
-    },
-    {
-      "move": "Curse",
-      "lvl": "20"
-    },
-    {
-      "move": "Hex",
-      "lvl": "24"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "30"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "36"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "42"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "48"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "54"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "60"
-    }
-  ],
-  "94Entry": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
-  "RubyEntry": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-  "BlackEntry": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-  "OmegaRubyEntry": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
-  "LetsGoEeveeEntry": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
-  "colour": "Purple",
-  "SoulsilverEntry": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
-  "FireRedEntry": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
-  "White2Entry": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
-  "SwordEntry": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
-  "PearlEntry": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life force.",
-  "category": "Shadow Pokémon",
-  "LeafGreenEntry": "On the night of the full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
-  "Black2Entry": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people."
+  "Stats": {
+    "dfs": 60,
+    "spatk": 130,
+    "spd": 110,
+    "hp": 60,
+    "atk": 65,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Cursed Body",
+    "type2": "Poison",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Ghost"
+  },
+  "hasGigantamax": true
 }

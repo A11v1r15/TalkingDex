@@ -1,235 +1,240 @@
 {
-  "YellowEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-  "EmeraldEntry": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "ability1": "Water Absorb",
-  "AlphaSapphireEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "hp": 40,
-  "SilverEntry": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
-  "ability2": "Damp",
-  "eggMoves": [
-    {"move": "Endeavor"},
-    {"move": "Haze"},
-    {"move": "Mist"},
-    {"move": "Mind Reader"},
-    {"move": "Splash"},
-    {"move": "Water Pulse"}
-  ],
-  "UltraMoonEntry": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
   "number": 60,
-  "MoonEntry": "It's still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
-  "spatk": 40,
-  "UltraSunEntry": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
-  "atk": 50,
-  "RedEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
-  "height": "0.6m",
-  "60Entry": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
-  "type2": "",
-  "WhiteEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "eggGroup2": "",
-  "spd": 90,
-  "CrystalEntry": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
-  "weight": "12.4kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
-  "dfs": 40,
-  "GoldEntry": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
-  "SapphireEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-  "DiamondEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+  "Entry": {
+    "Shield": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+    "Moon": "It's still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
+    "Black": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "Black2": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "FireRed": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+    "HearthGold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+    "Sword": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.",
+    "Sapphire": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "Platinum": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "Emerald": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "X": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+    "Y": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    "Ruby": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "Soulsilver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+    "AlphaSapphire": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "Gold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+    "UltraMoon": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+    "Blue": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "LetsGoPikachu": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    "White2": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "Diamond": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "UltraSun": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+    "Sun": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it's affected by some disease.",
+    "OmegaRuby": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "Red": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "Pearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "Silver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+    "White": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "Yellow": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    "LeafGreen": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
+    "LetsGoEevee": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    "Crystal": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "6"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "12"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "18"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "24"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "30"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "36"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "42"
+      },
+      {
+        "move": "Belly Drum",
+        "lvl": "48"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "54"
+      }
+    ],
+    "egg": [
+      {"move": "Endeavor"},
+      {"move": "Haze"},
+      {"move": "Mist"},
+      {"move": "Mind Reader"},
+      {"move": "Splash"},
+      {"move": "Water Pulse"}
+    ]
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "12.4kg",
+    "category": "Tadpole Pokémon",
+    "height": "0.6m"
+  },
   "name": "Poliwag",
-  "spdfs": 40,
-  "ShieldEntry": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
-  "extraMega": false,
-  "HearthGoldEntry": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
-  "YEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-  "SunEntry": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it's affected by some disease.",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
-  "PlatinumEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "6"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "18"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "24"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "30"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "36"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "42"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "48"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "54"
-    }
-  ],
-  "RubyEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "BlackEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "OmegaRubyEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "LetsGoEeveeEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-  "colour": "Blue",
-  "SoulsilverEntry": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
-  "FireRedEntry": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
-  "White2Entry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "SwordEntry": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.",
-  "PearlEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "category": "Tadpole Pokémon",
-  "LeafGreenEntry": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
-  "Black2Entry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+  "Stats": {
+    "dfs": 40,
+    "spatk": 40,
+    "spd": 90,
+    "hp": 40,
+    "atk": 50,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Water Absorb",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Swift Swim",
+    "ability2": "Damp",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

@@ -1,201 +1,207 @@
 {
-  "ShieldEntry": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
-  "extraMega": false,
-  "ability1": "Overgrow",
-  "hp": 78,
-  "SunEntry": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
   "number": 723,
-  "MoonEntry": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
-  "spatk": 70,
-  "UltraSunEntry": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it will stop listening to you.",
-  "atk": 75,
-  "abilityHidden": "Long Reach",
-  "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Leafage",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "9"
-    },
-    {
-      "move": "Shadow Sneak",
-      "lvl": "12"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "15"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "20"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "25"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "30"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "35"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "40"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "45"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "50"
-    }
-  ],
-  "type2": "Flying",
-  "eggGroup2": "",
-  "spd": 52,
-  "weight": "16.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "dfs": 75,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
+    "Sword": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
+    "Shield": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
+    "Moon": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
+    "UltraSun": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it will stop listening to you.",
+    "Sun": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Leaf Blade",
+        "technical": "TR50"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Leafage",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "9"
+      },
+      {
+        "move": "Shadow Sneak",
+        "lvl": "12"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "15"
+      },
+      {
+        "move": "Synthesis",
+        "lvl": "20"
+      },
+      {
+        "move": "Pluck",
+        "lvl": "25"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "30"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "35"
+      },
+      {
+        "move": "Leaf Blade",
+        "lvl": "40"
+      },
+      {
+        "move": "Feather Dance",
+        "lvl": "45"
+      },
+      {
+        "move": "Brave Bird",
+        "lvl": "50"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "16.0kg",
+    "category": "Blade Quill Pokémon",
+    "height": "0.7m"
+  },
   "name": "Dartrix",
-  "SwordEntry": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
-  "spdfs": 70,
-  "category": "Blade Quill Pokémon"
+  "Stats": {
+    "dfs": 75,
+    "spatk": 70,
+    "spd": 52,
+    "hp": 78,
+    "atk": 75,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Long Reach",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

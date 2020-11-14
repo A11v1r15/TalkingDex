@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Blaze",
-  "YEntry": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
-  "AlphaSapphireEntry": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
-  "hp": 75,
-  "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
   "number": 655,
-  "spatk": 114,
-  "atk": 69,
-  "abilityHidden": "Magician",
-  "type2": "Psychic",
-  "eggGroup2": "",
-  "spd": 104,
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
-  "dfs": 72,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
+    "X": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+    "Y": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
+    "OmegaRuby": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future."
+  },
+  "Moves": {},
+  "Flair": {"category": "Fox Pokémon"},
   "name": "Delphox",
-  "spdfs": 100,
-  "category": "Fox Pokémon"
+  "Stats": {
+    "dfs": 72,
+    "spatk": 114,
+    "spd": 104,
+    "hp": 75,
+    "atk": 69,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Blaze",
+    "type2": "Psychic",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Magician",
+    "ability2": "",
+    "type1": "Fire"
+  },
+  "hasGigantamax": false
 }

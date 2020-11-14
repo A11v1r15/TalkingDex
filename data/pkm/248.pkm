@@ -1,448 +1,454 @@
 {
-  "EmeraldEntry": "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
-  "ability1": "Sand Stream",
-  "AlphaSapphireEntry": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-  "hp": 100,
-  "SilverEntry": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
   "number": 248,
-  "spatk": 95,
-  "UltraSunEntry": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that's not worthy, Tyranitar ignores it and wanders on.",
-  "atk": 134,
-  "height": "2.0m",
-  "type2": "Dark",
-  "WhiteEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-  "eggGroup2": "",
-  "spd": 61,
-  "CrystalEntry": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
-  "weight": "202.0kg",
-  "eggGroup1": "Monster",
-  "hasMega": true,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "dfs": 110,
-  "GoldEntry": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-  "SapphireEntry": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-  "hasAlolan": false,
-  "DiamondEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+  "Entry": {
+    "Shield": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+    "Black": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "Black2": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+    "FireRed": "It has an impudent nature. Having great strength, it can even change surrounding landforms.",
+    "HearthGold": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "Sword": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "Sapphire": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "Platinum": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "Emerald": "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+    "X": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+    "Y": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "Ruby": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "Soulsilver": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+    "AlphaSapphire": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "Gold": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "UltraMoon": "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
+    "White2": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+    "Diamond": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "UltraSun": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that's not worthy, Tyranitar ignores it and wanders on.",
+    "OmegaRuby": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+    "Pearl": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "Silver": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+    "White": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "LeafGreen": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "Crystal": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Iron Defense",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Ice Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Rock Throw",
+        "lvl": "1"
+      },
+      {
+        "move": "Payback",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "9"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "12"
+      },
+      {
+        "move": "Rock Slide",
+        "lvl": "15"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "lvl": "18"
+      },
+      {
+        "move": "Screech",
+        "lvl": "21"
+      },
+      {
+        "move": "Dark Pulse",
+        "lvl": "24"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "27"
+      },
+      {
+        "move": "Earthquake",
+        "lvl": "33"
+      },
+      {
+        "move": "Stone Edge",
+        "lvl": "37"
+      },
+      {
+        "move": "Thrash",
+        "lvl": "42"
+      },
+      {
+        "move": "Sandstorm",
+        "lvl": "47"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "52"
+      },
+      {
+        "move": "Giga Impact",
+        "lvl": "59"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "202.0kg",
+    "category": "Armor Pokémon",
+    "height": "2.0m"
+  },
   "name": "Tyranitar",
-  "spdfs": 100,
-  "ShieldEntry": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-  "YEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
-  "PlatinumEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-  "abilityHidden": "Unnerve",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "9"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "15"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "lvl": "18"
-    },
-    {
-      "move": "Screech",
-      "lvl": "21"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "27"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "33"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "37"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "42"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "47"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "52"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "59"
-    }
-  ],
-  "RubyEntry": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-  "BlackEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-  "OmegaRubyEntry": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
-  "colour": "Green",
-  "SoulsilverEntry": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
-  "FireRedEntry": "It has an impudent nature. Having great strength, it can even change surrounding landforms.",
-  "White2Entry": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
-  "SwordEntry": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-  "PearlEntry": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
-  "category": "Armor Pokémon",
-  "LeafGreenEntry": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-  "Black2Entry": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
+  "Stats": {
+    "dfs": 110,
+    "spatk": 95,
+    "spd": 61,
+    "hp": 100,
+    "atk": 134,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Sand Stream",
+    "type2": "Dark",
+    "eggGroup2": "",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Unnerve",
+    "ability2": "",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

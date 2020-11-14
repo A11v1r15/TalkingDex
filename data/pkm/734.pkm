@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Stakeout",
-  "hp": 48,
-  "SunEntry": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
-  "ability2": "Strong Jaw",
-  "hasGigantamax": false,
-  "UltraMoonEntry": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
   "number": 734,
-  "MoonEntry": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
-  "spatk": 30,
-  "UltraSunEntry": "Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
-  "atk": 70,
-  "abilityHidden": "Adaptability",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 45,
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 30,
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+    "Moon": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
+    "UltraSun": "Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+    "Sun": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region."
+  },
+  "Moves": {},
+  "Flair": {"category": "Loitering Pokémon"},
   "name": "Yungoos",
-  "spdfs": 30,
-  "category": "Loitering Pokémon"
+  "Stats": {
+    "dfs": 30,
+    "spatk": 30,
+    "spd": 45,
+    "hp": 48,
+    "atk": 70,
+    "spdfs": 30
+  },
+  "Biology": {
+    "ability1": "Stakeout",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Adaptability",
+    "ability2": "Strong Jaw",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

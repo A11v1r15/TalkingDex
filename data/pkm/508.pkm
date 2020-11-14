@@ -1,269 +1,275 @@
 {
-  "ShieldEntry": "Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species.",
-  "extraMega": false,
-  "ability1": "Intimidate",
-  "YEntry": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-  "AlphaSapphireEntry": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-  "hp": 85,
-  "SunEntry": "Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.",
-  "ability2": "Sand Rush",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-  "UltraMoonEntry": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
   "number": 508,
-  "MoonEntry": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
-  "spatk": 45,
-  "UltraSunEntry": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
-  "atk": 110,
-  "abilityHidden": "Scrappy",
-  "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Ice Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Retaliate",
-      "lvl": "12"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "19"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "30"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "38"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "46"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "54"
-    },
-    {
-      "move": "Roar",
-      "lvl": "62"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "70"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "78"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
-  "eggGroup2": "",
-  "spd": 80,
-  "weight": "61.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "BlackEntry": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-  "OmegaRubyEntry": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
-  "dfs": 90,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+    "UltraMoon": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
+    "Shield": "Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species.",
+    "Moon": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
+    "White2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+    "UltraSun": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
+    "Black": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+    "Black2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+    "Sun": "Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.",
+    "OmegaRuby": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+    "White": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
+    "Sword": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+    "X": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+    "Y": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Ice Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Work Up",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Retaliate",
+        "lvl": "12"
+      },
+      {
+        "move": "Baby-Doll Eyes",
+        "lvl": "19"
+      },
+      {
+        "move": "Play Rough",
+        "lvl": "24"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "30"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "38"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "46"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "54"
+      },
+      {
+        "move": "Roar",
+        "lvl": "62"
+      },
+      {
+        "move": "Last Resort",
+        "lvl": "70"
+      },
+      {
+        "move": "Giga Impact",
+        "lvl": "78"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "61.0kg",
+    "category": "Big-Hearted Pokémon",
+    "height": "1.2m"
+  },
   "name": "Stoutland",
-  "White2Entry": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
-  "SwordEntry": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
-  "spdfs": 90,
-  "category": "Big-Hearted Pokémon",
-  "Black2Entry": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+  "Stats": {
+    "dfs": 90,
+    "spatk": 45,
+    "spd": 80,
+    "hp": 85,
+    "atk": 110,
+    "spdfs": 90
+  },
+  "Biology": {
+    "ability1": "Intimidate",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Scrappy",
+    "ability2": "Sand Rush",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

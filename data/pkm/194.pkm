@@ -1,270 +1,276 @@
 {
-  "EmeraldEntry": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
-  "ability1": "Damp",
-  "AlphaSapphireEntry": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-  "hp": 55,
-  "SilverEntry": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-  "ability2": "Water Absorb",
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Curse"},
-    {"move": "Stockpile"},
-    {"move": "Swallow"},
-    {"move": "Spit Up"},
-    {"move": "Counter"},
-    {"move": "Double Kick"},
-    {"move": "Recover"},
-    {"move": "After You"},
-    {"move": "Acid Spray"},
-    {"move": "Power"}
-  ],
   "number": 194,
-  "spatk": 25,
-  "atk": 45,
-  "height": "0.4m",
-  "type2": "Ground",
-  "WhiteEntry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-  "eggGroup2": "Field",
-  "spd": 15,
-  "CrystalEntry": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
-  "weight": "8.5kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 45,
-  "GoldEntry": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-  "SapphireEntry": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-  "hasAlolan": false,
-  "DiamondEntry": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+  "Entry": {
+    "AlphaSapphire": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "Gold": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "Shield": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "White2": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "Diamond": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+    "Black": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "Black2": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "FireRed": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+    "HearthGold": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "OmegaRuby": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "Pearl": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+    "Silver": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+    "White": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "Sword": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "Sapphire": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "LeafGreen": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "Platinum": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "Emerald": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+    "X": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "Y": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+    "Ruby": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "Soulsilver": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+    "Crystal": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Eerie Impulse",
+        "technical": "TM93"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "4"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "8"
+      },
+      {
+        "move": "Mist",
+        "lvl": "12"
+      },
+      {
+        "move": "Haze",
+        "lvl": "12"
+      },
+      {
+        "move": "Slam",
+        "lvl": "16"
+      },
+      {
+        "move": "Yawn",
+        "lvl": "21"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "24"
+      },
+      {
+        "move": "Muddy Water",
+        "lvl": "28"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "32"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "36"
+      },
+      {
+        "move": "Earthquake",
+        "lvl": "40"
+      }
+    ],
+    "egg": [
+      {"move": "Ancient Power"},
+      {"move": "Curse"},
+      {"move": "Stockpile"},
+      {"move": "Swallow"},
+      {"move": "Spit Up"},
+      {"move": "Counter"},
+      {"move": "Double Kick"},
+      {"move": "Recover"},
+      {"move": "After You"},
+      {"move": "Acid Spray"},
+      {"move": "Power"}
+    ]
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "8.5kg",
+    "category": "Water Fish Pokémon",
+    "height": "0.4m"
+  },
   "name": "Wooper",
-  "spdfs": 25,
-  "ShieldEntry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-  "extraMega": false,
-  "HearthGoldEntry": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-  "YEntry": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
-  "tmTrMoves": [
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-  "PlatinumEntry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-  "abilityHidden": "Unaware",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "4"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "8"
-    },
-    {
-      "move": "Mist",
-      "lvl": "12"
-    },
-    {
-      "move": "Haze",
-      "lvl": "12"
-    },
-    {
-      "move": "Slam",
-      "lvl": "16"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "21"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "24"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "28"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "32"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "36"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "40"
-    }
-  ],
-  "RubyEntry": "Wooper usually live in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-  "BlackEntry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-  "OmegaRubyEntry": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-  "colour": "Blue",
-  "SoulsilverEntry": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-  "FireRedEntry": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-  "White2Entry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
-  "SwordEntry": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-  "PearlEntry": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
-  "category": "Water Fish Pokémon",
-  "LeafGreenEntry": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-  "Black2Entry": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
+  "Stats": {
+    "dfs": 45,
+    "spatk": 25,
+    "spd": 15,
+    "hp": 55,
+    "atk": 45,
+    "spdfs": 25
+  },
+  "Biology": {
+    "ability1": "Damp",
+    "type2": "Ground",
+    "eggGroup2": "Field",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Unaware",
+    "ability2": "Water Absorb",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

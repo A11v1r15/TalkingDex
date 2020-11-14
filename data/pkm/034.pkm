@@ -1,408 +1,413 @@
 {
-  "YellowEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-  "EmeraldEntry": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
-  "ability1": "Poison Point",
-  "AlphaSapphireEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-  "hp": 81,
-  "34Entry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-  "SilverEntry": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
-  "ability2": "Rivalry",
-  "eggMoves": [],
   "number": 34,
-  "spatk": 85,
-  "atk": 102,
-  "RedEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
-  "height": "1.4m",
-  "type2": "Ground",
-  "WhiteEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "eggGroup2": "Field",
-  "spd": 85,
-  "CrystalEntry": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
-  "weight": "62.0kg",
-  "eggGroup1": "Monster",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "BlueEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
-  "dfs": 77,
-  "GoldEntry": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
-  "SapphireEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-  "DiamondEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+  "Entry": {
+    "Shield": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+    "Black": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Black2": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "FireRed": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
+    "HearthGold": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+    "Sword": "When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.",
+    "Sapphire": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+    "Platinum": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Emerald": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
+    "X": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
+    "Y": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Ruby": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+    "Soulsilver": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
+    "AlphaSapphire": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+    "Gold": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+    "Blue": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "LetsGoPikachu": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+    "White2": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Diamond": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "OmegaRuby": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+    "Red": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "Pearl": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Silver": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
+    "White": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "Yellow": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+    "LeafGreen": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "LetsGoEevee": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+    "Crystal": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Megahorn",
+        "lvl": "0"
+      },
+      {
+        "move": "Megahorn",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Toxic Spikes",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "1"
+      },
+      {
+        "move": "Flatter",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Jab",
+        "lvl": "1"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "62.0kg",
+    "category": "Drill Pokémon",
+    "height": "1.4m"
+  },
   "name": "Nidoking",
-  "spdfs": 75,
-  "ShieldEntry": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
-  "extraMega": false,
-  "HearthGoldEntry": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
-  "YEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
-  "PlatinumEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "abilityHidden": "Sheer Force",
-  "lvlUpMoves": [
-    {
-      "move": "Megahorn",
-      "lvl": "0"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "1"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "1"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    }
-  ],
-  "RubyEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-  "BlackEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "OmegaRubyEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-  "LetsGoEeveeEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
-  "FireRedEntry": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
-  "White2Entry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "SwordEntry": "When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.",
-  "PearlEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-  "category": "Drill Pokémon",
-  "LeafGreenEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
-  "Black2Entry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+  "Stats": {
+    "dfs": 77,
+    "spatk": 85,
+    "spd": 85,
+    "hp": 81,
+    "atk": 102,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Poison Point",
+    "type2": "Ground",
+    "eggGroup2": "Field",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Sheer Force",
+    "ability2": "Rivalry",
+    "type1": "Poison"
+  },
+  "hasGigantamax": false
 }

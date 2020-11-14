@@ -1,257 +1,263 @@
 {
-  "ShieldEntry": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
-  "extraMega": false,
-  "ability1": "Honey Gather",
-  "hp": 60,
-  "SunEntry": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
-  "ability2": "Shield Dust",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
   "number": 743,
-  "MoonEntry": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
-  "spatk": 95,
-  "UltraSunEntry": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
-  "atk": 55,
-  "abilityHidden": "Sweet Veil",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Pollen Puff",
-      "lvl": "0"
-    },
-    {
-      "move": "Pollen Puff",
-      "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "1"
-    },
-    {
-      "move": "Draining Kiss",
-      "lvl": "18"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "24"
-    },
-    {
-      "move": "Aromatherapy",
-      "lvl": "32"
-    },
-    {
-      "move": "Switcheroo",
-      "lvl": "40"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "48"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "56"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "64"
-    }
-  ],
-  "type2": "Fairy",
-  "eggGroup2": "Fairy",
-  "spd": 124,
-  "weight": "0.5kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "dfs": 60,
-  "colour": "Yellow",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
+    "Sword": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+    "Shield": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
+    "Moon": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
+    "UltraSun": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
+    "Sun": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      },
+      {
+        "move": "Pollen Puff",
+        "technical": "TR96"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Pollen Puff",
+        "lvl": "0"
+      },
+      {
+        "move": "Pollen Puff",
+        "lvl": "1"
+      },
+      {
+        "move": "Covet",
+        "lvl": "1"
+      },
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Fairy Wind",
+        "lvl": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "lvl": "1"
+      },
+      {
+        "move": "Sweet Scent",
+        "lvl": "1"
+      },
+      {
+        "move": "Draining Kiss",
+        "lvl": "18"
+      },
+      {
+        "move": "Struggle Bug",
+        "lvl": "24"
+      },
+      {
+        "move": "Aromatherapy",
+        "lvl": "32"
+      },
+      {
+        "move": "Switcheroo",
+        "lvl": "40"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "lvl": "48"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "56"
+      },
+      {
+        "move": "Quiver Dance",
+        "lvl": "64"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "0.5kg",
+    "category": "Bee Fly Pokémon",
+    "height": "0.2m"
+  },
   "name": "Ribombee",
-  "SwordEntry": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
-  "spdfs": 70,
-  "category": "Bee Fly Pokémon"
+  "Stats": {
+    "dfs": 60,
+    "spatk": 95,
+    "spd": 124,
+    "hp": 60,
+    "atk": 55,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Honey Gather",
+    "type2": "Fairy",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Sweet Veil",
+    "ability2": "Shield Dust",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

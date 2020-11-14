@@ -1,227 +1,233 @@
 {
-  "extraMega": false,
-  "ability1": "Beast Boost",
-  "hp": 83,
-  "SunEntry": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "UltraMoonEntry": "They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
-  "eggMoves": [],
   "number": 796,
-  "MoonEntry": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
-  "spatk": 173,
-  "UltraSunEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
-  "atk": 89,
-  "abilityHidden": "",
-  "height": "3.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "5"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "10"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "20"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "25"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "30"
-    },
-    {
-      "move": "Eerie Impulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "40"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "45"
-    },
-    {
-      "move": "Magnet Rise",
-      "lvl": "50"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "55"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "60"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "65"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "70"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 83,
-  "weight": "100.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "dfs": 71,
-  "colour": "Black",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
+    "Moon": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
+    "UltraSun": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+    "Sun": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Eerie Impulse",
+        "technical": "TM93"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Power Whip",
+        "technical": "TR72"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Charge",
+        "lvl": "5"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "10"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "15"
+      },
+      {
+        "move": "Spark",
+        "lvl": "20"
+      },
+      {
+        "move": "Shock Wave",
+        "lvl": "25"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "30"
+      },
+      {
+        "move": "Eerie Impulse",
+        "lvl": "35"
+      },
+      {
+        "move": "Thunder Punch",
+        "lvl": "40"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "45"
+      },
+      {
+        "move": "Magnet Rise",
+        "lvl": "50"
+      },
+      {
+        "move": "Thunderbolt",
+        "lvl": "55"
+      },
+      {
+        "move": "Electric Terrain",
+        "lvl": "60"
+      },
+      {
+        "move": "Power Whip",
+        "lvl": "65"
+      },
+      {
+        "move": "Zap Cannon",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Black",
+    "weight": "100.0kg",
+    "category": "Glowing Pokémon",
+    "height": "3.8m"
+  },
   "name": "Xurkitree",
-  "spdfs": 71,
-  "category": "Glowing Pokémon"
+  "Stats": {
+    "dfs": 71,
+    "spatk": 173,
+    "spd": 83,
+    "hp": 83,
+    "atk": 89,
+    "spdfs": 71
+  },
+  "Biology": {
+    "ability1": "Beast Boost",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

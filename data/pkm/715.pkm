@@ -1,283 +1,289 @@
 {
-  "ShieldEntry": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
-  "extraMega": false,
-  "ability1": "Frisk",
-  "YEntry": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
-  "AlphaSapphireEntry": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
-  "hp": 85,
-  "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
-  "UltraMoonEntry": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
   "number": 715,
-  "spatk": 97,
-  "UltraSunEntry": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
-  "atk": 70,
-  "abilityHidden": "Telepathy",
-  "height": "1.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Dragon Pulse",
-      "lvl": "0"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "12"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "24"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "28"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "32"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Roost",
-      "lvl": "44"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "51"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "56"
-    },
-    {
-      "move": "Boomburst",
-      "lvl": "62"
-    }
-  ],
-  "type2": "Dragon",
-  "eggGroup2": "Dragon",
-  "spd": 123,
-  "weight": "85.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Flying",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
-  "dfs": 80,
-  "colour": "Purple",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+    "UltraMoon": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
+    "Sword": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
+    "Shield": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
+    "X": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+    "Y": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+    "UltraSun": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+    "OmegaRuby": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Dragon Pulse",
+        "lvl": "0"
+      },
+      {
+        "move": "Dragon Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Moonlight",
+        "lvl": "1"
+      },
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "12"
+      },
+      {
+        "move": "Wing Attack",
+        "lvl": "16"
+      },
+      {
+        "move": "Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Air Cutter",
+        "lvl": "24"
+      },
+      {
+        "move": "Whirlwind",
+        "lvl": "28"
+      },
+      {
+        "move": "Super Fang",
+        "lvl": "32"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "36"
+      },
+      {
+        "move": "Screech",
+        "lvl": "40"
+      },
+      {
+        "move": "Roost",
+        "lvl": "44"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "51"
+      },
+      {
+        "move": "Hurricane",
+        "lvl": "56"
+      },
+      {
+        "move": "Boomburst",
+        "lvl": "62"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "85.0kg",
+    "category": "Sound Wave Pokémon",
+    "height": "1.5m"
+  },
   "name": "Noivern",
-  "SwordEntry": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
-  "spdfs": 80,
-  "category": "Sound Wave Pokémon"
+  "Stats": {
+    "dfs": 80,
+    "spatk": 97,
+    "spd": 123,
+    "hp": 85,
+    "atk": 70,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Frisk",
+    "type2": "Dragon",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Telepathy",
+    "ability2": "Infiltrator",
+    "type1": "Flying"
+  },
+  "hasGigantamax": false
 }

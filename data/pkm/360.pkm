@@ -1,99 +1,105 @@
 {
-  "ShieldEntry": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-  "extraMega": false,
-  "HearthGoldEntry": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
-  "EmeraldEntry": "A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
-  "ability1": "Shadow Tag",
-  "YEntry": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
-  "AlphaSapphireEntry": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
-  "hp": 95,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
   "number": 360,
-  "spatk": 23,
-  "atk": 23,
-  "PlatinumEntry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "abilityHidden": "Telepathy",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Counter",
-      "lvl": "1"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "1"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "1"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "1"
-    },
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Encore",
-      "lvl": "1"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "1"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "eggGroup2": "",
-  "spd": 23,
-  "weight": "14.0kg",
-  "eggGroup1": "Undiscovered",
-  "RubyEntry": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "BlackEntry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "OmegaRubyEntry": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
-  "dfs": 48,
-  "SapphireEntry": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
-  "colour": "Blue",
-  "hasAlolan": false,
-  "DiamondEntry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "SoulsilverEntry": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+  "Entry": {
+    "AlphaSapphire": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
+    "Shield": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "White2": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "Diamond": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "Black": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "Black2": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "FireRed": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "HearthGold": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+    "OmegaRuby": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
+    "Pearl": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "White": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "Sword": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+    "Sapphire": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
+    "LeafGreen": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "Platinum": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
+    "Emerald": "A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+    "X": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "Y": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+    "Ruby": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
+    "Soulsilver": "It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Counter",
+        "lvl": "1"
+      },
+      {
+        "move": "Mirror Coat",
+        "lvl": "1"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "1"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "1"
+      },
+      {
+        "move": "Splash",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Encore",
+        "lvl": "1"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "14.0kg",
+    "category": "Bright Pokémon",
+    "height": "0.6m"
+  },
   "name": "Wynaut",
-  "FireRedEntry": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-  "White2Entry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "SwordEntry": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
-  "PearlEntry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit.",
-  "spdfs": 48,
-  "category": "Bright Pokémon",
-  "LeafGreenEntry": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
-  "Black2Entry": "It grows stronger by pushing up against others en masse. It loves eating sweet fruit."
+  "Stats": {
+    "dfs": 48,
+    "spatk": 23,
+    "spd": 23,
+    "hp": 95,
+    "atk": 23,
+    "spdfs": 48
+  },
+  "Biology": {
+    "ability1": "Shadow Tag",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Telepathy",
+    "ability2": "",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

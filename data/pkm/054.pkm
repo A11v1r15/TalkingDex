@@ -1,300 +1,305 @@
 {
-  "YellowEntry": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
-  "EmeraldEntry": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
-  "ability1": "Damp",
-  "AlphaSapphireEntry": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
-  "hp": 50,
-  "SilverEntry": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-  "ability2": "Cloud Nine",
-  "eggMoves": [
-    {"move": "Clear Smog"},
-    {"move": "Confuse Ray"},
-    {"move": "Cross Chop"},
-    {"move": "Hypnosis"},
-    {"move": "Psybeam"},
-    {"move": "Simple Beam"},
-    {"move": "Yawn"}
-  ],
-  "UltraMoonEntry": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
   "number": 54,
-  "MoonEntry": "This Pokémon is troubled by constant headaches. The more pain it's in, the more powerful its psychokinesis becomes.",
-  "spatk": 65,
-  "UltraSunEntry": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
-  "atk": 52,
-  "RedEntry": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
-  "height": "0.8m",
-  "type2": "",
-  "WhiteEntry": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-  "eggGroup2": "Field",
-  "spd": 55,
-  "CrystalEntry": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
-  "weight": "19.6kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
-  "dfs": 48,
-  "GoldEntry": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
-  "SapphireEntry": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
-  "DiamondEntry": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
+  "Entry": {
+    "Shield": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+    "Moon": "This Pokémon is troubled by constant headaches. The more pain it's in, the more powerful its psychokinesis becomes.",
+    "Black": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+    "Black2": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+    "FireRed": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "HearthGold": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+    "Sword": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
+    "Sapphire": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+    "Platinum": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+    "Emerald": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+    "X": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "Y": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+    "Ruby": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+    "Soulsilver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+    "AlphaSapphire": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+    "Gold": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+    "UltraMoon": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
+    "Blue": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+    "LetsGoPikachu": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+    "White2": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+    "Diamond": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
+    "UltraSun": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+    "Sun": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+    "OmegaRuby": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+    "Red": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+    "Pearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+    "Silver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+    "White": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+    "Yellow": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
+    "LeafGreen": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+    "LetsGoEevee": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+    "Crystal": "The only time it can use its psychic power is when its sleeping brain cells happen to wake."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "3"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "6"
+      },
+      {
+        "move": "Fury Swipes",
+        "lvl": "9"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "12"
+      },
+      {
+        "move": "Disable",
+        "lvl": "15"
+      },
+      {
+        "move": "Zen Headbutt",
+        "lvl": "18"
+      },
+      {
+        "move": "Screech",
+        "lvl": "21"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "24"
+      },
+      {
+        "move": "Soak",
+        "lvl": "27"
+      },
+      {
+        "move": "Psych Up",
+        "lvl": "30"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "34"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "36"
+      },
+      {
+        "move": "Wonder Room",
+        "lvl": "39"
+      }
+    ],
+    "egg": [
+      {"move": "Clear Smog"},
+      {"move": "Confuse Ray"},
+      {"move": "Cross Chop"},
+      {"move": "Hypnosis"},
+      {"move": "Psybeam"},
+      {"move": "Simple Beam"},
+      {"move": "Yawn"}
+    ]
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "19.6kg",
+    "category": "Duck Pokémon",
+    "height": "0.8m"
+  },
   "name": "Psyduck",
-  "spdfs": 50,
-  "ShieldEntry": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
-  "extraMega": false,
-  "HearthGoldEntry": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
-  "YEntry": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
-  "SunEntry": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
-  "PlatinumEntry": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-  "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "3"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "6"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "9"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "12"
-    },
-    {
-      "move": "Disable",
-      "lvl": "15"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "18"
-    },
-    {
-      "move": "Screech",
-      "lvl": "21"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "24"
-    },
-    {
-      "move": "Soak",
-      "lvl": "27"
-    },
-    {
-      "move": "Psych Up",
-      "lvl": "30"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "34"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "36"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "39"
-    }
-  ],
-  "RubyEntry": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
-  "BlackEntry": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
-  "OmegaRubyEntry": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
-  "LetsGoEeveeEntry": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
-  "colour": "Yellow",
-  "54Entry": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
-  "SoulsilverEntry": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-  "FireRedEntry": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
-  "White2Entry": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
-  "SwordEntry": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
-  "PearlEntry": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
-  "category": "Duck Pokémon",
-  "LeafGreenEntry": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
-  "Black2Entry": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power."
+  "Stats": {
+    "dfs": 48,
+    "spatk": 65,
+    "spd": 55,
+    "hp": 50,
+    "atk": 52,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Damp",
+    "type2": "",
+    "eggGroup2": "Field",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Swift Swim",
+    "ability2": "Cloud Nine",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

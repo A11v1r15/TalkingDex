@@ -1,213 +1,219 @@
 {
-  "ShieldEntry": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
-  "extraMega": false,
-  "ability1": "Overgrow",
-  "hp": 50,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Growth"},
-    {"move": "Hammer Arm"},
-    {"move": "Fake Out"},
-    {"move": "Strength"},
-    {"move": "Nature Power"},
-    {"move": "Worry Seed"},
-    {"move": "Leech Seed"}
-  ],
   "number": 810,
-  "spatk": 40,
-  "atk": 65,
-  "abilityHidden": "Grassy Surge",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Branch Poke",
-      "lvl": "6"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "8"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "12"
-    },
-    {
-      "move": "Screech",
-      "lvl": "17"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "20"
-    },
-    {
-      "move": "Slam",
-      "lvl": "24"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "28"
-    },
-    {
-      "move": "Wood Hammer",
-      "lvl": "32"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "36"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "Grass",
-  "spd": 65,
-  "weight": "5.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "dfs": 50,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+    "Shield": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Solar Blade",
+        "technical": "TM12"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Branch Poke",
+        "lvl": "6"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "8"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "12"
+      },
+      {
+        "move": "Screech",
+        "lvl": "17"
+      },
+      {
+        "move": "Knock Off",
+        "lvl": "20"
+      },
+      {
+        "move": "Slam",
+        "lvl": "24"
+      },
+      {
+        "move": "Uproar",
+        "lvl": "28"
+      },
+      {
+        "move": "Wood Hammer",
+        "lvl": "32"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "36"
+      }
+    ],
+    "egg": [
+      {"move": "Growth"},
+      {"move": "Hammer Arm"},
+      {"move": "Fake Out"},
+      {"move": "Strength"},
+      {"move": "Nature Power"},
+      {"move": "Worry Seed"},
+      {"move": "Leech Seed"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "5.0kg",
+    "category": "Chimp Pokémon",
+    "height": "0.3m"
+  },
   "name": "Grookey",
-  "SwordEntry": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
-  "spdfs": 40,
-  "category": "Chimp Pokémon"
+  "Stats": {
+    "dfs": 50,
+    "spatk": 40,
+    "spd": 65,
+    "hp": 50,
+    "atk": 65,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "",
+    "eggGroup2": "Grass",
+    "eggGroup1": "Field",
+    "abilityHidden": "Grassy Surge",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

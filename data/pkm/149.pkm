@@ -1,396 +1,401 @@
 {
-  "YellowEntry": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, it is only a rumor.",
-  "EmeraldEntry": "It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
-  "ability1": "Pressure",
-  "AlphaSapphireEntry": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
-  "hp": 91,
-  "SilverEntry": "This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.",
-  "ability2": "",
-  "UltraMoonEntry": "You'll often hear tales of this kindhearted Pokémon rescuing people or Pokémon that are drowning.",
-  "eggMoves": [],
   "number": 149,
-  "MoonEntry": "Incur the wrath of this normally calm Pokémon at your peril, because it will smash everything to smithereens before it's satisfied.",
-  "spatk": 100,
-  "UltraSunEntry": "It flies over raging seas as if they were nothing. Observing this, a ship's captain dubbed this Pokémon \u201cthe sea incarnate.\u201d",
-  "atk": 134,
-  "RedEntry": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
-  "height": "2.2m",
-  "type2": "Flying",
-  "WhiteEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "eggGroup2": "Dragon",
-  "spd": 80,
-  "CrystalEntry": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
-  "weight": "210.0kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Dragon",
-  "hasGalarian": false,
-  "BlueEntry": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
-  "dfs": 95,
-  "GoldEntry": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
-  "SapphireEntry": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
-  "DiamondEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+  "Entry": {
+    "Shield": "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
+    "Moon": "Incur the wrath of this normally calm Pokémon at your peril, because it will smash everything to smithereens before it's satisfied.",
+    "Black": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Black2": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "FireRed": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "HearthGold": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
+    "Sword": "It's a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
+    "Sapphire": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "Platinum": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Emerald": "It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "X": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "Y": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Ruby": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "Soulsilver": "This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.",
+    "AlphaSapphire": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "Gold": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
+    "UltraMoon": "You'll often hear tales of this kindhearted Pokémon rescuing people or Pokémon that are drowning.",
+    "Blue": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+    "LetsGoPikachu": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
+    "White2": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Diamond": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "UltraSun": "It flies over raging seas as if they were nothing. Observing this, a ship's captain dubbed this Pokémon \u201cthe sea incarnate.\u201d",
+    "Sun": "This Pokémon saved a shipwrecked man, taking him to a remote island\u2014a paradise occupied solely by Dragonite.",
+    "OmegaRuby": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "Red": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+    "Pearl": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Silver": "This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.",
+    "White": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "Yellow": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, it is only a rumor.",
+    "LeafGreen": "Very few people ever see this Pokémon. Its intelligence is said to match that of humans.",
+    "LetsGoEevee": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
+    "Crystal": "It is said that somewhere in the ocean lies an island where these gather. Only they live there."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Hurricane",
+        "lvl": "0"
+      },
+      {
+        "move": "Hurricane",
+        "lvl": "1"
+      },
+      {
+        "move": "Wing Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Roost",
+        "lvl": "1"
+      },
+      {
+        "move": "Extreme Speed",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Twister",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Dragon Tail",
+        "lvl": "15"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Slam",
+        "lvl": "25"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "33"
+      },
+      {
+        "move": "Dragon Rush",
+        "lvl": "39"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "46"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "53"
+      },
+      {
+        "move": "Dragon Dance",
+        "lvl": "62"
+      },
+      {
+        "move": "Outrage",
+        "lvl": "41"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "80"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "210.0kg",
+    "category": "Dragon Pokémon",
+    "height": "2.2m"
+  },
   "name": "Dragonite",
-  "spdfs": 100,
-  "149Entry": "You'll often hear tales of this kindhearted Pokémon rescuing people or Pokémon that are drowning.",
-  "ShieldEntry": "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
-  "YEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "SunEntry": "This Pokémon saved a shipwrecked man, taking him to a remote island\u2014a paradise occupied solely by Dragonite.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
-  "PlatinumEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "abilityHidden": "Unnerve",
-  "lvlUpMoves": [
-    {
-      "move": "Hurricane",
-      "lvl": "0"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "1"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Roost",
-      "lvl": "1"
-    },
-    {
-      "move": "Extreme Speed",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Twister",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Tail",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Slam",
-      "lvl": "25"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "33"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "39"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "46"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "53"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "62"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "41"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "80"
-    }
-  ],
-  "RubyEntry": "Dragonite is capable of circling the globe in just sixteen hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
-  "BlackEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "OmegaRubyEntry": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
-  "LetsGoEeveeEntry": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
-  "colour": "Brown",
-  "SoulsilverEntry": "This marine Pokémon has an impressive build that lets it freely fly over raging seas without trouble.",
-  "FireRedEntry": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
-  "White2Entry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "SwordEntry": "It's a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
-  "PearlEntry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
-  "category": "Dragon Pokémon",
-  "LeafGreenEntry": "Very few people ever see this Pokémon. Its intelligence is said to match that of humans.",
-  "Black2Entry": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore."
+  "Stats": {
+    "dfs": 95,
+    "spatk": 100,
+    "spd": 80,
+    "hp": 91,
+    "atk": 134,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Pressure",
+    "type2": "Flying",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Unnerve",
+    "ability2": "",
+    "type1": "Dragon"
+  },
+  "hasGigantamax": false
 }

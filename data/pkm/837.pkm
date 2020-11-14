@@ -1,177 +1,183 @@
 {
-  "ShieldEntry": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
-  "extraMega": false,
-  "ability1": "Steam Engine",
-  "hp": 30,
-  "ability2": "Heatproof",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Explosion"},
-    {"move": "Mud"},
-    {"move": "Block"}
-  ],
   "number": 837,
-  "spatk": 40,
-  "atk": 40,
-  "abilityHidden": "Flash Fire",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "5"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "10"
-    },
-    {
-      "move": "Rock Polish",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "20"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "25"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "30"
-    },
-    {
-      "move": "Heat Crash",
-      "lvl": "35"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "40"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 30,
-  "weight": "12.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "dfs": 50,
-  "colour": "Black",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+    "Shield": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Heat Crash",
+        "technical": "TR88"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "lvl": "1"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "5"
+      },
+      {
+        "move": "Smack Down",
+        "lvl": "10"
+      },
+      {
+        "move": "Rock Polish",
+        "lvl": "15"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "20"
+      },
+      {
+        "move": "Incinerate",
+        "lvl": "25"
+      },
+      {
+        "move": "Stealth Rock",
+        "lvl": "30"
+      },
+      {
+        "move": "Heat Crash",
+        "lvl": "35"
+      },
+      {
+        "move": "Rock Blast",
+        "lvl": "40"
+      }
+    ],
+    "egg": [
+      {"move": "Explosion"},
+      {"move": "Mud"},
+      {"move": "Block"}
+    ]
+  },
+  "Flair": {
+    "colour": "Black",
+    "weight": "12.0kg",
+    "category": "Coal Pokémon",
+    "height": "0.3m"
+  },
   "name": "Rolycoly",
-  "SwordEntry": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
-  "spdfs": 50,
-  "category": "Coal Pokémon"
+  "Stats": {
+    "dfs": 50,
+    "spatk": 40,
+    "spd": 30,
+    "hp": 30,
+    "atk": 40,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Steam Engine",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Flash Fire",
+    "ability2": "Heatproof",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

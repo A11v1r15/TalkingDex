@@ -1,343 +1,345 @@
 {
-  "ShieldEntry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-  "ability1": "Surge Surfer",
-  "hp": 60,
-  "SunEntry": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "eggMoves": [
-    {"move": "Charge"},
-    {"move": "Disarming Voice"},
-    {"move": "Fake Out"},
-    {"move": "Flail"},
-    {"move": "Present"},
-    {"move": "Tickle"},
-    {"move": "Volt Tackle"},
-    {"move": "Wish"}
-  ],
-  "UltraMoonEntry": "When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!",
   "number": 26,
-  "MoonEntry": "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.",
-  "spatk": 95,
-  "UltraSunEntry": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is \u201chodad.\u201d",
-  "atk": 85,
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Psychic",
-      "lvl": "1"
-    },
-    {
-      "move": "Play Nice",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "1"
-    },
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "1"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Spark",
-      "lvl": "1"
-    },
-    {
-      "move": "Agility",
-      "lvl": "1"
-    },
-    {
-      "move": "Slam",
-      "lvl": "1"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "Evo."
-    }
-  ],
-  "type2": "Psychic",
-  "eggGroup2": "Fairy",
-  "spd": 110,
-  "eggGroup1": "Field",
-  "type1": "Electric",
-  "dfs": 50,
-  "LetsGoEeveeEntry": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution.",
-  "LetsGoPikachuEntry": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution.",
+  "Entry": {
+    "UltraMoon": "When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!",
+    "Sword": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+    "Shield": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+    "Moon": "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.",
+    "LetsGoPikachu": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution.",
+    "UltraSun": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is \u201chodad.\u201d",
+    "Sun": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
+    "LetsGoEevee": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Psychic",
+        "lvl": "1"
+      },
+      {
+        "move": "Play Nice",
+        "lvl": "1"
+      },
+      {
+        "move": "Sweet Kiss",
+        "lvl": "1"
+      },
+      {
+        "move": "Nuzzle",
+        "lvl": "1"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "1"
+      },
+      {
+        "move": "Electro Ball",
+        "lvl": "1"
+      },
+      {
+        "move": "Feint",
+        "lvl": "1"
+      },
+      {
+        "move": "Spark",
+        "lvl": "1"
+      },
+      {
+        "move": "Agility",
+        "lvl": "1"
+      },
+      {
+        "move": "Slam",
+        "lvl": "1"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunderbolt",
+        "lvl": "1"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "Evo."
+      }
+    ],
+    "egg": [
+      {"move": "Charge"},
+      {"move": "Disarming Voice"},
+      {"move": "Fake Out"},
+      {"move": "Flail"},
+      {"move": "Present"},
+      {"move": "Tickle"},
+      {"move": "Volt Tackle"},
+      {"move": "Wish"}
+    ]
+  },
+  "Flair": {},
   "name": "Alolan Raichu",
-  "SwordEntry": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-  "spdfs": 85
+  "Stats": {},
+  "Biology": {
+    "ability1": "Surge Surfer",
+    "type2": "Psychic",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Field",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Electric"
+  }
 }

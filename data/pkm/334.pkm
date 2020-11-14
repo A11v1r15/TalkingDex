@@ -1,287 +1,293 @@
 {
-  "ShieldEntry": "This Pokémon has a kind disposition, but if it's provoked, it will threaten opponents with shrill cries before attacking them without mercy.",
-  "extraMega": false,
-  "HearthGoldEntry": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
-  "EmeraldEntry": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
-  "ability1": "Natural Cure",
-  "YEntry": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-  "AlphaSapphireEntry": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
-  "hp": 75,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
-  "eggMoves": [],
   "number": 334,
-  "spatk": 70,
-  "atk": 70,
-  "PlatinumEntry": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-  "abilityHidden": "Cloud Nine",
-  "height": "1.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Dragon Pulse",
-      "lvl": "0"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Mist",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Round",
-      "lvl": "16"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "20"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "24"
-    },
-    {
-      "move": "Sing",
-      "lvl": "28"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "32"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "38"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "44"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "50"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Flying",
-  "WhiteEntry": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-  "eggGroup2": "Dragon",
-  "spd": 80,
-  "weight": "20.6kg",
-  "eggGroup1": "Flying",
-  "RubyEntry": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
-  "hasMega": true,
-  "type1": "Dragon",
-  "hasGalarian": false,
-  "BlackEntry": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
-  "OmegaRubyEntry": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
-  "dfs": 90,
-  "SapphireEntry": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
-  "colour": "Blue",
-  "hasAlolan": false,
-  "DiamondEntry": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
-  "SoulsilverEntry": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
+  "Entry": {
+    "AlphaSapphire": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+    "Shield": "This Pokémon has a kind disposition, but if it's provoked, it will threaten opponents with shrill cries before attacking them without mercy.",
+    "White2": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+    "Diamond": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
+    "Black": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+    "Black2": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+    "FireRed": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria's humming.",
+    "HearthGold": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
+    "OmegaRuby": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
+    "Pearl": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
+    "White": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+    "Sword": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
+    "Sapphire": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+    "LeafGreen": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria's humming.",
+    "Platinum": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+    "Emerald": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
+    "X": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
+    "Y": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+    "Ruby": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
+    "Soulsilver": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Dragon Pulse",
+        "lvl": "0"
+      },
+      {
+        "move": "Dragon Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Pluck",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Disarming Voice",
+        "lvl": "1"
+      },
+      {
+        "move": "Mist",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Attack",
+        "lvl": "12"
+      },
+      {
+        "move": "Round",
+        "lvl": "16"
+      },
+      {
+        "move": "Dragon Breath",
+        "lvl": "20"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "24"
+      },
+      {
+        "move": "Sing",
+        "lvl": "28"
+      },
+      {
+        "move": "Cotton Guard",
+        "lvl": "32"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "38"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "44"
+      },
+      {
+        "move": "Perish Song",
+        "lvl": "50"
+      },
+      {
+        "move": "Sky Attack",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "20.6kg",
+    "category": "Humming Pokémon",
+    "height": "1.1m"
+  },
   "name": "Altaria",
-  "FireRedEntry": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria's humming.",
-  "White2Entry": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-  "SwordEntry": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
-  "PearlEntry": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
-  "spdfs": 105,
-  "category": "Humming Pokémon",
-  "LeafGreenEntry": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria's humming.",
-  "Black2Entry": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano."
+  "Stats": {
+    "dfs": 90,
+    "spatk": 70,
+    "spd": 80,
+    "hp": 75,
+    "atk": 70,
+    "spdfs": 105
+  },
+  "Biology": {
+    "ability1": "Natural Cure",
+    "type2": "Flying",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Cloud Nine",
+    "ability2": "",
+    "type1": "Dragon"
+  },
+  "hasGigantamax": false
 }

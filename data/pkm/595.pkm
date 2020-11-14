@@ -1,227 +1,233 @@
 {
-  "ShieldEntry": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters.",
-  "extraMega": false,
-  "ability1": "Compound Eyes",
-  "YEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-  "AlphaSapphireEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-  "hp": 50,
-  "ability2": "Unnerve",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Poison Sting"},
-    {"move": "Lunge"},
-    {"move": "Struggle Bug"},
-    {"move": "Double Team"},
-    {"move": "Infestation"}
-  ],
-  "XEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "number": 595,
-  "spatk": 57,
-  "atk": 47,
-  "abilityHidden": "Swarm",
-  "height": "0.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Electroweb",
-      "lvl": "4"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Slash",
-      "lvl": "32"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "37"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "44"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "48"
-    }
-  ],
-  "type2": "Electric",
-  "WhiteEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-  "eggGroup2": "",
-  "spd": 65,
-  "weight": "0.6kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
-  "OmegaRubyEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-  "dfs": 50,
-  "colour": "Yellow",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+    "White": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+    "Sword": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
+    "Shield": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters.",
+    "X": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+    "White2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+    "Y": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+    "Black": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+    "Black2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+    "OmegaRuby": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pin Missile",
+        "technical": "TM07"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Cross Poison",
+        "technical": "TM73"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Electroweb",
+        "lvl": "4"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "8"
+      },
+      {
+        "move": "String Shot",
+        "lvl": "12"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "16"
+      },
+      {
+        "move": "Electro Ball",
+        "lvl": "20"
+      },
+      {
+        "move": "Agility",
+        "lvl": "24"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "28"
+      },
+      {
+        "move": "Slash",
+        "lvl": "32"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "37"
+      },
+      {
+        "move": "Screech",
+        "lvl": "40"
+      },
+      {
+        "move": "Gastro Acid",
+        "lvl": "44"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Poison Sting"},
+      {"move": "Lunge"},
+      {"move": "Struggle Bug"},
+      {"move": "Double Team"},
+      {"move": "Infestation"}
+    ]
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "0.6kg",
+    "category": "Attaching Pokémon",
+    "height": "0.1m"
+  },
   "name": "Joltik",
-  "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-  "SwordEntry": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
-  "spdfs": 50,
-  "category": "Attaching Pokémon",
-  "Black2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 57,
+    "spd": 65,
+    "hp": 50,
+    "atk": 47,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Compound Eyes",
+    "type2": "Electric",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Swarm",
+    "ability2": "Unnerve",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

@@ -1,229 +1,235 @@
 {
-  "ShieldEntry": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
-  "extraMega": false,
-  "ability1": "Prankster",
-  "hp": 65,
-  "ability2": "Frisk",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 860,
-  "spatk": 75,
-  "atk": 60,
-  "abilityHidden": "Pickpocket",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "False Surrender",
-      "lvl": "0"
-    },
-    {
-      "move": "False Surrender",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Confide",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Tears",
-      "lvl": "12"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "16"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "20"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "24"
-    },
-    {
-      "move": "Torment",
-      "lvl": "28"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "40"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "46"
-    },
-    {
-      "move": "Foul Play",
-      "lvl": "52"
-    }
-  ],
-  "type2": "Fairy",
-  "eggGroup2": "Human-Like",
-  "spd": 70,
-  "weight": "12.5kg",
-  "eggGroup1": "Fairy",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "dfs": 45,
-  "colour": "Pink",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.",
+    "Shield": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "False Surrender",
+        "lvl": "0"
+      },
+      {
+        "move": "False Surrender",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Out",
+        "lvl": "1"
+      },
+      {
+        "move": "Confide",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Flatter",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Tears",
+        "lvl": "12"
+      },
+      {
+        "move": "Assurance",
+        "lvl": "16"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "20"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "24"
+      },
+      {
+        "move": "Torment",
+        "lvl": "28"
+      },
+      {
+        "move": "Dark Pulse",
+        "lvl": "35"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "40"
+      },
+      {
+        "move": "Play Rough",
+        "lvl": "46"
+      },
+      {
+        "move": "Foul Play",
+        "lvl": "52"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "12.5kg",
+    "category": "Devious Pokémon",
+    "height": "0.8m"
+  },
   "name": "Morgrem",
-  "SwordEntry": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.",
-  "spdfs": 55,
-  "category": "Devious Pokémon"
+  "Stats": {
+    "dfs": 45,
+    "spatk": 75,
+    "spd": 70,
+    "hp": 65,
+    "atk": 60,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Prankster",
+    "type2": "Fairy",
+    "eggGroup2": "Human-Like",
+    "eggGroup1": "Fairy",
+    "abilityHidden": "Pickpocket",
+    "ability2": "Frisk",
+    "type1": "Dark"
+  },
+  "hasGigantamax": false
 }

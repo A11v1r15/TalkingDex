@@ -1,272 +1,280 @@
 {
-  "ShieldEntry": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.",
-  "lvlUpMoves": [
-    {
-      "move": "Psycho Cut",
-      "lvl": "1"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Psycho Cut",
-      "lvl": ""
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "25"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "30"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "43"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "49"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "56"
-    },
-    {
-      "move": "Healing Wish",
-      "lvl": "63"
-    }
-  ],
-  "ability1": "Run Away",
-  "type2": "Fairy",
-  "eggGroup2": "",
-  "spd": 105,
-  "hp": 65,
-  "eggGroup1": "Field",
-  "ability2": "Pastel Veil",
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "type1": "Psychic",
-  "dfs": 70,
-  "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Double Kick"},
-    {"move": "Horn Drill"},
-    {"move": "Hypnosis"},
-    {"move": "Morning Sun"},
-    {"move": "Thrash"}
-  ],
   "number": 78,
-  "spatk": 80,
+  "Entry": {
+    "Sword": "Little can stand up to its psycho cut. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.",
+    "Shield": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Misty Terrain",
+        "technical": "TM89"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Mystical Fire",
+        "technical": "TM92"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Psycho Cut",
+        "lvl": "1"
+      },
+      {
+        "move": "Megahorn",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Psycho Cut",
+        "lvl": ""
+      },
+      {
+        "move": "Fairy Wind",
+        "lvl": "15"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "25"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "30"
+      },
+      {
+        "move": "Heal Pulse",
+        "lvl": "35"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "43"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "lvl": "49"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "56"
+      },
+      {
+        "move": "Healing Wish",
+        "lvl": "63"
+      }
+    ],
+    "egg": [
+      {"move": "Double-Edge"},
+      {"move": "Double Kick"},
+      {"move": "Horn Drill"},
+      {"move": "Hypnosis"},
+      {"move": "Morning Sun"},
+      {"move": "Thrash"}
+    ]
+  },
   "name": "Galarian Rapidash",
-  "atk": 100,
-  "SwordEntry": "Little can stand up to its psycho cut. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.",
-  "abilityHidden": "Anticipation",
-  "spdfs": 80,
-  "category": "Unique Horn Pokémon"
+  "Stats": {
+    "dfs": 70,
+    "spatk": 80,
+    "spd": 105,
+    "hp": 65,
+    "atk": 100,
+    "spdfs": 80
+  },
+  "Flair": {"category": "Unique Horn Pokémon"},
+  "Biology": {
+    "ability1": "Run Away",
+    "type2": "Fairy",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Anticipation",
+    "ability2": "Pastel Veil",
+    "type1": "Psychic"
+  }
 }

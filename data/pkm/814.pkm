@@ -1,221 +1,227 @@
 {
-  "ShieldEntry": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
-  "extraMega": false,
-  "ability1": "Blaze",
-  "hp": 65,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Blaze Kick",
-      "technical": "TR41"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 814,
-  "spatk": 55,
-  "atk": 86,
-  "abilityHidden": "Libero",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "12"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": "19"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "30"
-    },
-    {
-      "move": "Counter",
-      "lvl": "36"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "42"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "48"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "Human-Like",
-  "spd": 94,
-  "weight": "9.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "dfs": 60,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+    "Shield": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Blaze Kick",
+        "technical": "TR41"
+      },
+      {
+        "move": "Overheat",
+        "technical": "TR43"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Flare Blitz",
+        "technical": "TR55"
+      },
+      {
+        "move": "Gunk Shot",
+        "technical": "TR73"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Ember",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "12"
+      },
+      {
+        "move": "Flame Charge",
+        "lvl": "19"
+      },
+      {
+        "move": "Agility",
+        "lvl": "24"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "30"
+      },
+      {
+        "move": "Counter",
+        "lvl": "36"
+      },
+      {
+        "move": "Bounce",
+        "lvl": "42"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "48"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "9.0kg",
+    "category": "Rabbit Pokémon",
+    "height": "0.6m"
+  },
   "name": "Raboot",
-  "SwordEntry": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
-  "spdfs": 60,
-  "category": "Rabbit Pokémon"
+  "Stats": {
+    "dfs": 60,
+    "spatk": 55,
+    "spd": 94,
+    "hp": 65,
+    "atk": 86,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Blaze",
+    "type2": "",
+    "eggGroup2": "Human-Like",
+    "eggGroup1": "Field",
+    "abilityHidden": "Libero",
+    "ability2": "",
+    "type1": "Fire"
+  },
+  "hasGigantamax": false
 }

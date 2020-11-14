@@ -1,316 +1,321 @@
 {
-  "YellowEntry": "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.",
-  "EmeraldEntry": "A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
-  "ability1": "Keen Eye",
-  "AlphaSapphireEntry": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-  "hp": 50,
-  "SilverEntry": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-  "ability2": "Iron Fist",
-  "eggMoves": [],
   "number": 107,
-  "spatk": 35,
-  "atk": 105,
-  "RedEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-  "height": "1.4m",
-  "type2": "",
-  "WhiteEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "eggGroup2": "",
-  "spd": 76,
-  "CrystalEntry": "To increase the strength of all its punch moves, it spins its arms just before making contact.",
-  "weight": "50.2kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Fighting",
-  "hasGalarian": false,
-  "BlueEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-  "dfs": 79,
-  "GoldEntry": "Its punches slice through the air. However, it seems to need a short break after fighting for three minutes.",
-  "SapphireEntry": "A Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
-  "DiamondEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+  "Entry": {
+    "Shield": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+    "Black": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Black2": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "FireRed": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
+    "HearthGold": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+    "Sword": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "Sapphire": "A Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+    "Platinum": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Emerald": "A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+    "X": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Y": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
+    "Ruby": "A Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+    "Soulsilver": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "AlphaSapphire": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+    "Gold": "Its punches slice through the air. However, it seems to need a short break after fighting for three minutes.",
+    "Blue": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "LetsGoPikachu": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+    "White2": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Diamond": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "OmegaRuby": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+    "Red": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "Pearl": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Silver": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "White": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "Yellow": "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.",
+    "LeafGreen": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+    "LetsGoEevee": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+    "Crystal": "To increase the strength of all its punch moves, it spins its arms just before making contact."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Drain Punch",
+        "lvl": "0"
+      },
+      {
+        "move": "Drain Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Feint",
+        "lvl": "1"
+      },
+      {
+        "move": "Vacuum Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Bullet Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Out",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "1"
+      },
+      {
+        "move": "Mach Punch",
+        "lvl": "4"
+      },
+      {
+        "move": "Power-Up Punch",
+        "lvl": "8"
+      },
+      {
+        "move": "Detect",
+        "lvl": "12"
+      },
+      {
+        "move": "Revenge",
+        "lvl": "16"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "21"
+      },
+      {
+        "move": "Thunder Punch",
+        "lvl": "24"
+      },
+      {
+        "move": "Ice Punch",
+        "lvl": "24"
+      },
+      {
+        "move": "Fire Punch",
+        "lvl": "24"
+      },
+      {
+        "move": "Agility",
+        "lvl": "28"
+      },
+      {
+        "move": "Mega Punch",
+        "lvl": "32"
+      },
+      {
+        "move": "Close Combat",
+        "lvl": "36"
+      },
+      {
+        "move": "Counter",
+        "lvl": "40"
+      },
+      {
+        "move": "Focus Punch",
+        "lvl": "44"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "50.2kg",
+    "category": "Punching Pokémon",
+    "height": "1.4m"
+  },
   "name": "Hitmonchan",
-  "spdfs": 110,
-  "ShieldEntry": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
-  "107Entry": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-  "YEntry": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "PlatinumEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "abilityHidden": "Inner Focus",
-  "lvlUpMoves": [
-    {
-      "move": "Drain Punch",
-      "lvl": "0"
-    },
-    {
-      "move": "Drain Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Vacuum Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Bullet Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Mach Punch",
-      "lvl": "4"
-    },
-    {
-      "move": "Power-Up Punch",
-      "lvl": "8"
-    },
-    {
-      "move": "Detect",
-      "lvl": "12"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "16"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "21"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "24"
-    },
-    {
-      "move": "Ice Punch",
-      "lvl": "24"
-    },
-    {
-      "move": "Fire Punch",
-      "lvl": "24"
-    },
-    {
-      "move": "Agility",
-      "lvl": "28"
-    },
-    {
-      "move": "Mega Punch",
-      "lvl": "32"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "36"
-    },
-    {
-      "move": "Counter",
-      "lvl": "40"
-    },
-    {
-      "move": "Focus Punch",
-      "lvl": "44"
-    }
-  ],
-  "RubyEntry": "A Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-  "BlackEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "OmegaRubyEntry": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-  "LetsGoEeveeEntry": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
-  "colour": "Brown",
-  "SoulsilverEntry": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-  "FireRedEntry": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
-  "White2Entry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "SwordEntry": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
-  "PearlEntry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
-  "category": "Punching Pokémon",
-  "LeafGreenEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-  "Black2Entry": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting."
+  "Stats": {
+    "dfs": 79,
+    "spatk": 35,
+    "spd": 76,
+    "hp": 50,
+    "atk": 105,
+    "spdfs": 110
+  },
+  "Biology": {
+    "ability1": "Keen Eye",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Inner Focus",
+    "ability2": "Iron Fist",
+    "type1": "Fighting"
+  },
+  "hasGigantamax": false
 }

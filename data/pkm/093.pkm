@@ -1,300 +1,305 @@
 {
-  "YellowEntry": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
-  "EmeraldEntry": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-  "ability1": "Levitate",
-  "AlphaSapphireEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-  "hp": 45,
-  "SilverEntry": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "It's dangerous to go outside alone on nights when you're feeling sad. Haunter will catch you, and you won't be able to go back home.",
   "number": 93,
-  "MoonEntry": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
-  "spatk": 115,
-  "UltraSunEntry": "On moonless nights, Haunter searches for someone to curse, so it's best not to go out walking around.",
-  "atk": 50,
-  "RedEntry": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-  "height": "1.6m",
-  "type2": "Poison",
-  "WhiteEntry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-  "eggGroup2": "",
-  "spd": 95,
-  "CrystalEntry": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
-  "weight": "0.1kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Ghost",
-  "hasGalarian": false,
-  "BlueEntry": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-  "dfs": 45,
-  "GoldEntry": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
-  "SapphireEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-  "93Entry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
-  "DiamondEntry": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+  "Entry": {
+    "Shield": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+    "Moon": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
+    "Black": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "Black2": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "FireRed": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+    "HearthGold": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+    "Sword": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+    "Sapphire": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "Platinum": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "Emerald": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "X": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+    "Y": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+    "Ruby": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "Soulsilver": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+    "AlphaSapphire": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "Gold": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+    "UltraMoon": "It's dangerous to go outside alone on nights when you're feeling sad. Haunter will catch you, and you won't be able to go back home.",
+    "Blue": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "LetsGoPikachu": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+    "White2": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "Diamond": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+    "UltraSun": "On moonless nights, Haunter searches for someone to curse, so it's best not to go out walking around.",
+    "Sun": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
+    "OmegaRuby": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "Red": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "Pearl": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+    "Silver": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+    "White": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "Yellow": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+    "LeafGreen": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "LetsGoEevee": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+    "Crystal": "It hides in the dark, planning to take the life of the next living thing that wanders close by."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Shadow Punch",
+        "lvl": "0"
+      },
+      {
+        "move": "Shadow Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Lick",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Mean Look",
+        "lvl": "1"
+      },
+      {
+        "move": "Payback",
+        "lvl": "12"
+      },
+      {
+        "move": "Spite",
+        "lvl": "16"
+      },
+      {
+        "move": "Curse",
+        "lvl": "20"
+      },
+      {
+        "move": "Hex",
+        "lvl": "24"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "30"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "36"
+      },
+      {
+        "move": "Dark Pulse",
+        "lvl": "42"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "48"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "54"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "60"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "0.1kg",
+    "category": "Gas Pokémon",
+    "height": "1.6m"
+  },
   "name": "Haunter",
-  "spdfs": 55,
-  "ShieldEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-  "extraMega": false,
-  "HearthGoldEntry": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
-  "YEntry": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
-  "SunEntry": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
-  "tmTrMoves": [
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-  "PlatinumEntry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Shadow Punch",
-      "lvl": "0"
-    },
-    {
-      "move": "Shadow Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "12"
-    },
-    {
-      "move": "Spite",
-      "lvl": "16"
-    },
-    {
-      "move": "Curse",
-      "lvl": "20"
-    },
-    {
-      "move": "Hex",
-      "lvl": "24"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "30"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "36"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "42"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "48"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "54"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "60"
-    }
-  ],
-  "RubyEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-  "BlackEntry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-  "OmegaRubyEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
-  "LetsGoEeveeEntry": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-  "FireRedEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
-  "White2Entry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-  "SwordEntry": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-  "PearlEntry": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
-  "category": "Gas Pokémon",
-  "LeafGreenEntry": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-  "Black2Entry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
+  "Stats": {
+    "dfs": 45,
+    "spatk": 115,
+    "spd": 95,
+    "hp": 45,
+    "atk": 50,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Levitate",
+    "type2": "Poison",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Ghost"
+  },
+  "hasGigantamax": false
 }

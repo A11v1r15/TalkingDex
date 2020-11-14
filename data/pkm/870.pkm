@@ -1,233 +1,239 @@
 {
-  "ShieldEntry": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
-  "extraMega": false,
-  "ability1": "Battle Armor",
-  "hp": 65,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 870,
-  "spatk": 70,
-  "atk": 100,
-  "abilityHidden": "Defiant",
-  "height": "3.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "5"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "10"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "15"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "20"
-    },
-    {
-      "move": "Endure",
-      "lvl": "25"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "30"
-    },
-    {
-      "move": "First Impression",
-      "lvl": "35"
-    },
-    {
-      "move": "No Retreat",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "45"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "50"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "55"
-    },
-    {
-      "move": "Counter",
-      "lvl": "60"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "Mineral",
-  "spd": 75,
-  "weight": "62.0kg",
-  "eggGroup1": "Fairy",
-  "hasMega": false,
-  "type1": "Fighting",
-  "hasGalarian": false,
-  "dfs": 100,
-  "colour": "Yellow",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Five of them are troopers, and one is the brass. The brass's orders are absolute.",
+    "Shield": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Rock Smash",
+        "lvl": "5"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "10"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "15"
+      },
+      {
+        "move": "Bulk Up",
+        "lvl": "20"
+      },
+      {
+        "move": "Endure",
+        "lvl": "25"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "30"
+      },
+      {
+        "move": "First Impression",
+        "lvl": "35"
+      },
+      {
+        "move": "No Retreat",
+        "lvl": "40"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "45"
+      },
+      {
+        "move": "Close Combat",
+        "lvl": "50"
+      },
+      {
+        "move": "Megahorn",
+        "lvl": "55"
+      },
+      {
+        "move": "Counter",
+        "lvl": "60"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "62.0kg",
+    "category": "Formation Pokémon",
+    "height": "3.0m"
+  },
   "name": "Falinks",
-  "SwordEntry": "Five of them are troopers, and one is the brass. The brass's orders are absolute.",
-  "spdfs": 60,
-  "category": "Formation Pokémon"
+  "Stats": {
+    "dfs": 100,
+    "spatk": 70,
+    "spd": 75,
+    "hp": 65,
+    "atk": 100,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Battle Armor",
+    "type2": "",
+    "eggGroup2": "Mineral",
+    "eggGroup1": "Fairy",
+    "abilityHidden": "Defiant",
+    "ability2": "",
+    "type1": "Fighting"
+  },
+  "hasGigantamax": false
 }

@@ -1,297 +1,303 @@
 {
-  "ShieldEntry": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom's lightning.",
-  "extraMega": false,
-  "ability1": "Teravolt",
-  "YEntry": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
-  "AlphaSapphireEntry": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
-  "hp": 100,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
   "number": 644,
-  "spatk": 120,
-  "atk": 150,
-  "abilityHidden": "",
-  "height": "2.9m",
-  "lvlUpMoves": [
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Noble Roar",
-      "lvl": "1"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Slash",
-      "lvl": "8"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "16"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "32"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "40"
-    },
-    {
-      "move": "Fusion Bolt",
-      "lvl": "48"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "56"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "64"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "72"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "80"
-    },
-    {
-      "move": "Bolt Strike",
-      "lvl": "88"
-    }
-  ],
-  "type2": "Electric",
-  "WhiteEntry": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
-  "eggGroup2": "",
-  "spd": 90,
-  "weight": "345.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Dragon",
-  "hasGalarian": false,
-  "BlackEntry": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
-  "OmegaRubyEntry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
-  "dfs": 120,
-  "colour": "Black",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "White": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "Sword": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
+    "Shield": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom's lightning.",
+    "X": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+    "White2": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+    "Y": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "Black": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "Black2": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+    "OmegaRuby": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Dragon Breath",
+        "lvl": "1"
+      },
+      {
+        "move": "Noble Roar",
+        "lvl": "1"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Slash",
+        "lvl": "8"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "16"
+      },
+      {
+        "move": "Zen Headbutt",
+        "lvl": "24"
+      },
+      {
+        "move": "Dragon Claw",
+        "lvl": "32"
+      },
+      {
+        "move": "Thunderbolt",
+        "lvl": "40"
+      },
+      {
+        "move": "Fusion Bolt",
+        "lvl": "48"
+      },
+      {
+        "move": "Hyper Voice",
+        "lvl": "56"
+      },
+      {
+        "move": "Thunder",
+        "lvl": "64"
+      },
+      {
+        "move": "Imprison",
+        "lvl": "72"
+      },
+      {
+        "move": "Outrage",
+        "lvl": "80"
+      },
+      {
+        "move": "Bolt Strike",
+        "lvl": "88"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Black",
+    "weight": "345.0kg",
+    "category": "Deep Black Pokémon",
+    "height": "2.9m"
+  },
   "name": "Zekrom",
-  "White2Entry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
-  "SwordEntry": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
-  "spdfs": 100,
-  "category": "Deep Black Pokémon",
-  "Black2Entry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."
+  "Stats": {
+    "dfs": 120,
+    "spatk": 120,
+    "spd": 90,
+    "hp": 100,
+    "atk": 150,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Teravolt",
+    "type2": "Electric",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Dragon"
+  },
+  "hasGigantamax": false
 }

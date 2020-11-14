@@ -1,325 +1,331 @@
 {
-  "EmeraldEntry": "A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
-  "ability1": "Hyper Cutter",
-  "AlphaSapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
-  "hp": 63,
-  "ability2": "Shell Armor",
-  "eggMoves": [],
-  "UltraMoonEntry": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
   "number": 342,
-  "spatk": 90,
-  "UltraSunEntry": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
-  "atk": 120,
-  "height": "1.1m",
-  "type2": "Dark",
-  "WhiteEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "eggGroup2": "Water 3",
-  "spd": 55,
-  "weight": "32.8kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 85,
-  "SapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
-  "hasAlolan": false,
-  "DiamondEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+  "Entry": {
+    "AlphaSapphire": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
+    "UltraMoon": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
+    "Shield": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+    "White2": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+    "Diamond": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "UltraSun": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
+    "Black": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "Black2": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+    "FireRed": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+    "HearthGold": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+    "OmegaRuby": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
+    "Pearl": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "White": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "Sword": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+    "Sapphire": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
+    "LeafGreen": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+    "Platinum": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "Emerald": "A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+    "X": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "Y": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+    "Ruby": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
+    "Soulsilver": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Razor Shell",
+        "technical": "TM83"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Swift",
+        "lvl": "0"
+      },
+      {
+        "move": "Swift",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "1"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "12"
+      },
+      {
+        "move": "Knock Off",
+        "lvl": "16"
+      },
+      {
+        "move": "Double Hit",
+        "lvl": "20"
+      },
+      {
+        "move": "Protect",
+        "lvl": "24"
+      },
+      {
+        "move": "Night Slash",
+        "lvl": "28"
+      },
+      {
+        "move": "Razor Shell",
+        "lvl": "34"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "40"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "46"
+      },
+      {
+        "move": "Crabhammer",
+        "lvl": "52"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "58"
+      },
+      {
+        "move": "Guillotine",
+        "lvl": "64"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "32.8kg",
+    "category": "Rogue Pokémon",
+    "height": "1.1m"
+  },
   "name": "Crawdaunt",
-  "spdfs": 55,
-  "ShieldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-  "extraMega": false,
-  "HearthGoldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-  "YEntry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "PlatinumEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "abilityHidden": "Adaptability",
-  "lvlUpMoves": [
-    {
-      "move": "Swift",
-      "lvl": "0"
-    },
-    {
-      "move": "Swift",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "1"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "12"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "16"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "20"
-    },
-    {
-      "move": "Protect",
-      "lvl": "24"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "28"
-    },
-    {
-      "move": "Razor Shell",
-      "lvl": "34"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "40"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "46"
-    },
-    {
-      "move": "Crabhammer",
-      "lvl": "52"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "58"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "64"
-    }
-  ],
-  "RubyEntry": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
-  "BlackEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "OmegaRubyEntry": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
-  "colour": "Red",
-  "SoulsilverEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
-  "FireRedEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-  "White2Entry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
-  "SwordEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-  "PearlEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
-  "category": "Rogue Pokémon",
-  "LeafGreenEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
-  "Black2Entry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out."
+  "Stats": {
+    "dfs": 85,
+    "spatk": 90,
+    "spd": 55,
+    "hp": 63,
+    "atk": 120,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Hyper Cutter",
+    "type2": "Dark",
+    "eggGroup2": "Water 3",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Adaptability",
+    "ability2": "Shell Armor",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

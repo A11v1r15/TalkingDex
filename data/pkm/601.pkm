@@ -1,209 +1,215 @@
 {
-  "ShieldEntry": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature.",
-  "extraMega": false,
-  "ability1": "Plus",
-  "YEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-  "AlphaSapphireEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-  "hp": 60,
-  "ability2": "Minus",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
   "number": 601,
-  "spatk": 70,
-  "atk": 100,
-  "abilityHidden": "Clear Body",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Gear Up",
-      "lvl": "1"
-    },
-    {
-      "move": "Magnetic Flux",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Bind",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge Beam",
-      "lvl": "12"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "16"
-    },
-    {
-      "move": "Autotomize",
-      "lvl": "20"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "24"
-    },
-    {
-      "move": "Screech",
-      "lvl": "28"
-    },
-    {
-      "move": "Gear Grind",
-      "lvl": "32"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "36"
-    },
-    {
-      "move": "Shift Gear",
-      "lvl": "42"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "48"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "56"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "64"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-  "eggGroup2": "",
-  "spd": 90,
-  "weight": "81.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "BlackEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-  "OmegaRubyEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-  "dfs": 115,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+    "White": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+    "Sword": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+    "Shield": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature.",
+    "X": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+    "White2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+    "Y": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+    "Black": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+    "Black2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+    "OmegaRuby": "The gear with the red core is rotated at high speed for a rapid energy charge."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Power Gem",
+        "technical": "TR63"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gear Up",
+        "lvl": "1"
+      },
+      {
+        "move": "Magnetic Flux",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Vise Grip",
+        "lvl": "1"
+      },
+      {
+        "move": "Bind",
+        "lvl": "1"
+      },
+      {
+        "move": "Charge",
+        "lvl": "1"
+      },
+      {
+        "move": "Charge Beam",
+        "lvl": "12"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "16"
+      },
+      {
+        "move": "Autotomize",
+        "lvl": "20"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "24"
+      },
+      {
+        "move": "Screech",
+        "lvl": "28"
+      },
+      {
+        "move": "Gear Grind",
+        "lvl": "32"
+      },
+      {
+        "move": "Lock-On",
+        "lvl": "36"
+      },
+      {
+        "move": "Shift Gear",
+        "lvl": "42"
+      },
+      {
+        "move": "Zap Cannon",
+        "lvl": "48"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "56"
+      },
+      {
+        "move": "Electric Terrain",
+        "lvl": "64"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "81.0kg",
+    "category": "Gear Pokémon",
+    "height": "0.6m"
+  },
   "name": "Klinklang",
-  "White2Entry": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
-  "SwordEntry": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
-  "spdfs": 85,
-  "category": "Gear Pokémon",
-  "Black2Entry": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire."
+  "Stats": {
+    "dfs": 115,
+    "spatk": 70,
+    "spd": 90,
+    "hp": 60,
+    "atk": 100,
+    "spdfs": 85
+  },
+  "Biology": {
+    "ability1": "Plus",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Clear Body",
+    "ability2": "Minus",
+    "type1": "Steel"
+  },
+  "hasGigantamax": false
 }

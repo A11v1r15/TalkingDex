@@ -1,271 +1,277 @@
 {
-  "ShieldEntry": "This Pokémon's body is made of solid ice. It's said that Regice was born beneath thick ice in the ice age.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
-  "EmeraldEntry": "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
-  "ability1": "Clear Body",
-  "YEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "AlphaSapphireEntry": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
-  "hp": 80,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Icicle Spear",
-      "technical": "TM51"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
-  "eggMoves": [],
   "number": 378,
-  "spatk": 100,
-  "atk": 50,
-  "PlatinumEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "abilityHidden": "Ice Body",
-  "height": "1.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Charge Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "6"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "18"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "24"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "36"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "42"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "48"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "54"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "60"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "66"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "72"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "78"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "eggGroup2": "",
-  "spd": 50,
-  "weight": "175.0kg",
-  "eggGroup1": "Undiscovered",
-  "RubyEntry": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of minus 328 degrees F.",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": false,
-  "BlackEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "OmegaRubyEntry": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of -328 degrees Fahrenheit.",
-  "dfs": 100,
-  "SapphireEntry": "Regice cloaks itself with frigid air of negative 328 degrees F. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
-  "colour": "Blue",
-  "hasAlolan": false,
-  "DiamondEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "SoulsilverEntry": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
+  "Entry": {
+    "AlphaSapphire": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+    "Shield": "This Pokémon's body is made of solid ice. It's said that Regice was born beneath thick ice in the ice age.",
+    "White2": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Diamond": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Black": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Black2": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "FireRed": "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
+    "HearthGold": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
+    "OmegaRuby": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of -328 degrees Fahrenheit.",
+    "Pearl": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "White": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Sword": "With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
+    "Sapphire": "Regice cloaks itself with frigid air of negative 328 degrees F. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+    "LeafGreen": "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
+    "Platinum": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Emerald": "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
+    "X": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
+    "Y": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "Ruby": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of minus 328 degrees F.",
+    "Soulsilver": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Icicle Spear",
+        "technical": "TM51"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Charge Beam",
+        "lvl": "1"
+      },
+      {
+        "move": "Icy Wind",
+        "lvl": "1"
+      },
+      {
+        "move": "Bulldoze",
+        "lvl": "6"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "12"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "18"
+      },
+      {
+        "move": "Ice Beam",
+        "lvl": "24"
+      },
+      {
+        "move": "Curse",
+        "lvl": "30"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "36"
+      },
+      {
+        "move": "Hammer Arm",
+        "lvl": "42"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "48"
+      },
+      {
+        "move": "Superpower",
+        "lvl": "54"
+      },
+      {
+        "move": "Lock-On",
+        "lvl": "60"
+      },
+      {
+        "move": "Zap Cannon",
+        "lvl": "66"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "72"
+      },
+      {
+        "move": "Explosion",
+        "lvl": "78"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "175.0kg",
+    "category": "Iceberg Pokémon",
+    "height": "1.8m"
+  },
   "name": "Regice",
-  "FireRedEntry": "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
-  "White2Entry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "SwordEntry": "With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
-  "PearlEntry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
-  "spdfs": 200,
-  "category": "Iceberg Pokémon",
-  "LeafGreenEntry": "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
-  "Black2Entry": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 100,
+    "spd": 50,
+    "hp": 80,
+    "atk": 50,
+    "spdfs": 200
+  },
+  "Biology": {
+    "ability1": "Clear Body",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Ice Body",
+    "ability2": "",
+    "type1": "Ice"
+  },
+  "hasGigantamax": false
 }

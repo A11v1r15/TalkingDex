@@ -1,271 +1,277 @@
 {
-  "EmeraldEntry": "A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
-  "ability1": "Inner Focus",
-  "AlphaSapphireEntry": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.",
-  "hp": 80,
-  "ability2": "Ice Body",
-  "eggMoves": [],
-  "UltraMoonEntry": "Its actual body is a rock that isn't particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
   "number": 362,
-  "MoonEntry": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they're in that frozen state, it gobbles them up.",
-  "spatk": 80,
-  "UltraSunEntry": "It freezes its prey and chews them whole. However, it prefers to eat Pokémon like Vanillite that are already frozen.",
-  "atk": 80,
-  "height": "1.5m",
-  "type2": "",
-  "WhiteEntry": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-  "eggGroup2": "Mineral",
-  "spd": 80,
-  "weight": "256.5kg",
-  "eggGroup1": "Fairy",
-  "hasMega": true,
-  "type1": "Ice",
-  "hasGalarian": false,
-  "dfs": 80,
-  "SapphireEntry": "Glalie has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this Pokémon enjoys eating it in leisurely fashion.",
-  "hasAlolan": false,
-  "DiamondEntry": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+  "Entry": {
+    "AlphaSapphire": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.",
+    "UltraMoon": "Its actual body is a rock that isn't particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
+    "Shield": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+    "Moon": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they're in that frozen state, it gobbles them up.",
+    "White2": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "Diamond": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+    "UltraSun": "It freezes its prey and chews them whole. However, it prefers to eat Pokémon like Vanillite that are already frozen.",
+    "Black": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "Black2": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "FireRed": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+    "Sun": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
+    "HearthGold": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+    "OmegaRuby": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
+    "Pearl": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+    "White": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "Sword": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+    "Sapphire": "Glalie has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this Pokémon enjoys eating it in leisurely fashion.",
+    "LeafGreen": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+    "Platinum": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "Emerald": "A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+    "X": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
+    "Y": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+    "Ruby": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
+    "Soulsilver": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Icicle Spear",
+        "technical": "TM51"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Freeze-Dry",
+        "lvl": "0"
+      },
+      {
+        "move": "Freeze-Dry",
+        "lvl": "1"
+      },
+      {
+        "move": "Sheer Cold",
+        "lvl": "1"
+      },
+      {
+        "move": "Powder Snow",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "1"
+      },
+      {
+        "move": "Ice Shard",
+        "lvl": "15"
+      },
+      {
+        "move": "Protect",
+        "lvl": "20"
+      },
+      {
+        "move": "Icy Wind",
+        "lvl": "25"
+      },
+      {
+        "move": "Frost Breath",
+        "lvl": "30"
+      },
+      {
+        "move": "Bite",
+        "lvl": "35"
+      },
+      {
+        "move": "Ice Fang",
+        "lvl": "40"
+      },
+      {
+        "move": "Hail",
+        "lvl": "47"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "54"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "61"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "68"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "256.5kg",
+    "category": "Face Pokémon",
+    "height": "1.5m"
+  },
   "name": "Glalie",
-  "spdfs": 80,
-  "ShieldEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-  "extraMega": false,
-  "HearthGoldEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-  "YEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-  "SunEntry": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Icicle Spear",
-      "technical": "TM51"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
-  "PlatinumEntry": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-  "abilityHidden": "Moody",
-  "lvlUpMoves": [
-    {
-      "move": "Freeze-Dry",
-      "lvl": "0"
-    },
-    {
-      "move": "Freeze-Dry",
-      "lvl": "1"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "15"
-    },
-    {
-      "move": "Protect",
-      "lvl": "20"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "25"
-    },
-    {
-      "move": "Frost Breath",
-      "lvl": "30"
-    },
-    {
-      "move": "Bite",
-      "lvl": "35"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "40"
-    },
-    {
-      "move": "Hail",
-      "lvl": "47"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "54"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "61"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "68"
-    }
-  ],
-  "RubyEntry": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
-  "BlackEntry": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-  "OmegaRubyEntry": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
-  "colour": "Gray",
-  "SoulsilverEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-  "FireRedEntry": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-  "White2Entry": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
-  "SwordEntry": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-  "PearlEntry": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
-  "category": "Face Pokémon",
-  "LeafGreenEntry": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
-  "Black2Entry": "It prevents prey from escaping by instantaneously freezing moisture in the air."
+  "Stats": {
+    "dfs": 80,
+    "spatk": 80,
+    "spd": 80,
+    "hp": 80,
+    "atk": 80,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Inner Focus",
+    "type2": "",
+    "eggGroup2": "Mineral",
+    "eggGroup1": "Fairy",
+    "abilityHidden": "Moody",
+    "ability2": "Ice Body",
+    "type1": "Ice"
+  },
+  "hasGigantamax": false
 }

@@ -1,326 +1,332 @@
 {
-  "EmeraldEntry": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-  "ability1": "Natural Cure",
-  "AlphaSapphireEntry": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-  "hp": 100,
-  "SilverEntry": "When Celebi disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
-  "ability2": "",
-  "eggMoves": [],
   "number": 251,
-  "spatk": 100,
-  "atk": 100,
-  "height": "0.6m",
-  "type2": "Grass",
-  "WhiteEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "eggGroup2": "",
-  "spd": 100,
-  "CrystalEntry": "Revered as a guardian of the forest, Celebi appears wherever beautiful forests exist.",
-  "weight": "5.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "dfs": 100,
-  "GoldEntry": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-  "SapphireEntry": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-  "hasAlolan": false,
-  "DiamondEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+  "Entry": {
+    "AlphaSapphire": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "Gold": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "Shield": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+    "White2": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Diamond": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Black": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Black2": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "FireRed": "When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.",
+    "HearthGold": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "OmegaRuby": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "Pearl": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Silver": "When Celebi disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+    "White": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Sword": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
+    "Sapphire": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "LeafGreen": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "Platinum": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Emerald": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "X": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "Y": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "Ruby": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "Soulsilver": "When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.",
+    "Crystal": "Revered as a guardian of the forest, Celebi appears wherever beautiful forests exist."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Solar Blade",
+        "technical": "TM12"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Leaf Blade",
+        "technical": "TR50"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Leaf Storm",
+        "technical": "TR71"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      },
+      {
+        "move": "Pollen Puff",
+        "technical": "TR96"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Heal Bell",
+        "lvl": "1"
+      },
+      {
+        "move": "Magical Leaf",
+        "lvl": "10"
+      },
+      {
+        "move": "Baton Pass",
+        "lvl": "20"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "30"
+      },
+      {
+        "move": "Life Dew",
+        "lvl": "40"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "50"
+      },
+      {
+        "move": "Recover",
+        "lvl": "60"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "70"
+      },
+      {
+        "move": "Healing Wish",
+        "lvl": "80"
+      },
+      {
+        "move": "Leaf Storm",
+        "lvl": "90"
+      },
+      {
+        "move": "Perish Song",
+        "lvl": "100"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "5.0kg",
+    "category": "Time Travel Pokémon",
+    "height": "0.6m"
+  },
   "name": "Celebi",
-  "spdfs": 100,
-  "ShieldEntry": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
-  "extraMega": false,
-  "HearthGoldEntry": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-  "YEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-  "PlatinumEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Heal Bell",
-      "lvl": "1"
-    },
-    {
-      "move": "Magical Leaf",
-      "lvl": "10"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Life Dew",
-      "lvl": "40"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "50"
-    },
-    {
-      "move": "Recover",
-      "lvl": "60"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "70"
-    },
-    {
-      "move": "Healing Wish",
-      "lvl": "80"
-    },
-    {
-      "move": "Leaf Storm",
-      "lvl": "90"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "100"
-    }
-  ],
-  "RubyEntry": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-  "BlackEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "OmegaRubyEntry": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
-  "colour": "Green",
-  "SoulsilverEntry": "When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.",
-  "FireRedEntry": "When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.",
-  "White2Entry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "SwordEntry": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
-  "PearlEntry": "It has the power to travel across time, but it is said to appear only in peaceful times.",
-  "category": "Time Travel Pokémon",
-  "LeafGreenEntry": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
-  "Black2Entry": "It has the power to travel across time, but it is said to appear only in peaceful times."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 100,
+    "spd": 100,
+    "hp": 100,
+    "atk": 100,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Natural Cure",
+    "type2": "Grass",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

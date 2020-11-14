@@ -1,247 +1,253 @@
 {
-  "extraMega": false,
-  "ability1": "Beast Boost",
-  "hp": 97,
-  "SunEntry": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    }
-  ],
-  "hasGigantamax": false,
-  "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
-  "eggMoves": [],
   "number": 797,
-  "MoonEntry": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
-  "spatk": 107,
-  "UltraSunEntry": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
-  "atk": 101,
-  "abilityHidden": "",
-  "height": "9.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "5"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "10"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "15"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "20"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "25"
-    },
-    {
-      "move": "Autotomize",
-      "lvl": "30"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "35"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "40"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "45"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "50"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "55"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "60"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "65"
-    },
-    {
-      "move": "Skull Bash",
-      "lvl": "70"
-    }
-  ],
-  "type2": "Flying",
-  "eggGroup2": "",
-  "spd": 61,
-  "weight": "999.9kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "dfs": 103,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+    "Moon": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
+    "UltraSun": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+    "Sun": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "5"
+      },
+      {
+        "move": "Wide Guard",
+        "lvl": "10"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "15"
+      },
+      {
+        "move": "Smack Down",
+        "lvl": "20"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "25"
+      },
+      {
+        "move": "Autotomize",
+        "lvl": "30"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "35"
+      },
+      {
+        "move": "Flash Cannon",
+        "lvl": "40"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "45"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "50"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "55"
+      },
+      {
+        "move": "Heavy Slam",
+        "lvl": "60"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "65"
+      },
+      {
+        "move": "Skull Bash",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "999.9kg",
+    "category": "Launch Pokémon",
+    "height": "9.2m"
+  },
   "name": "Celesteela",
-  "spdfs": 101,
-  "category": "Launch Pokémon"
+  "Stats": {
+    "dfs": 103,
+    "spatk": 107,
+    "spd": 61,
+    "hp": 97,
+    "atk": 101,
+    "spdfs": 101
+  },
+  "Biology": {
+    "ability1": "Beast Boost",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Steel"
+  },
+  "hasGigantamax": false
 }

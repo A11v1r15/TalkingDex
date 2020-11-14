@@ -1,243 +1,249 @@
 {
-  "ShieldEntry": "Clawitzer's right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer's cannon arm can sink a tanker.",
-  "extraMega": false,
-  "ability1": "Mega Launcher",
-  "YEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
-  "AlphaSapphireEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
-  "hp": 71,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
-  "UltraMoonEntry": "Its right arm is packed with meat. When its pincer falls off, it's exported to be used as a cooking ingredient.",
   "number": 693,
-  "spatk": 120,
-  "UltraSunEntry": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
-  "atk": 73,
-  "abilityHidden": "",
-  "height": "1.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Dark Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "15"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "20"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "25"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "30"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "35"
-    },
-    {
-      "move": "Aura Sphere",
-      "lvl": "42"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "49"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "56"
-    },
-    {
-      "move": "Crabhammer",
-      "lvl": "63"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "Water 3",
-  "spd": 59,
-  "weight": "35.3kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
-  "dfs": 88,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+    "UltraMoon": "Its right arm is packed with meat. When its pincer falls off, it's exported to be used as a cooking ingredient.",
+    "Sword": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
+    "Shield": "Clawitzer's right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer's cannon arm can sink a tanker.",
+    "X": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
+    "Y": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+    "UltraSun": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
+    "OmegaRuby": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Dark Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Dragon Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Heal Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Splash",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Vise Grip",
+        "lvl": "1"
+      },
+      {
+        "move": "Flail",
+        "lvl": "1"
+      },
+      {
+        "move": "Aqua Jet",
+        "lvl": "15"
+      },
+      {
+        "move": "Smack Down",
+        "lvl": "20"
+      },
+      {
+        "move": "Hone Claws",
+        "lvl": "25"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "30"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "35"
+      },
+      {
+        "move": "Aura Sphere",
+        "lvl": "42"
+      },
+      {
+        "move": "Bounce",
+        "lvl": "49"
+      },
+      {
+        "move": "Muddy Water",
+        "lvl": "56"
+      },
+      {
+        "move": "Crabhammer",
+        "lvl": "63"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "35.3kg",
+    "category": "Howitzer Pokémon",
+    "height": "1.3m"
+  },
   "name": "Clawitzer",
-  "SwordEntry": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
-  "spdfs": 89,
-  "category": "Howitzer Pokémon"
+  "Stats": {
+    "dfs": 88,
+    "spatk": 120,
+    "spd": 59,
+    "hp": 71,
+    "atk": 73,
+    "spdfs": 89
+  },
+  "Biology": {
+    "ability1": "Mega Launcher",
+    "type2": "",
+    "eggGroup2": "Water 3",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

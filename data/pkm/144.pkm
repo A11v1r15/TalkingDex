@@ -1,240 +1,245 @@
 {
-  "YellowEntry": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-  "EmeraldEntry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "ability1": "Pressure",
-  "AlphaSapphireEntry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "hp": 90,
-  "SilverEntry": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
-  "ability2": "",
-  "eggMoves": [],
   "number": 144,
-  "spatk": 95,
-  "144Entry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "atk": 85,
-  "RedEntry": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-  "height": "1.7m",
-  "type2": "Flying",
-  "WhiteEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "eggGroup2": "",
-  "spd": 85,
-  "CrystalEntry": "Legendary bird Pokémon. As it flies through the sky, it cools the air, causing snow to fall.",
-  "weight": "55.4kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": true,
-  "BlueEntry": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-  "dfs": 100,
-  "GoldEntry": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
-  "SapphireEntry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-  "DiamondEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+  "Entry": {
+    "Shield": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
+    "Black": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Black2": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "FireRed": "One of the legendary bird Pokémon. With its long tail trailing behind, its flying form is magnificent.",
+    "HearthGold": "The magnificent seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
+    "Sword": "It's said that this Pokémon's beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+    "Sapphire": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "Platinum": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Emerald": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "X": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Y": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "Ruby": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "Soulsilver": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
+    "AlphaSapphire": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "Gold": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
+    "Blue": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "LetsGoPikachu": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+    "White2": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Diamond": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "OmegaRuby": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "Red": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "Pearl": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Silver": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
+    "White": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "Yellow": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+    "LeafGreen": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "LetsGoEevee": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+    "Crystal": "Legendary bird Pokémon. As it flies through the sky, it cools the air, causing snow to fall."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Icicle Spear",
+        "technical": "TM51"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Mist",
+        "lvl": "1"
+      },
+      {
+        "move": "Powder Snow",
+        "lvl": "5"
+      },
+      {
+        "move": "Reflect",
+        "lvl": "10"
+      },
+      {
+        "move": "Ice Shard",
+        "lvl": "15"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "25"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "30"
+      },
+      {
+        "move": "Freeze-Dry",
+        "lvl": "35"
+      },
+      {
+        "move": "Roost",
+        "lvl": "40"
+      },
+      {
+        "move": "Ice Beam",
+        "lvl": "45"
+      },
+      {
+        "move": "Hail",
+        "lvl": "50"
+      },
+      {
+        "move": "Hurricane",
+        "lvl": "55"
+      },
+      {
+        "move": "Mind Reader",
+        "lvl": "60"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "65"
+      },
+      {
+        "move": "Sheer Cold",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "55.4kg",
+    "category": "Freeze Pokémon",
+    "height": "1.7m"
+  },
   "name": "Articuno",
-  "spdfs": 125,
-  "ShieldEntry": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
-  "extraMega": false,
-  "HearthGoldEntry": "The magnificent seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
-  "YEntry": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Icicle Spear",
-      "technical": "TM51"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "PlatinumEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "abilityHidden": "Static",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Mist",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "5"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "10"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "30"
-    },
-    {
-      "move": "Freeze-Dry",
-      "lvl": "35"
-    },
-    {
-      "move": "Roost",
-      "lvl": "40"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "45"
-    },
-    {
-      "move": "Hail",
-      "lvl": "50"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "55"
-    },
-    {
-      "move": "Mind Reader",
-      "lvl": "60"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "65"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "70"
-    }
-  ],
-  "RubyEntry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "BlackEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "OmegaRubyEntry": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
-  "LetsGoEeveeEntry": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
-  "colour": "Blue",
-  "SoulsilverEntry": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
-  "FireRedEntry": "One of the legendary bird Pokémon. With its long tail trailing behind, its flying form is magnificent.",
-  "White2Entry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "SwordEntry": "It's said that this Pokémon's beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
-  "PearlEntry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
-  "category": "Freeze Pokémon",
-  "LeafGreenEntry": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
-  "Black2Entry": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 95,
+    "spd": 85,
+    "hp": 90,
+    "atk": 85,
+    "spdfs": 125
+  },
+  "Biology": {
+    "ability1": "Pressure",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Static",
+    "ability2": "",
+    "type1": "Ice"
+  },
+  "hasGigantamax": false
 }

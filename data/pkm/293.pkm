@@ -1,236 +1,242 @@
 {
-  "ShieldEntry": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it's exhausted, then it falls asleep.",
-  "extraMega": false,
-  "HearthGoldEntry": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
-  "EmeraldEntry": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
-  "ability1": "Soundproof",
-  "YEntry": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
-  "AlphaSapphireEntry": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
-  "hp": 64,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Circle Throw"},
-    {"move": "Disarming Voice"},
-    {"move": "Endeavor"},
-    {"move": "Extrasensory"},
-    {"move": "Hammer Arm"},
-    {"move": "Smokescreen"},
-    {"move": "Take Down"},
-    {"move": "Whirlwind"}
-  ],
-  "XEntry": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
   "number": 293,
-  "spatk": 51,
-  "atk": 51,
-  "PlatinumEntry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "abilityHidden": "Rattled",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "5"
-    },
-    {
-      "move": "Howl",
-      "lvl": "10"
-    },
-    {
-      "move": "Rest",
-      "lvl": "15"
-    },
-    {
-      "move": "Sleep Talk",
-      "lvl": "15"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "21"
-    },
-    {
-      "move": "Roar",
-      "lvl": "25"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "30"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "35"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "45"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "eggGroup2": "Field",
-  "spd": 28,
-  "weight": "16.3kg",
-  "eggGroup1": "Monster",
-  "RubyEntry": "Normally, Whismur's voice is very quiet - it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "BlackEntry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "OmegaRubyEntry": "Normally, Whismur\u2019s voice is very quiet\u2014it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
-  "dfs": 23,
-  "SapphireEntry": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
-  "colour": "Pink",
-  "hasAlolan": false,
-  "DiamondEntry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "SoulsilverEntry": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+  "Entry": {
+    "AlphaSapphire": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
+    "Shield": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it's exhausted, then it falls asleep.",
+    "White2": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "Diamond": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "Black": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "Black2": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "FireRed": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+    "HearthGold": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+    "OmegaRuby": "Normally, Whismur\u2019s voice is very quiet\u2014it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
+    "Pearl": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "White": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "Sword": "The cry of a Whismur is over 100 decibels. If you're close to a Whismur when it lets out a cry, you'll be stuck with an all-day headache.",
+    "Sapphire": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
+    "LeafGreen": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+    "Platinum": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "Emerald": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
+    "X": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+    "Y": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+    "Ruby": "Normally, Whismur's voice is very quiet - it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
+    "Soulsilver": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Echoed Voice",
+        "lvl": "5"
+      },
+      {
+        "move": "Howl",
+        "lvl": "10"
+      },
+      {
+        "move": "Rest",
+        "lvl": "15"
+      },
+      {
+        "move": "Sleep Talk",
+        "lvl": "15"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "21"
+      },
+      {
+        "move": "Roar",
+        "lvl": "25"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "30"
+      },
+      {
+        "move": "Uproar",
+        "lvl": "35"
+      },
+      {
+        "move": "Screech",
+        "lvl": "40"
+      },
+      {
+        "move": "Hyper Voice",
+        "lvl": "45"
+      }
+    ],
+    "egg": [
+      {"move": "Circle Throw"},
+      {"move": "Disarming Voice"},
+      {"move": "Endeavor"},
+      {"move": "Extrasensory"},
+      {"move": "Hammer Arm"},
+      {"move": "Smokescreen"},
+      {"move": "Take Down"},
+      {"move": "Whirlwind"}
+    ]
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "16.3kg",
+    "category": "Whisper Pokémon",
+    "height": "0.6m"
+  },
   "name": "Whismur",
-  "FireRedEntry": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
-  "White2Entry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "SwordEntry": "The cry of a Whismur is over 100 decibels. If you're close to a Whismur when it lets out a cry, you'll be stuck with an all-day headache.",
-  "PearlEntry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
-  "spdfs": 23,
-  "category": "Whisper Pokémon",
-  "LeafGreenEntry": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
-  "Black2Entry": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane."
+  "Stats": {
+    "dfs": 23,
+    "spatk": 51,
+    "spd": 28,
+    "hp": 64,
+    "atk": 51,
+    "spdfs": 23
+  },
+  "Biology": {
+    "ability1": "Soundproof",
+    "type2": "",
+    "eggGroup2": "Field",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Rattled",
+    "ability2": "",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

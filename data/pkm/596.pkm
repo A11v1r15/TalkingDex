@@ -1,245 +1,251 @@
 {
-  "ShieldEntry": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
-  "extraMega": false,
-  "ability1": "Compound Eyes",
-  "YEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-  "AlphaSapphireEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-  "hp": 70,
-  "ability2": "Unnerve",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
   "number": 596,
-  "spatk": 97,
-  "atk": 77,
-  "abilityHidden": "Swarm",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Sticky Web",
-      "lvl": "0"
-    },
-    {
-      "move": "Sticky Web",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Electroweb",
-      "lvl": "1"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Slash",
-      "lvl": "32"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "39"
-    },
-    {
-      "move": "Screech",
-      "lvl": "44"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "50"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Electric",
-  "WhiteEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-  "eggGroup2": "",
-  "spd": 108,
-  "weight": "14.3kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-  "OmegaRubyEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-  "dfs": 60,
-  "colour": "Yellow",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+    "White": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+    "Sword": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+    "Shield": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
+    "X": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+    "White2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+    "Y": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+    "Black": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+    "Black2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+    "OmegaRuby": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pin Missile",
+        "technical": "TM07"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Cross Poison",
+        "technical": "TM73"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Sticky Web",
+        "lvl": "0"
+      },
+      {
+        "move": "Sticky Web",
+        "lvl": "1"
+      },
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Electroweb",
+        "lvl": "1"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "String Shot",
+        "lvl": "12"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "16"
+      },
+      {
+        "move": "Electro Ball",
+        "lvl": "20"
+      },
+      {
+        "move": "Agility",
+        "lvl": "24"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "28"
+      },
+      {
+        "move": "Slash",
+        "lvl": "32"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "39"
+      },
+      {
+        "move": "Screech",
+        "lvl": "44"
+      },
+      {
+        "move": "Gastro Acid",
+        "lvl": "50"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "14.3kg",
+    "category": "EleSpider Pokémon",
+    "height": "0.8m"
+  },
   "name": "Galvantula",
-  "White2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
-  "SwordEntry": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
-  "spdfs": 60,
-  "category": "EleSpider Pokémon",
-  "Black2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."
+  "Stats": {
+    "dfs": 60,
+    "spatk": 97,
+    "spd": 108,
+    "hp": 70,
+    "atk": 77,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Compound Eyes",
+    "type2": "Electric",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Swarm",
+    "ability2": "Unnerve",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

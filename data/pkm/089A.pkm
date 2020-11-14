@@ -1,23 +1,31 @@
 {
-  "ability1": "Poison Touch",
-  "type2": "Dark",
-  "eggGroup2": "",
-  "spd": 50,
-  "hp": 105,
-  "SunEntry": "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.",
-  "eggGroup1": "Amorphous",
-  "ability2": "Gluttony",
-  "type1": "Poison",
-  "dfs": 75,
-  "UltraMoonEntry": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.",
   "number": 89,
-  "MoonEntry": "While it's unexpectedly quiet and friendly, if it's not fed any trash for a while, it will smash its Trainer's furnishings and eat up the fragments.",
-  "LetsGoEeveeEntry": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish\u2013trash.",
-  "spatk": 65,
-  "UltraSunEntry": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
-  "LetsGoPikachuEntry": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish\u2013trash.",
+  "Entry": {
+    "UltraMoon": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.",
+    "Moon": "While it's unexpectedly quiet and friendly, if it's not fed any trash for a while, it will smash its Trainer's furnishings and eat up the fragments.",
+    "LetsGoPikachu": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish\u2013trash.",
+    "UltraSun": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
+    "Sun": "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.",
+    "LetsGoEevee": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish\u2013trash."
+  },
+  "Moves": {},
   "name": "Alolan Muk",
-  "atk": 105,
-  "abilityHidden": "Power of Alchemy",
-  "spdfs": 100
+  "Stats": {
+    "dfs": 75,
+    "spatk": 65,
+    "spd": 50,
+    "hp": 105,
+    "atk": 105,
+    "spdfs": 100
+  },
+  "Flair": {},
+  "Biology": {
+    "ability1": "Poison Touch",
+    "type2": "Dark",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Power of Alchemy",
+    "ability2": "Gluttony",
+    "type1": "Poison"
+  }
 }

@@ -1,343 +1,349 @@
 {
-  "ShieldEntry": "This Pokémon can do more than just shout. To communicate with others of its kind, it'll emit all sorts of sounds from the holes in its body.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
-  "EmeraldEntry": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
-  "ability1": "Soundproof",
-  "YEntry": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
-  "AlphaSapphireEntry": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
-  "hp": 104,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
   "number": 295,
-  "spatk": 91,
-  "atk": 91,
-  "PlatinumEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "abilityHidden": "Scrappy",
-  "height": "1.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Crunch",
-      "lvl": "0"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Howl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rest",
-      "lvl": "15"
-    },
-    {
-      "move": "Sleep Talk",
-      "lvl": "15"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "23"
-    },
-    {
-      "move": "Roar",
-      "lvl": "29"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "36"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "45"
-    },
-    {
-      "move": "Screech",
-      "lvl": "54"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "63"
-    },
-    {
-      "move": "Boomburst",
-      "lvl": "72"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "81"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "eggGroup2": "Field",
-  "spd": 68,
-  "weight": "84.0kg",
-  "eggGroup1": "Monster",
-  "RubyEntry": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "BlackEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "OmegaRubyEntry": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it\u2019s a sign that it is preparing to let loose a huge bellow.",
-  "dfs": 63,
-  "SapphireEntry": "Exploud communicates its feelings to others by emitting whistle-like sounds from the tubes of its body. This Pokémon only raises its voice when it is in battle.",
-  "colour": "Blue",
-  "hasAlolan": false,
-  "DiamondEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "SoulsilverEntry": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+  "Entry": {
+    "AlphaSapphire": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
+    "Shield": "This Pokémon can do more than just shout. To communicate with others of its kind, it'll emit all sorts of sounds from the holes in its body.",
+    "White2": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Diamond": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Black": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Black2": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "FireRed": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+    "HearthGold": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+    "OmegaRuby": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it\u2019s a sign that it is preparing to let loose a huge bellow.",
+    "Pearl": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "White": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Sword": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",
+    "Sapphire": "Exploud communicates its feelings to others by emitting whistle-like sounds from the tubes of its body. This Pokémon only raises its voice when it is in battle.",
+    "LeafGreen": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+    "Platinum": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Emerald": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+    "X": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "Y": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+    "Ruby": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
+    "Soulsilver": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Overheat",
+        "technical": "TR43"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Crunch",
+        "lvl": "0"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Ice Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Fang",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Echoed Voice",
+        "lvl": "1"
+      },
+      {
+        "move": "Howl",
+        "lvl": "1"
+      },
+      {
+        "move": "Rest",
+        "lvl": "15"
+      },
+      {
+        "move": "Sleep Talk",
+        "lvl": "15"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "23"
+      },
+      {
+        "move": "Roar",
+        "lvl": "29"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "36"
+      },
+      {
+        "move": "Uproar",
+        "lvl": "45"
+      },
+      {
+        "move": "Screech",
+        "lvl": "54"
+      },
+      {
+        "move": "Hyper Voice",
+        "lvl": "63"
+      },
+      {
+        "move": "Boomburst",
+        "lvl": "72"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "81"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "84.0kg",
+    "category": "Loud Noise Pokémon",
+    "height": "1.5m"
+  },
   "name": "Exploud",
-  "FireRedEntry": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
-  "White2Entry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "SwordEntry": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",
-  "PearlEntry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
-  "spdfs": 73,
-  "category": "Loud Noise Pokémon",
-  "LeafGreenEntry": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
-  "Black2Entry": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+  "Stats": {
+    "dfs": 63,
+    "spatk": 91,
+    "spd": 68,
+    "hp": 104,
+    "atk": 91,
+    "spdfs": 73
+  },
+  "Biology": {
+    "ability1": "Soundproof",
+    "type2": "",
+    "eggGroup2": "Field",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Scrappy",
+    "ability2": "",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

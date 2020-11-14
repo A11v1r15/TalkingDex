@@ -1,239 +1,245 @@
 {
-  "ShieldEntry": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
-  "extraMega": false,
-  "ability1": "Swarm",
-  "YEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
-  "AlphaSapphireEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
-  "hp": 58,
-  "ability2": "Hustle",
-  "tmTrMoves": [
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Struggle Bug"},
-    {"move": "First Impression"},
-    {"move": "Metal Burst"},
-    {"move": "Infestation"},
-    {"move": "Flail"}
-  ],
-  "XEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "number": 632,
-  "spatk": 48,
-  "atk": 109,
-  "abilityHidden": "Truant",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "4"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "8"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "12"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Dig",
-      "lvl": "28"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "32"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "44"
-    },
-    {
-      "move": "Entrainment",
-      "lvl": "48"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "52"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Steel",
-  "WhiteEntry": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
-  "eggGroup2": "",
-  "spd": 109,
-  "weight": "33.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
-  "OmegaRubyEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
-  "dfs": 112,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "White": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
+    "Sword": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+    "Shield": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+    "X": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+    "White2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+    "Y": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "Black": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "Black2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+    "OmegaRuby": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Vise Grip",
+        "lvl": "4"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "8"
+      },
+      {
+        "move": "Beat Up",
+        "lvl": "12"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "16"
+      },
+      {
+        "move": "Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Agility",
+        "lvl": "24"
+      },
+      {
+        "move": "Dig",
+        "lvl": "28"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "32"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "36"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "40"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "44"
+      },
+      {
+        "move": "Entrainment",
+        "lvl": "48"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "52"
+      },
+      {
+        "move": "Guillotine",
+        "lvl": "56"
+      }
+    ],
+    "egg": [
+      {"move": "Struggle Bug"},
+      {"move": "First Impression"},
+      {"move": "Metal Burst"},
+      {"move": "Infestation"},
+      {"move": "Flail"}
+    ]
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "33.0kg",
+    "category": "Iron Ant Pokémon",
+    "height": "0.3m"
+  },
   "name": "Durant",
-  "White2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
-  "SwordEntry": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
-  "spdfs": 48,
-  "category": "Iron Ant Pokémon",
-  "Black2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+  "Stats": {
+    "dfs": 112,
+    "spatk": 48,
+    "spd": 109,
+    "hp": 58,
+    "atk": 109,
+    "spdfs": 48
+  },
+  "Biology": {
+    "ability1": "Swarm",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Truant",
+    "ability2": "Hustle",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

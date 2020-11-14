@@ -1,23 +1,24 @@
 {
-  "ability1": "Gluttony",
-  "type2": "Normal",
-  "eggGroup2": "",
-  "spd": 72,
-  "hp": 30,
-  "SunEntry": "With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
-  "eggGroup1": "Field",
-  "ability2": "Hustle",
-  "type1": "Dark",
-  "dfs": 35,
-  "UltraMoonEntry": "Night after night, they sneak into people's homes seeking food. A massive outbreak of them has become an issue of public concern.",
   "number": 19,
-  "MoonEntry": "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest\u2014Raticate.",
-  "LetsGoEeveeEntry": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.",
-  "spatk": 25,
-  "UltraSunEntry": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
-  "LetsGoPikachuEntry": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.",
+  "Entry": {
+    "UltraMoon": "Night after night, they sneak into people's homes seeking food. A massive outbreak of them has become an issue of public concern.",
+    "Moon": "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest\u2014Raticate.",
+    "LetsGoPikachu": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.",
+    "UltraSun": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
+    "Sun": "With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
+    "LetsGoEevee": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly."
+  },
+  "Moves": {},
   "name": "Alolan Rattata",
-  "atk": 56,
-  "abilityHidden": "Thick Fat",
-  "spdfs": 35
+  "Stats": {},
+  "Flair": {},
+  "Biology": {
+    "ability1": "Gluttony",
+    "type2": "Normal",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Thick Fat",
+    "ability2": "Hustle",
+    "type1": "Dark"
+  }
 }

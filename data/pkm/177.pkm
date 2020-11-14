@@ -1,275 +1,281 @@
 {
-  "EmeraldEntry": "It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.",
-  "ability1": "Synchronize",
-  "AlphaSapphireEntry": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
-  "hp": 40,
-  "SilverEntry": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-  "ability2": "Early Bird",
-  "eggMoves": [
-    {"move": "Drill Peck"},
-    {"move": "Quick Attack"},
-    {"move": "Feather Dance"},
-    {"move": "Sucker Punch"},
-    {"move": "Roost"},
-    {"move": "Simple Beam"}
-  ],
-  "UltraMoonEntry": "The look in its eyes gives the impression that it's carefully observing you. If you approach it, Natu will hop away.",
   "number": 177,
-  "spatk": 70,
-  "UltraSunEntry": "Although it still can't fly, its jumping power is outstanding. It jumps way up into trees and plucks the buds from the branches.",
-  "atk": 50,
-  "height": "0.2m",
-  "type2": "Flying",
-  "WhiteEntry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-  "eggGroup2": "",
-  "spd": 70,
-  "CrystalEntry": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
-  "weight": "2.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "dfs": 45,
-  "GoldEntry": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-  "SapphireEntry": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
-  "hasAlolan": false,
-  "DiamondEntry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+  "Entry": {
+    "Shield": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "Black": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "Black2": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "FireRed": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+    "HearthGold": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "Sword": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+    "Sapphire": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
+    "Platinum": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "Emerald": "It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.",
+    "X": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "Y": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+    "Ruby": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+    "Soulsilver": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+    "AlphaSapphire": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
+    "Gold": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "UltraMoon": "The look in its eyes gives the impression that it's carefully observing you. If you approach it, Natu will hop away.",
+    "White2": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "Diamond": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "UltraSun": "Although it still can't fly, its jumping power is outstanding. It jumps way up into trees and plucks the buds from the branches.",
+    "OmegaRuby": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+    "Pearl": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "Silver": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+    "White": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "LeafGreen": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "Crystal": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Cosmic Power",
+        "technical": "TR44"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Stored Power",
+        "lvl": "5"
+      },
+      {
+        "move": "Teleport",
+        "lvl": "10"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "15"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "20"
+      },
+      {
+        "move": "Psycho Shift",
+        "lvl": "26"
+      },
+      {
+        "move": "Power Swap",
+        "lvl": "30"
+      },
+      {
+        "move": "Guard Swap",
+        "lvl": "35"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "35"
+      },
+      {
+        "move": "Wish",
+        "lvl": "40"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "45"
+      }
+    ],
+    "egg": [
+      {"move": "Drill Peck"},
+      {"move": "Quick Attack"},
+      {"move": "Feather Dance"},
+      {"move": "Sucker Punch"},
+      {"move": "Roost"},
+      {"move": "Simple Beam"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "2.0kg",
+    "category": "Tiny Bird Pokémon",
+    "height": "0.2m"
+  },
   "name": "Natu",
-  "spdfs": 45,
-  "ShieldEntry": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-  "extraMega": false,
-  "HearthGoldEntry": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-  "YEntry": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-  "PlatinumEntry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-  "abilityHidden": "Magic Bounce",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Stored Power",
-      "lvl": "5"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "10"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "15"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "20"
-    },
-    {
-      "move": "Psycho Shift",
-      "lvl": "26"
-    },
-    {
-      "move": "Power Swap",
-      "lvl": "30"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "35"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "35"
-    },
-    {
-      "move": "Wish",
-      "lvl": "40"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "45"
-    }
-  ],
-  "RubyEntry": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
-  "BlackEntry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-  "OmegaRubyEntry": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
-  "colour": "Green",
-  "SoulsilverEntry": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-  "FireRedEntry": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
-  "White2Entry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-  "SwordEntry": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
-  "PearlEntry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
-  "category": "Tiny Bird Pokémon",
-  "LeafGreenEntry": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
-  "Black2Entry": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
+  "Stats": {
+    "dfs": 45,
+    "spatk": 70,
+    "spd": 70,
+    "hp": 40,
+    "atk": 50,
+    "spdfs": 45
+  },
+  "Biology": {
+    "ability1": "Synchronize",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Magic Bounce",
+    "ability2": "Early Bird",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

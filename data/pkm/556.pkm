@@ -1,252 +1,258 @@
 {
-  "ShieldEntry": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert.",
-  "extraMega": false,
-  "ability1": "Water Absorb",
-  "YEntry": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-  "AlphaSapphireEntry": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-  "hp": 75,
-  "ability2": "Chlorophyll",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Worry Seed"},
-    {"move": "Wood Hammer"}
-  ],
-  "XEntry": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
   "number": 556,
-  "spatk": 106,
-  "atk": 86,
-  "abilityHidden": "Storm Drain",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Spiky Shield",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "After You",
-      "lvl": "1"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "4"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "8"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "12"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "16"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "20"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "24"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "28"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "32"
-    },
-    {
-      "move": "Petal Blizzard",
-      "lvl": "36"
-    },
-    {
-      "move": "Cotton Spore",
-      "lvl": "40"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "44"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "48"
-    },
-    {
-      "move": "Acupressure",
-      "lvl": "52"
-    },
-    {
-      "move": "Petal Dance",
-      "lvl": "56"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "60"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
-  "eggGroup2": "",
-  "spd": 60,
-  "weight": "28.0kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-  "OmegaRubyEntry": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
-  "dfs": 67,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+    "White": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+    "Sword": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+    "Shield": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert.",
+    "X": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+    "White2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+    "Y": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+    "Black": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+    "Black2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+    "OmegaRuby": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pin Missile",
+        "technical": "TM07"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Leaf Storm",
+        "technical": "TR71"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Spiky Shield",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "After You",
+        "lvl": "1"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "1"
+      },
+      {
+        "move": "Growth",
+        "lvl": "4"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "8"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "12"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "16"
+      },
+      {
+        "move": "Pin Missile",
+        "lvl": "20"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "24"
+      },
+      {
+        "move": "Sweet Scent",
+        "lvl": "28"
+      },
+      {
+        "move": "Synthesis",
+        "lvl": "32"
+      },
+      {
+        "move": "Petal Blizzard",
+        "lvl": "36"
+      },
+      {
+        "move": "Cotton Spore",
+        "lvl": "40"
+      },
+      {
+        "move": "Sunny Day",
+        "lvl": "44"
+      },
+      {
+        "move": "Solar Beam",
+        "lvl": "48"
+      },
+      {
+        "move": "Acupressure",
+        "lvl": "52"
+      },
+      {
+        "move": "Petal Dance",
+        "lvl": "56"
+      },
+      {
+        "move": "Cotton Guard",
+        "lvl": "60"
+      }
+    ],
+    "egg": [
+      {"move": "Worry Seed"},
+      {"move": "Wood Hammer"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "28.0kg",
+    "category": "Cactus Pokémon",
+    "height": "1.0m"
+  },
   "name": "Maractus",
-  "White2Entry": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
-  "SwordEntry": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
-  "spdfs": 67,
-  "category": "Cactus Pokémon",
-  "Black2Entry": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee."
+  "Stats": {
+    "dfs": 67,
+    "spatk": 106,
+    "spd": 60,
+    "hp": 75,
+    "atk": 86,
+    "spdfs": 67
+  },
+  "Biology": {
+    "ability1": "Water Absorb",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Storm Drain",
+    "ability2": "Chlorophyll",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

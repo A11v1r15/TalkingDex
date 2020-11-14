@@ -1,220 +1,226 @@
 {
-  "ShieldEntry": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
-  "extraMega": false,
-  "HearthGoldEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
-  "ability1": "Snow Warning",
-  "YEntry": "In the spring, it grows berries with the texture of frozen treats around its belly.",
-  "AlphaSapphireEntry": "In the spring, it grows berries with the texture of frozen treats around its belly.",
-  "hp": 60,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Leech Seed"},
-    {"move": "Growth"},
-    {"move": "Double"},
-    {"move": "Stomp"},
-    {"move": "Skull Bash"}
-  ],
-  "XEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
   "number": 459,
-  "spatk": 62,
-  "atk": 62,
-  "PlatinumEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
-  "abilityHidden": "Soundproof",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Leafage",
-      "lvl": "5"
-    },
-    {
-      "move": "Mist",
-      "lvl": "10"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "15"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "20"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "25"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "30"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "35"
-    },
-    {
-      "move": "Wood Hammer",
-      "lvl": "41"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "45"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "50"
-    }
-  ],
-  "type2": "Ice",
-  "WhiteEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
-  "eggGroup2": "Grass",
-  "spd": 40,
-  "weight": "50.5kg",
-  "eggGroup1": "Monster",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
-  "OmegaRubyEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
-  "dfs": 50,
-  "colour": "White",
-  "hasAlolan": false,
-  "DiamondEntry": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
-  "SoulsilverEntry": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+  "Entry": {
+    "AlphaSapphire": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+    "Shield": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+    "White2": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "Diamond": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+    "Black": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "Black2": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "HearthGold": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+    "OmegaRuby": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+    "Pearl": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+    "White": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "Sword": "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.",
+    "Platinum": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "X": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+    "Y": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+    "Soulsilver": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Powder Snow",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Leafage",
+        "lvl": "5"
+      },
+      {
+        "move": "Mist",
+        "lvl": "10"
+      },
+      {
+        "move": "Ice Shard",
+        "lvl": "15"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "20"
+      },
+      {
+        "move": "Icy Wind",
+        "lvl": "25"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "30"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "35"
+      },
+      {
+        "move": "Wood Hammer",
+        "lvl": "41"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "45"
+      },
+      {
+        "move": "Sheer Cold",
+        "lvl": "50"
+      }
+    ],
+    "egg": [
+      {"move": "Leech Seed"},
+      {"move": "Growth"},
+      {"move": "Double"},
+      {"move": "Stomp"},
+      {"move": "Skull Bash"}
+    ]
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "50.5kg",
+    "category": "Frost Tree Pokémon",
+    "height": "1.0m"
+  },
   "name": "Snover",
-  "White2Entry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
-  "SwordEntry": "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.",
-  "PearlEntry": "In the spring, it grows berries with the texture of frozen treats around its belly.",
-  "spdfs": 60,
-  "category": "Frost Tree Pokémon",
-  "Black2Entry": "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 62,
+    "spd": 40,
+    "hp": 60,
+    "atk": 62,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Snow Warning",
+    "type2": "Ice",
+    "eggGroup2": "Grass",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Soundproof",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

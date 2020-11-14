@@ -1,308 +1,314 @@
 {
-  "EmeraldEntry": "On sunny days, schools of Mantine can be seen elegantly leaping over the waves. It is not bothered by the Remoraid that hitches rides.",
-  "ability1": "Swift Swim",
-  "AlphaSapphireEntry": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
-  "hp": 85,
-  "SilverEntry": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
-  "ability2": "Water Absorb",
-  "eggMoves": [
-    {"move": "Twister"},
-    {"move": "Haze"},
-    {"move": "Slam"},
-    {"move": "Mirror Coat"},
-    {"move": "Splash"},
-    {"move": "Tailwind"},
-    {"move": "Confuse Ray"}
-  ],
-  "UltraMoonEntry": "Many people have taken up surfing because they admire how magnificently Mantine swims.",
   "number": 226,
-  "spatk": 80,
-  "UltraSunEntry": "Postcards and posters featuring Mantine leaping elegantly above the waves are popular souvenirs of Alola.",
-  "atk": 40,
-  "height": "2.1m",
-  "type2": "Flying",
-  "WhiteEntry": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
-  "eggGroup2": "",
-  "spd": 70,
-  "CrystalEntry": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse.",
-  "weight": "220.0kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 70,
-  "GoldEntry": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
-  "SapphireEntry": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
-  "hasAlolan": false,
-  "DiamondEntry": "When the waves are calm, one may encounter a swarm of Mantine swimming as if they are in flight.",
+  "Entry": {
+    "Shield": "As it majestically swims, it doesn't care if Remoraid attach to it to scavenge for its leftovers.",
+    "Black": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+    "Black2": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+    "FireRed": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+    "HearthGold": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
+    "Sword": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
+    "Sapphire": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+    "Platinum": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+    "Emerald": "On sunny days, schools of Mantine can be seen elegantly leaping over the waves. It is not bothered by the Remoraid that hitches rides.",
+    "X": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+    "Y": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+    "Ruby": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+    "Soulsilver": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+    "AlphaSapphire": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+    "Gold": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
+    "UltraMoon": "Many people have taken up surfing because they admire how magnificently Mantine swims.",
+    "White2": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+    "Diamond": "When the waves are calm, one may encounter a swarm of Mantine swimming as if they are in flight.",
+    "UltraSun": "Postcards and posters featuring Mantine leaping elegantly above the waves are popular souvenirs of Alola.",
+    "OmegaRuby": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+    "Pearl": "It swims elegantly, mindless of Remoraid hitching on to its broad fins. It has a docile nature.",
+    "Silver": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+    "White": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+    "LeafGreen": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
+    "Crystal": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Gunk Shot",
+        "technical": "TR73"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Psybeam",
+        "lvl": "1"
+      },
+      {
+        "move": "Bullet Seed",
+        "lvl": "1"
+      },
+      {
+        "move": "Roost",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "1"
+      },
+      {
+        "move": "Wing Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "12"
+      },
+      {
+        "move": "Wide Guard",
+        "lvl": "16"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "24"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "28"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "32"
+      },
+      {
+        "move": "Aqua Ring",
+        "lvl": "36"
+      },
+      {
+        "move": "Bounce",
+        "lvl": "40"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "44"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Twister"},
+      {"move": "Haze"},
+      {"move": "Slam"},
+      {"move": "Mirror Coat"},
+      {"move": "Splash"},
+      {"move": "Tailwind"},
+      {"move": "Confuse Ray"}
+    ]
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "220.0kg",
+    "category": "Kite Pokémon",
+    "height": "2.1m"
+  },
   "name": "Mantine",
-  "spdfs": 140,
-  "ShieldEntry": "As it majestically swims, it doesn't care if Remoraid attach to it to scavenge for its leftovers.",
-  "extraMega": false,
-  "HearthGoldEntry": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
-  "YEntry": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
-  "PlatinumEntry": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
-  "abilityHidden": "Water Veil",
-  "lvlUpMoves": [
-    {
-      "move": "Psybeam",
-      "lvl": "1"
-    },
-    {
-      "move": "Bullet Seed",
-      "lvl": "1"
-    },
-    {
-      "move": "Roost",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "12"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "16"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "24"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "28"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "32"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "36"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "40"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "44"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
-  "BlackEntry": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
-  "OmegaRubyEntry": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
-  "FireRedEntry": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
-  "White2Entry": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
-  "SwordEntry": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
-  "PearlEntry": "It swims elegantly, mindless of Remoraid hitching on to its broad fins. It has a docile nature.",
-  "category": "Kite Pokémon",
-  "LeafGreenEntry": "As it majestically swims, it doesn't care if Remoraid attach to it for scavenging its leftovers.",
-  "Black2Entry": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean."
+  "Stats": {
+    "dfs": 70,
+    "spatk": 80,
+    "spd": 70,
+    "hp": 85,
+    "atk": 40,
+    "spdfs": 140
+  },
+  "Biology": {
+    "ability1": "Swift Swim",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Water Veil",
+    "ability2": "Water Absorb",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

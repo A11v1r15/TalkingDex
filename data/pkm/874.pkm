@@ -1,228 +1,234 @@
 {
-  "ShieldEntry": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
-  "extraMega": false,
-  "ability1": "Power Spot",
-  "hp": 100,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Ancient Power"}
-  ],
   "number": 874,
-  "spatk": 20,
-  "atk": 125,
-  "abilityHidden": "",
-  "height": "2.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Rock Throw",
-      "lvl": "1"
-    },
-    {
-      "move": "Block",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Polish",
-      "lvl": "6"
-    },
-    {
-      "move": "Rock Tomb",
-      "lvl": "12"
-    },
-    {
-      "move": "Gravity",
-      "lvl": "18"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "24"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "30"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "36"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "42"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "48"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "54"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "60"
-    },
-    {
-      "move": "Mega Kick",
-      "lvl": "66"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 70,
-  "weight": "520.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "dfs": 135,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
+    "Shield": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Heat Crash",
+        "technical": "TR88"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Rock Throw",
+        "lvl": "1"
+      },
+      {
+        "move": "Block",
+        "lvl": "1"
+      },
+      {
+        "move": "Rock Polish",
+        "lvl": "6"
+      },
+      {
+        "move": "Rock Tomb",
+        "lvl": "12"
+      },
+      {
+        "move": "Gravity",
+        "lvl": "18"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "24"
+      },
+      {
+        "move": "Stealth Rock",
+        "lvl": "30"
+      },
+      {
+        "move": "Rock Slide",
+        "lvl": "36"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "42"
+      },
+      {
+        "move": "Wide Guard",
+        "lvl": "48"
+      },
+      {
+        "move": "Heavy Slam",
+        "lvl": "54"
+      },
+      {
+        "move": "Stone Edge",
+        "lvl": "60"
+      },
+      {
+        "move": "Mega Kick",
+        "lvl": "66"
+      }
+    ],
+    "egg": [
+      {"move": "Curse"},
+      {"move": "Ancient Power"}
+    ]
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "520.0kg",
+    "category": "Big Rock Pokémon",
+    "height": "2.5m"
+  },
   "name": "Stonjourner",
-  "SwordEntry": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
-  "spdfs": 20,
-  "category": "Big Rock Pokémon"
+  "Stats": {
+    "dfs": 135,
+    "spatk": 20,
+    "spd": 70,
+    "hp": 100,
+    "atk": 125,
+    "spdfs": 20
+  },
+  "Biology": {
+    "ability1": "Power Spot",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

@@ -1,283 +1,289 @@
 {
-  "ShieldEntry": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.",
-  "extraMega": false,
-  "ability1": "Telepathy",
-  "YEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
-  "AlphaSapphireEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
-  "hp": 75,
-  "ability2": "Synchronize",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
-  "UltraMoonEntry": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
   "number": 606,
-  "spatk": 125,
-  "UltraSunEntry": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
-  "atk": 75,
-  "abilityHidden": "Analytic",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Psychic Terrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "1"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "18"
-    },
-    {
-      "move": "Power Split",
-      "lvl": "24"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "24"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "30"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "36"
-    },
-    {
-      "move": "Recover",
-      "lvl": "45"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "52"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "60"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "68"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
-  "eggGroup2": "",
-  "spd": 40,
-  "weight": "34.5kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "BlackEntry": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.",
-  "OmegaRubyEntry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
-  "dfs": 75,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+    "White": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+    "UltraMoon": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
+    "Sword": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+    "Shield": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.",
+    "X": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+    "White2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+    "Y": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+    "UltraSun": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
+    "Black": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.",
+    "Black2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+    "OmegaRuby": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Cosmic Power",
+        "technical": "TR44"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Psychic Terrain",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Imprison",
+        "lvl": "1"
+      },
+      {
+        "move": "Teleport",
+        "lvl": "1"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "18"
+      },
+      {
+        "move": "Power Split",
+        "lvl": "24"
+      },
+      {
+        "move": "Guard Split",
+        "lvl": "24"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "30"
+      },
+      {
+        "move": "Zen Headbutt",
+        "lvl": "36"
+      },
+      {
+        "move": "Recover",
+        "lvl": "45"
+      },
+      {
+        "move": "Calm Mind",
+        "lvl": "52"
+      },
+      {
+        "move": "Wonder Room",
+        "lvl": "60"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "68"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "34.5kg",
+    "category": "Cerebral Pokémon",
+    "height": "1.0m"
+  },
   "name": "Beheeyem",
-  "White2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
-  "SwordEntry": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
-  "spdfs": 95,
-  "category": "Cerebral Pokémon",
-  "Black2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."
+  "Stats": {
+    "dfs": 75,
+    "spatk": 125,
+    "spd": 40,
+    "hp": 75,
+    "atk": 75,
+    "spdfs": 95
+  },
+  "Biology": {
+    "ability1": "Telepathy",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Analytic",
+    "ability2": "Synchronize",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

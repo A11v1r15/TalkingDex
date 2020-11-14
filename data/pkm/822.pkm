@@ -1,185 +1,191 @@
 {
-  "ShieldEntry": "The lessons of many harsh battles have taught it how to accurately judge an opponent's strength.",
-  "extraMega": false,
-  "ability1": "Keen Eye",
-  "hp": 68,
-  "ability2": "Unnerve",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 822,
-  "spatk": 43,
-  "atk": 67,
-  "abilityHidden": "Big Pecks",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Power Trip",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "22"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "28"
-    },
-    {
-      "move": "Drill Peck",
-      "lvl": "34"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "40"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "46"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 77,
-  "weight": "16.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Flying",
-  "hasGalarian": false,
-  "dfs": 55,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+    "Shield": "The lessons of many harsh battles have taught it how to accurately judge an opponent's strength."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Power Trip",
+        "lvl": "1"
+      },
+      {
+        "move": "Hone Claws",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Attack",
+        "lvl": "12"
+      },
+      {
+        "move": "Pluck",
+        "lvl": "16"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "22"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "28"
+      },
+      {
+        "move": "Drill Peck",
+        "lvl": "34"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "40"
+      },
+      {
+        "move": "Brave Bird",
+        "lvl": "46"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "16.0kg",
+    "category": "Raven Pokémon",
+    "height": "0.8m"
+  },
   "name": "Corvisquire",
-  "SwordEntry": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
-  "spdfs": 55,
-  "category": "Raven Pokémon"
+  "Stats": {
+    "dfs": 55,
+    "spatk": 43,
+    "spd": 77,
+    "hp": 68,
+    "atk": 67,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Keen Eye",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Big Pecks",
+    "ability2": "Unnerve",
+    "type1": "Flying"
+  },
+  "hasGigantamax": false
 }

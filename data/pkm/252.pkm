@@ -1,278 +1,284 @@
 {
-  "extraMega": false,
-  "HearthGoldEntry": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
-  "EmeraldEntry": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
-  "ability1": "Overgrow",
-  "YEntry": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
-  "AlphaSapphireEntry": "Treecko is cool, calm, and collected\u2014it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
-  "hp": 40,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
-  "eggMoves": [
-    {"move": "Absorb"},
-    {"move": "Slash"},
-    {"move": "Night Slash"},
-    {"move": "Double Kick"},
-    {"move": "Dragon Breath"},
-    {"move": "Leech Seed"},
-    {"move": "Worry Seed"},
-    {"move": "Synthesis"}
-  ],
   "number": 252,
-  "spatk": 65,
-  "atk": 45,
-  "PlatinumEntry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "abilityHidden": "Unburden",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Leafage",
-      "lvl": "3"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "6"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "9"
-    },
-    {
-      "move": "Detect",
-      "lvl": "12"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "15"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "18"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "21"
-    },
-    {
-      "move": "Slam",
-      "lvl": "24"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "27"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "30"
-    },
-    {
-      "move": "Screech",
-      "lvl": "33"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "36"
-    },
-    {
-      "move": "Leaf Storm",
-      "lvl": "39"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "eggGroup2": "Dragon",
-  "spd": 70,
-  "weight": "5.0kg",
-  "eggGroup1": "Monster",
-  "RubyEntry": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "OmegaRubyEntry": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
-  "dfs": 35,
-  "SapphireEntry": "Treecko is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
-  "colour": "Green",
-  "hasAlolan": false,
-  "DiamondEntry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "SoulsilverEntry": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+  "Entry": {
+    "AlphaSapphire": "Treecko is cool, calm, and collected\u2014it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+    "White2": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Diamond": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Black": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Black2": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "FireRed": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+    "HearthGold": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+    "OmegaRuby": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+    "Pearl": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "White": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Sapphire": "Treecko is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+    "LeafGreen": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+    "Platinum": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "Emerald": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
+    "X": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+    "Y": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+    "Ruby": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+    "Soulsilver": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Leaf Storm",
+        "technical": "TR71"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Leafage",
+        "lvl": "3"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "6"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "9"
+      },
+      {
+        "move": "Detect",
+        "lvl": "12"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "15"
+      },
+      {
+        "move": "Assurance",
+        "lvl": "18"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "21"
+      },
+      {
+        "move": "Slam",
+        "lvl": "24"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "27"
+      },
+      {
+        "move": "Energy Ball",
+        "lvl": "30"
+      },
+      {
+        "move": "Screech",
+        "lvl": "33"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "36"
+      },
+      {
+        "move": "Leaf Storm",
+        "lvl": "39"
+      }
+    ],
+    "egg": [
+      {"move": "Absorb"},
+      {"move": "Slash"},
+      {"move": "Night Slash"},
+      {"move": "Double Kick"},
+      {"move": "Dragon Breath"},
+      {"move": "Leech Seed"},
+      {"move": "Worry Seed"},
+      {"move": "Synthesis"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "5.0kg",
+    "category": "Wood Gecko Pokémon",
+    "height": "0.5m"
+  },
   "name": "Treecko",
-  "FireRedEntry": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
-  "White2Entry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "PearlEntry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
-  "spdfs": 55,
-  "category": "Wood Gecko Pokémon",
-  "LeafGreenEntry": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
-  "Black2Entry": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+  "Stats": {
+    "dfs": 35,
+    "spatk": 65,
+    "spd": 70,
+    "hp": 40,
+    "atk": 45,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Unburden",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

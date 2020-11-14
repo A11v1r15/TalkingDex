@@ -1,336 +1,341 @@
 {
-  "YellowEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-  "EmeraldEntry": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
-  "ability1": "Torrent",
-  "AlphaSapphireEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-  "hp": 79,
-  "SilverEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
-  "ability2": "",
-  "eggMoves": [],
   "number": 9,
-  "spatk": 85,
-  "atk": 83,
-  "RedEntry": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
-  "height": "1.6m",
-  "type2": "",
-  "WhiteEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-  "eggGroup2": "Water 1",
-  "spd": 78,
-  "CrystalEntry": "It firmly plants its feet on the ground before shooting water from the jets on its back.",
-  "weight": "85.5kg",
-  "eggGroup1": "Monster",
-  "hasMega": true,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
-  "dfs": 100,
-  "GoldEntry": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
-  "SapphireEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-  "DiamondEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+  "Entry": {
+    "Shield": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "Black": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "Black2": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "FireRed": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "HearthGold": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+    "Sword": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "Sapphire": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "Platinum": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "Emerald": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+    "X": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "Y": "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
+    "Ruby": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "Soulsilver": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "AlphaSapphire": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "Gold": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+    "Blue": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
+    "LetsGoPikachu": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "White2": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "Diamond": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "OmegaRuby": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "Red": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
+    "Pearl": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "Silver": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "White": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "Yellow": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "LeafGreen": "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
+    "LetsGoEevee": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "Crystal": "It firmly plants its feet on the ground before shooting water from the jets on its back."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Flash Cannon",
+        "lvl": "0"
+      },
+      {
+        "move": "Flash Cannon",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Withdraw",
+        "lvl": "1"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "9"
+      },
+      {
+        "move": "Bite",
+        "lvl": "12"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "15"
+      },
+      {
+        "move": "Protect",
+        "lvl": "20"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "25"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "30"
+      },
+      {
+        "move": "Shell Smash",
+        "lvl": "35"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "42"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "49"
+      },
+      {
+        "move": "Skull Bash",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "85.5kg",
+    "category": "Shellfish Pokémon",
+    "height": "1.6m"
+  },
   "name": "Blastoise",
-  "spdfs": 105,
-  "ShieldEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
-  "extraMega": false,
-  "HearthGoldEntry": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
-  "YEntry": "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": true,
-  "XEntry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-  "PlatinumEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-  "abilityHidden": "Rain Dish",
-  "lvlUpMoves": [
-    {
-      "move": "Flash Cannon",
-      "lvl": "0"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "9"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "15"
-    },
-    {
-      "move": "Protect",
-      "lvl": "20"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "25"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "30"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "35"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "42"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "49"
-    },
-    {
-      "move": "Skull Bash",
-      "lvl": "56"
-    }
-  ],
-  "RubyEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-  "BlackEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-  "OmegaRubyEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-  "LetsGoEeveeEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
-  "colour": "Blue",
-  "SoulsilverEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
-  "FireRedEntry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-  "White2Entry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-  "SwordEntry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-  "PearlEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
-  "category": "Shellfish Pokémon",
-  "LeafGreenEntry": "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
-  "9Entry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-  "Black2Entry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 85,
+    "spd": 78,
+    "hp": 79,
+    "atk": 83,
+    "spdfs": 105
+  },
+  "Biology": {
+    "ability1": "Torrent",
+    "type2": "",
+    "eggGroup2": "Water 1",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Rain Dish",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": true
 }

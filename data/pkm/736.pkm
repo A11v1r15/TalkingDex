@@ -1,172 +1,178 @@
 {
-  "ShieldEntry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
-  "extraMega": false,
-  "ability1": "Swarm",
-  "hp": 47,
-  "SunEntry": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Harden"},
-    {"move": "Discharge"}
-  ],
-  "UltraMoonEntry": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
   "number": 736,
-  "MoonEntry": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
-  "spatk": 55,
-  "UltraSunEntry": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
-  "atk": 62,
-  "abilityHidden": "",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "5"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "10"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "21"
-    },
-    {
-      "move": "Sticky Web",
-      "lvl": "25"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "30"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "35"
-    },
-    {
-      "move": "Dig",
-      "lvl": "40"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 46,
-  "weight": "4.4kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "dfs": 45,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
+    "Sword": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+    "Shield": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
+    "Moon": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+    "UltraSun": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
+    "Sun": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Vise Grip",
+        "lvl": "1"
+      },
+      {
+        "move": "Mud-Slap",
+        "lvl": "1"
+      },
+      {
+        "move": "String Shot",
+        "lvl": "5"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "10"
+      },
+      {
+        "move": "Bite",
+        "lvl": "15"
+      },
+      {
+        "move": "Spark",
+        "lvl": "21"
+      },
+      {
+        "move": "Sticky Web",
+        "lvl": "25"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "30"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "35"
+      },
+      {
+        "move": "Dig",
+        "lvl": "40"
+      }
+    ],
+    "egg": [
+      {"move": "Harden"},
+      {"move": "Discharge"}
+    ]
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "4.4kg",
+    "category": "Larva Pokémon",
+    "height": "0.4m"
+  },
   "name": "Grubbin",
-  "SwordEntry": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
-  "spdfs": 45,
-  "category": "Larva Pokémon"
+  "Stats": {
+    "dfs": 45,
+    "spatk": 55,
+    "spd": 46,
+    "hp": 47,
+    "atk": 62,
+    "spdfs": 45
+  },
+  "Biology": {
+    "ability1": "Swarm",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

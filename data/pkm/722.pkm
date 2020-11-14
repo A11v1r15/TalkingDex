@@ -1,206 +1,212 @@
 {
-  "ShieldEntry": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
-  "extraMega": false,
-  "ability1": "Overgrow",
-  "hp": 68,
-  "SunEntry": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Defog"},
-    {"move": "Knock Off"},
-    {"move": "Double Team"}
-  ],
-  "UltraMoonEntry": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
   "number": 722,
-  "MoonEntry": "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
-  "spatk": 50,
-  "UltraSunEntry": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
-  "atk": 55,
-  "abilityHidden": "Long Reach",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Leafage",
-      "lvl": "3"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "6"
-    },
-    {
-      "move": "Peck",
-      "lvl": "9"
-    },
-    {
-      "move": "Shadow Sneak",
-      "lvl": "12"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "15"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "18"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "21"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "24"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "27"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "30"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "33"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "36"
-    }
-  ],
-  "type2": "Flying",
-  "eggGroup2": "",
-  "spd": 42,
-  "weight": "1.5kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "dfs": 55,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
+    "Sword": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+    "Shield": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+    "Moon": "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
+    "UltraSun": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "Sun": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Leaf Blade",
+        "technical": "TR50"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Leafage",
+        "lvl": "3"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "6"
+      },
+      {
+        "move": "Peck",
+        "lvl": "9"
+      },
+      {
+        "move": "Shadow Sneak",
+        "lvl": "12"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "15"
+      },
+      {
+        "move": "Synthesis",
+        "lvl": "18"
+      },
+      {
+        "move": "Pluck",
+        "lvl": "21"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "24"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "27"
+      },
+      {
+        "move": "Leaf Blade",
+        "lvl": "30"
+      },
+      {
+        "move": "Feather Dance",
+        "lvl": "33"
+      },
+      {
+        "move": "Brave Bird",
+        "lvl": "36"
+      }
+    ],
+    "egg": [
+      {"move": "Confuse Ray"},
+      {"move": "Defog"},
+      {"move": "Knock Off"},
+      {"move": "Double Team"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "1.5kg",
+    "category": "Grass Quill Pokémon",
+    "height": "0.3m"
+  },
   "name": "Rowlet",
-  "SwordEntry": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
-  "spdfs": 50,
-  "category": "Grass Quill Pokémon"
+  "Stats": {
+    "dfs": 55,
+    "spatk": 50,
+    "spd": 42,
+    "hp": 68,
+    "atk": 55,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Long Reach",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

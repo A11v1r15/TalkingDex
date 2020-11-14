@@ -1,310 +1,316 @@
 {
-  "EmeraldEntry": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
-  "ability1": "Water Absorb",
-  "AlphaSapphireEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
-  "hp": 90,
-  "SilverEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
-  "ability2": "Damp",
-  "eggMoves": [],
-  "UltraMoonEntry": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
   "number": 186,
-  "MoonEntry": "It's the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear.",
-  "spatk": 90,
-  "UltraSunEntry": "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds.",
-  "atk": 75,
-  "height": "1.1m",
-  "type2": "",
-  "WhiteEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
-  "eggGroup2": "",
-  "spd": 70,
-  "CrystalEntry": "When it expands its throat to croak out a tune, nearby Poliwag and Poliwhirl gather immediately.",
-  "weight": "33.9kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 75,
-  "GoldEntry": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
-  "SapphireEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
-  "hasAlolan": false,
-  "DiamondEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+  "Entry": {
+    "Shield": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
+    "Moon": "It's the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear.",
+    "Black": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "Black2": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "FireRed": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+    "HearthGold": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+    "Sword": "At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",
+    "Sapphire": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+    "Platinum": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "Emerald": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+    "X": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+    "Y": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+    "Ruby": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+    "Soulsilver": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+    "AlphaSapphire": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+    "Gold": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+    "UltraMoon": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
+    "White2": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "Diamond": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "UltraSun": "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds.",
+    "Sun": "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive.",
+    "OmegaRuby": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+    "Pearl": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "Silver": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+    "White": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "LeafGreen": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+    "Crystal": "When it expands its throat to croak out a tune, nearby Poliwag and Poliwhirl gather immediately."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Bounce",
+        "lvl": "0"
+      },
+      {
+        "move": "Bounce",
+        "lvl": "1"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "1"
+      },
+      {
+        "move": "Hyper Voice",
+        "lvl": "1"
+      },
+      {
+        "move": "Perish Song",
+        "lvl": "1"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "1"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "1"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "1"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "1"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "1"
+      },
+      {
+        "move": "Belly Drum",
+        "lvl": "1"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "33.9kg",
+    "category": "Frog Pokémon",
+    "height": "1.1m"
+  },
   "name": "Politoed",
-  "spdfs": 100,
-  "ShieldEntry": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
-  "extraMega": false,
-  "HearthGoldEntry": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
-  "YEntry": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
-  "SunEntry": "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
-  "PlatinumEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
-  "abilityHidden": "Drizzle",
-  "lvlUpMoves": [
-    {
-      "move": "Bounce",
-      "lvl": "0"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "1"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "1"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "1"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "1"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "1"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "1"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "1"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "1"
-    }
-  ],
-  "RubyEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
-  "BlackEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
-  "OmegaRubyEntry": "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
-  "colour": "Green",
-  "SoulsilverEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
-  "FireRedEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
-  "White2Entry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
-  "SwordEntry": "At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",
-  "PearlEntry": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
-  "category": "Frog Pokémon",
-  "LeafGreenEntry": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
-  "Black2Entry": "It gathers groups of others as their leader. Its cries make Poliwag obey."
+  "Stats": {
+    "dfs": 75,
+    "spatk": 90,
+    "spd": 70,
+    "hp": 90,
+    "atk": 75,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Water Absorb",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Drizzle",
+    "ability2": "Damp",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

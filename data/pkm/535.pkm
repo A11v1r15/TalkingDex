@@ -1,206 +1,212 @@
 {
-  "ShieldEntry": "It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning.",
-  "extraMega": false,
-  "ability1": "Swift Swim",
-  "YEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
-  "AlphaSapphireEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
-  "hp": 50,
-  "ability2": "Hydration",
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Water Pulse"},
-    {"move": "Mist"},
-    {"move": "Toxic"},
-    {"move": "Mud"}
-  ],
-  "XEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
   "number": 535,
-  "spatk": 50,
-  "atk": 50,
-  "abilityHidden": "Water Absorb",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Echoed Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "4"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "8"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Round",
-      "lvl": "16"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "20"
-    },
-    {
-      "move": "Flail",
-      "lvl": "24"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "28"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "32"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "36"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "40"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "44"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "48"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
-  "eggGroup2": "",
-  "spd": 64,
-  "weight": "4.5kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlackEntry": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
-  "OmegaRubyEntry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
-  "dfs": 40,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+    "White": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+    "Sword": "Graceful ripples running across the water's surface are a sure sign that Tympole are singing in high-pitched voices below.",
+    "Shield": "It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning.",
+    "X": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+    "White2": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+    "Y": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+    "Black": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+    "Black2": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+    "OmegaRuby": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Echoed Voice",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Acid",
+        "lvl": "4"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "8"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "12"
+      },
+      {
+        "move": "Round",
+        "lvl": "16"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "20"
+      },
+      {
+        "move": "Flail",
+        "lvl": "24"
+      },
+      {
+        "move": "Uproar",
+        "lvl": "28"
+      },
+      {
+        "move": "Aqua Ring",
+        "lvl": "32"
+      },
+      {
+        "move": "Hyper Voice",
+        "lvl": "36"
+      },
+      {
+        "move": "Muddy Water",
+        "lvl": "40"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "44"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Water Pulse"},
+      {"move": "Mist"},
+      {"move": "Toxic"},
+      {"move": "Mud"}
+    ]
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "4.5kg",
+    "category": "Tadpole Pokémon",
+    "height": "0.5m"
+  },
   "name": "Tympole",
-  "White2Entry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
-  "SwordEntry": "Graceful ripples running across the water's surface are a sure sign that Tympole are singing in high-pitched voices below.",
-  "spdfs": 40,
-  "category": "Tadpole Pokémon",
-  "Black2Entry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger."
+  "Stats": {
+    "dfs": 40,
+    "spatk": 50,
+    "spd": 64,
+    "hp": 50,
+    "atk": 50,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Swift Swim",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Water Absorb",
+    "ability2": "Hydration",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

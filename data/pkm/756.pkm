@@ -1,209 +1,215 @@
 {
-  "ShieldEntry": "If you see a light deep in a forest at night, don't go near. Shiinotic will make you fall fast asleep.",
-  "extraMega": false,
-  "ability1": "Illuminate",
-  "hp": 60,
-  "SunEntry": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
-  "ability2": "Effect Spore",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
   "number": 756,
-  "MoonEntry": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
-  "spatk": 90,
-  "UltraSunEntry": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
-  "atk": 45,
-  "abilityHidden": "Rain Dish",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "16"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "20"
-    },
-    {
-      "move": "Strength Sap",
-      "lvl": "27"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "32"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "38"
-    },
-    {
-      "move": "Spore",
-      "lvl": "44"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "50"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Fairy",
-  "eggGroup2": "",
-  "spd": 30,
-  "weight": "11.5kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "dfs": 80,
-  "colour": "Purple",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
+    "Sword": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+    "Shield": "If you see a light deep in a forest at night, don't go near. Shiinotic will make you fall fast asleep.",
+    "Moon": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
+    "UltraSun": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
+    "Sun": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      },
+      {
+        "move": "Pollen Puff",
+        "technical": "TR96"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "1"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "12"
+      },
+      {
+        "move": "Sleep Powder",
+        "lvl": "16"
+      },
+      {
+        "move": "Moonlight",
+        "lvl": "20"
+      },
+      {
+        "move": "Strength Sap",
+        "lvl": "27"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "32"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "lvl": "38"
+      },
+      {
+        "move": "Spore",
+        "lvl": "44"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "50"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "11.5kg",
+    "category": "Illuminating Pokémon",
+    "height": "1.0m"
+  },
   "name": "Shiinotic",
-  "SwordEntry": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
-  "spdfs": 100,
-  "category": "Illuminating Pokémon"
+  "Stats": {
+    "dfs": 80,
+    "spatk": 90,
+    "spd": 30,
+    "hp": 60,
+    "atk": 45,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Illuminate",
+    "type2": "Fairy",
+    "eggGroup2": "",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Rain Dish",
+    "ability2": "Effect Spore",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

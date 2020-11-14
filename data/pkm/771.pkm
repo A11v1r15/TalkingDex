@@ -1,162 +1,168 @@
 {
-  "ShieldEntry": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
-  "extraMega": false,
-  "ability1": "Innards Out",
-  "hp": 55,
-  "SunEntry": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Tickle"},
-    {"move": "Spite"},
-    {"move": "Mirror Coat"},
-    {"move": "Swagger"}
-  ],
-  "UltraMoonEntry": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
   "number": 771,
-  "MoonEntry": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
-  "spatk": 30,
-  "UltraSunEntry": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
-  "atk": 60,
-  "abilityHidden": "Unaware",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "5"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "10"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "15"
-    },
-    {
-      "move": "Counter",
-      "lvl": "20"
-    },
-    {
-      "move": "Purify",
-      "lvl": "25"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "35"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "40"
-    },
-    {
-      "move": "Recover",
-      "lvl": "45"
-    },
-    {
-      "move": "Soak",
-      "lvl": "50"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "55"
-    },
-    {
-      "move": "Memento",
-      "lvl": "60"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 5,
-  "weight": "1.2kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 130,
-  "colour": "Black",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
+    "Sword": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+    "Shield": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+    "Moon": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
+    "UltraSun": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+    "Sun": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Baton Pass",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "5"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "10"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "15"
+      },
+      {
+        "move": "Counter",
+        "lvl": "20"
+      },
+      {
+        "move": "Purify",
+        "lvl": "25"
+      },
+      {
+        "move": "Curse",
+        "lvl": "30"
+      },
+      {
+        "move": "Gastro Acid",
+        "lvl": "35"
+      },
+      {
+        "move": "Pain Split",
+        "lvl": "40"
+      },
+      {
+        "move": "Recover",
+        "lvl": "45"
+      },
+      {
+        "move": "Soak",
+        "lvl": "50"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "55"
+      },
+      {
+        "move": "Memento",
+        "lvl": "60"
+      }
+    ],
+    "egg": [
+      {"move": "Tickle"},
+      {"move": "Spite"},
+      {"move": "Mirror Coat"},
+      {"move": "Swagger"}
+    ]
+  },
+  "Flair": {
+    "colour": "Black",
+    "weight": "1.2kg",
+    "category": "Sea Cucumber Pokémon",
+    "height": "0.3m"
+  },
   "name": "Pyukumuku",
-  "SwordEntry": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
-  "spdfs": 130,
-  "category": "Sea Cucumber Pokémon"
+  "Stats": {
+    "dfs": 130,
+    "spatk": 30,
+    "spd": 5,
+    "hp": 55,
+    "atk": 60,
+    "spdfs": 130
+  },
+  "Biology": {
+    "ability1": "Innards Out",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Unaware",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

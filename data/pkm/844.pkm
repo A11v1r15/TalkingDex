@@ -1,221 +1,227 @@
 {
-  "ShieldEntry": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
-  "extraMega": false,
-  "ability1": "Sand Spit",
-  "hp": 72,
-  "ability2": "Shed Skin",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": true,
-  "eggMoves": [],
   "number": 844,
-  "spatk": 65,
-  "atk": 107,
-  "abilityHidden": "Sand Veil",
-  "height": "3.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Skull Bash",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "1"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "15"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Glare",
-      "lvl": "25"
-    },
-    {
-      "move": "Dig",
-      "lvl": "30"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "35"
-    },
-    {
-      "move": "Slam",
-      "lvl": "42"
-    },
-    {
-      "move": "Coil",
-      "lvl": "49"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "51"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "Dragon",
-  "spd": 71,
-  "weight": "65.5kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "dfs": 125,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+    "Shield": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Skull Bash",
+        "lvl": "1"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Minimize",
+        "lvl": "1"
+      },
+      {
+        "move": "Brutal Swing",
+        "lvl": "1"
+      },
+      {
+        "move": "Bulldoze",
+        "lvl": "15"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "20"
+      },
+      {
+        "move": "Glare",
+        "lvl": "25"
+      },
+      {
+        "move": "Dig",
+        "lvl": "30"
+      },
+      {
+        "move": "Sandstorm",
+        "lvl": "35"
+      },
+      {
+        "move": "Slam",
+        "lvl": "42"
+      },
+      {
+        "move": "Coil",
+        "lvl": "49"
+      },
+      {
+        "move": "Sand Tomb",
+        "lvl": "51"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "65.5kg",
+    "category": "Sand Snake Pokémon",
+    "height": "3.8m"
+  },
   "name": "Sandaconda",
-  "SwordEntry": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
-  "spdfs": 70,
-  "category": "Sand Snake Pokémon"
+  "Stats": {
+    "dfs": 125,
+    "spatk": 65,
+    "spd": 71,
+    "hp": 72,
+    "atk": 107,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Sand Spit",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Field",
+    "abilityHidden": "Sand Veil",
+    "ability2": "Shed Skin",
+    "type1": "Ground"
+  },
+  "hasGigantamax": true
 }

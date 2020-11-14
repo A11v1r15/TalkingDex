@@ -1,293 +1,299 @@
 {
-  "ShieldEntry": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
-  "extraMega": false,
-  "ability1": "Battle Armor",
-  "hp": 70,
-  "ability2": "Tough Claws",
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 863,
-  "spatk": 50,
-  "atk": 110,
-  "abilityHidden": "Steely Spirit",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Head",
-      "lvl": "0"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Burst",
-      "lvl": "1"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Pay Day",
-      "lvl": "12"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "31"
-    },
-    {
-      "move": "Screech",
-      "lvl": "36"
-    },
-    {
-      "move": "Slash",
-      "lvl": "42"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "48"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "54"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 50,
-  "weight": "28.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "dfs": 100,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+    "Shield": "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Gunk Shot",
+        "technical": "TR73"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Iron Head",
+        "lvl": "0"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "1"
+      },
+      {
+        "move": "Metal Burst",
+        "lvl": "1"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Out",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Hone Claws",
+        "lvl": "1"
+      },
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Pay Day",
+        "lvl": "12"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "16"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "20"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "24"
+      },
+      {
+        "move": "Fury Swipes",
+        "lvl": "31"
+      },
+      {
+        "move": "Screech",
+        "lvl": "36"
+      },
+      {
+        "move": "Slash",
+        "lvl": "42"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "48"
+      },
+      {
+        "move": "Thrash",
+        "lvl": "54"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "28.0kg",
+    "category": "Viking Pokémon",
+    "height": "0.8m"
+  },
   "name": "Perrserker",
-  "SwordEntry": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
-  "spdfs": 60,
-  "category": "Viking Pokémon"
+  "Stats": {
+    "dfs": 100,
+    "spatk": 50,
+    "spd": 50,
+    "hp": 70,
+    "atk": 110,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Battle Armor",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Steely Spirit",
+    "ability2": "Tough Claws",
+    "type1": "Steel"
+  },
+  "hasGigantamax": false
 }

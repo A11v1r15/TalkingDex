@@ -1,292 +1,298 @@
 {
-  "EmeraldEntry": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
-  "ability1": "Oblivious",
-  "AlphaSapphireEntry": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
-  "hp": 45,
-  "SilverEntry": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
-  "ability2": "Forewarn",
-  "UltraMoonEntry": "Highly perceptive sensors, Smoochum's lips are kept moist by its daily application of tree sap.",
-  "eggMoves": [
-    {"move": "Fake Out"},
-    {"move": "Wish"},
-    {"move": "Role Play"}
-  ],
   "number": 238,
-  "spatk": 85,
-  "UltraSunEntry": "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.",
-  "atk": 30,
-  "height": "0.4m",
-  "type2": "Psychic",
-  "WhiteEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "eggGroup2": "",
-  "spd": 65,
-  "CrystalEntry": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.",
-  "weight": "6.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": false,
-  "dfs": 15,
-  "GoldEntry": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-  "SapphireEntry": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
-  "hasAlolan": false,
-  "DiamondEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+  "Entry": {
+    "Shield": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
+    "Black": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "Black2": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "FireRed": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+    "HearthGold": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+    "Sword": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn't really seem to care.",
+    "Sapphire": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "Platinum": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "Emerald": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
+    "X": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+    "Y": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "Ruby": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "Soulsilver": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+    "AlphaSapphire": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "Gold": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+    "UltraMoon": "Highly perceptive sensors, Smoochum's lips are kept moist by its daily application of tree sap.",
+    "White2": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "Diamond": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "UltraSun": "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.",
+    "OmegaRuby": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "Pearl": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "Silver": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+    "White": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "LeafGreen": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+    "Crystal": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Lick",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Powder Snow",
+        "lvl": "4"
+      },
+      {
+        "move": "Copycat",
+        "lvl": "8"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "12"
+      },
+      {
+        "move": "Covet",
+        "lvl": "16"
+      },
+      {
+        "move": "Sing",
+        "lvl": "20"
+      },
+      {
+        "move": "Fake Tears",
+        "lvl": "24"
+      },
+      {
+        "move": "Ice Punch",
+        "lvl": "28"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "32"
+      },
+      {
+        "move": "Sweet Kiss",
+        "lvl": "36"
+      },
+      {
+        "move": "Mean Look",
+        "lvl": "40"
+      },
+      {
+        "move": "Perish Song",
+        "lvl": "44"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Fake Out"},
+      {"move": "Wish"},
+      {"move": "Role Play"}
+    ]
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "6.0kg",
+    "category": "Kiss Pokémon",
+    "height": "0.4m"
+  },
   "name": "Smoochum",
-  "spdfs": 65,
-  "ShieldEntry": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-  "YEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-  "PlatinumEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "abilityHidden": "Hydration",
-  "lvlUpMoves": [
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "4"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "8"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "12"
-    },
-    {
-      "move": "Covet",
-      "lvl": "16"
-    },
-    {
-      "move": "Sing",
-      "lvl": "20"
-    },
-    {
-      "move": "Fake Tears",
-      "lvl": "24"
-    },
-    {
-      "move": "Ice Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "32"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "36"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "40"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "44"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
-  "BlackEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "OmegaRubyEntry": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
-  "colour": "Pink",
-  "SoulsilverEntry": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
-  "FireRedEntry": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
-  "White2Entry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "SwordEntry": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn't really seem to care.",
-  "PearlEntry": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
-  "category": "Kiss Pokémon",
-  "LeafGreenEntry": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-  "Black2Entry": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+  "Stats": {
+    "dfs": 15,
+    "spatk": 85,
+    "spd": 65,
+    "hp": 45,
+    "atk": 30,
+    "spdfs": 65
+  },
+  "Biology": {
+    "ability1": "Oblivious",
+    "type2": "Psychic",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Hydration",
+    "ability2": "Forewarn",
+    "type1": "Ice"
+  },
+  "hasGigantamax": false
 }

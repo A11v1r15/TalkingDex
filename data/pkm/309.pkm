@@ -1,234 +1,240 @@
 {
-  "EmeraldEntry": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
-  "ability1": "Static",
-  "AlphaSapphireEntry": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon\u2019s fur.",
-  "hp": 40,
-  "ability2": "Lightning Rod",
-  "eggMoves": [
-    {"move": "Headbutt"},
-    {"move": "Curse"},
-    {"move": "Switcheroo"},
-    {"move": "Spark"}
-  ],
-  "UltraMoonEntry": "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed.",
   "number": 309,
-  "spatk": 65,
-  "UltraSunEntry": "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
-  "atk": 45,
-  "height": "0.6m",
-  "type2": "",
-  "WhiteEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "eggGroup2": "",
-  "spd": 65,
-  "weight": "15.2kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "dfs": 40,
-  "SapphireEntry": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon's fur.",
-  "hasAlolan": false,
-  "DiamondEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+  "Entry": {
+    "AlphaSapphire": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon\u2019s fur.",
+    "UltraMoon": "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed.",
+    "Shield": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+    "White2": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "Diamond": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "UltraSun": "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
+    "Black": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "Black2": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "FireRed": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "HearthGold": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+    "OmegaRuby": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+    "Pearl": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "White": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "Sword": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "Sapphire": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon's fur.",
+    "LeafGreen": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "Platinum": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "Emerald": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+    "X": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "Y": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "Ruby": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+    "Soulsilver": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "Eerie Impulse",
+        "technical": "TM93"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "4"
+      },
+      {
+        "move": "Howl",
+        "lvl": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "12"
+      },
+      {
+        "move": "Shock Wave",
+        "lvl": "16"
+      },
+      {
+        "move": "Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Thunder Fang",
+        "lvl": "24"
+      },
+      {
+        "move": "Roar",
+        "lvl": "28"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "32"
+      },
+      {
+        "move": "Charge",
+        "lvl": "36"
+      },
+      {
+        "move": "Wild Charge",
+        "lvl": "40"
+      },
+      {
+        "move": "Thunder",
+        "lvl": "44"
+      }
+    ],
+    "egg": [
+      {"move": "Headbutt"},
+      {"move": "Curse"},
+      {"move": "Switcheroo"},
+      {"move": "Spark"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "15.2kg",
+    "category": "Lightning Pokémon",
+    "height": "0.6m"
+  },
   "name": "Electrike",
-  "spdfs": 40,
-  "ShieldEntry": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-  "extraMega": false,
-  "HearthGoldEntry": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-  "YEntry": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "PlatinumEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "abilityHidden": "Minus",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "4"
-    },
-    {
-      "move": "Howl",
-      "lvl": "8"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "24"
-    },
-    {
-      "move": "Roar",
-      "lvl": "28"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "32"
-    },
-    {
-      "move": "Charge",
-      "lvl": "36"
-    },
-    {
-      "move": "Wild Charge",
-      "lvl": "40"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "44"
-    }
-  ],
-  "RubyEntry": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
-  "BlackEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "OmegaRubyEntry": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
-  "colour": "Green",
-  "SoulsilverEntry": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
-  "FireRedEntry": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-  "White2Entry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "SwordEntry": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-  "PearlEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
-  "category": "Lightning Pokémon",
-  "LeafGreenEntry": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
-  "Black2Entry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+  "Stats": {
+    "dfs": 40,
+    "spatk": 65,
+    "spd": 65,
+    "hp": 40,
+    "atk": 45,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Static",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Minus",
+    "ability2": "Lightning Rod",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

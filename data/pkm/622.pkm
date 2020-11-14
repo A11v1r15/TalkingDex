@@ -1,283 +1,289 @@
 {
-  "ShieldEntry": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
-  "extraMega": false,
-  "ability1": "Iron Fist",
-  "YEntry": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
-  "AlphaSapphireEntry": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
-  "hp": 59,
-  "ability2": "Klutz",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
-  "UltraMoonEntry": "Although ancient people apparently built it by working with clay, the source of its energy is unclear.",
   "number": 622,
-  "spatk": 35,
-  "UltraSunEntry": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out.",
-  "atk": 74,
-  "abilityHidden": "No Guard",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "4"
-    },
-    {
-      "move": "Pound",
-      "lvl": "8"
-    },
-    {
-      "move": "Shadow Punch",
-      "lvl": "12"
-    },
-    {
-      "move": "Curse",
-      "lvl": "16"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "20"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "lvl": "24"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "28"
-    },
-    {
-      "move": "Mega Punch",
-      "lvl": "32"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "36"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Phantom Force",
-      "lvl": "44"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "48"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "52"
-    },
-    {
-      "move": "Dynamic Punch",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Ghost",
-  "WhiteEntry": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
-  "eggGroup2": "",
-  "spd": 35,
-  "weight": "92.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "BlackEntry": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
-  "OmegaRubyEntry": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
-  "dfs": 50,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+    "White": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+    "UltraMoon": "Although ancient people apparently built it by working with clay, the source of its energy is unclear.",
+    "Sword": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
+    "Shield": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
+    "X": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+    "White2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+    "Y": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+    "UltraSun": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out.",
+    "Black": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+    "Black2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+    "OmegaRuby": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Phantom Force",
+        "technical": "TM86"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Mud-Slap",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "lvl": "4"
+      },
+      {
+        "move": "Pound",
+        "lvl": "8"
+      },
+      {
+        "move": "Shadow Punch",
+        "lvl": "12"
+      },
+      {
+        "move": "Curse",
+        "lvl": "16"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "20"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "lvl": "24"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "28"
+      },
+      {
+        "move": "Mega Punch",
+        "lvl": "32"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "36"
+      },
+      {
+        "move": "Heavy Slam",
+        "lvl": "40"
+      },
+      {
+        "move": "Phantom Force",
+        "lvl": "44"
+      },
+      {
+        "move": "Hammer Arm",
+        "lvl": "48"
+      },
+      {
+        "move": "Earthquake",
+        "lvl": "52"
+      },
+      {
+        "move": "Dynamic Punch",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "92.0kg",
+    "category": "Automaton Pokémon",
+    "height": "1.0m"
+  },
   "name": "Golett",
-  "White2Entry": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
-  "SwordEntry": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
-  "spdfs": 50,
-  "category": "Automaton Pokémon",
-  "Black2Entry": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 35,
+    "spd": 35,
+    "hp": 59,
+    "atk": 74,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Iron Fist",
+    "type2": "Ghost",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "No Guard",
+    "ability2": "Klutz",
+    "type1": "Ground"
+  },
+  "hasGigantamax": false
 }

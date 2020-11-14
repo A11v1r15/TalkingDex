@@ -1,234 +1,240 @@
 {
-  "EmeraldEntry": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
-  "ability1": "Static",
-  "AlphaSapphireEntry": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
-  "hp": 20,
-  "SilverEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-  "ability2": "",
-  "eggMoves": [
-    {"move": "Present"},
-    {"move": "Wish"},
-    {"move": "Charge"},
-    {"move": "Fake Out"},
-    {"move": "Tickle"},
-    {"move": "Flail"},
-    {"move": "Disarming Voice"}
-  ],
-  "UltraMoonEntry": "It has electric sacs in its cheeks. When they're fully charged, Pichu plays very energetically.",
   "number": 172,
-  "MoonEntry": "Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.",
-  "spatk": 35,
-  "UltraSunEntry": "It still can't use electricity well. When it's surprised or excited, it discharges electricity unintentionally.",
-  "atk": 40,
-  "height": "0.3m",
-  "type2": "",
-  "WhiteEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-  "eggGroup2": "",
-  "spd": 60,
-  "CrystalEntry": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
-  "weight": "2.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "dfs": 15,
-  "GoldEntry": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-  "SapphireEntry": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
-  "hasAlolan": false,
-  "DiamondEntry": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
+  "Entry": {
+    "Shield": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "Moon": "Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.",
+    "Black": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "Black2": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "FireRed": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+    "HearthGold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "Sword": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+    "Sapphire": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
+    "Platinum": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "Emerald": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+    "X": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+    "Y": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "Ruby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
+    "Soulsilver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+    "AlphaSapphire": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
+    "Gold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "UltraMoon": "It has electric sacs in its cheeks. When they're fully charged, Pichu plays very energetically.",
+    "White2": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "Diamond": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
+    "UltraSun": "It still can't use electricity well. When it's surprised or excited, it discharges electricity unintentionally.",
+    "Sun": "It is not yet skilled at controlling electricity. If you take your eyes off it, it may shock itself.",
+    "OmegaRuby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
+    "Pearl": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+    "Silver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+    "White": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "LeafGreen": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "Crystal": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Play Nice",
+        "lvl": "4"
+      },
+      {
+        "move": "Sweet Kiss",
+        "lvl": "8"
+      },
+      {
+        "move": "Nuzzle",
+        "lvl": "12"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "16"
+      },
+      {
+        "move": "Charm",
+        "lvl": "20"
+      }
+    ],
+    "egg": [
+      {"move": "Present"},
+      {"move": "Wish"},
+      {"move": "Charge"},
+      {"move": "Fake Out"},
+      {"move": "Tickle"},
+      {"move": "Flail"},
+      {"move": "Disarming Voice"}
+    ]
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "2.0kg",
+    "category": "Tiny Mouse Pokémon",
+    "height": "0.3m"
+  },
   "name": "Pichu",
-  "spdfs": 35,
-  "ShieldEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-  "YEntry": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-  "SunEntry": "It is not yet skilled at controlling electricity. If you take your eyes off it, it may shock itself.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
-  "PlatinumEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Play Nice",
-      "lvl": "4"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "8"
-    },
-    {
-      "move": "Nuzzle",
-      "lvl": "12"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "16"
-    },
-    {
-      "move": "Charm",
-      "lvl": "20"
-    }
-  ],
-  "RubyEntry": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
-  "BlackEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-  "OmegaRubyEntry": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
-  "colour": "Yellow",
-  "SoulsilverEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-  "FireRedEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-  "White2Entry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
-  "SwordEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-  "PearlEntry": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
-  "category": "Tiny Mouse Pokémon",
-  "LeafGreenEntry": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
-  "Black2Entry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked."
+  "Stats": {
+    "dfs": 15,
+    "spatk": 35,
+    "spd": 60,
+    "hp": 20,
+    "atk": 40,
+    "spdfs": 35
+  },
+  "Biology": {
+    "ability1": "Static",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

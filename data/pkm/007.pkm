@@ -1,287 +1,292 @@
 {
-  "YellowEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-  "EmeraldEntry": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
-  "ability1": "Torrent",
-  "AlphaSapphireEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-  "hp": 44,
-  "SilverEntry": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
-  "ability2": "",
-  "eggMoves": [
-    {"move": "Mirror Coat"},
-    {"move": "Haze"},
-    {"move": "Mist"},
-    {"move": "Flail"},
-    {"move": "Yawn"},
-    {"move": "Fake Out"},
-    {"move": "Aqua Ring"},
-    {"move": "Aqua Jet"},
-    {"move": "Water Spout"},
-    {"move": "Life Dew"}
-  ],
   "number": 7,
-  "spatk": 50,
-  "atk": 48,
-  "RedEntry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-  "height": "0.5m",
-  "7Entry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-  "type2": "",
-  "WhiteEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "eggGroup2": "Water 1",
-  "spd": 43,
-  "CrystalEntry": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth.",
-  "weight": "9.0kg",
-  "eggGroup1": "Monster",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-  "dfs": 65,
-  "GoldEntry": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
-  "SapphireEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-  "DiamondEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+  "Entry": {
+    "Shield": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+    "Black": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Black2": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "FireRed": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+    "HearthGold": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+    "Sword": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+    "Sapphire": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "Platinum": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Emerald": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
+    "X": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Y": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "Ruby": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "Soulsilver": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
+    "AlphaSapphire": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "Gold": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+    "Blue": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "LetsGoPikachu": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "White2": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Diamond": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "OmegaRuby": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+    "Red": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "Pearl": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Silver": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
+    "White": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "Yellow": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "LeafGreen": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "LetsGoEevee": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "Crystal": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "3"
+      },
+      {
+        "move": "Withdraw",
+        "lvl": "6"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "9"
+      },
+      {
+        "move": "Bite",
+        "lvl": "12"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "15"
+      },
+      {
+        "move": "Protect",
+        "lvl": "18"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "21"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "24"
+      },
+      {
+        "move": "Shell Smash",
+        "lvl": "27"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "30"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "33"
+      },
+      {
+        "move": "Skull Bash",
+        "lvl": "36"
+      }
+    ],
+    "egg": [
+      {"move": "Mirror Coat"},
+      {"move": "Haze"},
+      {"move": "Mist"},
+      {"move": "Flail"},
+      {"move": "Yawn"},
+      {"move": "Fake Out"},
+      {"move": "Aqua Ring"},
+      {"move": "Aqua Jet"},
+      {"move": "Water Spout"},
+      {"move": "Life Dew"}
+    ]
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "9.0kg",
+    "category": "Tiny Turtle Pokémon",
+    "height": "0.5m"
+  },
   "name": "Squirtle",
-  "spdfs": 64,
-  "ShieldEntry": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
-  "extraMega": false,
-  "HearthGoldEntry": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
-  "YEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "PlatinumEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "abilityHidden": "Rain Dish",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "3"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "6"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "9"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "15"
-    },
-    {
-      "move": "Protect",
-      "lvl": "18"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "21"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "24"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "27"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "30"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "33"
-    },
-    {
-      "move": "Skull Bash",
-      "lvl": "36"
-    }
-  ],
-  "RubyEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-  "BlackEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "OmegaRubyEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-  "LetsGoEeveeEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-  "colour": "Blue",
-  "SoulsilverEntry": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
-  "FireRedEntry": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
-  "White2Entry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "SwordEntry": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
-  "PearlEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
-  "category": "Tiny Turtle Pokémon",
-  "LeafGreenEntry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-  "Black2Entry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity."
+  "Stats": {
+    "dfs": 65,
+    "spatk": 50,
+    "spd": 43,
+    "hp": 44,
+    "atk": 48,
+    "spdfs": 64
+  },
+  "Biology": {
+    "ability1": "Torrent",
+    "type2": "",
+    "eggGroup2": "Water 1",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Rain Dish",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

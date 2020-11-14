@@ -1,197 +1,203 @@
 {
-  "ShieldEntry": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
-  "extraMega": false,
-  "ability1": "Big Pecks",
-  "YEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
-  "AlphaSapphireEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
-  "hp": 80,
-  "ability2": "Super Luck",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
   "number": 521,
-  "spatk": 65,
-  "atk": 115,
-  "abilityHidden": "Rivalry",
-  "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "12"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "16"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "20"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "26"
-    },
-    {
-      "move": "Detect",
-      "lvl": "36"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "42"
-    },
-    {
-      "move": "Roost",
-      "lvl": "50"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "58"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "66"
-    }
-  ],
-  "type2": "Flying",
-  "WhiteEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
-  "eggGroup2": "",
-  "spd": 93,
-  "weight": "29.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "BlackEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
-  "OmegaRubyEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
-  "dfs": 80,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+    "White": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+    "Sword": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
+    "Shield": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+    "X": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+    "White2": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+    "Y": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+    "Black": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+    "Black2": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+    "OmegaRuby": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "12"
+      },
+      {
+        "move": "Air Cutter",
+        "lvl": "16"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "20"
+      },
+      {
+        "move": "Feather Dance",
+        "lvl": "26"
+      },
+      {
+        "move": "Detect",
+        "lvl": "36"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "42"
+      },
+      {
+        "move": "Roost",
+        "lvl": "50"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "58"
+      },
+      {
+        "move": "Sky Attack",
+        "lvl": "66"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "29.0kg",
+    "category": "Proud Pokémon",
+    "height": "1.2m"
+  },
   "name": "Unfezant",
-  "White2Entry": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
-  "SwordEntry": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
-  "spdfs": 55,
-  "category": "Proud Pokémon",
-  "Black2Entry": "Males swing the plumage on their heads to threaten others, but females are better at flying."
+  "Stats": {
+    "dfs": 80,
+    "spatk": 65,
+    "spd": 93,
+    "hp": 80,
+    "atk": 115,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Big Pecks",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Rivalry",
+    "ability2": "Super Luck",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

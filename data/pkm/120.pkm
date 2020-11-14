@@ -1,260 +1,265 @@
 {
-  "YellowEntry": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
-  "EmeraldEntry": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
-  "ability1": "Illuminate",
-  "AlphaSapphireEntry": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
-  "hp": 30,
-  "SilverEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
-  "ability2": "Natural Cure",
-  "eggMoves": [],
-  "UltraMoonEntry": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
   "number": 120,
-  "MoonEntry": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it's unconcerned by their snack attacks.",
-  "spatk": 70,
-  "UltraSunEntry": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
-  "atk": 45,
-  "RedEntry": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
-  "height": "0.8m",
-  "type2": "",
-  "WhiteEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-  "eggGroup2": "",
-  "spd": 85,
-  "CrystalEntry": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.",
-  "weight": "34.5kg",
-  "eggGroup1": "Water 3",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
-  "dfs": 55,
-  "GoldEntry": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
-  "SapphireEntry": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
-  "DiamondEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+  "Entry": {
+    "Shield": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+    "Moon": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it's unconcerned by their snack attacks.",
+    "Black": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "Black2": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
+    "FireRed": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+    "HearthGold": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+    "Sword": "If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.",
+    "Sapphire": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+    "Platinum": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "Emerald": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+    "X": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+    "Y": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+    "Ruby": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+    "Soulsilver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+    "AlphaSapphire": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+    "Gold": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+    "UltraMoon": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
+    "Blue": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+    "LetsGoPikachu": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
+    "White2": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
+    "Diamond": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "UltraSun": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+    "Sun": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
+    "OmegaRuby": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+    "Red": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+    "Pearl": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "Silver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+    "White": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "Yellow": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+    "LeafGreen": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+    "LetsGoEevee": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
+    "Crystal": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Cosmic Power",
+        "technical": "TR44"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Power Gem",
+        "technical": "TR63"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "4"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "8"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "12"
+      },
+      {
+        "move": "Minimize",
+        "lvl": "16"
+      },
+      {
+        "move": "Swift",
+        "lvl": "20"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "24"
+      },
+      {
+        "move": "Brine",
+        "lvl": "28"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "32"
+      },
+      {
+        "move": "Power Gem",
+        "lvl": "36"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "40"
+      },
+      {
+        "move": "Surf",
+        "lvl": "44"
+      },
+      {
+        "move": "Recover",
+        "lvl": "48"
+      },
+      {
+        "move": "Cosmic Power",
+        "lvl": "52"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "34.5kg",
+    "category": "Star Shape Pokémon",
+    "height": "0.8m"
+  },
   "name": "Staryu",
-  "spdfs": 55,
-  "ShieldEntry": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
-  "extraMega": false,
-  "HearthGoldEntry": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
-  "YEntry": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
-  "SunEntry": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
-  "PlatinumEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-  "abilityHidden": "Analytic",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "4"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "8"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "12"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "16"
-    },
-    {
-      "move": "Swift",
-      "lvl": "20"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "24"
-    },
-    {
-      "move": "Brine",
-      "lvl": "28"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "32"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "36"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "40"
-    },
-    {
-      "move": "Surf",
-      "lvl": "44"
-    },
-    {
-      "move": "Recover",
-      "lvl": "48"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "52"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "56"
-    }
-  ],
-  "RubyEntry": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
-  "BlackEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-  "OmegaRubyEntry": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
-  "LetsGoEeveeEntry": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
-  "colour": "Brown",
-  "SoulsilverEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
-  "FireRedEntry": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
-  "White2Entry": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
-  "SwordEntry": "If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.",
-  "120Entry": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
-  "PearlEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
-  "category": "Star Shape Pokémon",
-  "LeafGreenEntry": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
-  "Black2Entry": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart."
+  "Stats": {
+    "dfs": 55,
+    "spatk": 70,
+    "spd": 85,
+    "hp": 30,
+    "atk": 45,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Illuminate",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 3",
+    "abilityHidden": "Analytic",
+    "ability2": "Natural Cure",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

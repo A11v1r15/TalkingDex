@@ -1,302 +1,308 @@
 {
-  "EmeraldEntry": "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
-  "ability1": "Swarm",
-  "AlphaSapphireEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-  "hp": 70,
-  "SilverEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-  "ability2": "Technician",
-  "eggMoves": [],
-  "UltraMoonEntry": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there's nothing left but scraps.",
   "number": 212,
-  "MoonEntry": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
-  "spatk": 55,
-  "UltraSunEntry": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
-  "atk": 130,
-  "height": "1.8m",
-  "type2": "Steel",
-  "WhiteEntry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-  "eggGroup2": "",
-  "spd": 65,
-  "CrystalEntry": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
-  "weight": "118.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": true,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "dfs": 100,
-  "GoldEntry": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-  "SapphireEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-  "hasAlolan": false,
-  "DiamondEntry": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+  "Entry": {
+    "Shield": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor's muscles are made of metal.",
+    "Moon": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
+    "Black": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "Black2": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "FireRed": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+    "HearthGold": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+    "Sword": "Bulky pincers account for one third of Scizor's body weight. A single swing of one of these pincers will crush a boulder completely.",
+    "Sapphire": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "Platinum": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "Emerald": "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+    "X": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+    "Y": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "Ruby": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "Soulsilver": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+    "AlphaSapphire": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "Gold": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+    "UltraMoon": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there's nothing left but scraps.",
+    "White2": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "Diamond": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "UltraSun": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
+    "Sun": "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
+    "OmegaRuby": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+    "Pearl": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+    "Silver": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+    "White": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "LeafGreen": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+    "Crystal": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Cross Poison",
+        "technical": "TM73"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Bullet Punch",
+        "lvl": "0"
+      },
+      {
+        "move": "Bullet Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Wing Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Agility",
+        "lvl": "1"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "False Swipe",
+        "lvl": "1"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "12"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "16"
+      },
+      {
+        "move": "Double Hit",
+        "lvl": "20"
+      },
+      {
+        "move": "Slash",
+        "lvl": "24"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "28"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "32"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "36"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "40"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "44"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "48"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "118.0kg",
+    "category": "Pincer Pokémon",
+    "height": "1.8m"
+  },
   "name": "Scizor",
-  "spdfs": 80,
-  "ShieldEntry": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor's muscles are made of metal.",
-  "extraMega": false,
-  "HearthGoldEntry": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-  "YEntry": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
-  "SunEntry": "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
-  "PlatinumEntry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-  "abilityHidden": "Light Metal",
-  "lvlUpMoves": [
-    {
-      "move": "Bullet Punch",
-      "lvl": "0"
-    },
-    {
-      "move": "Bullet Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Agility",
-      "lvl": "1"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "12"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "16"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "28"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "32"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "36"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "40"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "44"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-  "BlackEntry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-  "OmegaRubyEntry": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
-  "colour": "Red",
-  "SoulsilverEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-  "FireRedEntry": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
-  "White2Entry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
-  "SwordEntry": "Bulky pincers account for one third of Scizor's body weight. A single swing of one of these pincers will crush a boulder completely.",
-  "PearlEntry": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
-  "category": "Pincer Pokémon",
-  "LeafGreenEntry": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-  "Black2Entry": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 55,
+    "spd": 65,
+    "hp": 70,
+    "atk": 130,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Swarm",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Light Metal",
+    "ability2": "Technician",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

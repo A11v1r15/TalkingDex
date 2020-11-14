@@ -1,181 +1,187 @@
 {
-  "ShieldEntry": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
-  "extraMega": false,
-  "ability1": "Big Pecks",
-  "YEntry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-  "AlphaSapphireEntry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-  "hp": 62,
-  "ability2": "Super Luck",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
   "number": 520,
-  "spatk": 50,
-  "atk": 77,
-  "abilityHidden": "Rivalry",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "12"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "16"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "20"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "26"
-    },
-    {
-      "move": "Detect",
-      "lvl": "34"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "38"
-    },
-    {
-      "move": "Roost",
-      "lvl": "44"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "50"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "56"
-    }
-  ],
-  "type2": "Flying",
-  "WhiteEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-  "eggGroup2": "",
-  "spd": 65,
-  "weight": "15.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "BlackEntry": "It can return to its Trainer's location regardless of the distance separating them.",
-  "OmegaRubyEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-  "dfs": 62,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+    "White": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+    "Sword": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
+    "Shield": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+    "X": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+    "White2": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+    "Y": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+    "Black": "It can return to its Trainer's location regardless of the distance separating them.",
+    "Black2": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+    "OmegaRuby": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "12"
+      },
+      {
+        "move": "Air Cutter",
+        "lvl": "16"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "20"
+      },
+      {
+        "move": "Feather Dance",
+        "lvl": "26"
+      },
+      {
+        "move": "Detect",
+        "lvl": "34"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "38"
+      },
+      {
+        "move": "Roost",
+        "lvl": "44"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "50"
+      },
+      {
+        "move": "Sky Attack",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "15.0kg",
+    "category": "Wild Pigeon Pokémon",
+    "height": "0.6m"
+  },
   "name": "Tranquill",
-  "White2Entry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-  "SwordEntry": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
-  "spdfs": 42,
-  "category": "Wild Pigeon Pokémon",
-  "Black2Entry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+  "Stats": {
+    "dfs": 62,
+    "spatk": 50,
+    "spd": 65,
+    "hp": 62,
+    "atk": 77,
+    "spdfs": 42
+  },
+  "Biology": {
+    "ability1": "Big Pecks",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Rivalry",
+    "ability2": "Super Luck",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

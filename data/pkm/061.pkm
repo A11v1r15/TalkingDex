@@ -1,256 +1,261 @@
 {
-  "YellowEntry": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-  "EmeraldEntry": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-  "ability1": "Water Absorb",
-  "AlphaSapphireEntry": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-  "hp": 65,
-  "SilverEntry": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
-  "ability2": "Damp",
-  "eggMoves": [],
-  "UltraMoonEntry": "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
   "number": 61,
-  "MoonEntry": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it's safe.",
-  "spatk": 50,
-  "UltraSunEntry": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
-  "atk": 65,
-  "RedEntry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
-  "height": "1.0m",
-  "type2": "",
-  "WhiteEntry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-  "eggGroup2": "",
-  "spd": 90,
-  "CrystalEntry": "Though it is skilled at walking, it prefers to live underwater where there is less danger.",
-  "weight": "20.0kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
-  "dfs": 65,
-  "GoldEntry": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
-  "SapphireEntry": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-  "DiamondEntry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+  "Entry": {
+    "Shield": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
+    "Moon": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it's safe.",
+    "Black": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "Black2": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "FireRed": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+    "HearthGold": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+    "Sword": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.",
+    "Sapphire": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "Platinum": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "Emerald": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "X": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+    "Y": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+    "Ruby": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "Soulsilver": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+    "AlphaSapphire": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "Gold": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+    "UltraMoon": "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
+    "Blue": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "LetsGoPikachu": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+    "White2": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "Diamond": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "UltraSun": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
+    "Sun": "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
+    "OmegaRuby": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "Red": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "Pearl": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "Silver": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+    "White": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "Yellow": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+    "LeafGreen": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+    "LetsGoEevee": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+    "Crystal": "Though it is skilled at walking, it prefers to live underwater where there is less danger."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "1"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "18"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "24"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "32"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "40"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "48"
+      },
+      {
+        "move": "Belly Drum",
+        "lvl": "56"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "66"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "20.0kg",
+    "category": "Tadpole Pokémon",
+    "height": "1.0m"
+  },
   "name": "Poliwhirl",
-  "spdfs": 50,
-  "ShieldEntry": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
-  "extraMega": false,
-  "HearthGoldEntry": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
-  "YEntry": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
-  "SunEntry": "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
-  "PlatinumEntry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-  "61Entry": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
-  "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "18"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "24"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "32"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "40"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "48"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "56"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    }
-  ],
-  "RubyEntry": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-  "BlackEntry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-  "OmegaRubyEntry": "The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
-  "LetsGoEeveeEntry": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
-  "colour": "Blue",
-  "SoulsilverEntry": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
-  "FireRedEntry": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
-  "White2Entry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-  "SwordEntry": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.",
-  "PearlEntry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
-  "category": "Tadpole Pokémon",
-  "LeafGreenEntry": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
-  "Black2Entry": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+  "Stats": {
+    "dfs": 65,
+    "spatk": 50,
+    "spd": 90,
+    "hp": 65,
+    "atk": 65,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Water Absorb",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Swift Swim",
+    "ability2": "Damp",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

@@ -1,220 +1,225 @@
 {
-  "YellowEntry": "It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.",
-  "EmeraldEntry": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
-  "ability1": "Magnet Pull",
-  "81Entry": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
-  "AlphaSapphireEntry": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
-  "hp": 25,
-  "SilverEntry": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
-  "ability2": "Sturdy",
-  "eggMoves": [],
-  "UltraMoonEntry": "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
   "number": 81,
-  "MoonEntry": "It sends out electromagnetic waves, which let it float through the air. Touching it while it's eating electricity will give you a full-body shock.",
-  "spatk": 95,
-  "UltraSunEntry": "It's frequently the cause of power outages, which is why some power plants send out electrical signals that it can't stand.",
-  "atk": 35,
-  "RedEntry": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
-  "height": "0.3m",
-  "type2": "Steel",
-  "WhiteEntry": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-  "eggGroup2": "",
-  "spd": 45,
-  "CrystalEntry": "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
-  "weight": "6.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "BlueEntry": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
-  "dfs": 70,
-  "GoldEntry": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
-  "SapphireEntry": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
-  "DiamondEntry": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+  "Entry": {
+    "Shield": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
+    "Moon": "It sends out electromagnetic waves, which let it float through the air. Touching it while it's eating electricity will give you a full-body shock.",
+    "Black": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+    "Black2": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "FireRed": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+    "HearthGold": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
+    "Sword": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it'll start moving again.",
+    "Sapphire": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
+    "Platinum": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+    "Emerald": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+    "X": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+    "Y": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+    "Ruby": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+    "Soulsilver": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+    "AlphaSapphire": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
+    "Gold": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
+    "UltraMoon": "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
+    "Blue": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+    "LetsGoPikachu": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
+    "White2": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "Diamond": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+    "UltraSun": "It's frequently the cause of power outages, which is why some power plants send out electrical signals that it can't stand.",
+    "Sun": "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.",
+    "OmegaRuby": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+    "Red": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+    "Pearl": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+    "Silver": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
+    "White": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+    "Yellow": "It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.",
+    "LeafGreen": "Uses antigravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+    "LetsGoEevee": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
+    "Crystal": "The electricity emitted by the units on each side of its body cause it to become a strong magnet."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "4"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "8"
+      },
+      {
+        "move": "Electro Ball",
+        "lvl": "12"
+      },
+      {
+        "move": "Gyro Ball",
+        "lvl": "16"
+      },
+      {
+        "move": "Spark",
+        "lvl": "20"
+      },
+      {
+        "move": "Screech",
+        "lvl": "24"
+      },
+      {
+        "move": "Magnet Rise",
+        "lvl": "28"
+      },
+      {
+        "move": "Flash Cannon",
+        "lvl": "32"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "36"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "40"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "44"
+      },
+      {
+        "move": "Lock-On",
+        "lvl": "48"
+      },
+      {
+        "move": "Zap Cannon",
+        "lvl": "52"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "6.0kg",
+    "category": "Magnet Pokémon",
+    "height": "0.3m"
+  },
   "name": "Magnemite",
-  "spdfs": 55,
-  "ShieldEntry": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pokégear.",
-  "YEntry": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
-  "SunEntry": "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
-  "PlatinumEntry": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-  "abilityHidden": "Analytic",
-  "lvlUpMoves": [
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "4"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "8"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "12"
-    },
-    {
-      "move": "Gyro Ball",
-      "lvl": "16"
-    },
-    {
-      "move": "Spark",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Magnet Rise",
-      "lvl": "28"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "32"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "44"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "48"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "52"
-    }
-  ],
-  "RubyEntry": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
-  "BlackEntry": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
-  "OmegaRubyEntry": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
-  "LetsGoEeveeEntry": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
-  "colour": "Gray",
-  "SoulsilverEntry": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
-  "FireRedEntry": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
-  "White2Entry": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
-  "SwordEntry": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it'll start moving again.",
-  "PearlEntry": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
-  "category": "Magnet Pokémon",
-  "LeafGreenEntry": "Uses antigravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
-  "Black2Entry": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float."
+  "Stats": {
+    "dfs": 70,
+    "spatk": 95,
+    "spd": 45,
+    "hp": 25,
+    "atk": 35,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Magnet Pull",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Analytic",
+    "ability2": "Sturdy",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

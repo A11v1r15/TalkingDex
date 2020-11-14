@@ -1,251 +1,257 @@
 {
-  "EmeraldEntry": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
-  "ability1": "Insomnia",
-  "AlphaSapphireEntry": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
-  "hp": 60,
-  "SilverEntry": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
-  "ability2": "Keen Eye",
-  "eggMoves": [
-    {"move": "Supersonic"},
-    {"move": "Wing Attack"},
-    {"move": "Whirlwind"},
-    {"move": "Feather Dance"},
-    {"move": "Night Shade"},
-    {"move": "Defog"}
-  ],
-  "UltraMoonEntry": "It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time.",
   "number": 163,
-  "spatk": 36,
-  "UltraSunEntry": "Every day, it tilts its head in the same rhythm. A long time ago, people raised these Pokémon to serve as clocks.",
-  "atk": 30,
-  "height": "0.7m",
-  "type2": "Flying",
-  "WhiteEntry": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
-  "eggGroup2": "",
-  "spd": 50,
-  "CrystalEntry": "It begins to hoot at the same time every day. Some trainers use them in place of clocks.",
-  "weight": "21.2kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 30,
-  "GoldEntry": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
-  "SapphireEntry": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
-  "hasAlolan": false,
-  "DiamondEntry": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+  "Entry": {
+    "Shield": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
+    "Black": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+    "Black2": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+    "FireRed": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+    "HearthGold": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "Sword": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "Sapphire": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+    "Platinum": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+    "Emerald": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
+    "X": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+    "Y": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "Ruby": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+    "Soulsilver": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+    "AlphaSapphire": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+    "Gold": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "UltraMoon": "It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time.",
+    "White2": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+    "Diamond": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+    "UltraSun": "Every day, it tilts its head in the same rhythm. A long time ago, people raised these Pokémon to serve as clocks.",
+    "OmegaRuby": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+    "Pearl": "It switches its standing foot so quickly, it can't be seen. It cries at the same time every day.",
+    "Silver": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+    "White": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+    "LeafGreen": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "Crystal": "It begins to hoot at the same time every day. Some trainers use them in place of clocks."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "3"
+      },
+      {
+        "move": "Echoed Voice",
+        "lvl": "6"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "9"
+      },
+      {
+        "move": "Reflect",
+        "lvl": "12"
+      },
+      {
+        "move": "Psycho Shift",
+        "lvl": "15"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "18"
+      },
+      {
+        "move": "Extrasensory",
+        "lvl": "21"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "24"
+      },
+      {
+        "move": "Uproar",
+        "lvl": "27"
+      },
+      {
+        "move": "Roost",
+        "lvl": "30"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "33"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "36"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "39"
+      }
+    ],
+    "egg": [
+      {"move": "Supersonic"},
+      {"move": "Wing Attack"},
+      {"move": "Whirlwind"},
+      {"move": "Feather Dance"},
+      {"move": "Night Shade"},
+      {"move": "Defog"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "21.2kg",
+    "category": "Owl Pokémon",
+    "height": "0.7m"
+  },
   "name": "Hoothoot",
-  "spdfs": 56,
-  "ShieldEntry": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
-  "extraMega": false,
-  "HearthGoldEntry": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
-  "YEntry": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
-  "PlatinumEntry": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
-  "abilityHidden": "Tinted Lens",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "3"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "6"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "9"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "12"
-    },
-    {
-      "move": "Psycho Shift",
-      "lvl": "15"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "18"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "21"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "27"
-    },
-    {
-      "move": "Roost",
-      "lvl": "30"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "33"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "36"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "39"
-    }
-  ],
-  "RubyEntry": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
-  "BlackEntry": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
-  "OmegaRubyEntry": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
-  "colour": "Brown",
-  "SoulsilverEntry": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
-  "FireRedEntry": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
-  "White2Entry": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
-  "SwordEntry": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
-  "PearlEntry": "It switches its standing foot so quickly, it can't be seen. It cries at the same time every day.",
-  "category": "Owl Pokémon",
-  "LeafGreenEntry": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
-  "Black2Entry": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways."
+  "Stats": {
+    "dfs": 30,
+    "spatk": 36,
+    "spd": 50,
+    "hp": 60,
+    "atk": 30,
+    "spdfs": 56
+  },
+  "Biology": {
+    "ability1": "Insomnia",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Tinted Lens",
+    "ability2": "Keen Eye",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

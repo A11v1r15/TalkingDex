@@ -1,270 +1,276 @@
 {
-  "ShieldEntry": "It carries electrically roasted seeds with it as if they're precious treasures. No matter how much it eats, it always gets hungry again in short order.",
-  "extraMega": false,
-  "ability1": "Hunger Switch",
-  "hp": 58,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Swagger"},
-    {"move": "Super Fang"},
-    {"move": "Charge"},
-    {"move": "Tickle"},
-    {"move": "Rapid Spin"},
-    {"move": "Quash"},
-    {"move": "Parting Shot"},
-    {"move": "Fake Out"}
-  ],
   "number": 877,
-  "spatk": 70,
-  "atk": 95,
-  "abilityHidden": "",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "5"
-    },
-    {
-      "move": "Power Trip",
-      "lvl": "10"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "20"
-    },
-    {
-      "move": "Bite",
-      "lvl": "25"
-    },
-    {
-      "move": "Spark",
-      "lvl": "30"
-    },
-    {
-      "move": "Torment",
-      "lvl": "35"
-    },
-    {
-      "move": "Agility",
-      "lvl": "40"
-    },
-    {
-      "move": "Bullet Seed",
-      "lvl": "45"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "50"
-    },
-    {
-      "move": "Aura Wheel",
-      "lvl": "55"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "60"
-    }
-  ],
-  "type2": "Dark",
-  "eggGroup2": "Fairy",
-  "spd": 97,
-  "weight": "3.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "dfs": 58,
-  "colour": "Yellow",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+    "Shield": "It carries electrically roasted seeds with it as if they're precious treasures. No matter how much it eats, it always gets hungry again in short order."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "5"
+      },
+      {
+        "move": "Power Trip",
+        "lvl": "10"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "15"
+      },
+      {
+        "move": "Flatter",
+        "lvl": "20"
+      },
+      {
+        "move": "Bite",
+        "lvl": "25"
+      },
+      {
+        "move": "Spark",
+        "lvl": "30"
+      },
+      {
+        "move": "Torment",
+        "lvl": "35"
+      },
+      {
+        "move": "Agility",
+        "lvl": "40"
+      },
+      {
+        "move": "Bullet Seed",
+        "lvl": "45"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "50"
+      },
+      {
+        "move": "Aura Wheel",
+        "lvl": "55"
+      },
+      {
+        "move": "Thrash",
+        "lvl": "60"
+      }
+    ],
+    "egg": [
+      {"move": "Swagger"},
+      {"move": "Super Fang"},
+      {"move": "Charge"},
+      {"move": "Tickle"},
+      {"move": "Rapid Spin"},
+      {"move": "Quash"},
+      {"move": "Parting Shot"},
+      {"move": "Fake Out"}
+    ]
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "3.0kg",
+    "category": "Two-Sided Pokémon",
+    "height": "0.3m"
+  },
   "name": "Morpeko",
-  "SwordEntry": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
-  "spdfs": 58,
-  "category": "Two-Sided Pokémon"
+  "Stats": {
+    "dfs": 58,
+    "spatk": 70,
+    "spd": 97,
+    "hp": 58,
+    "atk": 95,
+    "spdfs": 58
+  },
+  "Biology": {
+    "ability1": "Hunger Switch",
+    "type2": "Dark",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Field",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

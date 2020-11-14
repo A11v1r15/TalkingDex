@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Stakeout",
-  "hp": 88,
-  "SunEntry": "When it finds a trace of its prey, it patiently stakes out the location...but it's always snoozing by nightfall.",
-  "ability2": "Strong Jaw",
-  "hasGigantamax": false,
-  "UltraMoonEntry": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal\u2014Rattata!",
   "number": 735,
-  "MoonEntry": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
-  "spatk": 55,
-  "UltraSunEntry": "Although it wasn't originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",
-  "atk": 110,
-  "abilityHidden": "Adaptability",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 45,
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 60,
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal\u2014Rattata!",
+    "Moon": "It adores having Rattata and Raticate for dinner, but as it's diurnal, it never encounters them. This Pokémon boasts incredible patience.",
+    "UltraSun": "Although it wasn't originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",
+    "Sun": "When it finds a trace of its prey, it patiently stakes out the location...but it's always snoozing by nightfall."
+  },
+  "Moves": {},
+  "Flair": {"category": "Stakeout Pokémon"},
   "name": "Gumshoos",
-  "spdfs": 60,
-  "category": "Stakeout Pokémon"
+  "Stats": {
+    "dfs": 60,
+    "spatk": 55,
+    "spd": 45,
+    "hp": 88,
+    "atk": 110,
+    "spdfs": 60
+  },
+  "Biology": {
+    "ability1": "Stakeout",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Adaptability",
+    "ability2": "Strong Jaw",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

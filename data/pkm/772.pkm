@@ -1,213 +1,219 @@
 {
-  "ShieldEntry": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
-  "extraMega": false,
-  "ability1": "Battle Armor",
-  "hp": 95,
-  "SunEntry": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
   "number": 772,
-  "MoonEntry": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
-  "spatk": 95,
-  "UltraSunEntry": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
-  "atk": 95,
-  "abilityHidden": "",
-  "height": "1.9m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "1"
-    },
-    {
-      "move": "Aerial Ace",
-      "lvl": "5"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "10"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "15"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "20"
-    },
-    {
-      "move": "Crush Claw",
-      "lvl": "25"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "30"
-    },
-    {
-      "move": "Tri Attack",
-      "lvl": "35"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "45"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "50"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "55"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 59,
-  "weight": "120.5kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 95,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+    "Sword": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
+    "Shield": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+    "Moon": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
+    "UltraSun": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+    "Sun": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Imprison",
+        "lvl": "1"
+      },
+      {
+        "move": "Aerial Ace",
+        "lvl": "5"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "10"
+      },
+      {
+        "move": "Double Hit",
+        "lvl": "15"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "20"
+      },
+      {
+        "move": "Crush Claw",
+        "lvl": "25"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "30"
+      },
+      {
+        "move": "Tri Attack",
+        "lvl": "35"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "40"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "45"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "50"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "55"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "120.5kg",
+    "category": "Synthetic Pokémon",
+    "height": "1.9m"
+  },
   "name": "Type: Null",
-  "SwordEntry": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
-  "spdfs": 95,
-  "category": "Synthetic Pokémon"
+  "Stats": {
+    "dfs": 95,
+    "spatk": 95,
+    "spd": 59,
+    "hp": 95,
+    "atk": 95,
+    "spdfs": 95
+  },
+  "Biology": {
+    "ability1": "Battle Armor",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

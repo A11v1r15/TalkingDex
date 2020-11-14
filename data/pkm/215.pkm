@@ -1,311 +1,317 @@
 {
-  "EmeraldEntry": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
-  "ability1": "Inner Focus",
-  "AlphaSapphireEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-  "hp": 55,
-  "SilverEntry": "Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind.",
-  "ability2": "Keen Eye",
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Spite"},
-    {"move": "Bite"},
-    {"move": "Fake Out"},
-    {"move": "Double Hit"},
-    {"move": "Ice Shard"},
-    {"move": "Feint"},
-    {"move": "Icicle Crash"}
-  ],
-  "UltraMoonEntry": "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel's claws to snap off.",
   "number": 215,
-  "MoonEntry": "It uses its claws to poke holes in eggs so it can slurp out the insides. Breeders consider it a scourge and will drive it away or eradicate it.",
-  "spatk": 35,
-  "UltraSunEntry": "They will cooperate to steal eggs from the nests of bird Pokémon, but fights break out to determine which one gets to eat the eggs.",
-  "atk": 95,
-  "height": "0.9m",
-  "type2": "Ice",
-  "WhiteEntry": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
-  "eggGroup2": "",
-  "spd": 115,
-  "CrystalEntry": "This cunning Pokémon hides in the cover of darkness, waiting to attack its prey.",
-  "weight": "28.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "dfs": 55,
-  "GoldEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-  "SapphireEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-  "hasAlolan": false,
-  "DiamondEntry": "It feeds on Eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+  "Entry": {
+    "Shield": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+    "Moon": "It uses its claws to poke holes in eggs so it can slurp out the insides. Breeders consider it a scourge and will drive it away or eradicate it.",
+    "Black": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
+    "Black2": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+    "FireRed": "Vicious in nature, it drives Pidgey from their nests and feasts on the Eggs that are left behind.",
+    "HearthGold": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "Sword": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "Sapphire": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "Platinum": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
+    "Emerald": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "X": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+    "Y": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "Ruby": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "Soulsilver": "Vicious in nature, it drives Pidgey from their nests and scavenges any leftovers it can find.",
+    "AlphaSapphire": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "Gold": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "UltraMoon": "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel's claws to snap off.",
+    "White2": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+    "Diamond": "It feeds on Eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+    "UltraSun": "They will cooperate to steal eggs from the nests of bird Pokémon, but fights break out to determine which one gets to eat the eggs.",
+    "Sun": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+    "OmegaRuby": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "Pearl": "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
+    "Silver": "Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind.",
+    "White": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
+    "LeafGreen": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "Crystal": "This cunning Pokémon hides in the cover of darkness, waiting to attack its prey."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Taunt",
+        "lvl": "6"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "12"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "18"
+      },
+      {
+        "move": "Icy Wind",
+        "lvl": "24"
+      },
+      {
+        "move": "Fury Swipes",
+        "lvl": "30"
+      },
+      {
+        "move": "Hone Claws",
+        "lvl": "36"
+      },
+      {
+        "move": "Beat Up",
+        "lvl": "42"
+      },
+      {
+        "move": "Agility",
+        "lvl": "48"
+      },
+      {
+        "move": "Screech",
+        "lvl": "54"
+      },
+      {
+        "move": "Slash",
+        "lvl": "60"
+      }
+    ],
+    "egg": [
+      {"move": "Counter"},
+      {"move": "Spite"},
+      {"move": "Bite"},
+      {"move": "Fake Out"},
+      {"move": "Double Hit"},
+      {"move": "Ice Shard"},
+      {"move": "Feint"},
+      {"move": "Icicle Crash"}
+    ]
+  },
+  "Flair": {
+    "colour": "Black",
+    "weight": "28.0kg",
+    "category": "Sharp Claw Pokémon",
+    "height": "0.9m"
+  },
   "name": "Sneasel",
-  "spdfs": 75,
-  "ShieldEntry": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-  "YEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-  "SunEntry": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
-  "PlatinumEntry": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
-  "abilityHidden": "Pickpocket",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "6"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "18"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "30"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "36"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "42"
-    },
-    {
-      "move": "Agility",
-      "lvl": "48"
-    },
-    {
-      "move": "Screech",
-      "lvl": "54"
-    },
-    {
-      "move": "Slash",
-      "lvl": "60"
-    }
-  ],
-  "RubyEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-  "BlackEntry": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
-  "OmegaRubyEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
-  "colour": "Black",
-  "SoulsilverEntry": "Vicious in nature, it drives Pidgey from their nests and scavenges any leftovers it can find.",
-  "FireRedEntry": "Vicious in nature, it drives Pidgey from their nests and feasts on the Eggs that are left behind.",
-  "White2Entry": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
-  "SwordEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-  "PearlEntry": "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
-  "category": "Sharp Claw Pokémon",
-  "LeafGreenEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-  "Black2Entry": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws."
+  "Stats": {
+    "dfs": 55,
+    "spatk": 35,
+    "spd": 115,
+    "hp": 55,
+    "atk": 95,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Inner Focus",
+    "type2": "Ice",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Pickpocket",
+    "ability2": "Keen Eye",
+    "type1": "Dark"
+  },
+  "hasGigantamax": false
 }

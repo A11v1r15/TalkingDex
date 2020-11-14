@@ -1,230 +1,239 @@
 {
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Psycho Shift",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "5"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "10"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "30"
-    },
-    {
-      "move": "Psycho Cut",
-      "lvl": "35"
-    },
-    {
-      "move": "Recover",
-      "lvl": "40"
-    },
-    {
-      "move": "Freezing Glare",
-      "lvl": "45"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "50"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "55"
-    },
-    {
-      "move": "Mind Reader",
-      "lvl": "60"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "65"
-    },
-    {
-      "move": "Trick Room",
-      "lvl": "70"
-    }
-  ],
-  "spd": 95,
-  "hp": 90,
-  "weight": "50.9kg",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "eggMoves": [],
-  "dfs": 85,
   "number": 144,
-  "colour": "Purple",
-  "spatk": 125,
+  "Entry": {},
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Psycho Shift",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "5"
+      },
+      {
+        "move": "Reflect",
+        "lvl": "10"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "15"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "25"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "30"
+      },
+      {
+        "move": "Psycho Cut",
+        "lvl": "35"
+      },
+      {
+        "move": "Recover",
+        "lvl": "40"
+      },
+      {
+        "move": "Freezing Glare",
+        "lvl": "45"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "50"
+      },
+      {
+        "move": "Hurricane",
+        "lvl": "55"
+      },
+      {
+        "move": "Mind Reader",
+        "lvl": "60"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "65"
+      },
+      {
+        "move": "Trick Room",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
   "name": "Galarian Articuno",
-  "atk": 85,
-  "spdfs": 100,
-  "height": "1.7m",
-  "ability1": "Competitive",
-  "ability2": "",
-  "abilityHidden": "",
-  "type1": "Psychic",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "eggGroup1": "Undiscovered",
-  "category": "Cruel Pokémon"
+  "Stats": {
+    "dfs": 85,
+    "spatk": 125,
+    "spd": 95,
+    "hp": 90,
+    "atk": 85,
+    "spdfs": 100
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "50.9kg",
+    "category": "Cruel Pokémon",
+    "height": "1.7m"
+  },
+  "Biology": {
+    "ability1": "Competitive",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Psychic"
+  }
 }

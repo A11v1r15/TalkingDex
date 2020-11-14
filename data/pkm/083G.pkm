@@ -1,208 +1,217 @@
 {
-  "ShieldEntry": "The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "5"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "10"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "15"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "20"
-    },
-    {
-      "move": "Detect",
-      "lvl": "25"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "30"
-    },
-    {
-      "move": "Defog",
-      "lvl": "35"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "40"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "45"
-    },
-    {
-      "move": "Slam",
-      "lvl": "50"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "55"
-    },
-    {
-      "move": "Final Gambit",
-      "lvl": "60"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "65"
-    }
-  ],
-  "ability1": "Steadfast",
-  "type2": "",
-  "eggGroup2": "Field",
-  "spd": 55,
-  "hp": 52,
-  "eggGroup1": "Flying",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "type1": "Fighting",
-  "dfs": 55,
-  "eggMoves": [
-    {"move": "Counter"},
-    {"move": "Covet"},
-    {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Feint"},
-    {"move": "Flail"},
-    {"move": "Night Slash"},
-    {"move": "Quick Attack"},
-    {"move": "Quick Guard"},
-    {"move": "Simple Beam"},
-    {"move": "Sky Attack"}
-  ],
   "number": 83,
-  "spatk": 58,
+  "Entry": {
+    "Sword": "The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
+    "Shield": "The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Solar Blade",
+        "technical": "TM12"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Leaf Blade",
+        "technical": "TR50"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "5"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "10"
+      },
+      {
+        "move": "Rock Smash",
+        "lvl": "15"
+      },
+      {
+        "move": "Brutal Swing",
+        "lvl": "20"
+      },
+      {
+        "move": "Detect",
+        "lvl": "25"
+      },
+      {
+        "move": "Knock Off",
+        "lvl": "30"
+      },
+      {
+        "move": "Defog",
+        "lvl": "35"
+      },
+      {
+        "move": "Brick Break",
+        "lvl": "40"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "45"
+      },
+      {
+        "move": "Slam",
+        "lvl": "50"
+      },
+      {
+        "move": "Leaf Blade",
+        "lvl": "55"
+      },
+      {
+        "move": "Final Gambit",
+        "lvl": "60"
+      },
+      {
+        "move": "Brave Bird",
+        "lvl": "65"
+      }
+    ],
+    "egg": [
+      {"move": "Counter"},
+      {"move": "Covet"},
+      {"move": "Curse"},
+      {"move": "Double-Edge"},
+      {"move": "Feint"},
+      {"move": "Flail"},
+      {"move": "Night Slash"},
+      {"move": "Quick Attack"},
+      {"move": "Quick Guard"},
+      {"move": "Simple Beam"},
+      {"move": "Sky Attack"}
+    ]
+  },
   "name": "Galarian Farfetch'd",
-  "atk": 95,
-  "SwordEntry": "The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
-  "abilityHidden": "Scrappy",
-  "spdfs": 62
+  "Stats": {
+    "dfs": 55,
+    "spatk": 58,
+    "spd": 55,
+    "hp": 52,
+    "atk": 95,
+    "spdfs": 62
+  },
+  "Flair": {},
+  "Biology": {
+    "ability1": "Steadfast",
+    "type2": "",
+    "eggGroup2": "Field",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Scrappy",
+    "ability2": "",
+    "type1": "Fighting"
+  }
 }

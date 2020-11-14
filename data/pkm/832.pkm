@@ -1,189 +1,195 @@
 {
-  "ShieldEntry": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
-  "extraMega": false,
-  "ability1": "Fluffy",
-  "hp": 72,
-  "ability2": "Steadfast",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 832,
-  "spatk": 60,
-  "atk": 80,
-  "abilityHidden": "Bulletproof",
-  "height": "1.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "12"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "16"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "21"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "27"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "32"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "38"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "44"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "50"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "56"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 88,
-  "weight": "43.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 100,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
+    "Shield": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "lvl": "1"
+      },
+      {
+        "move": "Copycat",
+        "lvl": "1"
+      },
+      {
+        "move": "Guard Split",
+        "lvl": "12"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "16"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "21"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "27"
+      },
+      {
+        "move": "Guard Swap",
+        "lvl": "32"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "38"
+      },
+      {
+        "move": "Cotton Guard",
+        "lvl": "44"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "50"
+      },
+      {
+        "move": "Last Resort",
+        "lvl": "56"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "43.0kg",
+    "category": "Sheep Pokémon",
+    "height": "1.3m"
+  },
   "name": "Dubwool",
-  "SwordEntry": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
-  "spdfs": 90,
-  "category": "Sheep Pokémon"
+  "Stats": {
+    "dfs": 100,
+    "spatk": 60,
+    "spd": 88,
+    "hp": 72,
+    "atk": 80,
+    "spdfs": 90
+  },
+  "Biology": {
+    "ability1": "Fluffy",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Bulletproof",
+    "ability2": "Steadfast",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

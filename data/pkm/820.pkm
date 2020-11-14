@@ -1,245 +1,251 @@
 {
-  "ShieldEntry": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
-  "extraMega": false,
-  "ability1": "Cheek Pouch",
-  "hp": 120,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 820,
-  "spatk": 55,
-  "atk": 95,
-  "abilityHidden": "Gluttony",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Covet",
-      "lvl": "0"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Stuff Cheeks",
-      "lvl": "1"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "15"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "15"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "15"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "20"
-    },
-    {
-      "move": "Rest",
-      "lvl": "27"
-    },
-    {
-      "move": "Counter",
-      "lvl": "34"
-    },
-    {
-      "move": "Bullet Seed",
-      "lvl": "41"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "48"
-    },
-    {
-      "move": "Belch",
-      "lvl": "55"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 20,
-  "weight": "6.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 95,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
+    "Shield": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Tail Slap",
+        "technical": "TM84"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Covet",
+        "lvl": "0"
+      },
+      {
+        "move": "Covet",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Stuff Cheeks",
+        "lvl": "1"
+      },
+      {
+        "move": "Stockpile",
+        "lvl": "15"
+      },
+      {
+        "move": "Swallow",
+        "lvl": "15"
+      },
+      {
+        "move": "Spit Up",
+        "lvl": "15"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "20"
+      },
+      {
+        "move": "Rest",
+        "lvl": "27"
+      },
+      {
+        "move": "Counter",
+        "lvl": "34"
+      },
+      {
+        "move": "Bullet Seed",
+        "lvl": "41"
+      },
+      {
+        "move": "Super Fang",
+        "lvl": "48"
+      },
+      {
+        "move": "Belch",
+        "lvl": "55"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "6.0kg",
+    "category": "Greedy Pokémon",
+    "height": "0.6m"
+  },
   "name": "Greedent",
-  "SwordEntry": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
-  "spdfs": 75,
-  "category": "Greedy Pokémon"
+  "Stats": {
+    "dfs": 95,
+    "spatk": 55,
+    "spd": 20,
+    "hp": 120,
+    "atk": 95,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Cheek Pouch",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Gluttony",
+    "ability2": "",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

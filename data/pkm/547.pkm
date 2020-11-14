@@ -1,281 +1,287 @@
 {
-  "ShieldEntry": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
-  "extraMega": false,
-  "ability1": "Prankster",
-  "YEntry": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
-  "AlphaSapphireEntry": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
-  "hp": 60,
-  "SunEntry": "It rides on the wind and slips into people\u2019s homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.",
-  "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
-  "UltraMoonEntry": "Whimsicott doesn't live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
   "number": 547,
-  "MoonEntry": "This Pokémon appears, riding upon the wind. But if the wind gusts up, it'll blow the cotton on this Pokémon's head clean off.",
-  "spatk": 77,
-  "UltraSunEntry": "This nuisance sneaks into people's homes, where it hides important things and scatters cotton all over the place.",
-  "atk": 67,
-  "abilityHidden": "Chlorophyll",
-  "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "1"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "1"
-    },
-    {
-      "move": "Memento",
-      "lvl": "1"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "1"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "1"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "1"
-    },
-    {
-      "move": "Cotton Spore",
-      "lvl": "1"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "1"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "1"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "1"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "1"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "1"
-    }
-  ],
-  "type2": "Fairy",
-  "WhiteEntry": "Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.",
-  "eggGroup2": "Fairy",
-  "spd": 116,
-  "weight": "6.6kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
-  "OmegaRubyEntry": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
-  "dfs": 85,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+    "UltraMoon": "Whimsicott doesn't live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
+    "Shield": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+    "Moon": "This Pokémon appears, riding upon the wind. But if the wind gusts up, it'll blow the cotton on this Pokémon's head clean off.",
+    "White2": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+    "UltraSun": "This nuisance sneaks into people's homes, where it hides important things and scatters cotton all over the place.",
+    "Black": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+    "Black2": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+    "Sun": "It rides on the wind and slips into people\u2019s homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.",
+    "OmegaRuby": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+    "White": "Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.",
+    "Sword": "It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.",
+    "X": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
+    "Y": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Misty Terrain",
+        "technical": "TM89"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "1"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "1"
+      },
+      {
+        "move": "Memento",
+        "lvl": "1"
+      },
+      {
+        "move": "Hurricane",
+        "lvl": "1"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "1"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "1"
+      },
+      {
+        "move": "Growth",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "lvl": "1"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "1"
+      },
+      {
+        "move": "Cotton Spore",
+        "lvl": "1"
+      },
+      {
+        "move": "Energy Ball",
+        "lvl": "1"
+      },
+      {
+        "move": "Sunny Day",
+        "lvl": "1"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "1"
+      },
+      {
+        "move": "Cotton Guard",
+        "lvl": "1"
+      },
+      {
+        "move": "Solar Beam",
+        "lvl": "1"
+      },
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Fairy Wind",
+        "lvl": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "6.6kg",
+    "category": "Windveiled Pokémon",
+    "height": "0.7m"
+  },
   "name": "Whimsicott",
-  "White2Entry": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.",
-  "SwordEntry": "It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.",
-  "spdfs": 75,
-  "category": "Windveiled Pokémon",
-  "Black2Entry": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes."
+  "Stats": {
+    "dfs": 85,
+    "spatk": 77,
+    "spd": 116,
+    "hp": 60,
+    "atk": 67,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Prankster",
+    "type2": "Fairy",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Chlorophyll",
+    "ability2": "Infiltrator",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

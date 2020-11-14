@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Shield Dust",
-  "YEntry": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
-  "AlphaSapphireEntry": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
-  "hp": 80,
-  "ability2": "Compound Eyes",
-  "hasGigantamax": false,
-  "XEntry": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
   "number": 666,
-  "spatk": 90,
-  "atk": 52,
-  "abilityHidden": "Friend Guard",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "spd": 89,
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
-  "dfs": 50,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+    "X": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+    "Y": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+    "OmegaRuby": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat."
+  },
+  "Moves": {},
+  "Flair": {"category": "Scale Pokémon"},
   "name": "Vivillon",
-  "spdfs": 50,
-  "category": "Scale Pokémon"
+  "Stats": {
+    "dfs": 50,
+    "spatk": 90,
+    "spd": 89,
+    "hp": 80,
+    "atk": 52,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Shield Dust",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Friend Guard",
+    "ability2": "Compound Eyes",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

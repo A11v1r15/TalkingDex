@@ -1,293 +1,299 @@
 {
-  "ShieldEntry": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
-  "extraMega": false,
-  "ability1": "Steelworker",
-  "hp": 70,
-  "SunEntry": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
   "number": 781,
-  "MoonEntry": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
-  "spatk": 86,
-  "UltraSunEntry": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
-  "atk": 131,
-  "abilityHidden": "",
-  "height": "3.9m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "4"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "8"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Growth",
-      "lvl": "16"
-    },
-    {
-      "move": "Gyro Ball",
-      "lvl": "20"
-    },
-    {
-      "move": "Switcheroo",
-      "lvl": "24"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Whirlpool",
-      "lvl": "32"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "36"
-    },
-    {
-      "move": "Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "44"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "48"
-    },
-    {
-      "move": "Anchor Shot",
-      "lvl": "52"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "56"
-    },
-    {
-      "move": "Phantom Force",
-      "lvl": "60"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "64"
-    }
-  ],
-  "type2": "Grass",
-  "eggGroup2": "",
-  "spd": 40,
-  "weight": "210.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Ghost",
-  "hasGalarian": false,
-  "dfs": 100,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
+    "Sword": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+    "Shield": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+    "Moon": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
+    "UltraSun": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
+    "Sun": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Solar Blade",
+        "technical": "TM12"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Phantom Force",
+        "technical": "TM86"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Power Whip",
+        "technical": "TR72"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "4"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "8"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "12"
+      },
+      {
+        "move": "Growth",
+        "lvl": "16"
+      },
+      {
+        "move": "Gyro Ball",
+        "lvl": "20"
+      },
+      {
+        "move": "Switcheroo",
+        "lvl": "24"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "28"
+      },
+      {
+        "move": "Whirlpool",
+        "lvl": "32"
+      },
+      {
+        "move": "Heavy Slam",
+        "lvl": "36"
+      },
+      {
+        "move": "Slam",
+        "lvl": "40"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "44"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "48"
+      },
+      {
+        "move": "Anchor Shot",
+        "lvl": "52"
+      },
+      {
+        "move": "Energy Ball",
+        "lvl": "56"
+      },
+      {
+        "move": "Phantom Force",
+        "lvl": "60"
+      },
+      {
+        "move": "Power Whip",
+        "lvl": "64"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "210.0kg",
+    "category": "Sea Creeper Pokémon",
+    "height": "3.9m"
+  },
   "name": "Dhelmise",
-  "SwordEntry": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
-  "spdfs": 90,
-  "category": "Sea Creeper Pokémon"
+  "Stats": {
+    "dfs": 100,
+    "spatk": 86,
+    "spd": 40,
+    "hp": 70,
+    "atk": 131,
+    "spdfs": 90
+  },
+  "Biology": {
+    "ability1": "Steelworker",
+    "type2": "Grass",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Ghost"
+  },
+  "hasGigantamax": false
 }

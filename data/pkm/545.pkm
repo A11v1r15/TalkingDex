@@ -1,273 +1,279 @@
 {
-  "ShieldEntry": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
-  "extraMega": false,
-  "ability1": "Poison Point",
-  "YEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-  "AlphaSapphireEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-  "hp": 60,
-  "ability2": "Swarm",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
   "number": 545,
-  "spatk": 55,
-  "atk": 100,
-  "abilityHidden": "Speed Boost",
-  "height": "2.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Tail",
-      "lvl": "12"
-    },
-    {
-      "move": "Screech",
-      "lvl": "16"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "26"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "34"
-    },
-    {
-      "move": "Agility",
-      "lvl": "42"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "50"
-    },
-    {
-      "move": "Venom Drench",
-      "lvl": "58"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "74"
-    }
-  ],
-  "type2": "Poison",
-  "WhiteEntry": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
-  "eggGroup2": "",
-  "spd": 112,
-  "weight": "200.5kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-  "OmegaRubyEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-  "dfs": 89,
-  "colour": "Red",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+    "White": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+    "Sword": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",
+    "Shield": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
+    "X": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+    "White2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+    "Y": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+    "Black": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+    "Black2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+    "OmegaRuby": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pin Missile",
+        "technical": "TM07"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Cross Poison",
+        "technical": "TM73"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Iron Defense",
+        "lvl": "1"
+      },
+      {
+        "move": "Baton Pass",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "lvl": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "lvl": "1"
+      },
+      {
+        "move": "Rollout",
+        "lvl": "1"
+      },
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Tail",
+        "lvl": "12"
+      },
+      {
+        "move": "Screech",
+        "lvl": "16"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Venoshock",
+        "lvl": "26"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "34"
+      },
+      {
+        "move": "Agility",
+        "lvl": "42"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "50"
+      },
+      {
+        "move": "Venom Drench",
+        "lvl": "58"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "66"
+      },
+      {
+        "move": "Megahorn",
+        "lvl": "74"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "200.5kg",
+    "category": "Megapede Pokémon",
+    "height": "2.5m"
+  },
   "name": "Scolipede",
-  "White2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-  "SwordEntry": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",
-  "spdfs": 69,
-  "category": "Megapede Pokémon",
-  "Black2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
+  "Stats": {
+    "dfs": 89,
+    "spatk": 55,
+    "spd": 112,
+    "hp": 60,
+    "atk": 100,
+    "spdfs": 69
+  },
+  "Biology": {
+    "ability1": "Poison Point",
+    "type2": "Poison",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Speed Boost",
+    "ability2": "Swarm",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

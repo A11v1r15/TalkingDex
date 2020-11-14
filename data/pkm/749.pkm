@@ -1,210 +1,216 @@
 {
-  "ShieldEntry": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
-  "extraMega": false,
-  "ability1": "Own Tempo",
-  "hp": 70,
-  "SunEntry": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
-  "ability2": "Stamina",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Double"},
-    {"move": "Fissure"},
-    {"move": "Smack Down"},
-    {"move": "Roar"}
-  ],
-  "UltraMoonEntry": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
   "number": 749,
-  "MoonEntry": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
-  "spatk": 45,
-  "UltraSunEntry": "It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
-  "atk": 100,
-  "abilityHidden": "Inner Focus",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "1"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "4"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "8"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "16"
-    },
-    {
-      "move": "Strength",
-      "lvl": "20"
-    },
-    {
-      "move": "Counter",
-      "lvl": "24"
-    },
-    {
-      "move": "High Horsepower",
-      "lvl": "28"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "32"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "36"
-    },
-    {
-      "move": "Mega Kick",
-      "lvl": "40"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "44"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 45,
-  "weight": "110.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "dfs": 70,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
+    "Sword": "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.",
+    "Shield": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
+    "Moon": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
+    "UltraSun": "It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
+    "Sun": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Mud-Slap",
+        "lvl": "1"
+      },
+      {
+        "move": "Rock Smash",
+        "lvl": "1"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "4"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "8"
+      },
+      {
+        "move": "Bulldoze",
+        "lvl": "12"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "16"
+      },
+      {
+        "move": "Strength",
+        "lvl": "20"
+      },
+      {
+        "move": "Counter",
+        "lvl": "24"
+      },
+      {
+        "move": "High Horsepower",
+        "lvl": "28"
+      },
+      {
+        "move": "Heavy Slam",
+        "lvl": "32"
+      },
+      {
+        "move": "Earthquake",
+        "lvl": "36"
+      },
+      {
+        "move": "Mega Kick",
+        "lvl": "40"
+      },
+      {
+        "move": "Superpower",
+        "lvl": "44"
+      }
+    ],
+    "egg": [
+      {"move": "Double"},
+      {"move": "Fissure"},
+      {"move": "Smack Down"},
+      {"move": "Roar"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "110.0kg",
+    "category": "Donkey Pokémon",
+    "height": "1.0m"
+  },
   "name": "Mudbray",
-  "SwordEntry": "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.",
-  "spdfs": 55,
-  "category": "Donkey Pokémon"
+  "Stats": {
+    "dfs": 70,
+    "spatk": 45,
+    "spd": 45,
+    "hp": 70,
+    "atk": 100,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Own Tempo",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Inner Focus",
+    "ability2": "Stamina",
+    "type1": "Ground"
+  },
+  "hasGigantamax": false
 }

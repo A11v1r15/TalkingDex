@@ -1,312 +1,317 @@
 {
-  "YellowEntry": "According to an enduring legend, 9 noble saints were united and reincarnated as this Pokémon.",
-  "EmeraldEntry": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
-  "ability1": "Flash Fire",
-  "AlphaSapphireEntry": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent\u2014it can understand human speech.",
-  "hp": 73,
-  "SilverEntry": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
   "number": 38,
-  "MoonEntry": "Said to live for a thousand years, this Pokémon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
-  "spatk": 81,
-  "UltraSunEntry": "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
-  "atk": 76,
-  "RedEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-  "height": "1.1m",
-  "type2": "",
-  "WhiteEntry": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-  "eggGroup2": "",
-  "spd": 100,
-  "CrystalEntry": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
-  "weight": "19.9kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "BlueEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-  "dfs": 75,
-  "GoldEntry": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
-  "SapphireEntry": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent - it can understand human speech.",
-  "hasAlolan": true,
-  "LetsGoPikachuEntry": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
-  "DiamondEntry": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+  "Entry": {
+    "Shield": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+    "Moon": "Said to live for a thousand years, this Pokémon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
+    "Black": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "Black2": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+    "FireRed": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "HearthGold": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
+    "Sword": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+    "Sapphire": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent - it can understand human speech.",
+    "Platinum": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "Emerald": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
+    "X": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "Y": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000 year curse.",
+    "Ruby": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
+    "Soulsilver": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+    "AlphaSapphire": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent\u2014it can understand human speech.",
+    "Gold": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
+    "UltraMoon": "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
+    "Blue": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "LetsGoPikachu": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
+    "White2": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+    "Diamond": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "UltraSun": "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
+    "Sun": "Legend has it that this mystical Pokémon was formed when nine saints coalesced into one.",
+    "OmegaRuby": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for one thousand years.",
+    "Red": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "Pearl": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "Silver": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+    "White": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "Yellow": "According to an enduring legend, 9 noble saints were united and reincarnated as this Pokémon.",
+    "LeafGreen": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+    "LetsGoEevee": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
+    "Crystal": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Tail Slap",
+        "technical": "TM84"
+      },
+      {
+        "move": "Mystical Fire",
+        "technical": "TM92"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Overheat",
+        "technical": "TR43"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Flare Blitz",
+        "technical": "TR55"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Nasty Plot",
+        "lvl": "1"
+      },
+      {
+        "move": "Incinerate",
+        "lvl": "1"
+      },
+      {
+        "move": "Spite",
+        "lvl": "1"
+      },
+      {
+        "move": "Incinerate",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "lvl": "1"
+      },
+      {
+        "move": "Extrasensory",
+        "lvl": "1"
+      },
+      {
+        "move": "Flamethrower",
+        "lvl": "1"
+      },
+      {
+        "move": "Imprison",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Spin",
+        "lvl": "1"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "1"
+      },
+      {
+        "move": "Inferno",
+        "lvl": "1"
+      },
+      {
+        "move": "Grudge",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Blast",
+        "lvl": "1"
+      },
+      {
+        "move": "Ember",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Disable",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "19.9kg",
+    "category": "Fox Pokémon",
+    "height": "1.1m"
+  },
   "name": "Ninetales",
-  "spdfs": 100,
-  "ShieldEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-  "extraMega": false,
-  "HearthGoldEntry": "Some legends claim that each of its nine tails has its own unique type of special mystic power.",
-  "YEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000 year curse.",
-  "SunEntry": "Legend has it that this mystical Pokémon was formed when nine saints coalesced into one.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
-  "PlatinumEntry": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-  "abilityHidden": "Drought",
-  "38Entry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-  "lvlUpMoves": [
-    {
-      "move": "Nasty Plot",
-      "lvl": "1"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "1"
-    },
-    {
-      "move": "Spite",
-      "lvl": "1"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "lvl": "1"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "1"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "1"
-    },
-    {
-      "move": "Inferno",
-      "lvl": "1"
-    },
-    {
-      "move": "Grudge",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Blast",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Disable",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    }
-  ],
-  "RubyEntry": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
-  "BlackEntry": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-  "OmegaRubyEntry": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for one thousand years.",
-  "LetsGoEeveeEntry": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
-  "colour": "Yellow",
-  "SoulsilverEntry": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
-  "FireRedEntry": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
-  "White2Entry": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
-  "SwordEntry": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
-  "PearlEntry": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
-  "category": "Fox Pokémon",
-  "LeafGreenEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
-  "Black2Entry": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years."
+  "Stats": {
+    "dfs": 75,
+    "spatk": 81,
+    "spd": 100,
+    "hp": 73,
+    "atk": 76,
+    "spdfs": 100
+  },
+  "Biology": {
+    "ability1": "Flash Fire",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Drought",
+    "ability2": "",
+    "type1": "Fire"
+  },
+  "hasGigantamax": false
 }

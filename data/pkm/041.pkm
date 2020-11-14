@@ -1,260 +1,265 @@
 {
-  "YellowEntry": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
-  "EmeraldEntry": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
-  "ability1": "Inner Focus",
-  "AlphaSapphireEntry": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
-  "hp": 40,
-  "SilverEntry": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
-  "ability2": "",
-  "UltraMoonEntry": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
-  "eggMoves": [
-    {"move": "Curse"},
-    {"move": "Defog"},
-    {"move": "Gust"},
-    {"move": "Hypnosis"},
-    {"move": "Quick Attack"},
-    {"move": "Whirlwind"},
-    {"move": "Wing Attack"}
-  ],
   "number": 41,
-  "MoonEntry": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
-  "spatk": 30,
-  "UltraSunEntry": "It has no eyeballs, so it can't see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
-  "41Entry": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
-  "atk": 45,
-  "RedEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-  "height": "0.8m",
-  "type2": "Flying",
-  "WhiteEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-  "eggGroup2": "",
-  "spd": 55,
-  "CrystalEntry": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
-  "weight": "7.5kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "BlueEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-  "dfs": 35,
-  "GoldEntry": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
-  "SapphireEntry": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
-  "DiamondEntry": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
+  "Entry": {
+    "Shield": "Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.",
+    "Moon": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
+    "Black": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+    "Black2": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
+    "FireRed": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
+    "HearthGold": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+    "Sword": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+    "Sapphire": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+    "Platinum": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+    "Emerald": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+    "X": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
+    "Y": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
+    "Ruby": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+    "Soulsilver": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
+    "AlphaSapphire": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+    "Gold": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+    "UltraMoon": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
+    "Blue": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "LetsGoPikachu": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+    "White2": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
+    "Diamond": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
+    "UltraSun": "It has no eyeballs, so it can't see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
+    "Sun": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
+    "OmegaRuby": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+    "Red": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "Pearl": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
+    "Silver": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
+    "White": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+    "Yellow": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+    "LeafGreen": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets.",
+    "LetsGoEevee": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+    "Crystal": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Brave Bird",
+        "technical": "TR66"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "5"
+      },
+      {
+        "move": "Mean Look",
+        "lvl": "10"
+      },
+      {
+        "move": "Poison Fang",
+        "lvl": "15"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "20"
+      },
+      {
+        "move": "Air Cutter",
+        "lvl": "25"
+      },
+      {
+        "move": "Bite",
+        "lvl": "30"
+      },
+      {
+        "move": "Haze",
+        "lvl": "35"
+      },
+      {
+        "move": "Venoshock",
+        "lvl": "40"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "45"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "50"
+      },
+      {
+        "move": "Leech Life",
+        "lvl": "55"
+      }
+    ],
+    "egg": [
+      {"move": "Curse"},
+      {"move": "Defog"},
+      {"move": "Gust"},
+      {"move": "Hypnosis"},
+      {"move": "Quick Attack"},
+      {"move": "Whirlwind"},
+      {"move": "Wing Attack"}
+    ]
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "7.5kg",
+    "category": "Bat Pokémon",
+    "height": "0.8m"
+  },
   "name": "Zubat",
-  "spdfs": 40,
-  "ShieldEntry": "Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.",
-  "extraMega": false,
-  "HearthGoldEntry": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
-  "YEntry": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
-  "SunEntry": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
-  "PlatinumEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-  "abilityHidden": "Infiltrator",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "5"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "10"
-    },
-    {
-      "move": "Poison Fang",
-      "lvl": "15"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "25"
-    },
-    {
-      "move": "Bite",
-      "lvl": "30"
-    },
-    {
-      "move": "Haze",
-      "lvl": "35"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "40"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "45"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "50"
-    },
-    {
-      "move": "Leech Life",
-      "lvl": "55"
-    }
-  ],
-  "RubyEntry": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
-  "BlackEntry": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
-  "OmegaRubyEntry": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
-  "LetsGoEeveeEntry": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
-  "FireRedEntry": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
-  "White2Entry": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
-  "SwordEntry": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
-  "PearlEntry": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
-  "category": "Bat Pokémon",
-  "LeafGreenEntry": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets.",
-  "Black2Entry": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies."
+  "Stats": {
+    "dfs": 35,
+    "spatk": 30,
+    "spd": 55,
+    "hp": 40,
+    "atk": 45,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Inner Focus",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Infiltrator",
+    "ability2": "",
+    "type1": "Poison"
+  },
+  "hasGigantamax": false
 }

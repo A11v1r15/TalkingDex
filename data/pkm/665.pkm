@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Shed Skin",
-  "YEntry": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
-  "AlphaSapphireEntry": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
-  "hp": 45,
-  "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
   "number": 665,
-  "spatk": 27,
-  "atk": 22,
-  "abilityHidden": "Friend Guard",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 29,
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
-  "dfs": 60,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+    "X": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",
+    "Y": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
+    "OmegaRuby": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them."
+  },
+  "Moves": {},
+  "Flair": {"category": "Scatterdust Pokémon"},
   "name": "Spewpa",
-  "spdfs": 30,
-  "category": "Scatterdust Pokémon"
+  "Stats": {
+    "dfs": 60,
+    "spatk": 27,
+    "spd": 29,
+    "hp": 45,
+    "atk": 22,
+    "spdfs": 30
+  },
+  "Biology": {
+    "ability1": "Shed Skin",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Friend Guard",
+    "ability2": "",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

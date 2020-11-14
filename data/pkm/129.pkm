@@ -1,84 +1,89 @@
 {
-  "YellowEntry": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
-  "EmeraldEntry": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
-  "ability1": "Swift Swim",
-  "AlphaSapphireEntry": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
-  "hp": 20,
-  "SilverEntry": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "Thanks to their strong hold on life, dirty water doesn't bother them at all. They live in waters all over the world!",
   "number": 129,
-  "MoonEntry": "Its reckless leaps make it easy pickings for predators. On the bright side, many Pokémon enjoy longer life spans, thanks to Magikarp.",
-  "spatk": 15,
-  "UltraSunEntry": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
-  "atk": 10,
-  "RedEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-  "height": "0.9m",
-  "type2": "",
-  "WhiteEntry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-  "eggGroup2": "Dragon",
-  "spd": 80,
-  "CrystalEntry": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
-  "weight": "10.0kg",
-  "eggGroup1": "Water 2",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-  "dfs": 55,
-  "GoldEntry": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
-  "SapphireEntry": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
-  "DiamondEntry": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
+  "Entry": {
+    "Shield": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
+    "Moon": "Its reckless leaps make it easy pickings for predators. On the bright side, many Pokémon enjoy longer life spans, thanks to Magikarp.",
+    "Black": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "Black2": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "FireRed": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+    "HearthGold": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
+    "Sword": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+    "Sapphire": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
+    "Platinum": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "Emerald": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
+    "X": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+    "Y": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "Ruby": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+    "Soulsilver": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
+    "AlphaSapphire": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
+    "Gold": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
+    "UltraMoon": "Thanks to their strong hold on life, dirty water doesn't bother them at all. They live in waters all over the world!",
+    "Blue": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "LetsGoPikachu": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+    "White2": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "Diamond": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
+    "UltraSun": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+    "Sun": "Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you'll soon grow tired of seeing them.",
+    "OmegaRuby": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+    "Red": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "Pearl": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+    "Silver": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
+    "White": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "Yellow": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+    "LeafGreen": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "LetsGoEevee": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+    "Crystal": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Splash",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "15"
+      },
+      {
+        "move": "Flail",
+        "lvl": "25"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "10.0kg",
+    "category": "Fish Pokémon",
+    "height": "0.9m"
+  },
   "name": "Magikarp",
-  "spdfs": 20,
-  "ShieldEntry": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
-  "extraMega": false,
-  "HearthGoldEntry": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
-  "YEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-  "SunEntry": "Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you'll soon grow tired of seeing them.",
-  "tmTrMoves": [
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    }
-  ],
-  "hasGigantamax": false,
-  "129Entry": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
-  "XEntry": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
-  "PlatinumEntry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-  "abilityHidden": "Rattled",
-  "lvlUpMoves": [
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "15"
-    },
-    {
-      "move": "Flail",
-      "lvl": "25"
-    }
-  ],
-  "RubyEntry": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
-  "BlackEntry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-  "OmegaRubyEntry": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
-  "LetsGoEeveeEntry": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
-  "colour": "Red",
-  "SoulsilverEntry": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
-  "FireRedEntry": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
-  "White2Entry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
-  "SwordEntry": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
-  "PearlEntry": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
-  "category": "Fish Pokémon",
-  "LeafGreenEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-  "Black2Entry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though."
+  "Stats": {
+    "dfs": 55,
+    "spatk": 15,
+    "spd": 80,
+    "hp": 20,
+    "atk": 10,
+    "spdfs": 20
+  },
+  "Biology": {
+    "ability1": "Swift Swim",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Water 2",
+    "abilityHidden": "Rattled",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

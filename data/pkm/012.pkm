@@ -1,272 +1,277 @@
 {
-  "YellowEntry": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
-  "EmeraldEntry": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
-  "ability1": "Compound Eyes",
-  "AlphaSapphireEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-  "hp": 60,
-  "SilverEntry": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
   "number": 12,
-  "MoonEntry": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
-  "spatk": 90,
-  "UltraSunEntry": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
-  "atk": 45,
-  "RedEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-  "height": "1.1m",
-  "type2": "Flying",
-  "WhiteEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "eggGroup2": "",
-  "spd": 70,
-  "CrystalEntry": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
-  "weight": "32.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlueEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-  "dfs": 50,
-  "GoldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-  "SapphireEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-  "12Entry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
-  "DiamondEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+  "Entry": {
+    "Shield": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "Moon": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
+    "Black": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Black2": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "FireRed": "The wings are protected by a rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+    "HearthGold": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "Sword": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "Sapphire": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "Platinum": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Emerald": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+    "X": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Y": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+    "Ruby": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "Soulsilver": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+    "AlphaSapphire": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "Gold": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "UltraMoon": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
+    "Blue": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "LetsGoPikachu": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+    "White2": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Diamond": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "UltraSun": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+    "Sun": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+    "OmegaRuby": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "Red": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+    "Pearl": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Silver": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+    "White": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "Yellow": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
+    "LeafGreen": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "LetsGoEevee": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+    "Crystal": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Pollen Puff",
+        "technical": "TR96"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Gust",
+        "lvl": "0"
+      },
+      {
+        "move": "Gust",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "String Shot",
+        "lvl": "1"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Supersonic",
+        "lvl": "4"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "8"
+      },
+      {
+        "move": "Poison Powder",
+        "lvl": "12"
+      },
+      {
+        "move": "Stun Spore",
+        "lvl": "12"
+      },
+      {
+        "move": "Sleep Powder",
+        "lvl": "12"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "16"
+      },
+      {
+        "move": "Whirlwind",
+        "lvl": "20"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "24"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "28"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "32"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "36"
+      },
+      {
+        "move": "Rage Powder",
+        "lvl": "40"
+      },
+      {
+        "move": "Quiver Dance",
+        "lvl": "44"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "32.0kg",
+    "category": "Butterfly Pokémon",
+    "height": "1.1m"
+  },
   "name": "Butterfree",
-  "spdfs": 80,
-  "ShieldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-  "extraMega": false,
-  "HearthGoldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-  "YEntry": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
-  "SunEntry": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": true,
-  "XEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "PlatinumEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "abilityHidden": "Tinted Lens",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "0"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "4"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "8"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "12"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "12"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "16"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "28"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "32"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "36"
-    },
-    {
-      "move": "Rage Powder",
-      "lvl": "40"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "44"
-    }
-  ],
-  "RubyEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-  "BlackEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "OmegaRubyEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-  "LetsGoEeveeEntry": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
-  "colour": "White",
-  "SoulsilverEntry": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
-  "FireRedEntry": "The wings are protected by a rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
-  "White2Entry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "SwordEntry": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-  "PearlEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "category": "Butterfly Pokémon",
-  "LeafGreenEntry": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-  "Black2Entry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 90,
+    "spd": 70,
+    "hp": 60,
+    "atk": 45,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Compound Eyes",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Tinted Lens",
+    "ability2": "",
+    "type1": "Bug"
+  },
+  "hasGigantamax": true
 }

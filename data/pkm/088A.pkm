@@ -1,23 +1,31 @@
 {
-  "ability1": "Poison Touch",
-  "type2": "Dark",
-  "eggGroup2": "",
-  "spd": 25,
-  "hp": 80,
-  "SunEntry": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
-  "eggGroup1": "Amorphous",
-  "ability2": "Gluttony",
-  "type1": "Poison",
-  "dfs": 50,
-  "UltraMoonEntry": "Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash.",
   "number": 88,
-  "MoonEntry": "The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.",
-  "LetsGoEeveeEntry": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
-  "spatk": 40,
-  "UltraSunEntry": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
-  "LetsGoPikachuEntry": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
+  "Entry": {
+    "UltraMoon": "Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash.",
+    "Moon": "The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.",
+    "LetsGoPikachu": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
+    "UltraSun": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
+    "Sun": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+    "LetsGoEevee": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison."
+  },
+  "Moves": {},
   "name": "Alolan Grimer",
-  "atk": 80,
-  "abilityHidden": "Power of Alchemy",
-  "spdfs": 50
+  "Stats": {
+    "dfs": 50,
+    "spatk": 40,
+    "spd": 25,
+    "hp": 80,
+    "atk": 80,
+    "spdfs": 50
+  },
+  "Flair": {},
+  "Biology": {
+    "ability1": "Poison Touch",
+    "type2": "Dark",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Power of Alchemy",
+    "ability2": "Gluttony",
+    "type1": "Poison"
+  }
 }

@@ -1,308 +1,313 @@
 {
-  "YellowEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
-  "EmeraldEntry": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
-  "ability1": "Limber",
-  "AlphaSapphireEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-  "hp": 50,
-  "SilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
-  "ability2": "Reckless",
-  "eggMoves": [],
   "number": 106,
-  "spatk": 35,
-  "atk": 120,
-  "RedEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
-  "height": "1.5m",
-  "type2": "",
-  "WhiteEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
-  "eggGroup2": "",
-  "spd": 87,
-  "CrystalEntry": "It is also called the Kick Master. It uses its elastic legs to execute every known kick.",
-  "weight": "49.8kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Fighting",
-  "hasGalarian": false,
-  "BlueEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
-  "dfs": 53,
-  "GoldEntry": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
-  "SapphireEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
-  "DiamondEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+  "Entry": {
+    "Shield": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+    "Black": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "Black2": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "FireRed": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+    "HearthGold": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "Sword": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "Sapphire": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "Platinum": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "Emerald": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+    "X": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+    "Y": "If it starts kicking repeatedly, both legs will stretch to strike a fleeing foe.",
+    "Ruby": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "Soulsilver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+    "AlphaSapphire": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "Gold": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "Blue": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "LetsGoPikachu": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+    "White2": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "Diamond": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "OmegaRuby": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "Red": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "Pearl": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "Silver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+    "White": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "Yellow": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+    "LeafGreen": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides.",
+    "LetsGoEevee": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+    "Crystal": "It is also called the Kick Master. It uses its elastic legs to execute every known kick."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Blaze Kick",
+        "technical": "TR41"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Brick Break",
+        "lvl": "0"
+      },
+      {
+        "move": "Brick Break",
+        "lvl": "1"
+      },
+      {
+        "move": "Feint",
+        "lvl": "1"
+      },
+      {
+        "move": "Low Sweep",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Out",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "4"
+      },
+      {
+        "move": "Low Kick",
+        "lvl": "8"
+      },
+      {
+        "move": "Endure",
+        "lvl": "12"
+      },
+      {
+        "move": "Revenge",
+        "lvl": "16"
+      },
+      {
+        "move": "Wide Guard",
+        "lvl": "21"
+      },
+      {
+        "move": "Blaze Kick",
+        "lvl": "24"
+      },
+      {
+        "move": "Mind Reader",
+        "lvl": "28"
+      },
+      {
+        "move": "Mega Kick",
+        "lvl": "32"
+      },
+      {
+        "move": "Close Combat",
+        "lvl": "36"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "40"
+      },
+      {
+        "move": "High Jump Kick",
+        "lvl": "44"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "49.8kg",
+    "category": "Kicking Pokémon",
+    "height": "1.5m"
+  },
   "name": "Hitmonlee",
-  "spdfs": 110,
-  "ShieldEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
-  "extraMega": false,
-  "HearthGoldEntry": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
-  "YEntry": "If it starts kicking repeatedly, both legs will stretch to strike a fleeing foe.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Blaze Kick",
-      "technical": "TR41"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
-  "106Entry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-  "PlatinumEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
-  "abilityHidden": "Unburden",
-  "lvlUpMoves": [
-    {
-      "move": "Brick Break",
-      "lvl": "0"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Low Sweep",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "4"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "8"
-    },
-    {
-      "move": "Endure",
-      "lvl": "12"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "16"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "21"
-    },
-    {
-      "move": "Blaze Kick",
-      "lvl": "24"
-    },
-    {
-      "move": "Mind Reader",
-      "lvl": "28"
-    },
-    {
-      "move": "Mega Kick",
-      "lvl": "32"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "36"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "40"
-    },
-    {
-      "move": "High Jump Kick",
-      "lvl": "44"
-    }
-  ],
-  "RubyEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-  "BlackEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
-  "OmegaRubyEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-  "LetsGoEeveeEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
-  "colour": "Brown",
-  "SoulsilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
-  "FireRedEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
-  "White2Entry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
-  "SwordEntry": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
-  "PearlEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
-  "category": "Kicking Pokémon",
-  "LeafGreenEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides.",
-  "Black2Entry": "Its legs can stretch double. First-time foes are startled by its extensible reach."
+  "Stats": {
+    "dfs": 53,
+    "spatk": 35,
+    "spd": 87,
+    "hp": 50,
+    "atk": 120,
+    "spdfs": 110
+  },
+  "Biology": {
+    "ability1": "Limber",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Unburden",
+    "ability2": "Reckless",
+    "type1": "Fighting"
+  },
+  "hasGigantamax": false
 }

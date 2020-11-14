@@ -1,291 +1,297 @@
 {
-  "ShieldEntry": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
-  "extraMega": false,
-  "ability1": "Defiant",
-  "YEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-  "AlphaSapphireEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-  "hp": 65,
-  "ability2": "Inner Focus",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-  "UltraMoonEntry": "It leads a group of Pawniard. Bisharp doesn't even change its expression when it deals the finishing blow to an opponent.",
   "number": 625,
-  "spatk": 60,
-  "UltraSunEntry": "No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
-  "atk": 125,
-  "abilityHidden": "Pressure",
-  "height": "1.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Metal Burst",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Torment",
-      "lvl": "15"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "25"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "30"
-    },
-    {
-      "move": "Slash",
-      "lvl": "35"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "45"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "50"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "57"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "64"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "71"
-    }
-  ],
-  "type2": "Steel",
-  "WhiteEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-  "eggGroup2": "",
-  "spd": 70,
-  "weight": "70.0kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "BlackEntry": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
-  "OmegaRubyEntry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-  "dfs": 100,
-  "colour": "Red",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+    "White": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+    "UltraMoon": "It leads a group of Pawniard. Bisharp doesn't even change its expression when it deals the finishing blow to an opponent.",
+    "Sword": "It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+    "Shield": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+    "X": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "White2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "Y": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+    "UltraSun": "No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
+    "Black": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+    "Black2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "OmegaRuby": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Metal Burst",
+        "lvl": "1"
+      },
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "1"
+      },
+      {
+        "move": "Torment",
+        "lvl": "15"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "20"
+      },
+      {
+        "move": "Assurance",
+        "lvl": "25"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "30"
+      },
+      {
+        "move": "Slash",
+        "lvl": "35"
+      },
+      {
+        "move": "Night Slash",
+        "lvl": "40"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "45"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "50"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "57"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "64"
+      },
+      {
+        "move": "Guillotine",
+        "lvl": "71"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "70.0kg",
+    "category": "Sword Blade Pokémon",
+    "height": "1.6m"
+  },
   "name": "Bisharp",
-  "White2Entry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-  "SwordEntry": "It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
-  "spdfs": 70,
-  "category": "Sword Blade Pokémon",
-  "Black2Entry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 60,
+    "spd": 70,
+    "hp": 65,
+    "atk": 125,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Defiant",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Pressure",
+    "ability2": "Inner Focus",
+    "type1": "Dark"
+  },
+  "hasGigantamax": false
 }

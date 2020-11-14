@@ -1,295 +1,301 @@
 {
-  "EmeraldEntry": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.",
-  "ability1": "Marvel Scale",
-  "AlphaSapphireEntry": "Milotic live at the bottom of large lakes. When this Pokémon\u2019s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.",
-  "hp": 95,
-  "ability2": "Competitive",
-  "eggMoves": [],
-  "UltraMoonEntry": "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
   "number": 350,
-  "MoonEntry": "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts.",
-  "spatk": 100,
-  "UltraSunEntry": "While Milotic is said to be the most beautiful Pokémon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.",
-  "atk": 60,
-  "height": "6.2m",
-  "type2": "",
-  "WhiteEntry": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-  "eggGroup2": "Dragon",
-  "spd": 81,
-  "weight": "162.0kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 79,
-  "SapphireEntry": "Milotic live at the bottom of large lakes. When this Pokémon's body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
-  "hasAlolan": false,
-  "DiamondEntry": "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
+  "Entry": {
+    "AlphaSapphire": "Milotic live at the bottom of large lakes. When this Pokémon\u2019s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.",
+    "UltraMoon": "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
+    "Shield": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.",
+    "Moon": "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts.",
+    "White2": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "Diamond": "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
+    "UltraSun": "While Milotic is said to be the most beautiful Pokémon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.",
+    "Black": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "Black2": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "FireRed": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+    "Sun": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
+    "HearthGold": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.",
+    "OmegaRuby": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+    "Pearl": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
+    "White": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "Sword": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
+    "Sapphire": "Milotic live at the bottom of large lakes. When this Pokémon's body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+    "LeafGreen": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+    "Platinum": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "Emerald": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.",
+    "X": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+    "Y": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
+    "Ruby": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+    "Soulsilver": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Water Pulse",
+        "lvl": "0"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "1"
+      },
+      {
+        "move": "Flail",
+        "lvl": "1"
+      },
+      {
+        "move": "Splash",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Disarming Voice",
+        "lvl": "4"
+      },
+      {
+        "move": "Twister",
+        "lvl": "8"
+      },
+      {
+        "move": "Aqua Ring",
+        "lvl": "12"
+      },
+      {
+        "move": "Attract",
+        "lvl": "16"
+      },
+      {
+        "move": "Life Dew",
+        "lvl": "20"
+      },
+      {
+        "move": "Dragon Tail",
+        "lvl": "24"
+      },
+      {
+        "move": "Recover",
+        "lvl": "28"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "32"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "36"
+      },
+      {
+        "move": "Surf",
+        "lvl": "40"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "44"
+      },
+      {
+        "move": "Coil",
+        "lvl": "48"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "52"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "162.0kg",
+    "category": "Tender Pokémon",
+    "height": "6.2m"
+  },
   "name": "Milotic",
-  "spdfs": 125,
-  "ShieldEntry": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.",
-  "extraMega": false,
-  "HearthGoldEntry": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.",
-  "YEntry": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
-  "SunEntry": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-  "PlatinumEntry": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-  "abilityHidden": "Cute Charm",
-  "lvlUpMoves": [
-    {
-      "move": "Water Pulse",
-      "lvl": "0"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "4"
-    },
-    {
-      "move": "Twister",
-      "lvl": "8"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "12"
-    },
-    {
-      "move": "Attract",
-      "lvl": "16"
-    },
-    {
-      "move": "Life Dew",
-      "lvl": "20"
-    },
-    {
-      "move": "Dragon Tail",
-      "lvl": "24"
-    },
-    {
-      "move": "Recover",
-      "lvl": "28"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "32"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "36"
-    },
-    {
-      "move": "Surf",
-      "lvl": "40"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "44"
-    },
-    {
-      "move": "Coil",
-      "lvl": "48"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "52"
-    }
-  ],
-  "RubyEntry": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
-  "BlackEntry": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-  "OmegaRubyEntry": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
-  "colour": "Pink",
-  "SoulsilverEntry": "It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.",
-  "FireRedEntry": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-  "White2Entry": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
-  "SwordEntry": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
-  "PearlEntry": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
-  "category": "Tender Pokémon",
-  "LeafGreenEntry": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
-  "Black2Entry": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle."
+  "Stats": {
+    "dfs": 79,
+    "spatk": 100,
+    "spd": 81,
+    "hp": 95,
+    "atk": 60,
+    "spdfs": 125
+  },
+  "Biology": {
+    "ability1": "Marvel Scale",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Cute Charm",
+    "ability2": "Competitive",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

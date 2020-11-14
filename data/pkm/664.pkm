@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Shield Dust",
-  "YEntry": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
-  "AlphaSapphireEntry": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
-  "hp": 38,
-  "ability2": "Compound Eyes",
-  "hasGigantamax": false,
-  "XEntry": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
   "number": 664,
-  "spatk": 27,
-  "atk": 35,
-  "abilityHidden": "Friend Guard",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 35,
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
-  "dfs": 40,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "X": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",
+    "Y": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "OmegaRuby": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact."
+  },
+  "Moves": {},
+  "Flair": {"category": "Scatterdust Pokémon"},
   "name": "Scatterbug",
-  "spdfs": 25,
-  "category": "Scatterdust Pokémon"
+  "Stats": {
+    "dfs": 40,
+    "spatk": 27,
+    "spd": 35,
+    "hp": 38,
+    "atk": 35,
+    "spdfs": 25
+  },
+  "Biology": {
+    "ability1": "Shield Dust",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Friend Guard",
+    "ability2": "Compound Eyes",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

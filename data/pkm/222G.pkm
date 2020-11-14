@@ -1,279 +1,288 @@
 {
-  "ShieldEntry": "Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "5"
-    },
-    {
-      "move": "Disable",
-      "lvl": "10"
-    },
-    {
-      "move": "Spite",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "20"
-    },
-    {
-      "move": "Hex",
-      "lvl": "25"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Strength Sap",
-      "lvl": "35"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "40"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "45"
-    },
-    {
-      "move": "Grudge",
-      "lvl": "50"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "55"
-    }
-  ],
-  "ability1": "Weak Armor",
-  "type2": "",
-  "eggGroup2": "Water 3",
-  "spd": 30,
-  "hp": 60,
-  "eggGroup1": "Water 1",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Icicle Spear",
-      "technical": "TM51"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "type1": "Ghost",
-  "dfs": 100,
-  "eggMoves": [
-    {"move": "Confuse Ray"},
-    {"move": "Destiny Bond"},
-    {"move": "Haze"},
-    {"move": "Head Smash"},
-    {"move": "Nature Power"},
-    {"move": "Water Pulse"}
-  ],
   "number": 222,
-  "spatk": 65,
+  "Entry": {
+    "Sword": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.",
+    "Shield": "Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Icicle Spear",
+        "technical": "TM51"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Power Gem",
+        "technical": "TR63"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "5"
+      },
+      {
+        "move": "Disable",
+        "lvl": "10"
+      },
+      {
+        "move": "Spite",
+        "lvl": "15"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "20"
+      },
+      {
+        "move": "Hex",
+        "lvl": "25"
+      },
+      {
+        "move": "Curse",
+        "lvl": "30"
+      },
+      {
+        "move": "Strength Sap",
+        "lvl": "35"
+      },
+      {
+        "move": "Power Gem",
+        "lvl": "40"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "45"
+      },
+      {
+        "move": "Grudge",
+        "lvl": "50"
+      },
+      {
+        "move": "Mirror Coat",
+        "lvl": "55"
+      }
+    ],
+    "egg": [
+      {"move": "Confuse Ray"},
+      {"move": "Destiny Bond"},
+      {"move": "Haze"},
+      {"move": "Head Smash"},
+      {"move": "Nature Power"},
+      {"move": "Water Pulse"}
+    ]
+  },
   "name": "Galarian Corsola",
-  "atk": 55,
-  "SwordEntry": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.",
-  "abilityHidden": "Cursed Body",
-  "spdfs": 100
+  "Stats": {
+    "dfs": 100,
+    "spatk": 65,
+    "spd": 30,
+    "hp": 60,
+    "atk": 55,
+    "spdfs": 100
+  },
+  "Flair": {},
+  "Biology": {
+    "ability1": "Weak Armor",
+    "type2": "",
+    "eggGroup2": "Water 3",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Cursed Body",
+    "ability2": "",
+    "type1": "Ghost"
+  }
 }

@@ -1,297 +1,303 @@
 {
-  "ShieldEntry": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
-  "extraMega": false,
-  "ability1": "Shadow Shield",
-  "hp": 137,
-  "SunEntry": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "UltraMoonEntry": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
   "number": 792,
-  "MoonEntry": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
-  "spatk": 137,
-  "UltraSunEntry": "Records of it exist in writings from long, long ago, where it was known by the name \u201cthe beast that calls the moon.\u201d",
-  "atk": 113,
-  "abilityHidden": "",
-  "height": "4.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Moongeist Beam",
-      "lvl": "0"
-    },
-    {
-      "move": "Moongeist Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "7"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "14"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "21"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "28"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "35"
-    },
-    {
-      "move": "Night Daze",
-      "lvl": "42"
-    },
-    {
-      "move": "Magic Coat",
-      "lvl": "49"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "56"
-    },
-    {
-      "move": "Phantom Force",
-      "lvl": "63"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "70"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "77"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "84"
-    }
-  ],
-  "type2": "Ghost",
-  "eggGroup2": "",
-  "spd": 97,
-  "weight": "120.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "dfs": 89,
-  "colour": "Purple",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
+    "Sword": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+    "Shield": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
+    "Moon": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
+    "UltraSun": "Records of it exist in writings from long, long ago, where it was known by the name \u201cthe beast that calls the moon.\u201d",
+    "Sun": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Acrobatics",
+        "technical": "TM78"
+      },
+      {
+        "move": "Phantom Force",
+        "technical": "TM86"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Cosmic Power",
+        "technical": "TR44"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Moongeist Beam",
+        "lvl": "0"
+      },
+      {
+        "move": "Moongeist Beam",
+        "lvl": "1"
+      },
+      {
+        "move": "Cosmic Power",
+        "lvl": "1"
+      },
+      {
+        "move": "Teleport",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "1"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "7"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "14"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "21"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "28"
+      },
+      {
+        "move": "Moonlight",
+        "lvl": "35"
+      },
+      {
+        "move": "Night Daze",
+        "lvl": "42"
+      },
+      {
+        "move": "Magic Coat",
+        "lvl": "49"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "56"
+      },
+      {
+        "move": "Phantom Force",
+        "lvl": "63"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "70"
+      },
+      {
+        "move": "Wide Guard",
+        "lvl": "77"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "84"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "120.0kg",
+    "category": "Moone Pokémon",
+    "height": "4.0m"
+  },
   "name": "Lunala",
-  "SwordEntry": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
-  "spdfs": 107,
-  "category": "Moone Pokémon"
+  "Stats": {
+    "dfs": 89,
+    "spatk": 137,
+    "spd": 97,
+    "hp": 137,
+    "atk": 113,
+    "spdfs": 107
+  },
+  "Biology": {
+    "ability1": "Shadow Shield",
+    "type2": "Ghost",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

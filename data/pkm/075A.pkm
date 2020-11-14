@@ -1,23 +1,31 @@
 {
-  "ability1": "Magnet Pull",
-  "type2": "Electric",
-  "eggGroup2": "",
-  "spd": 35,
-  "hp": 55,
-  "SunEntry": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.",
-  "eggGroup1": "Mineral",
-  "ability2": "Sturdy",
-  "type1": "Rock",
-  "dfs": 115,
-  "UltraMoonEntry": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
   "number": 75,
-  "MoonEntry": "They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.",
-  "LetsGoEeveeEntry": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
-  "spatk": 45,
-  "UltraSunEntry": "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the \u201cfireworks of the earth.\u201d",
-  "LetsGoPikachuEntry": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+  "Entry": {
+    "UltraMoon": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
+    "Moon": "They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.",
+    "LetsGoPikachu": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+    "UltraSun": "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the \u201cfireworks of the earth.\u201d",
+    "Sun": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.",
+    "LetsGoEevee": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
+  },
+  "Moves": {},
   "name": "Alolan Graveler",
-  "atk": 95,
-  "abilityHidden": "Galvanize",
-  "spdfs": 45
+  "Stats": {
+    "dfs": 115,
+    "spatk": 45,
+    "spd": 35,
+    "hp": 55,
+    "atk": 95,
+    "spdfs": 45
+  },
+  "Flair": {},
+  "Biology": {
+    "ability1": "Magnet Pull",
+    "type2": "Electric",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Galvanize",
+    "ability2": "Sturdy",
+    "type1": "Rock"
+  }
 }

@@ -1,393 +1,398 @@
 {
-  "YellowEntry": "A gentle and kind-hearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
-  "EmeraldEntry": "Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those people who have lost their appetite.",
-  "ability1": "Natural Cure",
-  "AlphaSapphireEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
-  "hp": 250,
-  "SilverEntry": "Few in numbers and difficult to capture, it is said to bring happiness to the trainer who catches it.",
-  "ability2": "Serene Grace",
-  "eggMoves": [
-    {"move": "Aromatherapy"},
-    {"move": "Gravity"},
-    {"move": "Present"},
-    {"move": "Seismic Toss"}
-  ],
-  "UltraMoonEntry": "Because the eggs on their bellies have been overharvested by people in the past, the Chansey population remains very small.",
   "number": 113,
-  "MoonEntry": "Not only are these Pokémon fast runners, they're also few in number, so anyone who finds one must be lucky indeed.",
-  "spatk": 35,
-  "UltraSunEntry": "It seems that other Pokémon's efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
-  "atk": 5,
-  "RedEntry": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
-  "height": "1.1m",
-  "type2": "",
-  "WhiteEntry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
-  "eggGroup2": "",
-  "spd": 50,
-  "CrystalEntry": "People try to catch it for its extremely nutritious eggs, but it rarely can be found.",
-  "weight": "34.6kg",
-  "eggGroup1": "Fairy",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "113Entry": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
-  "BlueEntry": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
-  "dfs": 5,
-  "GoldEntry": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
-  "SapphireEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
-  "DiamondEntry": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+  "Entry": {
+    "Shield": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
+    "Moon": "Not only are these Pokémon fast runners, they're also few in number, so anyone who finds one must be lucky indeed.",
+    "Black": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "Black2": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "FireRed": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
+    "HearthGold": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+    "Sword": "The egg Chansey carries is not only delicious but also packed with nutrition. It's used as a high-class cooking ingredient.",
+    "Sapphire": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+    "Platinum": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "Emerald": "Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those people who have lost their appetite.",
+    "X": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+    "Y": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
+    "Ruby": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+    "Soulsilver": "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it.",
+    "AlphaSapphire": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+    "Gold": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+    "UltraMoon": "Because the eggs on their bellies have been overharvested by people in the past, the Chansey population remains very small.",
+    "Blue": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
+    "LetsGoPikachu": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+    "White2": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "Diamond": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+    "UltraSun": "It seems that other Pokémon's efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+    "Sun": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
+    "OmegaRuby": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+    "Red": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
+    "Pearl": "It lays several eggs a day and won't share them with those who have evil in their hearts.",
+    "Silver": "Few in numbers and difficult to capture, it is said to bring happiness to the trainer who catches it.",
+    "White": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "Yellow": "A gentle and kind-hearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+    "LeafGreen": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
+    "LetsGoEevee": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+    "Crystal": "People try to catch it for its extremely nutritious eggs, but it rarely can be found."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Sweet Kiss",
+        "lvl": "1"
+      },
+      {
+        "move": "Disarming Voice",
+        "lvl": "1"
+      },
+      {
+        "move": "Covet",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Minimize",
+        "lvl": "1"
+      },
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Copycat",
+        "lvl": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "4"
+      },
+      {
+        "move": "Echoed Voice",
+        "lvl": "8"
+      },
+      {
+        "move": "Life Dew",
+        "lvl": "12"
+      },
+      {
+        "move": "Sing",
+        "lvl": "16"
+      },
+      {
+        "move": "Fling",
+        "lvl": "20"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "24"
+      },
+      {
+        "move": "Heal Pulse",
+        "lvl": "28"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "32"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "36"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "40"
+      },
+      {
+        "move": "Soft-Boiled",
+        "lvl": "44"
+      },
+      {
+        "move": "Last Resort",
+        "lvl": "48"
+      },
+      {
+        "move": "Healing Wish",
+        "lvl": "52"
+      }
+    ],
+    "egg": [
+      {"move": "Aromatherapy"},
+      {"move": "Gravity"},
+      {"move": "Present"},
+      {"move": "Seismic Toss"}
+    ]
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "34.6kg",
+    "category": "Egg Pokémon",
+    "height": "1.1m"
+  },
   "name": "Chansey",
-  "spdfs": 105,
-  "ShieldEntry": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
-  "extraMega": false,
-  "HearthGoldEntry": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
-  "YEntry": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
-  "SunEntry": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
-  "PlatinumEntry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
-  "abilityHidden": "Healer",
-  "lvlUpMoves": [
-    {
-      "move": "Sweet Kiss",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "4"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "8"
-    },
-    {
-      "move": "Life Dew",
-      "lvl": "12"
-    },
-    {
-      "move": "Sing",
-      "lvl": "16"
-    },
-    {
-      "move": "Fling",
-      "lvl": "20"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "28"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "32"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "36"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "40"
-    },
-    {
-      "move": "Soft-Boiled",
-      "lvl": "44"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "48"
-    },
-    {
-      "move": "Healing Wish",
-      "lvl": "52"
-    }
-  ],
-  "RubyEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
-  "BlackEntry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
-  "OmegaRubyEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
-  "LetsGoEeveeEntry": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
-  "colour": "Pink",
-  "SoulsilverEntry": "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it.",
-  "FireRedEntry": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
-  "White2Entry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
-  "SwordEntry": "The egg Chansey carries is not only delicious but also packed with nutrition. It's used as a high-class cooking ingredient.",
-  "PearlEntry": "It lays several eggs a day and won't share them with those who have evil in their hearts.",
-  "category": "Egg Pokémon",
-  "LeafGreenEntry": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
-  "Black2Entry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people."
+  "Stats": {
+    "dfs": 5,
+    "spatk": 35,
+    "spd": 50,
+    "hp": 250,
+    "atk": 5,
+    "spdfs": 105
+  },
+  "Biology": {
+    "ability1": "Natural Cure",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Fairy",
+    "abilityHidden": "Healer",
+    "ability2": "Serene Grace",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

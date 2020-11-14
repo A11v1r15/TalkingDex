@@ -1,269 +1,275 @@
 {
-  "ShieldEntry": "The karate chops of a Sawk that's trained itself to the limit can cleave the ocean itself.",
-  "extraMega": false,
-  "ability1": "Sturdy",
-  "YEntry": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-  "AlphaSapphireEntry": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-  "hp": 75,
-  "ability2": "Inner Focus",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
   "number": 539,
-  "spatk": 30,
-  "atk": 125,
-  "abilityHidden": "Mold Breaker",
-  "height": "1.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Rock Smash",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "5"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "10"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "15"
-    },
-    {
-      "move": "Low Sweep",
-      "lvl": "20"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "25"
-    },
-    {
-      "move": "Retaliate",
-      "lvl": "30"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "35"
-    },
-    {
-      "move": "Counter",
-      "lvl": "40"
-    },
-    {
-      "move": "Endure",
-      "lvl": "45"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "50"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "55"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
-  "eggGroup2": "",
-  "spd": 85,
-  "weight": "51.0kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Fighting",
-  "hasGalarian": false,
-  "BlackEntry": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
-  "OmegaRubyEntry": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-  "dfs": 75,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+    "White": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+    "Sword": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it's best to quietly pass by.",
+    "Shield": "The karate chops of a Sawk that's trained itself to the limit can cleave the ocean itself.",
+    "X": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+    "White2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+    "Y": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+    "Black": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+    "Black2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+    "OmegaRuby": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Rock Smash",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "5"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "10"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "15"
+      },
+      {
+        "move": "Low Sweep",
+        "lvl": "20"
+      },
+      {
+        "move": "Bulk Up",
+        "lvl": "25"
+      },
+      {
+        "move": "Retaliate",
+        "lvl": "30"
+      },
+      {
+        "move": "Brick Break",
+        "lvl": "35"
+      },
+      {
+        "move": "Counter",
+        "lvl": "40"
+      },
+      {
+        "move": "Endure",
+        "lvl": "45"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "50"
+      },
+      {
+        "move": "Close Combat",
+        "lvl": "55"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "51.0kg",
+    "category": "Karate Pokémon",
+    "height": "1.4m"
+  },
   "name": "Sawk",
-  "White2Entry": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
-  "SwordEntry": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it's best to quietly pass by.",
-  "spdfs": 75,
-  "category": "Karate Pokémon",
-  "Black2Entry": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+  "Stats": {
+    "dfs": 75,
+    "spatk": 30,
+    "spd": 85,
+    "hp": 75,
+    "atk": 125,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Sturdy",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Mold Breaker",
+    "ability2": "Inner Focus",
+    "type1": "Fighting"
+  },
+  "hasGigantamax": false
 }

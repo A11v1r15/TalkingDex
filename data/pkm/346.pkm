@@ -1,265 +1,271 @@
 {
-  "EmeraldEntry": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.",
-  "ability1": "Suction Cups",
-  "AlphaSapphireEntry": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
-  "hp": 86,
-  "ability2": "",
-  "UltraMoonEntry": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
-  "eggMoves": [],
   "number": 346,
-  "spatk": 81,
-  "UltraSunEntry": "Normally, it lived on shallow sea shoals. When the tide went out, this Pokémon came up on land to search for prey.",
-  "atk": 81,
-  "height": "1.5m",
-  "type2": "Grass",
-  "WhiteEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
-  "eggGroup2": "",
-  "spd": 43,
-  "weight": "60.4kg",
-  "eggGroup1": "Water 3",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "dfs": 97,
-  "SapphireEntry": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
-  "hasAlolan": false,
-  "DiamondEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+  "Entry": {
+    "AlphaSapphire": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
+    "UltraMoon": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
+    "Shield": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+    "White2": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "Diamond": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "UltraSun": "Normally, it lived on shallow sea shoals. When the tide went out, this Pokémon came up on land to search for prey.",
+    "Black": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "Black2": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "FireRed": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+    "HearthGold": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather.",
+    "OmegaRuby": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+    "Pearl": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "White": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "Sword": "It has short legs and can't walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
+    "Sapphire": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles.",
+    "LeafGreen": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+    "Platinum": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
+    "Emerald": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.",
+    "X": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+    "Y": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+    "Ruby": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+    "Soulsilver": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Power Whip",
+        "technical": "TR72"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Leech Seed",
+        "lvl": "1"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Acid",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "12"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "16"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "20"
+      },
+      {
+        "move": "Brine",
+        "lvl": "24"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "28"
+      },
+      {
+        "move": "Gastro Acid",
+        "lvl": "32"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "36"
+      },
+      {
+        "move": "Stockpile",
+        "lvl": "43"
+      },
+      {
+        "move": "Spit Up",
+        "lvl": "43"
+      },
+      {
+        "move": "Swallow",
+        "lvl": "43"
+      },
+      {
+        "move": "Energy Ball",
+        "lvl": "48"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "60.4kg",
+    "category": "Barnacle Pokémon",
+    "height": "1.5m"
+  },
   "name": "Cradily",
-  "spdfs": 107,
-  "ShieldEntry": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
-  "extraMega": false,
-  "HearthGoldEntry": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather.",
-  "YEntry": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
-  "PlatinumEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
-  "abilityHidden": "Storm Drain",
-  "lvlUpMoves": [
-    {
-      "move": "Leech Seed",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "12"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "28"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "32"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "36"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "43"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "43"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "43"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
-  "BlackEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
-  "OmegaRubyEntry": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
-  "colour": "Green",
-  "SoulsilverEntry": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather.",
-  "FireRedEntry": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-  "White2Entry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
-  "SwordEntry": "It has short legs and can't walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
-  "PearlEntry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches.",
-  "category": "Barnacle Pokémon",
-  "LeafGreenEntry": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
-  "Black2Entry": "It lives in the shallows of warm seas. When the tide goes out, it digs up its prey from the beaches."
+  "Stats": {
+    "dfs": 97,
+    "spatk": 81,
+    "spd": 43,
+    "hp": 86,
+    "atk": 81,
+    "spdfs": 107
+  },
+  "Biology": {
+    "ability1": "Suction Cups",
+    "type2": "Grass",
+    "eggGroup2": "",
+    "eggGroup1": "Water 3",
+    "abilityHidden": "Storm Drain",
+    "ability2": "",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

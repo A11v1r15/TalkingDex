@@ -1,205 +1,211 @@
 {
-  "ShieldEntry": "Amoonguss generally doesn't move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
-  "extraMega": false,
-  "ability1": "Effect Spore",
-  "YEntry": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
-  "AlphaSapphireEntry": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
-  "hp": 114,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
   "number": 591,
-  "spatk": 85,
-  "atk": 85,
-  "abilityHidden": "Regenerator",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "1"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "16"
-    },
-    {
-      "move": "Clear Smog",
-      "lvl": "20"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "24"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "32"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "36"
-    },
-    {
-      "move": "Rage Powder",
-      "lvl": "42"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "48"
-    },
-    {
-      "move": "Spore",
-      "lvl": "54"
-    }
-  ],
-  "type2": "Poison",
-  "WhiteEntry": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
-  "eggGroup2": "",
-  "spd": 30,
-  "weight": "10.5kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
-  "OmegaRubyEntry": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
-  "dfs": 70,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "White": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+    "Sword": "This Pokémon puffs poisonous spores at its foes. If the spores aren't washed off quickly, they'll grow into mushrooms wherever they land.",
+    "Shield": "Amoonguss generally doesn't move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
+    "X": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+    "White2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+    "Y": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "Black": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "Black2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+    "OmegaRuby": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Pollen Puff",
+        "technical": "TR96"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Growth",
+        "lvl": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "lvl": "1"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "12"
+      },
+      {
+        "move": "Synthesis",
+        "lvl": "16"
+      },
+      {
+        "move": "Clear Smog",
+        "lvl": "20"
+      },
+      {
+        "move": "Sweet Scent",
+        "lvl": "24"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "28"
+      },
+      {
+        "move": "Ingrain",
+        "lvl": "32"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "36"
+      },
+      {
+        "move": "Rage Powder",
+        "lvl": "42"
+      },
+      {
+        "move": "Solar Beam",
+        "lvl": "48"
+      },
+      {
+        "move": "Spore",
+        "lvl": "54"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "10.5kg",
+    "category": "Mushroom Pokémon",
+    "height": "0.6m"
+  },
   "name": "Amoonguss",
-  "White2Entry": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
-  "SwordEntry": "This Pokémon puffs poisonous spores at its foes. If the spores aren't washed off quickly, they'll grow into mushrooms wherever they land.",
-  "spdfs": 80,
-  "category": "Mushroom Pokémon",
-  "Black2Entry": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places."
+  "Stats": {
+    "dfs": 70,
+    "spatk": 85,
+    "spd": 30,
+    "hp": 114,
+    "atk": 85,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Effect Spore",
+    "type2": "Poison",
+    "eggGroup2": "",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Regenerator",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

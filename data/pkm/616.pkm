@@ -1,194 +1,200 @@
 {
-  "ShieldEntry": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
-  "extraMega": false,
-  "ability1": "Hydration",
-  "YEntry": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-  "AlphaSapphireEntry": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-  "hp": 50,
-  "ability2": "Shell Armor",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Double"},
-    {"move": "Guard Split"},
-    {"move": "Mind Reader"},
-    {"move": "Feint"}
-  ],
-  "XEntry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
   "number": 616,
-  "spatk": 40,
-  "atk": 40,
-  "abilityHidden": "Overcoat",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "4"
-    },
-    {
-      "move": "Curse",
-      "lvl": "8"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "16"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "20"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "24"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "32"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "36"
-    },
-    {
-      "move": "Recover",
-      "lvl": "40"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "44"
-    },
-    {
-      "move": "Final Gambit",
-      "lvl": "48"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-  "eggGroup2": "",
-  "spd": 25,
-  "weight": "7.7kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
-  "OmegaRubyEntry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-  "dfs": 85,
-  "colour": "Red",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "White": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "Sword": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+    "Shield": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "X": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+    "White2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+    "Y": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "Black": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+    "Black2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+    "OmegaRuby": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Acid",
+        "lvl": "4"
+      },
+      {
+        "move": "Curse",
+        "lvl": "8"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "12"
+      },
+      {
+        "move": "Struggle Bug",
+        "lvl": "16"
+      },
+      {
+        "move": "Yawn",
+        "lvl": "20"
+      },
+      {
+        "move": "Acid Armor",
+        "lvl": "24"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "28"
+      },
+      {
+        "move": "Guard Swap",
+        "lvl": "32"
+      },
+      {
+        "move": "Body Slam",
+        "lvl": "36"
+      },
+      {
+        "move": "Recover",
+        "lvl": "40"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "44"
+      },
+      {
+        "move": "Final Gambit",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Double"},
+      {"move": "Guard Split"},
+      {"move": "Mind Reader"},
+      {"move": "Feint"}
+    ]
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "7.7kg",
+    "category": "Snail Pokémon",
+    "height": "0.4m"
+  },
   "name": "Shelmet",
-  "White2Entry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
-  "SwordEntry": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
-  "spdfs": 65,
-  "category": "Snail Pokémon",
-  "Black2Entry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+  "Stats": {
+    "dfs": 85,
+    "spatk": 40,
+    "spd": 25,
+    "hp": 50,
+    "atk": 40,
+    "spdfs": 65
+  },
+  "Biology": {
+    "ability1": "Hydration",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Overcoat",
+    "ability2": "Shell Armor",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

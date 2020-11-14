@@ -1,223 +1,229 @@
 {
-  "EmeraldEntry": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
-  "ability1": "Hyper Cutter",
-  "AlphaSapphireEntry": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
-  "hp": 45,
-  "ability2": "Arena Trap",
-  "eggMoves": [
-    {"move": "Quick Attack"},
-    {"move": "Gust"},
-    {"move": "Flail"},
-    {"move": "Fury Cutter"},
-    {"move": "Bug Bite"},
-    {"move": "Feint"},
-    {"move": "First Impression"}
-  ],
-  "UltraMoonEntry": "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
   "number": 328,
-  "MoonEntry": "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
-  "spatk": 45,
-  "UltraSunEntry": "Its jaws are strong enough to crush rocks but so heavy that it can't get up if it flips over. Sandile seize those moments as their chance.",
-  "atk": 100,
-  "height": "0.7m",
-  "type2": "",
-  "WhiteEntry": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-  "eggGroup2": "Dragon",
-  "spd": 10,
-  "weight": "15.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "dfs": 45,
-  "SapphireEntry": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
-  "hasAlolan": false,
-  "DiamondEntry": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+  "Entry": {
+    "AlphaSapphire": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
+    "UltraMoon": "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
+    "Shield": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+    "Moon": "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
+    "White2": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+    "Diamond": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "UltraSun": "Its jaws are strong enough to crush rocks but so heavy that it can't get up if it flips over. Sandile seize those moments as their chance.",
+    "Black": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "Black2": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+    "FireRed": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+    "Sun": "It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.",
+    "HearthGold": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+    "OmegaRuby": "Trapinch\u2019s nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+    "Pearl": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "White": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "Sword": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+    "Sapphire": "Trapinch is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This Pokémon can go a whole week without access to any water.",
+    "LeafGreen": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+    "Platinum": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "Emerald": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
+    "X": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+    "Y": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+    "Ruby": "Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+    "Soulsilver": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Sand Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "4"
+      },
+      {
+        "move": "Bite",
+        "lvl": "8"
+      },
+      {
+        "move": "Mud-Slap",
+        "lvl": "12"
+      },
+      {
+        "move": "Sand Tomb",
+        "lvl": "16"
+      },
+      {
+        "move": "Bulldoze",
+        "lvl": "20"
+      },
+      {
+        "move": "Dig",
+        "lvl": "24"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "28"
+      },
+      {
+        "move": "Sandstorm",
+        "lvl": "32"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "36"
+      },
+      {
+        "move": "Earthquake",
+        "lvl": "40"
+      },
+      {
+        "move": "Superpower",
+        "lvl": "44"
+      },
+      {
+        "move": "Fissure",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Quick Attack"},
+      {"move": "Gust"},
+      {"move": "Flail"},
+      {"move": "Fury Cutter"},
+      {"move": "Bug Bite"},
+      {"move": "Feint"},
+      {"move": "First Impression"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "15.0kg",
+    "category": "Ant Pit Pokémon",
+    "height": "0.7m"
+  },
   "name": "Trapinch",
-  "spdfs": 45,
-  "ShieldEntry": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-  "extraMega": false,
-  "HearthGoldEntry": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-  "YEntry": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-  "SunEntry": "It can live for a week without eating a thing. It waits patiently at the bottom of its nest for prey to appear.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-  "PlatinumEntry": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-  "abilityHidden": "Sheer Force",
-  "lvlUpMoves": [
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "4"
-    },
-    {
-      "move": "Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "12"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "16"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "20"
-    },
-    {
-      "move": "Dig",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "28"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "32"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "36"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "40"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "44"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "Trapinch's nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
-  "BlackEntry": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-  "OmegaRubyEntry": "Trapinch\u2019s nest is a sloped, bowl-like pit dug in sand. This Pokémon patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
-  "colour": "Brown",
-  "SoulsilverEntry": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-  "FireRedEntry": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-  "White2Entry": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
-  "SwordEntry": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
-  "PearlEntry": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
-  "category": "Ant Pit Pokémon",
-  "LeafGreenEntry": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
-  "Black2Entry": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down."
+  "Stats": {
+    "dfs": 45,
+    "spatk": 45,
+    "spd": 10,
+    "hp": 45,
+    "atk": 100,
+    "spdfs": 45
+  },
+  "Biology": {
+    "ability1": "Hyper Cutter",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Sheer Force",
+    "ability2": "Arena Trap",
+    "type1": "Ground"
+  },
+  "hasGigantamax": false
 }

@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Overgrow",
-  "YEntry": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
-  "AlphaSapphireEntry": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
-  "hp": 56,
-  "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
   "number": 650,
-  "spatk": 48,
-  "atk": 61,
-  "abilityHidden": "Bulletproof",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 38,
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
-  "dfs": 65,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
+    "X": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+    "Y": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
+    "OmegaRuby": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock."
+  },
+  "Moves": {},
+  "Flair": {"category": "Spiny Nut Pokémon"},
   "name": "Chespin",
-  "spdfs": 45,
-  "category": "Spiny Nut Pokémon"
+  "Stats": {
+    "dfs": 65,
+    "spatk": 48,
+    "spd": 38,
+    "hp": 56,
+    "atk": 61,
+    "spdfs": 45
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Bulletproof",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

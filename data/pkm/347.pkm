@@ -1,220 +1,226 @@
 {
-  "EmeraldEntry": "It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.",
-  "ability1": "Battle Armor",
-  "AlphaSapphireEntry": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
-  "hp": 45,
-  "ability2": "",
-  "UltraMoonEntry": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you'd expect.",
-  "eggMoves": [
-    {"move": "Knock Off"},
-    {"move": "Curse"},
-    {"move": "Rapid Spin"},
-    {"move": "Sand Attack"},
-    {"move": "Water Pulse"},
-    {"move": "Aqua Jet"}
-  ],
   "number": 347,
-  "spatk": 40,
-  "UltraSunEntry": "When restored Anorith are released into the ocean, they don't thrive, because the water composition has changed since their era.",
-  "atk": 95,
-  "height": "0.7m",
-  "type2": "Bug",
-  "WhiteEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "eggGroup2": "",
-  "spd": 75,
-  "weight": "12.5kg",
-  "eggGroup1": "Water 3",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "dfs": 50,
-  "SapphireEntry": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
-  "hasAlolan": false,
-  "DiamondEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+  "Entry": {
+    "AlphaSapphire": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
+    "UltraMoon": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you'd expect.",
+    "Shield": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+    "White2": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "Diamond": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "UltraSun": "When restored Anorith are released into the ocean, they don't thrive, because the water composition has changed since their era.",
+    "Black": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "Black2": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "FireRed": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
+    "HearthGold": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings.",
+    "OmegaRuby": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
+    "Pearl": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "White": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "Sword": "This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",
+    "Sapphire": "Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.",
+    "LeafGreen": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
+    "Platinum": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "Emerald": "It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.",
+    "X": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
+    "Y": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "Ruby": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
+    "Soulsilver": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Cross Poison",
+        "technical": "TM73"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "4"
+      },
+      {
+        "move": "Smack Down",
+        "lvl": "8"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "12"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "16"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Brine",
+        "lvl": "24"
+      },
+      {
+        "move": "Slash",
+        "lvl": "28"
+      },
+      {
+        "move": "Crush Claw",
+        "lvl": "32"
+      },
+      {
+        "move": "Rock Blast",
+        "lvl": "36"
+      },
+      {
+        "move": "Protect",
+        "lvl": "41"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "44"
+      }
+    ],
+    "egg": [
+      {"move": "Knock Off"},
+      {"move": "Curse"},
+      {"move": "Rapid Spin"},
+      {"move": "Sand Attack"},
+      {"move": "Water Pulse"},
+      {"move": "Aqua Jet"}
+    ]
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "12.5kg",
+    "category": "Old Shrimp Pokémon",
+    "height": "0.7m"
+  },
   "name": "Anorith",
-  "spdfs": 50,
-  "ShieldEntry": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
-  "extraMega": false,
-  "HearthGoldEntry": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings.",
-  "YEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-  "PlatinumEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "4"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "8"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "12"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Slash",
-      "lvl": "28"
-    },
-    {
-      "move": "Crush Claw",
-      "lvl": "32"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "36"
-    },
-    {
-      "move": "Protect",
-      "lvl": "41"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "44"
-    }
-  ],
-  "RubyEntry": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
-  "BlackEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "OmegaRubyEntry": "Anorith was regenerated from a prehistoric fossil. This primitive Pokémon once lived in warm seas. It grips its prey firmly between its two large claws.",
-  "colour": "Gray",
-  "SoulsilverEntry": "An ancestral Pokémon that lived in the ocean. Over time, its eight feet transformed into wings.",
-  "FireRedEntry": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-  "White2Entry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "SwordEntry": "This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",
-  "PearlEntry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
-  "category": "Old Shrimp Pokémon",
-  "LeafGreenEntry": "It is a kind of Pokémon progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
-  "Black2Entry": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws."
+  "Stats": {
+    "dfs": 50,
+    "spatk": 40,
+    "spd": 75,
+    "hp": 45,
+    "atk": 95,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Battle Armor",
+    "type2": "Bug",
+    "eggGroup2": "",
+    "eggGroup1": "Water 3",
+    "abilityHidden": "Swift Swim",
+    "ability2": "",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

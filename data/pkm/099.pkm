@@ -1,296 +1,301 @@
 {
-  "YellowEntry": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.",
-  "EmeraldEntry": "It waves its huge, over sized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.",
-  "ability1": "Hyper Cutter",
-  "AlphaSapphireEntry": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-  "hp": 55,
-  "SilverEntry": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
-  "ability2": "Shell Armor",
-  "eggMoves": [],
   "number": 99,
-  "spatk": 50,
-  "atk": 130,
-  "RedEntry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
-  "height": "1.3m",
-  "type2": "",
-  "WhiteEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
-  "eggGroup2": "",
-  "spd": 75,
-  "CrystalEntry": "Its over sized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
-  "weight": "60.0kg",
-  "eggGroup1": "Water 3",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
-  "dfs": 115,
-  "GoldEntry": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
-  "SapphireEntry": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
-  "99Entry": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-  "DiamondEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+  "Entry": {
+    "Shield": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+    "Black": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "Black2": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "FireRed": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    "HearthGold": "It can hardly lift its massive, overgrown pincer. The pincers size makes it difficult to aim properly.",
+    "Sword": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    "Sapphire": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+    "Platinum": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "Emerald": "It waves its huge, over sized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.",
+    "X": "The large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    "Y": "Its pincers grow particularly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+    "Ruby": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+    "Soulsilver": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+    "AlphaSapphire": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+    "Gold": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
+    "Blue": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "LetsGoPikachu": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
+    "White2": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "Diamond": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "OmegaRuby": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+    "Red": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+    "Pearl": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "Silver": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+    "White": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "Yellow": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.",
+    "LeafGreen": "The larger pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use.",
+    "LetsGoEevee": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
+    "Crystal": "Its over sized claw is very powerful, but when it's not in battle, the claw just gets in the way."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Razor Shell",
+        "technical": "TM83"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Wide Guard",
+        "lvl": "1"
+      },
+      {
+        "move": "Hammer Arm",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "1"
+      },
+      {
+        "move": "Mud Shot",
+        "lvl": "12"
+      },
+      {
+        "move": "Protect",
+        "lvl": "16"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "20"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "24"
+      },
+      {
+        "move": "Flail",
+        "lvl": "31"
+      },
+      {
+        "move": "Razor Shell",
+        "lvl": "36"
+      },
+      {
+        "move": "Slam",
+        "lvl": "42"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "48"
+      },
+      {
+        "move": "Crabhammer",
+        "lvl": "54"
+      },
+      {
+        "move": "Guillotine",
+        "lvl": "60"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "60.0kg",
+    "category": "Pincer Pokémon",
+    "height": "1.3m"
+  },
   "name": "Kingler",
-  "spdfs": 50,
-  "ShieldEntry": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
-  "extraMega": false,
-  "HearthGoldEntry": "It can hardly lift its massive, overgrown pincer. The pincers size makes it difficult to aim properly.",
-  "YEntry": "Its pincers grow particularly large. If it lifts the pincers too fast, it loses its balance and staggers.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": true,
-  "XEntry": "The large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
-  "PlatinumEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
-  "abilityHidden": "Sheer Force",
-  "lvlUpMoves": [
-    {
-      "move": "Wide Guard",
-      "lvl": "1"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Protect",
-      "lvl": "16"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "20"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "24"
-    },
-    {
-      "move": "Flail",
-      "lvl": "31"
-    },
-    {
-      "move": "Razor Shell",
-      "lvl": "36"
-    },
-    {
-      "move": "Slam",
-      "lvl": "42"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "48"
-    },
-    {
-      "move": "Crabhammer",
-      "lvl": "54"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "60"
-    }
-  ],
-  "RubyEntry": "Kingler has an enormous, over sized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-  "BlackEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
-  "OmegaRubyEntry": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-  "LetsGoEeveeEntry": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
-  "colour": "Red",
-  "SoulsilverEntry": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
-  "FireRedEntry": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
-  "White2Entry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
-  "SwordEntry": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
-  "PearlEntry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
-  "category": "Pincer Pokémon",
-  "LeafGreenEntry": "The larger pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use.",
-  "Black2Entry": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim."
+  "Stats": {
+    "dfs": 115,
+    "spatk": 50,
+    "spd": 75,
+    "hp": 55,
+    "atk": 130,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Hyper Cutter",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 3",
+    "abilityHidden": "Sheer Force",
+    "ability2": "Shell Armor",
+    "type1": "Water"
+  },
+  "hasGigantamax": true
 }

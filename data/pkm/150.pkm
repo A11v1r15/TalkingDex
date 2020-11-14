@@ -1,460 +1,465 @@
 {
-  "YellowEntry": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
-  "EmeraldEntry": "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
-  "ability1": "Steadfast",
-  "AlphaSapphireEntry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
-  "hp": 106,
-  "SilverEntry": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
-  "ability2": "",
-  "eggMoves": [],
   "number": 150,
-  "spatk": 154,
-  "atk": 110,
-  "RedEntry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
-  "height": "2.0m",
-  "type2": "",
-  "WhiteEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "eggGroup2": "",
-  "spd": 130,
-  "CrystalEntry": "Said to rest quietly in an undiscovered cave, this Pokémon was created solely for battling.",
-  "weight": "122.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "BlueEntry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
-  "dfs": 90,
-  "GoldEntry": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
-  "SapphireEntry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
-  "DiamondEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+  "Entry": {
+    "Shield": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "Black": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Black2": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "FireRed": "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+    "HearthGold": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+    "Sword": "Created from the DNA of Mew, this Pokémon is a dangerous combination of overwhelming power and a savage heart.",
+    "Sapphire": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "Platinum": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Emerald": "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+    "X": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "Y": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Ruby": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "Soulsilver": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+    "AlphaSapphire": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "Gold": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+    "Blue": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "LetsGoPikachu": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+    "White2": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Diamond": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "OmegaRuby": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "Red": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "Pearl": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Silver": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+    "White": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "Yellow": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+    "LeafGreen": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "LetsGoEevee": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+    "Crystal": "Said to rest quietly in an undiscovered cave, this Pokémon was created solely for battling."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Metronome",
+        "technical": "TR14"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Aura Sphere",
+        "technical": "TR56"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Life Dew",
+        "lvl": "1"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "1"
+      },
+      {
+        "move": "Disable",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Swift",
+        "lvl": "1"
+      },
+      {
+        "move": "Ancient Power",
+        "lvl": "8"
+      },
+      {
+        "move": "Psycho Cut",
+        "lvl": "16"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "24"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "32"
+      },
+      {
+        "move": "Aura Sphere",
+        "lvl": "40"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "48"
+      },
+      {
+        "move": "Power Swap",
+        "lvl": "56"
+      },
+      {
+        "move": "Guard Swap",
+        "lvl": "56"
+      },
+      {
+        "move": "Mist",
+        "lvl": "64"
+      },
+      {
+        "move": "Psystrike",
+        "lvl": "72"
+      },
+      {
+        "move": "Recover",
+        "lvl": "80"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "88"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "122.0kg",
+    "category": "Genetic Pokémon",
+    "height": "2.0m"
+  },
   "name": "Mewtwo",
-  "spdfs": 90,
-  "ShieldEntry": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
-  "extraMega": true,
-  "HearthGoldEntry": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
-  "YEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
-  "PlatinumEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Life Dew",
-      "lvl": "1"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "1"
-    },
-    {
-      "move": "Disable",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": "1"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "8"
-    },
-    {
-      "move": "Psycho Cut",
-      "lvl": "16"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "24"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "32"
-    },
-    {
-      "move": "Aura Sphere",
-      "lvl": "40"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "48"
-    },
-    {
-      "move": "Power Swap",
-      "lvl": "56"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "56"
-    },
-    {
-      "move": "Mist",
-      "lvl": "64"
-    },
-    {
-      "move": "Psystrike",
-      "lvl": "72"
-    },
-    {
-      "move": "Recover",
-      "lvl": "80"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "88"
-    }
-  ],
-  "RubyEntry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
-  "150Entry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
-  "BlackEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "OmegaRubyEntry": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
-  "LetsGoEeveeEntry": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
-  "colour": "Purple",
-  "SoulsilverEntry": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
-  "FireRedEntry": "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
-  "White2Entry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "SwordEntry": "Created from the DNA of Mew, this Pokémon is a dangerous combination of overwhelming power and a savage heart.",
-  "PearlEntry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-  "category": "Genetic Pokémon",
-  "LeafGreenEntry": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
-  "Black2Entry": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon."
+  "Stats": {
+    "dfs": 90,
+    "spatk": 154,
+    "spd": 130,
+    "hp": 106,
+    "atk": 110,
+    "spdfs": 90
+  },
+  "Biology": {
+    "ability1": "Steadfast",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

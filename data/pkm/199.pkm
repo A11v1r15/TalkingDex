@@ -1,410 +1,416 @@
 {
-  "EmeraldEntry": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
-  "ability1": "Oblivious",
-  "AlphaSapphireEntry": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-  "hp": 95,
-  "SilverEntry": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
-  "ability2": "Own Tempo",
-  "eggMoves": [],
-  "UltraMoonEntry": "It's called \u201cthe sage of the sea.\u201d It engages in battles of wits with Oranguru, but the result is usually a draw.",
   "number": 199,
-  "MoonEntry": "This Pokémon is so famed for its intellect that a proverb still persists in some regions: \"When in doubt, ask Slowking.\"",
-  "spatk": 100,
-  "UltraSunEntry": "It's constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.",
-  "atk": 75,
-  "height": "2.0m",
-  "type2": "Psychic",
-  "WhiteEntry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-  "eggGroup2": "Water 1",
-  "spd": 30,
-  "CrystalEntry": "Every time it yawns, Shellder injects more poison into it. The poison makes it more intelligent.",
-  "weight": "79.5kg",
-  "eggGroup1": "Monster",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": true,
-  "dfs": 80,
-  "GoldEntry": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-  "SapphireEntry": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-  "hasAlolan": false,
-  "DiamondEntry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+  "Entry": {
+    "Shield": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
+    "Moon": "This Pokémon is so famed for its intellect that a proverb still persists in some regions: \"When in doubt, ask Slowking.\"",
+    "Black": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "Black2": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "FireRed": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+    "HearthGold": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+    "Sword": "Miraculously, this former Slowpoke's latent intelligence was drawn out when Shellder poison raced through its brain.",
+    "Sapphire": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+    "Platinum": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "Emerald": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
+    "X": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+    "Y": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+    "Ruby": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+    "Soulsilver": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+    "AlphaSapphire": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+    "Gold": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+    "UltraMoon": "It's called \u201cthe sage of the sea.\u201d It engages in battles of wits with Oranguru, but the result is usually a draw.",
+    "White2": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "Diamond": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "UltraSun": "It's constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.",
+    "Sun": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
+    "OmegaRuby": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+    "Pearl": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "Silver": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+    "White": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "LeafGreen": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+    "Crystal": "Every time it yawns, Shellder injects more poison into it. The poison makes it more intelligent."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Razor Shell",
+        "technical": "TM83"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Tri Attack",
+        "technical": "TR19"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Power Gem",
+        "technical": "TR63"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Power Gem",
+        "lvl": "1"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "1"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Curse",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Yawn",
+        "lvl": "9"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "12"
+      },
+      {
+        "move": "Disable",
+        "lvl": "15"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "18"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "21"
+      },
+      {
+        "move": "Zen Headbutt",
+        "lvl": "24"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "27"
+      },
+      {
+        "move": "Surf",
+        "lvl": "30"
+      },
+      {
+        "move": "Slack Off",
+        "lvl": "33"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "36"
+      },
+      {
+        "move": "Psych Up",
+        "lvl": "39"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "42"
+      },
+      {
+        "move": "Heal Pulse",
+        "lvl": "45"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Pink",
+    "weight": "79.5kg",
+    "category": "Royal Pokémon",
+    "height": "2.0m"
+  },
   "name": "Slowking",
-  "spdfs": 110,
-  "ShieldEntry": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
-  "extraMega": false,
-  "HearthGoldEntry": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-  "YEntry": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
-  "SunEntry": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-  "PlatinumEntry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-  "abilityHidden": "Regenerator",
-  "lvlUpMoves": [
-    {
-      "move": "Power Gem",
-      "lvl": "1"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "1"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Curse",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "9"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "12"
-    },
-    {
-      "move": "Disable",
-      "lvl": "15"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "18"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "21"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "27"
-    },
-    {
-      "move": "Surf",
-      "lvl": "30"
-    },
-    {
-      "move": "Slack Off",
-      "lvl": "33"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "36"
-    },
-    {
-      "move": "Psych Up",
-      "lvl": "39"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "42"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "45"
-    }
-  ],
-  "RubyEntry": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-  "BlackEntry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-  "OmegaRubyEntry": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
-  "colour": "Pink",
-  "SoulsilverEntry": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
-  "FireRedEntry": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
-  "White2Entry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-  "SwordEntry": "Miraculously, this former Slowpoke's latent intelligence was drawn out when Shellder poison raced through its brain.",
-  "PearlEntry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
-  "category": "Royal Pokémon",
-  "LeafGreenEntry": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-  "Black2Entry": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists."
+  "Stats": {
+    "dfs": 80,
+    "spatk": 100,
+    "spd": 30,
+    "hp": 95,
+    "atk": 75,
+    "spdfs": 110
+  },
+  "Biology": {
+    "ability1": "Oblivious",
+    "type2": "Psychic",
+    "eggGroup2": "Water 1",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Regenerator",
+    "ability2": "Own Tempo",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

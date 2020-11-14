@@ -1,268 +1,274 @@
 {
-  "ShieldEntry": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
-  "extraMega": false,
-  "ability1": "Defiant",
-  "YEntry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-  "AlphaSapphireEntry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-  "hp": 45,
-  "ability2": "Inner Focus",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Sucker Punch"},
-    {"move": "Headbutt"},
-    {"move": "Mean Look"},
-    {"move": "Quick Guard"}
-  ],
-  "XEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-  "UltraMoonEntry": "It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
   "number": 624,
-  "spatk": 40,
-  "UltraSunEntry": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
-  "atk": 85,
-  "abilityHidden": "Pressure",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "5"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "10"
-    },
-    {
-      "move": "Torment",
-      "lvl": "15"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "25"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "30"
-    },
-    {
-      "move": "Slash",
-      "lvl": "35"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "45"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "50"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "55"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "60"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "65"
-    }
-  ],
-  "type2": "Steel",
-  "WhiteEntry": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
-  "eggGroup2": "",
-  "spd": 60,
-  "weight": "10.2kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "BlackEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-  "OmegaRubyEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-  "dfs": 70,
-  "colour": "Red",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+    "White": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+    "UltraMoon": "It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
+    "Sword": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
+    "Shield": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+    "X": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+    "White2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+    "Y": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+    "UltraSun": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
+    "Black": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+    "Black2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+    "OmegaRuby": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "5"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "10"
+      },
+      {
+        "move": "Torment",
+        "lvl": "15"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "20"
+      },
+      {
+        "move": "Assurance",
+        "lvl": "25"
+      },
+      {
+        "move": "Metal Sound",
+        "lvl": "30"
+      },
+      {
+        "move": "Slash",
+        "lvl": "35"
+      },
+      {
+        "move": "Night Slash",
+        "lvl": "40"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "45"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "50"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "55"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "60"
+      },
+      {
+        "move": "Guillotine",
+        "lvl": "65"
+      }
+    ],
+    "egg": [
+      {"move": "Sucker Punch"},
+      {"move": "Headbutt"},
+      {"move": "Mean Look"},
+      {"move": "Quick Guard"}
+    ]
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "10.2kg",
+    "category": "Sharp Blade Pokémon",
+    "height": "0.5m"
+  },
   "name": "Pawniard",
-  "White2Entry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-  "SwordEntry": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
-  "spdfs": 40,
-  "category": "Sharp Blade Pokémon",
-  "Black2Entry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
+  "Stats": {
+    "dfs": 70,
+    "spatk": 40,
+    "spd": 60,
+    "hp": 45,
+    "atk": 85,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Defiant",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Human-Like",
+    "abilityHidden": "Pressure",
+    "ability2": "Inner Focus",
+    "type1": "Dark"
+  },
+  "hasGigantamax": false
 }

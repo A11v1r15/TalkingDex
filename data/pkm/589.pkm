@@ -1,265 +1,271 @@
 {
-  "ShieldEntry": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch'd.",
-  "extraMega": false,
-  "ability1": "Swarm",
-  "YEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-  "AlphaSapphireEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-  "hp": 70,
-  "ability2": "Shell Armor",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
   "number": 589,
-  "spatk": 60,
-  "atk": 135,
-  "abilityHidden": "Overcoat",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Fell Stinger",
-      "lvl": "1"
-    },
-    {
-      "move": "Endure",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "1"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "1"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "12"
-    },
-    {
-      "move": "Acid Spray",
-      "lvl": "16"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "24"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "28"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "32"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "36"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "40"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "44"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "48"
-    },
-    {
-      "move": "Metal Burst",
-      "lvl": "52"
-    }
-  ],
-  "type2": "Steel",
-  "WhiteEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-  "eggGroup2": "",
-  "spd": 20,
-  "weight": "33.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "BlackEntry": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
-  "OmegaRubyEntry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-  "dfs": 105,
-  "colour": "Gray",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "White": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "Sword": "They use shells they've stolen from Shelmet to arm and protect themselves. They're very popular Pokémon in the Galar region.",
+    "Shield": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch'd.",
+    "X": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "White2": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "Y": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "Black": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+    "Black2": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "OmegaRuby": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Razor Shell",
+        "technical": "TM83"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Smart Strike",
+        "technical": "TM96"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Megahorn",
+        "technical": "TR28"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "X-Scissor",
+        "technical": "TR60"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Fell Stinger",
+        "lvl": "1"
+      },
+      {
+        "move": "Endure",
+        "lvl": "1"
+      },
+      {
+        "move": "Flail",
+        "lvl": "1"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "1"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "1"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Cutter",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "1"
+      },
+      {
+        "move": "False Swipe",
+        "lvl": "12"
+      },
+      {
+        "move": "Acid Spray",
+        "lvl": "16"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "20"
+      },
+      {
+        "move": "Reversal",
+        "lvl": "24"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "28"
+      },
+      {
+        "move": "X-Scissor",
+        "lvl": "32"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "36"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "40"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "44"
+      },
+      {
+        "move": "Giga Impact",
+        "lvl": "48"
+      },
+      {
+        "move": "Metal Burst",
+        "lvl": "52"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "33.0kg",
+    "category": "Cavalry Pokémon",
+    "height": "1.0m"
+  },
   "name": "Escavalier",
-  "White2Entry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-  "SwordEntry": "They use shells they've stolen from Shelmet to arm and protect themselves. They're very popular Pokémon in the Galar region.",
-  "spdfs": 105,
-  "category": "Cavalry Pokémon",
-  "Black2Entry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
+  "Stats": {
+    "dfs": 105,
+    "spatk": 60,
+    "spd": 20,
+    "hp": 70,
+    "atk": 135,
+    "spdfs": 105
+  },
+  "Biology": {
+    "ability1": "Swarm",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Overcoat",
+    "ability2": "Shell Armor",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

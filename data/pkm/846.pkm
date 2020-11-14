@@ -1,190 +1,196 @@
 {
-  "ShieldEntry": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.",
-  "extraMega": false,
-  "ability1": "Swift Swim",
-  "hp": 41,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Thrash"},
-    {"move": "Acupressure"},
-    {"move": "Slash"},
-    {"move": "Night Slash"}
-  ],
   "number": 846,
-  "spatk": 40,
-  "atk": 63,
-  "abilityHidden": "Propeller Tail",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "6"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Agility",
-      "lvl": "18"
-    },
-    {
-      "move": "Dive",
-      "lvl": "24"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "30"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "36"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "42"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "48"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 66,
-  "weight": "1.0kg",
-  "eggGroup1": "Water 2",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 40,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
+    "Shield": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Aqua Jet",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Attack",
+        "lvl": "6"
+      },
+      {
+        "move": "Bite",
+        "lvl": "12"
+      },
+      {
+        "move": "Agility",
+        "lvl": "18"
+      },
+      {
+        "move": "Dive",
+        "lvl": "24"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "30"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "36"
+      },
+      {
+        "move": "Liquidation",
+        "lvl": "42"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Thrash"},
+      {"move": "Acupressure"},
+      {"move": "Slash"},
+      {"move": "Night Slash"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "1.0kg",
+    "category": "Rush Pokémon",
+    "height": "0.5m"
+  },
   "name": "Arrokuda",
-  "SwordEntry": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
-  "spdfs": 30,
-  "category": "Rush Pokémon"
+  "Stats": {
+    "dfs": 40,
+    "spatk": 40,
+    "spd": 66,
+    "hp": 41,
+    "atk": 63,
+    "spdfs": 30
+  },
+  "Biology": {
+    "ability1": "Swift Swim",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 2",
+    "abilityHidden": "Propeller Tail",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

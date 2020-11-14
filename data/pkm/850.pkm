@@ -1,170 +1,176 @@
 {
-  "ShieldEntry": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.",
-  "extraMega": false,
-  "ability1": "Flash Fire",
-  "hp": 50,
-  "ability2": "White Smoke",
-  "tmTrMoves": [
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Knock Off"},
-    {"move": "Struggle Bug"},
-    {"move": "Rollout"},
-    {"move": "Defense Curl"}
-  ],
   "number": 850,
-  "spatk": 50,
-  "atk": 65,
-  "abilityHidden": "Flame Body",
-  "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "5"
-    },
-    {
-      "move": "Bite",
-      "lvl": "10"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "15"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Coil",
-      "lvl": "25"
-    },
-    {
-      "move": "Slam",
-      "lvl": "30"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "35"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "40"
-    },
-    {
-      "move": "Fire Lash",
-      "lvl": "45"
-    },
-    {
-      "move": "Lunge",
-      "lvl": "50"
-    },
-    {
-      "move": "Burn Up",
-      "lvl": "55"
-    }
-  ],
-  "type2": "Bug",
-  "eggGroup2": "",
-  "spd": 45,
-  "weight": "1.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "dfs": 45,
-  "colour": "Red",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+    "Shield": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Leech Life",
+        "technical": "TR18"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Power Whip",
+        "technical": "TR72"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Heat Crash",
+        "technical": "TR88"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Ember",
+        "lvl": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "lvl": "1"
+      },
+      {
+        "move": "Wrap",
+        "lvl": "5"
+      },
+      {
+        "move": "Bite",
+        "lvl": "10"
+      },
+      {
+        "move": "Flame Wheel",
+        "lvl": "15"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "20"
+      },
+      {
+        "move": "Coil",
+        "lvl": "25"
+      },
+      {
+        "move": "Slam",
+        "lvl": "30"
+      },
+      {
+        "move": "Fire Spin",
+        "lvl": "35"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "40"
+      },
+      {
+        "move": "Fire Lash",
+        "lvl": "45"
+      },
+      {
+        "move": "Lunge",
+        "lvl": "50"
+      },
+      {
+        "move": "Burn Up",
+        "lvl": "55"
+      }
+    ],
+    "egg": [
+      {"move": "Knock Off"},
+      {"move": "Struggle Bug"},
+      {"move": "Rollout"},
+      {"move": "Defense Curl"}
+    ]
+  },
+  "Flair": {
+    "colour": "Red",
+    "weight": "1.0kg",
+    "category": "Radiator Pokémon",
+    "height": "0.7m"
+  },
   "name": "Sizzlipede",
-  "SwordEntry": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
-  "spdfs": 50,
-  "category": "Radiator Pokémon"
+  "Stats": {
+    "dfs": 45,
+    "spatk": 50,
+    "spd": 45,
+    "hp": 50,
+    "atk": 65,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Flash Fire",
+    "type2": "Bug",
+    "eggGroup2": "",
+    "eggGroup1": "Bug",
+    "abilityHidden": "Flame Body",
+    "ability2": "White Smoke",
+    "type1": "Fire"
+  },
+  "hasGigantamax": false
 }

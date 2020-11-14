@@ -1,262 +1,268 @@
 {
-  "EmeraldEntry": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
-  "ability1": "Swift Swim",
-  "AlphaSapphireEntry": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
-  "hp": 75,
-  "SilverEntry": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-  "ability2": "Sniper",
-  "eggMoves": [],
   "number": 230,
-  "spatk": 95,
-  "atk": 95,
-  "height": "1.8m",
-  "type2": "Dragon",
-  "WhiteEntry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-  "eggGroup2": "Dragon",
-  "spd": 85,
-  "CrystalEntry": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
-  "weight": "152.0kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "dfs": 95,
-  "GoldEntry": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-  "SapphireEntry": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
-  "hasAlolan": false,
-  "DiamondEntry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+  "Entry": {
+    "AlphaSapphire": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
+    "Gold": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "Shield": "Scales shed by this Pokémon have such a splendorous gleam to them that they've been given to royalty as gifts.",
+    "White2": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Diamond": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Black": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Black2": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "FireRed": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "HearthGold": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "OmegaRuby": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+    "Pearl": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Silver": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "White": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Sword": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
+    "Sapphire": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
+    "LeafGreen": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "Platinum": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "Emerald": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+    "X": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "Y": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+    "Ruby": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+    "Soulsilver": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "Crystal": "It stores energy by sleeping at underwater depths at which no other life forms can survive."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Hurricane",
+        "technical": "TR89"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Whirlpool",
+        "lvl": "1"
+      },
+      {
+        "move": "Yawn",
+        "lvl": "1"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "lvl": "1"
+      },
+      {
+        "move": "Twister",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "15"
+      },
+      {
+        "move": "Dragon Breath",
+        "lvl": "20"
+      },
+      {
+        "move": "Bubble Beam",
+        "lvl": "25"
+      },
+      {
+        "move": "Agility",
+        "lvl": "30"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "37"
+      },
+      {
+        "move": "Dragon Pulse",
+        "lvl": "44"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "51"
+      },
+      {
+        "move": "Dragon Dance",
+        "lvl": "58"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "65"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "152.0kg",
+    "category": "Dragon Pokémon",
+    "height": "1.8m"
+  },
   "name": "Kingdra",
-  "spdfs": 95,
-  "ShieldEntry": "Scales shed by this Pokémon have such a splendorous gleam to them that they've been given to royalty as gifts.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-  "YEntry": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-  "PlatinumEntry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-  "abilityHidden": "Damp",
-  "lvlUpMoves": [
-    {
-      "move": "Whirlpool",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Twister",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "15"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "25"
-    },
-    {
-      "move": "Agility",
-      "lvl": "30"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "37"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "44"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "51"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "58"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "65"
-    }
-  ],
-  "RubyEntry": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
-  "BlackEntry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-  "OmegaRubyEntry": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
-  "colour": "Blue",
-  "SoulsilverEntry": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-  "FireRedEntry": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
-  "White2Entry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-  "SwordEntry": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
-  "PearlEntry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
-  "category": "Dragon Pokémon",
-  "LeafGreenEntry": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-  "Black2Entry": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+  "Stats": {
+    "dfs": 95,
+    "spatk": 95,
+    "spd": 85,
+    "hp": 75,
+    "atk": 95,
+    "spdfs": 95
+  },
+  "Biology": {
+    "ability1": "Swift Swim",
+    "type2": "Dragon",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Damp",
+    "ability2": "Sniper",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

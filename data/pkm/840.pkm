@@ -1,48 +1,54 @@
 {
-  "ShieldEntry": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
-  "extraMega": false,
-  "ability1": "Ripen",
-  "hp": 40,
-  "ability2": "Gluttony",
-  "tmTrMoves": [{
-    "move": "Attract",
-    "technical": "TM31"
-  }],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Sucker Punch"},
-    {"move": "Rollout"},
-    {"move": "Defense Curl"},
-    {"move": "Recycle"}
-  ],
   "number": 840,
-  "spatk": 40,
-  "atk": 40,
-  "abilityHidden": "Bulletproof",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    }
-  ],
-  "type2": "Dragon",
-  "eggGroup2": "Dragon",
-  "spd": 20,
-  "weight": "0.5kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "dfs": 80,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
+    "Shield": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+  },
+  "Moves": {
+    "tmTr": [{
+      "move": "Attract",
+      "technical": "TM31"
+    }],
+    "lvlUp": [
+      {
+        "move": "Withdraw",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      }
+    ],
+    "egg": [
+      {"move": "Sucker Punch"},
+      {"move": "Rollout"},
+      {"move": "Defense Curl"},
+      {"move": "Recycle"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "0.5kg",
+    "category": "Apple Core Pokémon",
+    "height": "0.2m"
+  },
   "name": "Applin",
-  "SwordEntry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
-  "spdfs": 40,
-  "category": "Apple Core Pokémon"
+  "Stats": {
+    "dfs": 80,
+    "spatk": 40,
+    "spd": 20,
+    "hp": 40,
+    "atk": 40,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Ripen",
+    "type2": "Dragon",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Bulletproof",
+    "ability2": "Gluttony",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

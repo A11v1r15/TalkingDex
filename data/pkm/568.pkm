@@ -1,227 +1,233 @@
 {
-  "ShieldEntry": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
-  "extraMega": false,
-  "ability1": "Stench",
-  "YEntry": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-  "AlphaSapphireEntry": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-  "hp": 50,
-  "SunEntry": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
-  "ability2": "Sticky Hold",
-  "tmTrMoves": [
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Haze"},
-    {"move": "Curse"},
-    {"move": "Sand Attack"},
-    {"move": "Autotomize"},
-    {"move": "Rollout"}
-  ],
-  "XEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-  "UltraMoonEntry": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
   "number": 568,
-  "MoonEntry": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
-  "spatk": 40,
-  "UltraSunEntry": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
-  "atk": 50,
-  "abilityHidden": "Aftermath",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Gas",
-      "lvl": "1"
-    },
-    {
-      "move": "Recycle",
-      "lvl": "3"
-    },
-    {
-      "move": "Acid Spray",
-      "lvl": "6"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "9"
-    },
-    {
-      "move": "Clear Smog",
-      "lvl": "12"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "15"
-    },
-    {
-      "move": "Sludge",
-      "lvl": "18"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "21"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "21"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Sludge Bomb",
-      "lvl": "27"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "30"
-    },
-    {
-      "move": "Belch",
-      "lvl": "33"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "37"
-    },
-    {
-      "move": "Gunk Shot",
-      "lvl": "39"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "42"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-  "eggGroup2": "",
-  "spd": 65,
-  "weight": "31.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "BlackEntry": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
-  "OmegaRubyEntry": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
-  "dfs": 62,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+    "UltraMoon": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
+    "Shield": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
+    "Moon": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+    "White2": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+    "UltraSun": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+    "Black": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+    "Black2": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+    "Sun": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+    "OmegaRuby": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+    "White": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+    "Sword": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "X": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+    "Y": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Spikes",
+        "technical": "TR23"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Gunk Shot",
+        "technical": "TR73"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Pound",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Gas",
+        "lvl": "1"
+      },
+      {
+        "move": "Recycle",
+        "lvl": "3"
+      },
+      {
+        "move": "Acid Spray",
+        "lvl": "6"
+      },
+      {
+        "move": "Amnesia",
+        "lvl": "9"
+      },
+      {
+        "move": "Clear Smog",
+        "lvl": "12"
+      },
+      {
+        "move": "Toxic Spikes",
+        "lvl": "15"
+      },
+      {
+        "move": "Sludge",
+        "lvl": "18"
+      },
+      {
+        "move": "Stockpile",
+        "lvl": "21"
+      },
+      {
+        "move": "Swallow",
+        "lvl": "21"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "24"
+      },
+      {
+        "move": "Sludge Bomb",
+        "lvl": "27"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "30"
+      },
+      {
+        "move": "Belch",
+        "lvl": "33"
+      },
+      {
+        "move": "Pain Split",
+        "lvl": "37"
+      },
+      {
+        "move": "Gunk Shot",
+        "lvl": "39"
+      },
+      {
+        "move": "Explosion",
+        "lvl": "42"
+      }
+    ],
+    "egg": [
+      {"move": "Haze"},
+      {"move": "Curse"},
+      {"move": "Sand Attack"},
+      {"move": "Autotomize"},
+      {"move": "Rollout"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "31.0kg",
+    "category": "Trash Bag Pokémon",
+    "height": "0.6m"
+  },
   "name": "Trubbish",
-  "White2Entry": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
-  "SwordEntry": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
-  "spdfs": 62,
-  "category": "Trash Bag Pokémon",
-  "Black2Entry": "Wanting more garbage, they follow people who litter. They always belch poison gas."
+  "Stats": {
+    "dfs": 62,
+    "spatk": 40,
+    "spd": 65,
+    "hp": 50,
+    "atk": 50,
+    "spdfs": 62
+  },
+  "Biology": {
+    "ability1": "Stench",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Aftermath",
+    "ability2": "Sticky Hold",
+    "type1": "Poison"
+  },
+  "hasGigantamax": false
 }

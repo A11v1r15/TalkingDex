@@ -1,254 +1,260 @@
 {
-  "ShieldEntry": "Seeing through solid objects uses up a lot of Luxray's electricity, so the Pokémon sleeps for long periods of time to store up energy.",
-  "extraMega": false,
-  "HearthGoldEntry": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
-  "ability1": "Rivalry",
-  "YEntry": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
-  "AlphaSapphireEntry": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
-  "hp": 80,
-  "ability2": "Intimidate",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
   "number": 405,
-  "spatk": 95,
-  "atk": 120,
-  "PlatinumEntry": "It can see clearly through walls to track down its prey and seek its lost young.",
-  "abilityHidden": "Guts",
-  "height": "1.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Electric Terrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Spark",
-      "lvl": "18"
-    },
-    {
-      "move": "Roar",
-      "lvl": "24"
-    },
-    {
-      "move": "Volt Switch",
-      "lvl": "33"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "40"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "48"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "56"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "64"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "72"
-    },
-    {
-      "move": "Wild Charge",
-      "lvl": "80"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "It can see clearly through walls to track down its prey and seek its lost young.",
-  "eggGroup2": "",
-  "spd": 70,
-  "weight": "42.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "BlackEntry": "It can see clearly through walls to track down its prey and seek its lost young.",
-  "OmegaRubyEntry": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
-  "dfs": 79,
-  "colour": "Blue",
-  "hasAlolan": false,
-  "DiamondEntry": "It has eyes which can see through anything. It spots and captures prey hiding behind objects.",
-  "SoulsilverEntry": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+  "Entry": {
+    "AlphaSapphire": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+    "Shield": "Seeing through solid objects uses up a lot of Luxray's electricity, so the Pokémon sleeps for long periods of time to store up energy.",
+    "White2": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "Diamond": "It has eyes which can see through anything. It spots and captures prey hiding behind objects.",
+    "Black": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "Black2": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "HearthGold": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+    "OmegaRuby": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+    "Pearl": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+    "White": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "Sword": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
+    "Platinum": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "X": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+    "Y": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+    "Soulsilver": "Luxray's ability to see through objects comes in handy when it's scouting for danger."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Eerie Impulse",
+        "technical": "TM93"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Electric Terrain",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Charge",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "12"
+      },
+      {
+        "move": "Spark",
+        "lvl": "18"
+      },
+      {
+        "move": "Roar",
+        "lvl": "24"
+      },
+      {
+        "move": "Volt Switch",
+        "lvl": "33"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "40"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "48"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "56"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "64"
+      },
+      {
+        "move": "Swagger",
+        "lvl": "72"
+      },
+      {
+        "move": "Wild Charge",
+        "lvl": "80"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "42.0kg",
+    "category": "Gleam Eyes Pokémon",
+    "height": "1.4m"
+  },
   "name": "Luxray",
-  "White2Entry": "It can see clearly through walls to track down its prey and seek its lost young.",
-  "SwordEntry": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
-  "PearlEntry": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
-  "spdfs": 79,
-  "category": "Gleam Eyes Pokémon",
-  "Black2Entry": "It can see clearly through walls to track down its prey and seek its lost young."
+  "Stats": {
+    "dfs": 79,
+    "spatk": 95,
+    "spd": 70,
+    "hp": 80,
+    "atk": 120,
+    "spdfs": 79
+  },
+  "Biology": {
+    "ability1": "Rivalry",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Guts",
+    "ability2": "Intimidate",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

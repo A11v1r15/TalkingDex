@@ -1,290 +1,295 @@
 {
-  "YellowEntry": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
-  "EmeraldEntry": "When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
-  "ability1": "Levitate",
-  "AlphaSapphireEntry": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-  "hp": 30,
-  "SilverEntry": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
-  "ability2": "",
-  "eggMoves": [
-    {"move": "Perish Song"},
-    {"move": "Haze"},
-    {"move": "Astonish"},
-    {"move": "Grudge"},
-    {"move": "Disable"},
-    {"move": "Clear Smog"},
-    {"move": "Smog"},
-    {"move": "Reflect Type"},
-    {"move": "Toxic"}
-  ],
-  "UltraMoonEntry": "Poisonous gas comprises 95% of its body. It's said that the remaining 5% is made up of the souls of those who died from the gas.",
   "number": 92,
-  "MoonEntry": "Although Gastly is barely visible, when it's near, a faint sweet smell lingers.",
-  "spatk": 100,
-  "UltraSunEntry": "It's said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
-  "atk": 35,
-  "RedEntry": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
-  "height": "1.3m",
-  "type2": "Poison",
-  "WhiteEntry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "eggGroup2": "",
-  "spd": 80,
-  "CrystalEntry": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
-  "weight": "0.1kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Ghost",
-  "hasGalarian": false,
-  "BlueEntry": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
-  "dfs": 30,
-  "GoldEntry": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-  "SapphireEntry": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
-  "DiamondEntry": "This Pokémon's body is 95% made up of gases, which are blown away by strong gusts of wind.",
+  "Entry": {
+    "Shield": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+    "Moon": "Although Gastly is barely visible, when it's near, a faint sweet smell lingers.",
+    "Black": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Black2": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "FireRed": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
+    "HearthGold": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+    "Sword": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Sapphire": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+    "Platinum": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Emerald": "When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+    "X": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+    "Y": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Ruby": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+    "Soulsilver": "Its thin body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+    "AlphaSapphire": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+    "Gold": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+    "UltraMoon": "Poisonous gas comprises 95% of its body. It's said that the remaining 5% is made up of the souls of those who died from the gas.",
+    "Blue": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+    "LetsGoPikachu": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+    "White2": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Diamond": "This Pokémon's body is 95% made up of gases, which are blown away by strong gusts of wind.",
+    "UltraSun": "It's said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
+    "Sun": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
+    "OmegaRuby": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+    "Red": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+    "Pearl": "A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+    "Silver": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
+    "White": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "Yellow": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
+    "LeafGreen": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+    "LetsGoEevee": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+    "Crystal": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Hex",
+        "technical": "TM77"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Lick",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "4"
+      },
+      {
+        "move": "Mean Look",
+        "lvl": "8"
+      },
+      {
+        "move": "Payback",
+        "lvl": "12"
+      },
+      {
+        "move": "Spite",
+        "lvl": "16"
+      },
+      {
+        "move": "Curse",
+        "lvl": "20"
+      },
+      {
+        "move": "Hex",
+        "lvl": "24"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "28"
+      },
+      {
+        "move": "Sucker Punch",
+        "lvl": "32"
+      },
+      {
+        "move": "Dark Pulse",
+        "lvl": "36"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "40"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "44"
+      },
+      {
+        "move": "Dream Eater",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Perish Song"},
+      {"move": "Haze"},
+      {"move": "Astonish"},
+      {"move": "Grudge"},
+      {"move": "Disable"},
+      {"move": "Clear Smog"},
+      {"move": "Smog"},
+      {"move": "Reflect Type"},
+      {"move": "Toxic"}
+    ]
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "0.1kg",
+    "category": "Gas Pokémon",
+    "height": "1.3m"
+  },
   "name": "Gastly",
-  "spdfs": 35,
-  "ShieldEntry": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-  "extraMega": false,
-  "HearthGoldEntry": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-  "YEntry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "SunEntry": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
-  "tmTrMoves": [
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "92Entry": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
-  "hasGigantamax": false,
-  "XEntry": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
-  "PlatinumEntry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "4"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "8"
-    },
-    {
-      "move": "Payback",
-      "lvl": "12"
-    },
-    {
-      "move": "Spite",
-      "lvl": "16"
-    },
-    {
-      "move": "Curse",
-      "lvl": "20"
-    },
-    {
-      "move": "Hex",
-      "lvl": "24"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "28"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "32"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "36"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "40"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "44"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "48"
-    }
-  ],
-  "RubyEntry": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-  "BlackEntry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "OmegaRubyEntry": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
-  "LetsGoEeveeEntry": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Its thin body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
-  "FireRedEntry": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
-  "White2Entry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "SwordEntry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-  "PearlEntry": "A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
-  "category": "Gas Pokémon",
-  "LeafGreenEntry": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
-  "Black2Entry": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+  "Stats": {
+    "dfs": 30,
+    "spatk": 100,
+    "spd": 80,
+    "hp": 30,
+    "atk": 35,
+    "spdfs": 35
+  },
+  "Biology": {
+    "ability1": "Levitate",
+    "type2": "Poison",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Ghost"
+  },
+  "hasGigantamax": false
 }

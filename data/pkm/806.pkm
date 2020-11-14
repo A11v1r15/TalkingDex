@@ -1,249 +1,255 @@
 {
-  "extraMega": false,
-  "ability1": "Beast Boost",
-  "hp": 53,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    }
-  ],
-  "hasGigantamax": false,
-  "UltraMoonEntry": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality.",
-  "eggMoves": [],
   "number": 806,
-  "spatk": 151,
-  "UltraSunEntry": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
-  "atk": 127,
-  "abilityHidden": "",
-  "height": "1.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "5"
-    },
-    {
-      "move": "Ember",
-      "lvl": "10"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "15"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "20"
-    },
-    {
-      "move": "Magic Coat",
-      "lvl": "25"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "30"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "35"
-    },
-    {
-      "move": "Mystical Fire",
-      "lvl": "40"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "45"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "50"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "lvl": "55"
-    },
-    {
-      "move": "Trick",
-      "lvl": "60"
-    },
-    {
-      "move": "Fire Blast",
-      "lvl": "65"
-    },
-    {
-      "move": "Mind Blown",
-      "lvl": "70"
-    }
-  ],
-  "type2": "Ghost",
-  "eggGroup2": "",
-  "spd": 107,
-  "weight": "13.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "dfs": 53,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality.",
+    "UltraSun": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Mystical Fire",
+        "technical": "TM92"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Overheat",
+        "technical": "TR43"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Astonish",
+        "lvl": "1"
+      },
+      {
+        "move": "Fire Spin",
+        "lvl": "1"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "5"
+      },
+      {
+        "move": "Ember",
+        "lvl": "10"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "15"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "20"
+      },
+      {
+        "move": "Magic Coat",
+        "lvl": "25"
+      },
+      {
+        "move": "Incinerate",
+        "lvl": "30"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "35"
+      },
+      {
+        "move": "Mystical Fire",
+        "lvl": "40"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "45"
+      },
+      {
+        "move": "Calm Mind",
+        "lvl": "50"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "lvl": "55"
+      },
+      {
+        "move": "Trick",
+        "lvl": "60"
+      },
+      {
+        "move": "Fire Blast",
+        "lvl": "65"
+      },
+      {
+        "move": "Mind Blown",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "13.0kg",
+    "category": "Fireworks Pokémon",
+    "height": "1.8m"
+  },
   "name": "Blacephalon",
-  "spdfs": 79,
-  "category": "Fireworks Pokémon"
+  "Stats": {
+    "dfs": 53,
+    "spatk": 151,
+    "spd": 107,
+    "hp": 53,
+    "atk": 127,
+    "spdfs": 79
+  },
+  "Biology": {
+    "ability1": "Beast Boost",
+    "type2": "Ghost",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Fire"
+  },
+  "hasGigantamax": false
 }

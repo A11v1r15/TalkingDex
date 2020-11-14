@@ -1,262 +1,268 @@
 {
-  "ShieldEntry": "This Pokémon has slumbered for many years. Some say it's Zamazenta's elder sister\u2014others say the two Pokémon are rivals.",
-  "extraMega": false,
-  "ability1": "Intrepid Sword",
-  "hp": 92,
-  "ability2": "",
-  "title": "Hero of Many Battles",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 888,
-  "spatk": 80,
-  "atk": 130,
-  "abilityHidden": "",
-  "height": "2.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Sacred Sword",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Howl",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Slash",
-      "lvl": "11"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "22"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "33"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "44"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "55"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "66"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "77"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "88"
-    }
-  ],
-  "type2": "Steel",
-  "eggGroup2": "",
-  "spd": 138,
-  "weight": "110.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Fairy",
-  "hasGalarian": false,
-  "dfs": 115,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "Sword": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
+    "Shield": "This Pokémon has slumbered for many years. Some say it's Zamazenta's elder sister\u2014others say the two Pokémon are rivals."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Blade",
+        "technical": "TM12"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Revenge",
+        "technical": "TM42"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Thunder Fang",
+        "technical": "TM66"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Psycho Cut",
+        "technical": "TM69"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Tail Slap",
+        "technical": "TM84"
+      },
+      {
+        "move": "Snarl",
+        "technical": "TM85"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      },
+      {
+        "move": "Psychic Fangs",
+        "technical": "TR97"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Sacred Sword",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "1"
+      },
+      {
+        "move": "Metal Claw",
+        "lvl": "1"
+      },
+      {
+        "move": "Howl",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Slash",
+        "lvl": "11"
+      },
+      {
+        "move": "Swords Dance",
+        "lvl": "22"
+      },
+      {
+        "move": "Iron Head",
+        "lvl": "33"
+      },
+      {
+        "move": "Laser Focus",
+        "lvl": "44"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "55"
+      },
+      {
+        "move": "Moonblast",
+        "lvl": "66"
+      },
+      {
+        "move": "Close Combat",
+        "lvl": "77"
+      },
+      {
+        "move": "Giga Impact",
+        "lvl": "88"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "110.0kg",
+    "category": "Warrior Pokémon",
+    "height": "2.8m"
+  },
   "name": "Zacian",
-  "SwordEntry": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
-  "spdfs": 115,
-  "category": "Warrior Pokémon"
+  "Stats": {
+    "dfs": 115,
+    "spatk": 80,
+    "spd": 138,
+    "hp": 92,
+    "atk": 130,
+    "spdfs": 115
+  },
+  "Biology": {
+    "ability1": "Intrepid Sword",
+    "type2": "Steel",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Fairy"
+  },
+  "title": "Hero of Many Battles",
+  "hasGigantamax": false
 }

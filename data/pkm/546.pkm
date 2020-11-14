@@ -1,223 +1,229 @@
 {
-  "ShieldEntry": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands.",
-  "extraMega": false,
-  "ability1": "Prankster",
-  "YEntry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-  "AlphaSapphireEntry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-  "hp": 40,
-  "SunEntry": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
-  "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Tickle"},
-    {"move": "Memento"},
-    {"move": "Switcheroo"},
-    {"move": "Worry Seed"},
-    {"move": "Nature Power"}
-  ],
-  "XEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-  "UltraMoonEntry": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
   "number": 546,
-  "MoonEntry": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy\u2014altogether top quality.",
-  "spatk": 37,
-  "UltraSunEntry": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can't move as well.",
-  "atk": 27,
-  "abilityHidden": "Chlorophyll",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "3"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "6"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "15"
-    },
-    {
-      "move": "Growth",
-      "lvl": "18"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "21"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "24"
-    },
-    {
-      "move": "Charm",
-      "lvl": "27"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "30"
-    },
-    {
-      "move": "Cotton Spore",
-      "lvl": "33"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "36"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "39"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "42"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "45"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "48"
-    }
-  ],
-  "type2": "Fairy",
-  "WhiteEntry": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
-  "eggGroup2": "Fairy",
-  "spd": 66,
-  "weight": "0.6kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlackEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-  "OmegaRubyEntry": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
-  "dfs": 60,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+    "UltraMoon": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
+    "Shield": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands.",
+    "Moon": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy\u2014altogether top quality.",
+    "White2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+    "UltraSun": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can't move as well.",
+    "Black": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "Black2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+    "Sun": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+    "OmegaRuby": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "White": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+    "Sword": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+    "X": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "Y": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "Misty Terrain",
+        "technical": "TM89"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Fairy Wind",
+        "lvl": "3"
+      },
+      {
+        "move": "Stun Spore",
+        "lvl": "6"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "12"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "15"
+      },
+      {
+        "move": "Growth",
+        "lvl": "18"
+      },
+      {
+        "move": "Poison Powder",
+        "lvl": "21"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "24"
+      },
+      {
+        "move": "Charm",
+        "lvl": "27"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "30"
+      },
+      {
+        "move": "Cotton Spore",
+        "lvl": "33"
+      },
+      {
+        "move": "Energy Ball",
+        "lvl": "36"
+      },
+      {
+        "move": "Sunny Day",
+        "lvl": "39"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "42"
+      },
+      {
+        "move": "Cotton Guard",
+        "lvl": "45"
+      },
+      {
+        "move": "Solar Beam",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Tickle"},
+      {"move": "Memento"},
+      {"move": "Switcheroo"},
+      {"move": "Worry Seed"},
+      {"move": "Nature Power"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "0.6kg",
+    "category": "Cotton Puff Pokémon",
+    "height": "0.3m"
+  },
   "name": "Cottonee",
-  "White2Entry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
-  "SwordEntry": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
-  "spdfs": 50,
-  "category": "Cotton Puff Pokémon",
-  "Black2Entry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+  "Stats": {
+    "dfs": 60,
+    "spatk": 37,
+    "spd": 66,
+    "hp": 40,
+    "atk": 27,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Prankster",
+    "type2": "Fairy",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Grass",
+    "abilityHidden": "Chlorophyll",
+    "ability2": "Infiltrator",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

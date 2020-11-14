@@ -1,191 +1,197 @@
 {
-  "EmeraldEntry": "Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the Trainer must establish a regular training schedule.",
-  "ability1": "Guts",
-  "AlphaSapphireEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
-  "hp": 35,
-  "SilverEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
-  "ability2": "Steadfast",
-  "eggMoves": [
-    {"move": "Rapid Spin"},
-    {"move": "High Jump Kick"},
-    {"move": "Mach Punch"},
-    {"move": "Mind Reader"},
-    {"move": "Counter"},
-    {"move": "Vacuum Wave"},
-    {"move": "Bullet Punch"},
-    {"move": "Feint"}
-  ],
   "number": 236,
-  "spatk": 35,
-  "atk": 35,
-  "height": "0.7m",
-  "type2": "",
-  "WhiteEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
-  "eggGroup2": "",
-  "spd": 35,
-  "CrystalEntry": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
-  "weight": "21.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Fighting",
-  "hasGalarian": false,
-  "dfs": 35,
-  "GoldEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
-  "SapphireEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
-  "hasAlolan": false,
-  "DiamondEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+  "Entry": {
+    "AlphaSapphire": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+    "Gold": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+    "Shield": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+    "White2": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Diamond": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Black": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Black2": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "FireRed": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+    "HearthGold": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+    "OmegaRuby": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+    "Pearl": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Silver": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+    "White": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Sword": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+    "Sapphire": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+    "LeafGreen": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+    "Platinum": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "Emerald": "Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the Trainer must establish a regular training schedule.",
+    "X": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+    "Y": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
+    "Ruby": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+    "Soulsilver": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+    "Crystal": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Bulk Up",
+        "technical": "TR48"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Fake Out",
+        "lvl": "1"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "1"
+      }
+    ],
+    "egg": [
+      {"move": "Rapid Spin"},
+      {"move": "High Jump Kick"},
+      {"move": "Mach Punch"},
+      {"move": "Mind Reader"},
+      {"move": "Counter"},
+      {"move": "Vacuum Wave"},
+      {"move": "Bullet Punch"},
+      {"move": "Feint"}
+    ]
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "21.0kg",
+    "category": "Scuffle Pokémon",
+    "height": "0.7m"
+  },
   "name": "Tyrogue",
-  "spdfs": 35,
-  "ShieldEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
-  "extraMega": false,
-  "HearthGoldEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
-  "YEntry": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
-  "PlatinumEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
-  "abilityHidden": "Vital Spirit",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    }
-  ],
-  "RubyEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
-  "BlackEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
-  "OmegaRubyEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
-  "FireRedEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
-  "White2Entry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
-  "SwordEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
-  "PearlEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
-  "category": "Scuffle Pokémon",
-  "LeafGreenEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
-  "Black2Entry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
+  "Stats": {
+    "dfs": 35,
+    "spatk": 35,
+    "spd": 35,
+    "hp": 35,
+    "atk": 35,
+    "spdfs": 35
+  },
+  "Biology": {
+    "ability1": "Guts",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Vital Spirit",
+    "ability2": "Steadfast",
+    "type1": "Fighting"
+  },
+  "hasGigantamax": false
 }

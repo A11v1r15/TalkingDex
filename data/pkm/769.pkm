@@ -1,216 +1,222 @@
 {
-  "ShieldEntry": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
-  "extraMega": false,
-  "ability1": "Water Compaction",
-  "hp": 55,
-  "SunEntry": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Ancient Power"},
-    {"move": "Destiny Bond"},
-    {"move": "Spit Up"},
-    {"move": "Stockpile"},
-    {"move": "Swallow"},
-    {"move": "Curse"}
-  ],
-  "UltraMoonEntry": "If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.",
   "number": 769,
-  "MoonEntry": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
-  "spatk": 70,
-  "UltraSunEntry": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
-  "atk": 55,
-  "abilityHidden": "Sand Veil",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "5"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "10"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "15"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "20"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "25"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "30"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "35"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "40"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "45"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "50"
-    },
-    {
-      "move": "Shore Up",
-      "lvl": "55"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "60"
-    }
-  ],
-  "type2": "Ground",
-  "eggGroup2": "",
-  "spd": 15,
-  "weight": "70.0kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Ghost",
-  "hasGalarian": false,
-  "dfs": 80,
-  "colour": "Brown",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.",
+    "Sword": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",
+    "Shield": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
+    "Moon": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
+    "UltraSun": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
+    "Sun": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Mud Shot",
+        "technical": "TM53"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Absorb",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Astonish",
+        "lvl": "5"
+      },
+      {
+        "move": "Sand Tomb",
+        "lvl": "10"
+      },
+      {
+        "move": "Mega Drain",
+        "lvl": "15"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "20"
+      },
+      {
+        "move": "Bulldoze",
+        "lvl": "25"
+      },
+      {
+        "move": "Hypnosis",
+        "lvl": "30"
+      },
+      {
+        "move": "Giga Drain",
+        "lvl": "35"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "40"
+      },
+      {
+        "move": "Shadow Ball",
+        "lvl": "45"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "50"
+      },
+      {
+        "move": "Shore Up",
+        "lvl": "55"
+      },
+      {
+        "move": "Sandstorm",
+        "lvl": "60"
+      }
+    ],
+    "egg": [
+      {"move": "Ancient Power"},
+      {"move": "Destiny Bond"},
+      {"move": "Spit Up"},
+      {"move": "Stockpile"},
+      {"move": "Swallow"},
+      {"move": "Curse"}
+    ]
+  },
+  "Flair": {
+    "colour": "Brown",
+    "weight": "70.0kg",
+    "category": "Sand Heap Pokémon",
+    "height": "0.5m"
+  },
   "name": "Sandygast",
-  "SwordEntry": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",
-  "spdfs": 45,
-  "category": "Sand Heap Pokémon"
+  "Stats": {
+    "dfs": 80,
+    "spatk": 70,
+    "spd": 15,
+    "hp": 55,
+    "atk": 55,
+    "spdfs": 45
+  },
+  "Biology": {
+    "ability1": "Water Compaction",
+    "type2": "Ground",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Sand Veil",
+    "ability2": "",
+    "type1": "Ghost"
+  },
+  "hasGigantamax": false
 }

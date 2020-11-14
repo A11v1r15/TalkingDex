@@ -1,313 +1,319 @@
 {
-  "ShieldEntry": "It's said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
-  "extraMega": false,
-  "ability1": "Overcoat",
-  "YEntry": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
-  "AlphaSapphireEntry": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
-  "hp": 110,
-  "ability2": "Magic Guard",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
   "number": 579,
-  "spatk": 125,
-  "atk": 65,
-  "abilityHidden": "Regenerator",
-  "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Hammer Arm",
-      "lvl": "0"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Recover",
-      "lvl": "1"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "12"
-    },
-    {
-      "move": "Charm",
-      "lvl": "16"
-    },
-    {
-      "move": "Psyshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "24"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "24"
-    },
-    {
-      "move": "Ally Switch",
-      "lvl": "28"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "35"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "40"
-    },
-    {
-      "move": "Skill Swap",
-      "lvl": "48"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "56"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "64"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
-  "eggGroup2": "",
-  "spd": 30,
-  "weight": "20.1kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "BlackEntry": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
-  "OmegaRubyEntry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
-  "dfs": 75,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+    "White": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
+    "Sword": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
+    "Shield": "It's said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+    "X": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+    "White2": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+    "Y": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+    "Black": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+    "Black2": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
+    "OmegaRuby": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Fire Punch",
+        "technical": "TM03"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Drain Punch",
+        "technical": "TM63"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Hammer Arm",
+        "lvl": "0"
+      },
+      {
+        "move": "Hammer Arm",
+        "lvl": "1"
+      },
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Recover",
+        "lvl": "1"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "1"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "12"
+      },
+      {
+        "move": "Charm",
+        "lvl": "16"
+      },
+      {
+        "move": "Psyshock",
+        "lvl": "20"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "24"
+      },
+      {
+        "move": "Reflect",
+        "lvl": "24"
+      },
+      {
+        "move": "Ally Switch",
+        "lvl": "28"
+      },
+      {
+        "move": "Pain Split",
+        "lvl": "35"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "40"
+      },
+      {
+        "move": "Skill Swap",
+        "lvl": "48"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "56"
+      },
+      {
+        "move": "Wonder Room",
+        "lvl": "64"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "20.1kg",
+    "category": "Multiplying Pokémon",
+    "height": "1.0m"
+  },
   "name": "Reuniclus",
-  "White2Entry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
-  "SwordEntry": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
-  "spdfs": 85,
-  "category": "Multiplying Pokémon",
-  "Black2Entry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically."
+  "Stats": {
+    "dfs": 75,
+    "spatk": 125,
+    "spd": 30,
+    "hp": 110,
+    "atk": 65,
+    "spdfs": 85
+  },
+  "Biology": {
+    "ability1": "Overcoat",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Regenerator",
+    "ability2": "Magic Guard",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

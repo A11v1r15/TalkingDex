@@ -1,272 +1,277 @@
 {
-  "YellowEntry": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-  "EmeraldEntry": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
-  "ability1": "Inner Focus",
-  "AlphaSapphireEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
-  "hp": 61,
-  "SilverEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
-  "ability2": "",
-  "UltraMoonEntry": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you'll be healthy all year long.",
-  "148Entry": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you'll be healthy all year long.",
-  "eggMoves": [],
   "number": 148,
-  "MoonEntry": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
-  "spatk": 70,
-  "UltraSunEntry": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather.",
-  "atk": 84,
-  "RedEntry": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
-  "height": "4.0m",
-  "type2": "",
-  "WhiteEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-  "eggGroup2": "Dragon",
-  "spd": 70,
-  "CrystalEntry": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
-  "weight": "16.5kg",
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Dragon",
-  "hasGalarian": false,
-  "BlueEntry": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
-  "dfs": 65,
-  "GoldEntry": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
-  "SapphireEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-  "DiamondEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+  "Entry": {
+    "Shield": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
+    "Moon": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
+    "Black": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "Black2": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "FireRed": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
+    "HearthGold": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+    "Sword": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
+    "Sapphire": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+    "Platinum": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "Emerald": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+    "X": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+    "Y": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
+    "Ruby": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+    "Soulsilver": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+    "AlphaSapphire": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+    "Gold": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+    "UltraMoon": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you'll be healthy all year long.",
+    "Blue": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+    "LetsGoPikachu": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "White2": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "Diamond": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "UltraSun": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather.",
+    "Sun": "It has long been thought that its crystalline orbs are imbued with the power to control the weather.",
+    "OmegaRuby": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+    "Red": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+    "Pearl": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "Silver": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+    "White": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "Yellow": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "LeafGreen": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
+    "LetsGoEevee": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "Crystal": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Fire Spin",
+        "technical": "TM13"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Breaking Swipe",
+        "technical": "TM99"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Wrap",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Twister",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Dragon Tail",
+        "lvl": "15"
+      },
+      {
+        "move": "Agility",
+        "lvl": "20"
+      },
+      {
+        "move": "Slam",
+        "lvl": "25"
+      },
+      {
+        "move": "Aqua Tail",
+        "lvl": "33"
+      },
+      {
+        "move": "Dragon Rush",
+        "lvl": "39"
+      },
+      {
+        "move": "Safeguard",
+        "lvl": "46"
+      },
+      {
+        "move": "Rain Dance",
+        "lvl": "53"
+      },
+      {
+        "move": "Dragon Dance",
+        "lvl": "60"
+      },
+      {
+        "move": "Outrage",
+        "lvl": "67"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "74"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "16.5kg",
+    "category": "Dragon Pokémon",
+    "height": "4.0m"
+  },
   "name": "Dragonair",
-  "spdfs": 70,
-  "ShieldEntry": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
-  "extraMega": false,
-  "HearthGoldEntry": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
-  "YEntry": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
-  "SunEntry": "It has long been thought that its crystalline orbs are imbued with the power to control the weather.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
-  "PlatinumEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-  "abilityHidden": "Multiscale",
-  "lvlUpMoves": [
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Twister",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Tail",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Slam",
-      "lvl": "25"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "33"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "39"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "46"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "53"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "60"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "67"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "74"
-    }
-  ],
-  "RubyEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-  "BlackEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-  "OmegaRubyEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
-  "LetsGoEeveeEntry": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
-  "colour": "Blue",
-  "SoulsilverEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
-  "FireRedEntry": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
-  "White2Entry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-  "SwordEntry": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
-  "PearlEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
-  "category": "Dragon Pokémon",
-  "LeafGreenEntry": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
-  "Black2Entry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+  "Stats": {
+    "dfs": 65,
+    "spatk": 70,
+    "spd": 70,
+    "hp": 61,
+    "atk": 84,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Inner Focus",
+    "type2": "",
+    "eggGroup2": "Dragon",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Multiscale",
+    "ability2": "",
+    "type1": "Dragon"
+  },
+  "hasGigantamax": false
 }

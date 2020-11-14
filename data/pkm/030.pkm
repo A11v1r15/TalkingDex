@@ -1,240 +1,245 @@
 {
-  "YellowEntry": "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",
-  "EmeraldEntry": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
-  "ability1": "Poison Point",
-  "AlphaSapphireEntry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-  "hp": 70,
-  "SilverEntry": "It has a calm and caring nature. Because its horn grows slowly it prefers not to fight.",
-  "ability2": "Rivalry",
-  "eggMoves": [],
   "number": 30,
-  "spatk": 55,
-  "atk": 62,
-  "RedEntry": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-  "height": "0.8m",
-  "type2": "",
-  "WhiteEntry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
-  "eggGroup2": "",
-  "spd": 56,
-  "CrystalEntry": "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body.",
-  "weight": "20.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "BlueEntry": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-  "dfs": 67,
-  "GoldEntry": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
-  "SapphireEntry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
-  "DiamondEntry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+  "Entry": {
+    "Shield": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
+    "Black": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "Black2": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "FireRed": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+    "HearthGold": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
+    "Sword": "The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.",
+    "Sapphire": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+    "Platinum": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "Emerald": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+    "X": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+    "Y": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+    "Ruby": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+    "Soulsilver": "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
+    "AlphaSapphire": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+    "Gold": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
+    "Blue": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "LetsGoPikachu": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+    "White2": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "Diamond": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "OmegaRuby": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+    "Red": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "Pearl": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "Silver": "It has a calm and caring nature. Because its horn grows slowly it prefers not to fight.",
+    "White": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+    "Yellow": "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed.",
+    "LeafGreen": "The female's horns develop slowly. Prefers physical attacks such as clawing and biting.",
+    "LetsGoEevee": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+    "Crystal": "It has a docile nature. If it is threatened with attack, it raises the barbs that are all over its body."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Beat Up",
+        "technical": "TM37"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "lvl": "1"
+      },
+      {
+        "move": "Scratch",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Fury Swipes",
+        "lvl": "15"
+      },
+      {
+        "move": "Toxic Spikes",
+        "lvl": "22"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "29"
+      },
+      {
+        "move": "Bite",
+        "lvl": "36"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "43"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "50"
+      },
+      {
+        "move": "Flatter",
+        "lvl": "57"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "64"
+      },
+      {
+        "move": "Earth Power",
+        "lvl": "71"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "20.0kg",
+    "category": "Poison Pin Pokémon",
+    "height": "0.8m"
+  },
   "name": "Nidorina",
-  "spdfs": 55,
-  "ShieldEntry": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
-  "extraMega": false,
-  "HearthGoldEntry": "When feeding its young, it first chews and tenderizes the food, then spits it out for the offspring.",
-  "YEntry": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
-  "30Entry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-  "PlatinumEntry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
-  "abilityHidden": "Hustle",
-  "lvlUpMoves": [
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "15"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "22"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "29"
-    },
-    {
-      "move": "Bite",
-      "lvl": "36"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "43"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "50"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "57"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "64"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "71"
-    }
-  ],
-  "RubyEntry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-  "BlackEntry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
-  "OmegaRubyEntry": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
-  "LetsGoEeveeEntry": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
-  "colour": "Blue",
-  "SoulsilverEntry": "It has a calm and caring nature. Because its horn grows slowly, it prefers not to fight.",
-  "FireRedEntry": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
-  "White2Entry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
-  "SwordEntry": "The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.",
-  "PearlEntry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
-  "category": "Poison Pin Pokémon",
-  "LeafGreenEntry": "The female's horns develop slowly. Prefers physical attacks such as clawing and biting.",
-  "Black2Entry": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's."
+  "Stats": {
+    "dfs": 67,
+    "spatk": 55,
+    "spd": 56,
+    "hp": 70,
+    "atk": 62,
+    "spdfs": 55
+  },
+  "Biology": {
+    "ability1": "Poison Point",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "Hustle",
+    "ability2": "Rivalry",
+    "type1": "Poison"
+  },
+  "hasGigantamax": false
 }

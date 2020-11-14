@@ -1,268 +1,273 @@
 {
-  "YellowEntry": "It lives and grows by absorbing dust, germs, and poison gases that are contained in toxic waste and garbage.",
-  "EmeraldEntry": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.",
-  "ability1": "Levitate",
-  "AlphaSapphireEntry": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
-  "hp": 65,
-  "SilverEntry": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
-  "ability2": "Neutralizing Gas",
-  "eggMoves": [],
   "number": 110,
-  "spatk": 85,
-  "atk": 90,
-  "RedEntry": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
-  "height": "1.2m",
-  "type2": "",
-  "WhiteEntry": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-  "eggGroup2": "",
-  "spd": 60,
-  "CrystalEntry": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
-  "weight": "9.5kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": true,
-  "BlueEntry": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
-  "dfs": 120,
-  "GoldEntry": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
-  "SapphireEntry": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
-  "DiamondEntry": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+  "Entry": {
+    "Shield": "It can't suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+    "Black": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "Black2": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+    "FireRed": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+    "HearthGold": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+    "Sword": "It mixes gases between its two bodies. It's said that these Pokémon were seen all over the Galar region back in the day.",
+    "Sapphire": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+    "Platinum": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "Emerald": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.",
+    "X": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+    "Y": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+    "Ruby": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+    "Soulsilver": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+    "AlphaSapphire": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+    "Gold": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+    "Blue": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+    "LetsGoPikachu": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+    "White2": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+    "Diamond": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "OmegaRuby": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+    "Red": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+    "Pearl": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "Silver": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+    "White": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "Yellow": "It lives and grows by absorbing dust, germs, and poison gases that are contained in toxic waste and garbage.",
+    "LeafGreen": "Where two kinds of poison gases meet, two Koffings can fuse into a Weezing over many years.",
+    "LetsGoEevee": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+    "Crystal": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Screech",
+        "technical": "TM16"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Will-O-Wisp",
+        "technical": "TM38"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Payback",
+        "technical": "TM57"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Toxic Spikes",
+        "technical": "TR54"
+      },
+      {
+        "move": "Dark Pulse",
+        "technical": "TR58"
+      },
+      {
+        "move": "Sludge Wave",
+        "technical": "TR78"
+      },
+      {
+        "move": "Venom Drench",
+        "technical": "TR91"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Double Hit",
+        "lvl": "0"
+      },
+      {
+        "move": "Double Hit",
+        "lvl": "1"
+      },
+      {
+        "move": "Heat Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Poison Gas",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Smog",
+        "lvl": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "lvl": "1"
+      },
+      {
+        "move": "Clear Smog",
+        "lvl": "12"
+      },
+      {
+        "move": "Assurance",
+        "lvl": "16"
+      },
+      {
+        "move": "Sludge",
+        "lvl": "20"
+      },
+      {
+        "move": "Haze",
+        "lvl": "24"
+      },
+      {
+        "move": "Self-Destruct",
+        "lvl": "28"
+      },
+      {
+        "move": "Sludge Bomb",
+        "lvl": "32"
+      },
+      {
+        "move": "Toxic",
+        "lvl": "38"
+      },
+      {
+        "move": "Belch",
+        "lvl": "44"
+      },
+      {
+        "move": "Explosion",
+        "lvl": "50"
+      },
+      {
+        "move": "Memento",
+        "lvl": "56"
+      },
+      {
+        "move": "Destiny Bond",
+        "lvl": "62"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Purple",
+    "weight": "9.5kg",
+    "category": "Poison Gas Pokémon",
+    "height": "1.2m"
+  },
   "name": "Weezing",
-  "spdfs": 70,
-  "ShieldEntry": "It can't suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
-  "extraMega": false,
-  "HearthGoldEntry": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
-  "YEntry": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
-  "110Entry": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
-  "PlatinumEntry": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-  "abilityHidden": "Stench",
-  "lvlUpMoves": [
-    {
-      "move": "Double Hit",
-      "lvl": "0"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "1"
-    },
-    {
-      "move": "Heat Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Gas",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Smog",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Clear Smog",
-      "lvl": "12"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "16"
-    },
-    {
-      "move": "Sludge",
-      "lvl": "20"
-    },
-    {
-      "move": "Haze",
-      "lvl": "24"
-    },
-    {
-      "move": "Self-Destruct",
-      "lvl": "28"
-    },
-    {
-      "move": "Sludge Bomb",
-      "lvl": "32"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "38"
-    },
-    {
-      "move": "Belch",
-      "lvl": "44"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "50"
-    },
-    {
-      "move": "Memento",
-      "lvl": "56"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "62"
-    }
-  ],
-  "RubyEntry": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
-  "BlackEntry": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-  "OmegaRubyEntry": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
-  "LetsGoEeveeEntry": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
-  "colour": "Purple",
-  "SoulsilverEntry": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
-  "FireRedEntry": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
-  "White2Entry": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
-  "SwordEntry": "It mixes gases between its two bodies. It's said that these Pokémon were seen all over the Galar region back in the day.",
-  "PearlEntry": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
-  "category": "Poison Gas Pokémon",
-  "LeafGreenEntry": "Where two kinds of poison gases meet, two Koffings can fuse into a Weezing over many years.",
-  "Black2Entry": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench."
+  "Stats": {
+    "dfs": 120,
+    "spatk": 85,
+    "spd": 60,
+    "hp": 65,
+    "atk": 90,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Levitate",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Stench",
+    "ability2": "Neutralizing Gas",
+    "type1": "Poison"
+  },
+  "hasGigantamax": false
 }

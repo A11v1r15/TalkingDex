@@ -1,233 +1,239 @@
 {
-  "ShieldEntry": "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
-  "extraMega": false,
-  "ability1": "Sturdy",
-  "YEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
-  "AlphaSapphireEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
-  "hp": 85,
-  "SunEntry": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
-  "ability2": "Sand Stream",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
-  "XEntry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
-  "UltraMoonEntry": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.",
   "number": 526,
-  "MoonEntry": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
-  "spatk": 60,
-  "UltraSunEntry": "When it fires off energy with all its might, the power creates countless fissures on its body.",
-  "atk": 135,
-  "abilityHidden": "Sand Force",
-  "height": "1.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Power Gem",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "12"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "16"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "30"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "36"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "42"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "48"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "54"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
-  "eggGroup2": "",
-  "spd": 25,
-  "weight": "260.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "BlackEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
-  "OmegaRubyEntry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
-  "dfs": 130,
-  "colour": "Blue",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+    "UltraMoon": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.",
+    "Shield": "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
+    "Moon": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+    "White2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+    "UltraSun": "When it fires off energy with all its might, the power creates countless fissures on its body.",
+    "Black": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+    "Black2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+    "Sun": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
+    "OmegaRuby": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+    "White": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
+    "Sword": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+    "X": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+    "Y": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sandstorm",
+        "technical": "TM32"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Sand Tomb",
+        "technical": "TM49"
+      },
+      {
+        "move": "Rock Blast",
+        "technical": "TM54"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Bulldoze",
+        "technical": "TM81"
+      },
+      {
+        "move": "Stomping Tantrum",
+        "technical": "TM98"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Power Gem",
+        "technical": "TR63"
+      },
+      {
+        "move": "Earth Power",
+        "technical": "TR67"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Stone Edge",
+        "technical": "TR75"
+      },
+      {
+        "move": "Stealth Rock",
+        "technical": "TR76"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Power Gem",
+        "lvl": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Stealth Rock",
+        "lvl": "1"
+      },
+      {
+        "move": "Mud-Slap",
+        "lvl": "12"
+      },
+      {
+        "move": "Smack Down",
+        "lvl": "16"
+      },
+      {
+        "move": "Iron Defense",
+        "lvl": "20"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "24"
+      },
+      {
+        "move": "Rock Slide",
+        "lvl": "30"
+      },
+      {
+        "move": "Rock Blast",
+        "lvl": "36"
+      },
+      {
+        "move": "Sandstorm",
+        "lvl": "42"
+      },
+      {
+        "move": "Stone Edge",
+        "lvl": "48"
+      },
+      {
+        "move": "Explosion",
+        "lvl": "54"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "260.0kg",
+    "category": "Compressed Pokémon",
+    "height": "1.7m"
+  },
   "name": "Gigalith",
-  "White2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
-  "SwordEntry": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
-  "spdfs": 80,
-  "category": "Compressed Pokémon",
-  "Black2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."
+  "Stats": {
+    "dfs": 130,
+    "spatk": 60,
+    "spd": 25,
+    "hp": 85,
+    "atk": 135,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Sturdy",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Mineral",
+    "abilityHidden": "Sand Force",
+    "ability2": "Sand Stream",
+    "type1": "Rock"
+  },
+  "hasGigantamax": false
 }

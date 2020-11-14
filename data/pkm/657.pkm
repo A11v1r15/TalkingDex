@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Torrent",
-  "YEntry": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
-  "AlphaSapphireEntry": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
-  "hp": 54,
-  "ability2": "",
-  "hasGigantamax": false,
-  "XEntry": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
   "number": 657,
-  "spatk": 83,
-  "atk": 63,
-  "abilityHidden": "Protean",
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 97,
-  "eggGroup1": "Water 1",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "OmegaRubyEntry": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
-  "dfs": 52,
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+    "X": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+    "Y": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+    "OmegaRuby": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away."
+  },
+  "Moves": {},
+  "Flair": {"category": "Bubble Frog Pokémon"},
   "name": "Frogadier",
-  "spdfs": 56,
-  "category": "Bubble Frog Pokémon"
+  "Stats": {
+    "dfs": 52,
+    "spatk": 83,
+    "spd": 97,
+    "hp": 54,
+    "atk": 63,
+    "spdfs": 56
+  },
+  "Biology": {
+    "ability1": "Torrent",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Water 1",
+    "abilityHidden": "Protean",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }

@@ -1,27 +1,30 @@
 {
-  "extraMega": false,
-  "ability1": "Keen Eye",
-  "hp": 80,
-  "SunEntry": "When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits.",
-  "ability2": "Skill Link",
-  "hasGigantamax": false,
-  "UltraMoonEntry": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.",
   "number": 733,
-  "MoonEntry": "Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.",
-  "spatk": 75,
-  "UltraSunEntry": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
-  "atk": 120,
-  "abilityHidden": "Sheer Force",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "spd": 60,
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Normal",
-  "hasGalarian": false,
-  "dfs": 75,
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.",
+    "Moon": "Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.",
+    "UltraSun": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+    "Sun": "When it battles, its beak heats up. The temperature can easily exceed 212 degrees Fahrenheit, causing severe burns when it hits."
+  },
+  "Moves": {},
+  "Flair": {"category": "Cannon Pokémon"},
   "name": "Toucannon",
-  "spdfs": 75,
-  "category": "Cannon Pokémon"
+  "Stats": {
+    "dfs": 75,
+    "spatk": 75,
+    "spd": 60,
+    "hp": 80,
+    "atk": 120,
+    "spdfs": 75
+  },
+  "Biology": {
+    "ability1": "Keen Eye",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Sheer Force",
+    "ability2": "Skill Link",
+    "type1": "Normal"
+  },
+  "hasGigantamax": false
 }

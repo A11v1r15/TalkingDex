@@ -1,237 +1,243 @@
 {
-  "ShieldEntry": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
-  "extraMega": false,
-  "ability1": "Snow Cloak",
-  "YEntry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-  "AlphaSapphireEntry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-  "hp": 55,
-  "ability2": "Slush Rush",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Yawn"},
-    {"move": "Night Slash"},
-    {"move": "Focus Punch"}
-  ],
-  "XEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
   "number": 613,
-  "spatk": 60,
-  "atk": 70,
-  "abilityHidden": "Rattled",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Endure",
-      "lvl": "3"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "6"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "9"
-    },
-    {
-      "move": "Play Nice",
-      "lvl": "12"
-    },
-    {
-      "move": "Brine",
-      "lvl": "15"
-    },
-    {
-      "move": "Frost Breath",
-      "lvl": "18"
-    },
-    {
-      "move": "Slash",
-      "lvl": "21"
-    },
-    {
-      "move": "Flail",
-      "lvl": "24"
-    },
-    {
-      "move": "Charm",
-      "lvl": "27"
-    },
-    {
-      "move": "Hail",
-      "lvl": "30"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "33"
-    },
-    {
-      "move": "Rest",
-      "lvl": "36"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "39"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "42"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-  "eggGroup2": "",
-  "spd": 40,
-  "weight": "8.5kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": false,
-  "BlackEntry": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
-  "OmegaRubyEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-  "dfs": 40,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+    "White": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+    "Sword": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
+    "Shield": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+    "X": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+    "White2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+    "Y": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+    "Black": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+    "Black2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+    "OmegaRuby": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Avalanche",
+        "technical": "TM64"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Ice Fang",
+        "technical": "TM67"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Powder Snow",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Endure",
+        "lvl": "3"
+      },
+      {
+        "move": "Fury Swipes",
+        "lvl": "6"
+      },
+      {
+        "move": "Icy Wind",
+        "lvl": "9"
+      },
+      {
+        "move": "Play Nice",
+        "lvl": "12"
+      },
+      {
+        "move": "Brine",
+        "lvl": "15"
+      },
+      {
+        "move": "Frost Breath",
+        "lvl": "18"
+      },
+      {
+        "move": "Slash",
+        "lvl": "21"
+      },
+      {
+        "move": "Flail",
+        "lvl": "24"
+      },
+      {
+        "move": "Charm",
+        "lvl": "27"
+      },
+      {
+        "move": "Hail",
+        "lvl": "30"
+      },
+      {
+        "move": "Thrash",
+        "lvl": "33"
+      },
+      {
+        "move": "Rest",
+        "lvl": "36"
+      },
+      {
+        "move": "Blizzard",
+        "lvl": "39"
+      },
+      {
+        "move": "Sheer Cold",
+        "lvl": "42"
+      }
+    ],
+    "egg": [
+      {"move": "Yawn"},
+      {"move": "Night Slash"},
+      {"move": "Focus Punch"}
+    ]
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "8.5kg",
+    "category": "Chill Pokémon",
+    "height": "0.5m"
+  },
   "name": "Cubchoo",
-  "White2Entry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-  "SwordEntry": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
-  "spdfs": 40,
-  "category": "Chill Pokémon",
-  "Black2Entry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+  "Stats": {
+    "dfs": 40,
+    "spatk": 60,
+    "spd": 40,
+    "hp": 55,
+    "atk": 70,
+    "spdfs": 40
+  },
+  "Biology": {
+    "ability1": "Snow Cloak",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Rattled",
+    "ability2": "Slush Rush",
+    "type1": "Ice"
+  },
+  "hasGigantamax": false
 }

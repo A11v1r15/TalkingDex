@@ -1,235 +1,241 @@
 {
-  "EmeraldEntry": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
-  "ability1": "Rock Head",
-  "AlphaSapphireEntry": "Covering Shelgon\u2019s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
-  "hp": 65,
-  "ability2": "",
-  "UltraMoonEntry": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
-  "eggMoves": [],
   "number": 372,
-  "MoonEntry": "They lurk deep within caves\u2014motionless, neither eating nor drinking. Why they don't die is not known.",
-  "spatk": 60,
-  "UltraSunEntry": "The cells within its body are changing at a bewildering pace. Its hard shell is made from the same substance as bone.",
-  "atk": 95,
-  "height": "1.1m",
-  "type2": "",
-  "WhiteEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "eggGroup2": "",
-  "spd": 50,
-  "weight": "110.5kg",
-  "eggGroup1": "Dragon",
-  "hasMega": false,
-  "type1": "Dragon",
-  "hasGalarian": false,
-  "dfs": 100,
-  "SapphireEntry": "Covering Shelgon's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
-  "hasAlolan": false,
-  "DiamondEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+  "Entry": {
+    "AlphaSapphire": "Covering Shelgon\u2019s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
+    "UltraMoon": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
+    "Shield": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
+    "Moon": "They lurk deep within caves\u2014motionless, neither eating nor drinking. Why they don't die is not known.",
+    "White2": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "Diamond": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "UltraSun": "The cells within its body are changing at a bewildering pace. Its hard shell is made from the same substance as bone.",
+    "Black": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "Black2": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "FireRed": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+    "Sun": "The cells within its shell transform with explosive speed, preparing it for evolution.",
+    "HearthGold": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
+    "OmegaRuby": "Inside Shelgon\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon\u2019s shell is extremely heavy, making its movements sluggish.",
+    "Pearl": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "White": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "Sword": "This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.",
+    "Sapphire": "Covering Shelgon's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
+    "LeafGreen": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+    "Platinum": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "Emerald": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+    "X": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "Y": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+    "Ruby": "Inside Shelgon's armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon's shell is extremely heavy, making its movements sluggish.",
+    "Soulsilver": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Scary Face",
+        "technical": "TM26"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Shadow Claw",
+        "technical": "TM65"
+      },
+      {
+        "move": "Fire Fang",
+        "technical": "TM68"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Flamethrower",
+        "technical": "TR02"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Fire Blast",
+        "technical": "TR15"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Crunch",
+        "technical": "TR32"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Dragon Claw",
+        "technical": "TR47"
+      },
+      {
+        "move": "Dragon Dance",
+        "technical": "TR51"
+      },
+      {
+        "move": "Dragon Pulse",
+        "technical": "TR62"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Protect",
+        "lvl": "0"
+      },
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Ember",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Dragon Breath",
+        "lvl": "1"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "15"
+      },
+      {
+        "move": "Scary Face",
+        "lvl": "20"
+      },
+      {
+        "move": "Crunch",
+        "lvl": "25"
+      },
+      {
+        "move": "Dragon Claw",
+        "lvl": "33"
+      },
+      {
+        "move": "Zen Headbutt",
+        "lvl": "39"
+      },
+      {
+        "move": "Focus Energy",
+        "lvl": "46"
+      },
+      {
+        "move": "Flamethrower",
+        "lvl": "53"
+      },
+      {
+        "move": "Outrage",
+        "lvl": "60"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "67"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "110.5kg",
+    "category": "Endurance Pokémon",
+    "height": "1.1m"
+  },
   "name": "Shelgon",
-  "spdfs": 50,
-  "ShieldEntry": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
-  "extraMega": false,
-  "HearthGoldEntry": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
-  "YEntry": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-  "SunEntry": "The cells within its shell transform with explosive speed, preparing it for evolution.",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "PlatinumEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "abilityHidden": "Overcoat",
-  "lvlUpMoves": [
-    {
-      "move": "Protect",
-      "lvl": "0"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "15"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "25"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "33"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "39"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "46"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "53"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "60"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "67"
-    }
-  ],
-  "RubyEntry": "Inside Shelgon's armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon's shell is extremely heavy, making its movements sluggish.",
-  "BlackEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "OmegaRubyEntry": "Inside Shelgon\u2019s armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon\u2019s shell is extremely heavy, making its movements sluggish.",
-  "colour": "White",
-  "SoulsilverEntry": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
-  "FireRedEntry": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-  "White2Entry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "SwordEntry": "This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.",
-  "PearlEntry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
-  "category": "Endurance Pokémon",
-  "LeafGreenEntry": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
-  "Black2Entry": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves."
+  "Stats": {
+    "dfs": 100,
+    "spatk": 60,
+    "spd": 50,
+    "hp": 65,
+    "atk": 95,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Rock Head",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Dragon",
+    "abilityHidden": "Overcoat",
+    "ability2": "",
+    "type1": "Dragon"
+  },
+  "hasGigantamax": false
 }

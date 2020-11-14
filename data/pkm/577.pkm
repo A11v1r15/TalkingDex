@@ -1,265 +1,271 @@
 {
-  "ShieldEntry": "Many say that the special liquid covering this Pokémon's body would allow it to survive in the vacuum of space.",
-  "extraMega": false,
-  "ability1": "Overcoat",
-  "YEntry": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
-  "AlphaSapphireEntry": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
-  "hp": 45,
-  "ability2": "Magic Guard",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [
-    {"move": "Astonish"},
-    {"move": "Confuse Ray"},
-    {"move": "Acid Armor"}
-  ],
-  "XEntry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
   "number": 577,
-  "spatk": 105,
-  "atk": 30,
-  "abilityHidden": "Regenerator",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Recover",
-      "lvl": "4"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "8"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "12"
-    },
-    {
-      "move": "Charm",
-      "lvl": "16"
-    },
-    {
-      "move": "Psyshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "24"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "24"
-    },
-    {
-      "move": "Ally Switch",
-      "lvl": "28"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "33"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "36"
-    },
-    {
-      "move": "Skill Swap",
-      "lvl": "40"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "44"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "48"
-    }
-  ],
-  "type2": "",
-  "WhiteEntry": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
-  "eggGroup2": "",
-  "spd": 20,
-  "weight": "1.0kg",
-  "eggGroup1": "Amorphous",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "BlackEntry": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
-  "OmegaRubyEntry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
-  "dfs": 40,
-  "colour": "Green",
-  "hasAlolan": false,
+  "Entry": {
+    "AlphaSapphire": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+    "White": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+    "Sword": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+    "Shield": "Many say that the special liquid covering this Pokémon's body would allow it to survive in the vacuum of space.",
+    "X": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+    "White2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+    "Y": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+    "Black": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+    "Black2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+    "OmegaRuby": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Wonder Room",
+        "technical": "TM71"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Psychic Terrain",
+        "technical": "TM91"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Protect",
+        "lvl": "1"
+      },
+      {
+        "move": "Confusion",
+        "lvl": "1"
+      },
+      {
+        "move": "Recover",
+        "lvl": "4"
+      },
+      {
+        "move": "Endeavor",
+        "lvl": "8"
+      },
+      {
+        "move": "Psybeam",
+        "lvl": "12"
+      },
+      {
+        "move": "Charm",
+        "lvl": "16"
+      },
+      {
+        "move": "Psyshock",
+        "lvl": "20"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "24"
+      },
+      {
+        "move": "Reflect",
+        "lvl": "24"
+      },
+      {
+        "move": "Ally Switch",
+        "lvl": "28"
+      },
+      {
+        "move": "Pain Split",
+        "lvl": "33"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "36"
+      },
+      {
+        "move": "Skill Swap",
+        "lvl": "40"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "44"
+      },
+      {
+        "move": "Wonder Room",
+        "lvl": "48"
+      }
+    ],
+    "egg": [
+      {"move": "Astonish"},
+      {"move": "Confuse Ray"},
+      {"move": "Acid Armor"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "1.0kg",
+    "category": "Cell Pokémon",
+    "height": "0.3m"
+  },
   "name": "Solosis",
-  "White2Entry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
-  "SwordEntry": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
-  "spdfs": 50,
-  "category": "Cell Pokémon",
-  "Black2Entry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe."
+  "Stats": {
+    "dfs": 40,
+    "spatk": 105,
+    "spd": 20,
+    "hp": 45,
+    "atk": 30,
+    "spdfs": 50
+  },
+  "Biology": {
+    "ability1": "Overcoat",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Amorphous",
+    "abilityHidden": "Regenerator",
+    "ability2": "Magic Guard",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

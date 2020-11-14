@@ -1,296 +1,302 @@
 {
-  "EmeraldEntry": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
-  "ability1": "Synchronize",
-  "AlphaSapphireEntry": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
-  "hp": 65,
-  "SilverEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
-  "ability2": "Early Bird",
-  "eggMoves": [],
-  "UltraMoonEntry": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
   "number": 178,
-  "spatk": 95,
-  "UltraSunEntry": "It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees.",
-  "atk": 75,
-  "height": "1.5m",
-  "type2": "Flying",
-  "WhiteEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
-  "eggGroup2": "",
-  "spd": 95,
-  "CrystalEntry": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
-  "weight": "15.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Psychic",
-  "hasGalarian": false,
-  "dfs": 70,
-  "GoldEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-  "SapphireEntry": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
-  "hasAlolan": false,
-  "DiamondEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+  "Entry": {
+    "Shield": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+    "Black": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+    "Black2": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+    "FireRed": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+    "HearthGold": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "Sword": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "Sapphire": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
+    "Platinum": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+    "Emerald": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
+    "X": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+    "Y": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "Ruby": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+    "Soulsilver": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+    "AlphaSapphire": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
+    "Gold": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "UltraMoon": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
+    "White2": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+    "Diamond": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+    "UltraSun": "It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees.",
+    "OmegaRuby": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+    "Pearl": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+    "Silver": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+    "White": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
+    "LeafGreen": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "Crystal": "Once it begins to meditate at sunrise, the entire day will pass before it will move again."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Fly",
+        "technical": "TM06"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Steel Wing",
+        "technical": "TM30"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Imprison",
+        "technical": "TM44"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Power Swap",
+        "technical": "TM60"
+      },
+      {
+        "move": "Guard Swap",
+        "technical": "TM61"
+      },
+      {
+        "move": "Trick Room",
+        "technical": "TM70"
+      },
+      {
+        "move": "Magic Room",
+        "technical": "TM72"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Air Slash",
+        "technical": "TM95"
+      },
+      {
+        "move": "Psychic",
+        "technical": "TR11"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Psyshock",
+        "technical": "TR25"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Future Sight",
+        "technical": "TR34"
+      },
+      {
+        "move": "Heat Wave",
+        "technical": "TR36"
+      },
+      {
+        "move": "Trick",
+        "technical": "TR38"
+      },
+      {
+        "move": "Skill Swap",
+        "technical": "TR40"
+      },
+      {
+        "move": "Cosmic Power",
+        "technical": "TR44"
+      },
+      {
+        "move": "Calm Mind",
+        "technical": "TR49"
+      },
+      {
+        "move": "Zen Headbutt",
+        "technical": "TR69"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Ally Switch",
+        "technical": "TR83"
+      },
+      {
+        "move": "Dazzling Gleam",
+        "technical": "TR92"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Air Slash",
+        "lvl": "0"
+      },
+      {
+        "move": "Air Slash",
+        "lvl": "1"
+      },
+      {
+        "move": "Tailwind",
+        "lvl": "1"
+      },
+      {
+        "move": "Peck",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "1"
+      },
+      {
+        "move": "Stored Power",
+        "lvl": "1"
+      },
+      {
+        "move": "Teleport",
+        "lvl": "1"
+      },
+      {
+        "move": "Confuse Ray",
+        "lvl": "15"
+      },
+      {
+        "move": "Night Shade",
+        "lvl": "20"
+      },
+      {
+        "move": "Psycho Shift",
+        "lvl": "28"
+      },
+      {
+        "move": "Power Swap",
+        "lvl": "34"
+      },
+      {
+        "move": "Guard Swap",
+        "lvl": "34"
+      },
+      {
+        "move": "Psychic",
+        "lvl": "41"
+      },
+      {
+        "move": "Wish",
+        "lvl": "48"
+      },
+      {
+        "move": "Future Sight",
+        "lvl": "55"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "15.0kg",
+    "category": "Mystic Pokémon",
+    "height": "1.5m"
+  },
   "name": "Xatu",
-  "spdfs": 70,
-  "ShieldEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
-  "extraMega": false,
-  "HearthGoldEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-  "YEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
-  "PlatinumEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
-  "abilityHidden": "Magic Bounce",
-  "lvlUpMoves": [
-    {
-      "move": "Air Slash",
-      "lvl": "0"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Stored Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "15"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "20"
-    },
-    {
-      "move": "Psycho Shift",
-      "lvl": "28"
-    },
-    {
-      "move": "Power Swap",
-      "lvl": "34"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "34"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "41"
-    },
-    {
-      "move": "Wish",
-      "lvl": "48"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "55"
-    }
-  ],
-  "RubyEntry": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
-  "BlackEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
-  "OmegaRubyEntry": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
-  "colour": "Green",
-  "SoulsilverEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
-  "FireRedEntry": "In South America, it is said that its right eye sees the future and its left eye views the past.",
-  "White2Entry": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
-  "SwordEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-  "PearlEntry": "This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.",
-  "category": "Mystic Pokémon",
-  "LeafGreenEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-  "Black2Entry": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day."
+  "Stats": {
+    "dfs": 70,
+    "spatk": 95,
+    "spd": 95,
+    "hp": 65,
+    "atk": 75,
+    "spdfs": 70
+  },
+  "Biology": {
+    "ability1": "Synchronize",
+    "type2": "Flying",
+    "eggGroup2": "",
+    "eggGroup1": "Flying",
+    "abilityHidden": "Magic Bounce",
+    "ability2": "Early Bird",
+    "type1": "Psychic"
+  },
+  "hasGigantamax": false
 }

@@ -1,255 +1,260 @@
 {
-  "YellowEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-  "EmeraldEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "ability1": "Overgrow",
-  "AlphaSapphireEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "hp": 45,
-  "SilverEntry": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
-  "ability2": "",
-  "eggMoves": [
-    {"move": "Skull Bash"},
-    {"move": "Petal Dance"},
-    {"move": "Curse"},
-    {"move": "Ingrain"},
-    {"move": "Nature Power"},
-    {"move": "Toxic"}
-  ],
   "number": 1,
-  "spatk": 65,
-  "atk": 49,
-  "RedEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-  "height": "0.7m",
-  "type2": "Poison",
-  "WhiteEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "eggGroup2": "Grass",
-  "spd": 45,
-  "CrystalEntry": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
-  "weight": "6.9kg",
-  "eggGroup1": "Monster",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "BlueEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-  "dfs": 49,
-  "GoldEntry": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
-  "SapphireEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-  "DiamondEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+  "Entry": {
+    "Shield": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+    "Black": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Black2": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "FireRed": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "HearthGold": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+    "Sword": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "Sapphire": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "Platinum": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Emerald": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "X": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "Y": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Ruby": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "Soulsilver": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
+    "AlphaSapphire": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "Gold": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+    "Blue": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "LetsGoPikachu": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+    "White2": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Diamond": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "OmegaRuby": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "Red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "Pearl": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Silver": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
+    "White": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "Yellow": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+    "LeafGreen": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "LetsGoEevee": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+    "Crystal": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Magical Leaf",
+        "technical": "TM10"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Giga Drain",
+        "technical": "TM28"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Bullet Seed",
+        "technical": "TM50"
+      },
+      {
+        "move": "Venoshock",
+        "technical": "TM74"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Grassy Terrain",
+        "technical": "TM88"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Swords Dance",
+        "technical": "TR00"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Amnesia",
+        "technical": "TR17"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Sludge Bomb",
+        "technical": "TR22"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Seed Bomb",
+        "technical": "TR59"
+      },
+      {
+        "move": "Energy Ball",
+        "technical": "TR65"
+      },
+      {
+        "move": "Leaf Storm",
+        "technical": "TR71"
+      },
+      {
+        "move": "Power Whip",
+        "technical": "TR72"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Vine Whip",
+        "lvl": "3"
+      },
+      {
+        "move": "Growth",
+        "lvl": "6"
+      },
+      {
+        "move": "Leech Seed",
+        "lvl": "9"
+      },
+      {
+        "move": "Razor Leaf",
+        "lvl": "12"
+      },
+      {
+        "move": "Poison Powder",
+        "lvl": "15"
+      },
+      {
+        "move": "Sleep Powder",
+        "lvl": "15"
+      },
+      {
+        "move": "Seed Bomb",
+        "lvl": "18"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "21"
+      },
+      {
+        "move": "Sweet Scent",
+        "lvl": "24"
+      },
+      {
+        "move": "Synthesis",
+        "lvl": "27"
+      },
+      {
+        "move": "Worry Seed",
+        "lvl": "30"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "33"
+      },
+      {
+        "move": "Solar Beam",
+        "lvl": "36"
+      }
+    ],
+    "egg": [
+      {"move": "Skull Bash"},
+      {"move": "Petal Dance"},
+      {"move": "Curse"},
+      {"move": "Ingrain"},
+      {"move": "Nature Power"},
+      {"move": "Toxic"}
+    ]
+  },
+  "Flair": {
+    "colour": "Green",
+    "weight": "6.9kg",
+    "category": "Seed Pokémon",
+    "height": "0.7m"
+  },
   "name": "Bulbasaur",
-  "spdfs": 65,
-  "ShieldEntry": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
-  "extraMega": false,
-  "HearthGoldEntry": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
-  "YEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "tmTrMoves": [
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-  "PlatinumEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "abilityHidden": "Chlorophyll",
-  "1Entry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Vine Whip",
-      "lvl": "3"
-    },
-    {
-      "move": "Growth",
-      "lvl": "6"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "9"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "12"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "15"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "15"
-    },
-    {
-      "move": "Seed Bomb",
-      "lvl": "18"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "21"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "24"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "27"
-    },
-    {
-      "move": "Worry Seed",
-      "lvl": "30"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "33"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "36"
-    }
-  ],
-  "RubyEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "BlackEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "OmegaRubyEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-  "LetsGoEeveeEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
-  "colour": "Green",
-  "SoulsilverEntry": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
-  "FireRedEntry": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
-  "White2Entry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "SwordEntry": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
-  "PearlEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
-  "category": "Seed Pokémon",
-  "LeafGreenEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-  "Black2Entry": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+  "Stats": {
+    "dfs": 49,
+    "spatk": 65,
+    "spd": 45,
+    "hp": 45,
+    "atk": 49,
+    "spdfs": 65
+  },
+  "Biology": {
+    "ability1": "Overgrow",
+    "type2": "Poison",
+    "eggGroup2": "Grass",
+    "eggGroup1": "Monster",
+    "abilityHidden": "Chlorophyll",
+    "ability2": "",
+    "type1": "Grass"
+  },
+  "hasGigantamax": false
 }

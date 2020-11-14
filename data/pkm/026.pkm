@@ -1,348 +1,353 @@
 {
-  "YellowEntry": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-  "EmeraldEntry": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
-  "ability1": "Static",
-  "AlphaSapphireEntry": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.",
-  "hp": 60,
-  "SilverEntry": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "Because so many Trainers like the way Pikachu looks, you don't see this Pokémon very often.",
   "number": 26,
-  "MoonEntry": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
-  "spatk": 90,
-  "26Entry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-  "UltraSunEntry": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
-  "atk": 90,
-  "RedEntry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
-  "height": "0.8m",
-  "type2": "",
-  "WhiteEntry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-  "eggGroup2": "Fairy",
-  "spd": 110,
-  "CrystalEntry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-  "weight": "30.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Electric",
-  "hasGalarian": false,
-  "BlueEntry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
-  "dfs": 55,
-  "GoldEntry": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
-  "SapphireEntry": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
-  "hasAlolan": true,
-  "LetsGoPikachuEntry": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-  "DiamondEntry": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+  "Entry": {
+    "Shield": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+    "Moon": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.",
+    "Black": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "Black2": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "FireRed": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
+    "HearthGold": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+    "Sword": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+    "Sapphire": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
+    "Platinum": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "Emerald": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+    "X": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+    "Y": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+    "Ruby": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+    "Soulsilver": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "AlphaSapphire": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.",
+    "Gold": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+    "UltraMoon": "Because so many Trainers like the way Pikachu looks, you don't see this Pokémon very often.",
+    "Blue": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+    "LetsGoPikachu": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+    "White2": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "Diamond": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+    "UltraSun": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.",
+    "Sun": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
+    "OmegaRuby": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+    "Red": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+    "Pearl": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+    "Silver": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "White": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "Yellow": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+    "LeafGreen": "Its long tail serves as ground to protect itself from its own high-voltage power.",
+    "LetsGoEevee": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+    "Crystal": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Light Screen",
+        "technical": "TM17"
+      },
+      {
+        "move": "Reflect",
+        "technical": "TM18"
+      },
+      {
+        "move": "Safeguard",
+        "technical": "TM19"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Thief",
+        "technical": "TM23"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Volt Switch",
+        "technical": "TM80"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "Draining Kiss",
+        "technical": "TM87"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Eerie Impulse",
+        "technical": "TM93"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Reversal",
+        "technical": "TR21"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Encore",
+        "technical": "TR30"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Uproar",
+        "technical": "TR35"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Nasty Plot",
+        "technical": "TR68"
+      },
+      {
+        "move": "Grass Knot",
+        "technical": "TR77"
+      },
+      {
+        "move": "Electro Ball",
+        "technical": "TR80"
+      },
+      {
+        "move": "Wild Charge",
+        "technical": "TR86"
+      },
+      {
+        "move": "Play Rough",
+        "technical": "TR90"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Thunder Punch",
+        "lvl": "0"
+      },
+      {
+        "move": "Thunder Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Play Nice",
+        "lvl": "1"
+      },
+      {
+        "move": "Sweet Kiss",
+        "lvl": "1"
+      },
+      {
+        "move": "Nuzzle",
+        "lvl": "1"
+      },
+      {
+        "move": "Nasty Plot",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "1"
+      },
+      {
+        "move": "Double Team",
+        "lvl": "1"
+      },
+      {
+        "move": "Electro Ball",
+        "lvl": "1"
+      },
+      {
+        "move": "Feint",
+        "lvl": "1"
+      },
+      {
+        "move": "Spark",
+        "lvl": "1"
+      },
+      {
+        "move": "Agility",
+        "lvl": "1"
+      },
+      {
+        "move": "Slam",
+        "lvl": "1"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunderbolt",
+        "lvl": "1"
+      },
+      {
+        "move": "Light Screen",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "1"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Yellow",
+    "weight": "30.0kg",
+    "category": "Mouse Pokémon",
+    "height": "0.8m"
+  },
   "name": "Raichu",
-  "spdfs": 80,
-  "ShieldEntry": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
-  "extraMega": false,
-  "HearthGoldEntry": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
-  "YEntry": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
-  "SunEntry": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
-  "PlatinumEntry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-  "abilityHidden": "Lightning Rod",
-  "lvlUpMoves": [
-    {
-      "move": "Thunder Punch",
-      "lvl": "0"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Play Nice",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "1"
-    },
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "1"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Spark",
-      "lvl": "1"
-    },
-    {
-      "move": "Agility",
-      "lvl": "1"
-    },
-    {
-      "move": "Slam",
-      "lvl": "1"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    }
-  ],
-  "RubyEntry": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
-  "BlackEntry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-  "OmegaRubyEntry": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
-  "LetsGoEeveeEntry": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
-  "colour": "Yellow",
-  "SoulsilverEntry": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
-  "FireRedEntry": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
-  "White2Entry": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-  "SwordEntry": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-  "PearlEntry": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
-  "category": "Mouse Pokémon",
-  "LeafGreenEntry": "Its long tail serves as ground to protect itself from its own high-voltage power.",
-  "Black2Entry": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+  "Stats": {
+    "dfs": 55,
+    "spatk": 90,
+    "spd": 110,
+    "hp": 60,
+    "atk": 90,
+    "spdfs": 80
+  },
+  "Biology": {
+    "ability1": "Static",
+    "type2": "",
+    "eggGroup2": "Fairy",
+    "eggGroup1": "Field",
+    "abilityHidden": "Lightning Rod",
+    "ability2": "",
+    "type1": "Electric"
+  },
+  "hasGigantamax": false
 }

@@ -1,235 +1,241 @@
 {
-  "extraMega": false,
-  "ability1": "Beast Boost",
-  "hp": 71,
-  "SunEntry": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Speed Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
-  "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
-  "eggMoves": [],
   "number": 795,
-  "MoonEntry": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
-  "spatk": 137,
-  "UltraSunEntry": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
-  "atk": 137,
-  "abilityHidden": "",
-  "height": "1.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "5"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "10"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "20"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "25"
-    },
-    {
-      "move": "Triple Kick",
-      "lvl": "30"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "35"
-    },
-    {
-      "move": "Agility",
-      "lvl": "40"
-    },
-    {
-      "move": "Lunge",
-      "lvl": "45"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "50"
-    },
-    {
-      "move": "Speed Swap",
-      "lvl": "55"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "60"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "65"
-    },
-    {
-      "move": "High Jump Kick",
-      "lvl": "70"
-    }
-  ],
-  "type2": "Fighting",
-  "eggGroup2": "",
-  "spd": 151,
-  "weight": "25.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Bug",
-  "hasGalarian": false,
-  "dfs": 37,
-  "colour": "White",
-  "hasAlolan": false,
+  "Entry": {
+    "UltraMoon": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
+    "Moon": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+    "UltraSun": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+    "Sun": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Bounce",
+        "technical": "TM52"
+      },
+      {
+        "move": "U-turn",
+        "technical": "TM56"
+      },
+      {
+        "move": "Assurance",
+        "technical": "TM58"
+      },
+      {
+        "move": "Fling",
+        "technical": "TM59"
+      },
+      {
+        "move": "Speed Swap",
+        "technical": "TM62"
+      },
+      {
+        "move": "Low Sweep",
+        "technical": "TM75"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Electroweb",
+        "technical": "TM82"
+      },
+      {
+        "move": "False Swipe",
+        "technical": "TM94"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Low Kick",
+        "technical": "TR07"
+      },
+      {
+        "move": "Agility",
+        "technical": "TR12"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Outrage",
+        "technical": "TR24"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Taunt",
+        "technical": "TR37"
+      },
+      {
+        "move": "Close Combat",
+        "technical": "TR53"
+      },
+      {
+        "move": "Poison Jab",
+        "technical": "TR57"
+      },
+      {
+        "move": "Bug Buzz",
+        "technical": "TR61"
+      },
+      {
+        "move": "Focus Blast",
+        "technical": "TR64"
+      },
+      {
+        "move": "Foul Play",
+        "technical": "TR81"
+      },
+      {
+        "move": "Drill Run",
+        "technical": "TR87"
+      },
+      {
+        "move": "Throat Chop",
+        "technical": "TR95"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Feint",
+        "lvl": "1"
+      },
+      {
+        "move": "Rapid Spin",
+        "lvl": "1"
+      },
+      {
+        "move": "Leer",
+        "lvl": "5"
+      },
+      {
+        "move": "Quick Guard",
+        "lvl": "10"
+      },
+      {
+        "move": "Bug Bite",
+        "lvl": "15"
+      },
+      {
+        "move": "Low Kick",
+        "lvl": "20"
+      },
+      {
+        "move": "Double Kick",
+        "lvl": "25"
+      },
+      {
+        "move": "Triple Kick",
+        "lvl": "30"
+      },
+      {
+        "move": "Stomp",
+        "lvl": "35"
+      },
+      {
+        "move": "Agility",
+        "lvl": "40"
+      },
+      {
+        "move": "Lunge",
+        "lvl": "45"
+      },
+      {
+        "move": "Bounce",
+        "lvl": "50"
+      },
+      {
+        "move": "Speed Swap",
+        "lvl": "55"
+      },
+      {
+        "move": "Bug Buzz",
+        "lvl": "60"
+      },
+      {
+        "move": "Quiver Dance",
+        "lvl": "65"
+      },
+      {
+        "move": "High Jump Kick",
+        "lvl": "70"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "White",
+    "weight": "25.0kg",
+    "category": "Lissome Pokémon",
+    "height": "1.8m"
+  },
   "name": "Pheromosa",
-  "spdfs": 37,
-  "category": "Lissome Pokémon"
+  "Stats": {
+    "dfs": 37,
+    "spatk": 137,
+    "spd": 151,
+    "hp": 71,
+    "atk": 137,
+    "spdfs": 37
+  },
+  "Biology": {
+    "ability1": "Beast Boost",
+    "type2": "Fighting",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Bug"
+  },
+  "hasGigantamax": false
 }

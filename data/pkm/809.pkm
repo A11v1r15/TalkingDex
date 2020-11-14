@@ -1,243 +1,249 @@
 {
-  "ShieldEntry": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
-  "extraMega": false,
-  "ability1": "Iron Fist",
-  "hp": 135,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Darkest Lariat",
-      "technical": "TR93"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "eggMoves": [],
   "number": 809,
-  "spatk": 80,
-  "atk": 143,
-  "abilityHidden": "",
-  "height": "2.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Thunder Punch",
-      "lvl": "0"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "24"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "32"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "40"
-    },
-    {
-      "move": "Mega Punch",
-      "lvl": "48"
-    },
-    {
-      "move": "Protect",
-      "lvl": "56"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "64"
-    },
-    {
-      "move": "Dynamic Punch",
-      "lvl": "72"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "80"
-    },
-    {
-      "move": "Double Iron Bash",
-      "lvl": "88"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "96"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
-  "spd": 34,
-  "weight": "800.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "dfs": 143,
-  "LetsGoEeveeEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
-  "colour": "Gray",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+  "Entry": {
+    "Sword": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "Shield": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
+    "LetsGoPikachu": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+    "LetsGoEevee": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Mega Punch",
+        "technical": "TM00"
+      },
+      {
+        "move": "Mega Kick",
+        "technical": "TM01"
+      },
+      {
+        "move": "Ice Punch",
+        "technical": "TM04"
+      },
+      {
+        "move": "Thunder Punch",
+        "technical": "TM05"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Solar Beam",
+        "technical": "TM11"
+      },
+      {
+        "move": "Thunder Wave",
+        "technical": "TM14"
+      },
+      {
+        "move": "Self-Destruct",
+        "technical": "TM20"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Rock Slide",
+        "technical": "TM22"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Brick Break",
+        "technical": "TM43"
+      },
+      {
+        "move": "Rock Tomb",
+        "technical": "TM48"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Electric Terrain",
+        "technical": "TM90"
+      },
+      {
+        "move": "Brutal Swing",
+        "technical": "TM97"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Thunderbolt",
+        "technical": "TR08"
+      },
+      {
+        "move": "Thunder",
+        "technical": "TR09"
+      },
+      {
+        "move": "Earthquake",
+        "technical": "TR10"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Superpower",
+        "technical": "TR39"
+      },
+      {
+        "move": "Iron Defense",
+        "technical": "TR46"
+      },
+      {
+        "move": "Gyro Ball",
+        "technical": "TR52"
+      },
+      {
+        "move": "Flash Cannon",
+        "technical": "TR70"
+      },
+      {
+        "move": "Iron Head",
+        "technical": "TR74"
+      },
+      {
+        "move": "Heavy Slam",
+        "technical": "TR79"
+      },
+      {
+        "move": "Darkest Lariat",
+        "technical": "TR93"
+      },
+      {
+        "move": "High Horsepower",
+        "technical": "TR94"
+      },
+      {
+        "move": "Body Press",
+        "technical": "TR99"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Thunder Punch",
+        "lvl": "0"
+      },
+      {
+        "move": "Thunder Punch",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "lvl": "1"
+      },
+      {
+        "move": "Harden",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Headbutt",
+        "lvl": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "lvl": "24"
+      },
+      {
+        "move": "Acid Armor",
+        "lvl": "32"
+      },
+      {
+        "move": "Flash Cannon",
+        "lvl": "40"
+      },
+      {
+        "move": "Mega Punch",
+        "lvl": "48"
+      },
+      {
+        "move": "Protect",
+        "lvl": "56"
+      },
+      {
+        "move": "Discharge",
+        "lvl": "64"
+      },
+      {
+        "move": "Dynamic Punch",
+        "lvl": "72"
+      },
+      {
+        "move": "Superpower",
+        "lvl": "80"
+      },
+      {
+        "move": "Double Iron Bash",
+        "lvl": "88"
+      },
+      {
+        "move": "Hyper Beam",
+        "lvl": "96"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Gray",
+    "weight": "800.0kg",
+    "category": "Hex Nut Pokémon",
+    "height": "2.5m"
+  },
   "name": "Melmetal",
-  "SwordEntry": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
-  "spdfs": 65,
-  "category": "Hex Nut Pokémon"
+  "Stats": {
+    "dfs": 143,
+    "spatk": 80,
+    "spd": 34,
+    "hp": 135,
+    "atk": 143,
+    "spdfs": 65
+  },
+  "Biology": {
+    "ability1": "Iron Fist",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Undiscovered",
+    "abilityHidden": "",
+    "ability2": "",
+    "type1": "Steel"
+  },
+  "hasGigantamax": false
 }

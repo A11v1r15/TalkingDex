@@ -1,332 +1,337 @@
 {
-  "YellowEntry": "Its cell structure is similar to water molecules. It will melt away and become invisible in water.",
-  "EmeraldEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
-  "ability1": "Volt Absorb",
-  "AlphaSapphireEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-  "hp": 130,
-  "SilverEntry": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
-  "ability2": "",
-  "eggMoves": [],
-  "UltraMoonEntry": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
   "number": 134,
-  "MoonEntry": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
-  "spatk": 110,
-  "UltraSunEntry": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
-  "atk": 65,
-  "RedEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
-  "height": "1.0m",
-  "type2": "",
-  "WhiteEntry": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-  "eggGroup2": "",
-  "spd": 65,
-  "CrystalEntry": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
-  "weight": "29.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "BlueEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
-  "dfs": 60,
-  "GoldEntry": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
-  "SapphireEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-  "hasAlolan": false,
-  "LetsGoPikachuEntry": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
-  "DiamondEntry": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+  "Entry": {
+    "Shield": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+    "Moon": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
+    "Black": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "Black2": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+    "FireRed": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+    "HearthGold": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+    "Sword": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+    "Sapphire": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+    "Platinum": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "Emerald": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+    "X": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+    "Y": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+    "Ruby": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+    "Soulsilver": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+    "AlphaSapphire": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+    "Gold": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+    "UltraMoon": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
+    "Blue": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "LetsGoPikachu": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+    "White2": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+    "Diamond": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+    "UltraSun": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
+    "Sun": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
+    "OmegaRuby": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+    "Red": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "Pearl": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+    "Silver": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+    "White": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "Yellow": "Its cell structure is similar to water molecules. It will melt away and become invisible in water.",
+    "LeafGreen": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "LetsGoEevee": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+    "Crystal": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly."
+  },
+  "Moves": {
+    "tmTr": [
+      {
+        "move": "Pay Day",
+        "technical": "TM02"
+      },
+      {
+        "move": "Hyper Beam",
+        "technical": "TM08"
+      },
+      {
+        "move": "Giga Impact",
+        "technical": "TM09"
+      },
+      {
+        "move": "Dig",
+        "technical": "TM15"
+      },
+      {
+        "move": "Rest",
+        "technical": "TM21"
+      },
+      {
+        "move": "Snore",
+        "technical": "TM24"
+      },
+      {
+        "move": "Protect",
+        "technical": "TM25"
+      },
+      {
+        "move": "Icy Wind",
+        "technical": "TM27"
+      },
+      {
+        "move": "Charm",
+        "technical": "TM29"
+      },
+      {
+        "move": "Attract",
+        "technical": "TM31"
+      },
+      {
+        "move": "Rain Dance",
+        "technical": "TM33"
+      },
+      {
+        "move": "Sunny Day",
+        "technical": "TM34"
+      },
+      {
+        "move": "Hail",
+        "technical": "TM35"
+      },
+      {
+        "move": "Whirlpool",
+        "technical": "TM36"
+      },
+      {
+        "move": "Facade",
+        "technical": "TM39"
+      },
+      {
+        "move": "Swift",
+        "technical": "TM40"
+      },
+      {
+        "move": "Helping Hand",
+        "technical": "TM41"
+      },
+      {
+        "move": "Dive",
+        "technical": "TM45"
+      },
+      {
+        "move": "Weather Ball",
+        "technical": "TM46"
+      },
+      {
+        "move": "Fake Tears",
+        "technical": "TM47"
+      },
+      {
+        "move": "Brine",
+        "technical": "TM55"
+      },
+      {
+        "move": "Round",
+        "technical": "TM76"
+      },
+      {
+        "move": "Retaliate",
+        "technical": "TM79"
+      },
+      {
+        "move": "Body Slam",
+        "technical": "TR01"
+      },
+      {
+        "move": "Hydro Pump",
+        "technical": "TR03"
+      },
+      {
+        "move": "Surf",
+        "technical": "TR04"
+      },
+      {
+        "move": "Ice Beam",
+        "technical": "TR05"
+      },
+      {
+        "move": "Blizzard",
+        "technical": "TR06"
+      },
+      {
+        "move": "Focus Energy",
+        "technical": "TR13"
+      },
+      {
+        "move": "Waterfall",
+        "technical": "TR16"
+      },
+      {
+        "move": "Substitute",
+        "technical": "TR20"
+      },
+      {
+        "move": "Endure",
+        "technical": "TR26"
+      },
+      {
+        "move": "Sleep Talk",
+        "technical": "TR27"
+      },
+      {
+        "move": "Baton Pass",
+        "technical": "TR29"
+      },
+      {
+        "move": "Iron Tail",
+        "technical": "TR31"
+      },
+      {
+        "move": "Shadow Ball",
+        "technical": "TR33"
+      },
+      {
+        "move": "Hyper Voice",
+        "technical": "TR42"
+      },
+      {
+        "move": "Muddy Water",
+        "technical": "TR45"
+      },
+      {
+        "move": "Stored Power",
+        "technical": "TR82"
+      },
+      {
+        "move": "Scald",
+        "technical": "TR84"
+      },
+      {
+        "move": "Work Up",
+        "technical": "TR85"
+      },
+      {
+        "move": "Liquidation",
+        "technical": "TR98"
+      }
+    ],
+    "lvlUp": [
+      {
+        "move": "Water Gun",
+        "lvl": "0"
+      },
+      {
+        "move": "Water Gun",
+        "lvl": "1"
+      },
+      {
+        "move": "Covet",
+        "lvl": "1"
+      },
+      {
+        "move": "Swift",
+        "lvl": "1"
+      },
+      {
+        "move": "Bite",
+        "lvl": "1"
+      },
+      {
+        "move": "Copycat",
+        "lvl": "1"
+      },
+      {
+        "move": "Baton Pass",
+        "lvl": "1"
+      },
+      {
+        "move": "Take Down",
+        "lvl": "1"
+      },
+      {
+        "move": "Charm",
+        "lvl": "1"
+      },
+      {
+        "move": "Double-Edge",
+        "lvl": "1"
+      },
+      {
+        "move": "Helping Hand",
+        "lvl": "1"
+      },
+      {
+        "move": "Tackle",
+        "lvl": "1"
+      },
+      {
+        "move": "Growl",
+        "lvl": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "lvl": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "lvl": "5"
+      },
+      {
+        "move": "Quick Attack",
+        "lvl": "10"
+      },
+      {
+        "move": "Baby-Doll Eyes",
+        "lvl": "15"
+      },
+      {
+        "move": "Haze",
+        "lvl": "20"
+      },
+      {
+        "move": "Water Pulse",
+        "lvl": "25"
+      },
+      {
+        "move": "Aurora Beam",
+        "lvl": "30"
+      },
+      {
+        "move": "Aqua Ring",
+        "lvl": "35"
+      },
+      {
+        "move": "Muddy Water",
+        "lvl": "40"
+      },
+      {
+        "move": "Acid Armor",
+        "lvl": "45"
+      },
+      {
+        "move": "Hydro Pump",
+        "lvl": "50"
+      },
+      {
+        "move": "Last Resort",
+        "lvl": "55"
+      }
+    ],
+    "egg": []
+  },
+  "Flair": {
+    "colour": "Blue",
+    "weight": "29.0kg",
+    "category": "Bubble Jet Pokémon",
+    "height": "1.0m"
+  },
   "name": "Vaporeon",
-  "spdfs": 95,
-  "ShieldEntry": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
-  "extraMega": false,
-  "HearthGoldEntry": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
-  "YEntry": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
-  "SunEntry": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "XEntry": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
-  "PlatinumEntry": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-  "abilityHidden": "Quick Feet",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "0"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "5"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "10"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "15"
-    },
-    {
-      "move": "Haze",
-      "lvl": "20"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "25"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "30"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "35"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "40"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "45"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "50"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "55"
-    }
-  ],
-  "RubyEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-  "BlackEntry": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
-  "OmegaRubyEntry": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
-  "LetsGoEeveeEntry": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
-  "colour": "Blue",
-  "134Entry": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
-  "SoulsilverEntry": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
-  "FireRedEntry": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
-  "White2Entry": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
-  "SwordEntry": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
-  "PearlEntry": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
-  "category": "Bubble Jet Pokémon",
-  "LeafGreenEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
-  "Black2Entry": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water."
+  "Stats": {
+    "dfs": 60,
+    "spatk": 110,
+    "spd": 65,
+    "hp": 130,
+    "atk": 65,
+    "spdfs": 95
+  },
+  "Biology": {
+    "ability1": "Volt Absorb",
+    "type2": "",
+    "eggGroup2": "",
+    "eggGroup1": "Field",
+    "abilityHidden": "Quick Feet",
+    "ability2": "",
+    "type1": "Water"
+  },
+  "hasGigantamax": false
 }
