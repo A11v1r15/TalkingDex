@@ -1,273 +1,267 @@
 {
+  "EmeraldEntry": "A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
+  "ability1": "Keen Eye",
+  "AlphaSapphireEntry": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+  "hp": 65,
+  "SilverEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+  "ability2": "Sturdy",
+  "eggMoves": [
+    {"move": "Curse"},
+    {"move": "Sky Attack"},
+    {"move": "Whirlwind"},
+    {"move": "Air Cutter"},
+    {"move": "Night Slash"},
+    {"move": "Feint"},
+    {"move": "Roost"}
+  ],
+  "UltraMoonEntry": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
   "number": 227,
-  "Entry": {
-    "Shield": "People fashion swords from Skarmory's shed feathers, so this Pokémon is a popular element in heraldic designs.",
-    "Moon": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
-    "Black": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "Black2": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
-    "FireRed": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-    "HearthGold": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
-    "Sword": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
-    "Sapphire": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
-    "Platinum": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "Emerald": "A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
-    "X": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-    "Y": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "Ruby": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
-    "Soulsilver": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-    "AlphaSapphire": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
-    "Gold": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
-    "UltraMoon": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
-    "White2": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
-    "Diamond": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "UltraSun": "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
-    "Sun": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
-    "OmegaRuby": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
-    "Pearl": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "Silver": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-    "White": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
-    "LeafGreen": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky.",
-    "Crystal": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "4"
-      },
-      {
-        "move": "Fury Attack",
-        "lvl": "8"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "12"
-      },
-      {
-        "move": "Agility",
-        "lvl": "16"
-      },
-      {
-        "move": "Wing Attack",
-        "lvl": "20"
-      },
-      {
-        "move": "Slash",
-        "lvl": "24"
-      },
-      {
-        "move": "Steel Wing",
-        "lvl": "28"
-      },
-      {
-        "move": "Autotomize",
-        "lvl": "32"
-      },
-      {
-        "move": "Drill Peck",
-        "lvl": "36"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "40"
-      },
-      {
-        "move": "Spikes",
-        "lvl": "44"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "48"
-      },
-      {
-        "move": "Brave Bird",
-        "lvl": "52"
-      }
-    ],
-    "egg": [
-      {"move": "Curse"},
-      {"move": "Sky Attack"},
-      {"move": "Whirlwind"},
-      {"move": "Air Cutter"},
-      {"move": "Night Slash"},
-      {"move": "Feint"},
-      {"move": "Roost"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "50.5kg",
-    "category": "Armor Bird Pokémon",
-    "height": "1.7m"
-  },
+  "MoonEntry": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
+  "spatk": 40,
+  "UltraSunEntry": "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
+  "atk": 80,
+  "height": "1.7m",
+  "type2": "Flying",
+  "WhiteEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "eggGroup2": "",
+  "spd": 70,
+  "CrystalEntry": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
+  "weight": "50.5kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "dfs": 140,
+  "GoldEntry": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+  "SapphireEntry": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+  "hasAlolan": false,
+  "DiamondEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
   "name": "Skarmory",
-  "Stats": {
-    "dfs": 140,
-    "spatk": 40,
-    "spd": 70,
-    "hp": 65,
-    "atk": 80,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Weak Armor",
-    "ability2": "Sturdy",
-    "type1": "Steel",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 70,
+  "ShieldEntry": "People fashion swords from Skarmory's shed feathers, so this Pokémon is a popular element in heraldic designs.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+  "YEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "SunEntry": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+  "PlatinumEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "abilityHidden": "Weak Armor",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "4"
+    },
+    {
+      "move": "Fury Attack",
+      "lvl": "8"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "12"
+    },
+    {
+      "move": "Agility",
+      "lvl": "16"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "20"
+    },
+    {
+      "move": "Slash",
+      "lvl": "24"
+    },
+    {
+      "move": "Steel Wing",
+      "lvl": "28"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "32"
+    },
+    {
+      "move": "Drill Peck",
+      "lvl": "36"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "40"
+    },
+    {
+      "move": "Spikes",
+      "lvl": "44"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "48"
+    },
+    {
+      "move": "Brave Bird",
+      "lvl": "52"
+    }
+  ],
+  "RubyEntry": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+  "BlackEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "OmegaRubyEntry": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+  "colour": "Gray",
+  "SoulsilverEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+  "FireRedEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+  "White2Entry": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
+  "SwordEntry": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
+  "PearlEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "category": "Armor Bird Pokémon",
+  "LeafGreenEntry": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky.",
+  "Black2Entry": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph."
 }

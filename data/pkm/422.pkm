@@ -1,213 +1,207 @@
 {
+  "ShieldEntry": "Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its shape and coloration vary, depending on its habitat.",
+  "ability1": "Sticky Hold",
+  "YEntry": "Its shape and coloration vary, depending on its habitat.",
+  "AlphaSapphireEntry": "Its shape and coloration vary, depending on its habitat.",
+  "hp": 76,
+  "SunEntry": "Shellos lives in the sea and feasts on plankton. The lovelier the ocean where Shellos resides, the more vibrant its color becomes.",
+  "ability2": "Storm Drain",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Mirror Coat"},
+    {"move": "Stockpile"},
+    {"move": "Swallow"},
+    {"move": "Spit Up"},
+    {"move": "Yawn"},
+    {"move": "Curse"},
+    {"move": "Sludge"},
+    {"move": "Clear Smog"},
+    {"move": "Mist"},
+    {"move": "Acid Armor"}
+  ],
+  "XEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "UltraMoonEntry": "Scientists interested in its great regenerative capabilities are currently analyzing the materials from which its cells are made.",
   "number": 422,
-  "Entry": {
-    "AlphaSapphire": "Its shape and coloration vary, depending on its habitat.",
-    "UltraMoon": "Scientists interested in its great regenerative capabilities are currently analyzing the materials from which its cells are made.",
-    "Shield": "Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.",
-    "Moon": "The difference in color from one Shellos to another seems to be a result of their diet. No large changes can be seen in their capabilities.",
-    "White2": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Diamond": "Its color and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
-    "UltraSun": "When it senses danger, it gushes a purple liquid. Some theories suggest this liquid is a greasy sweat induced by stress.",
-    "Black": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Black2": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Sun": "Shellos lives in the sea and feasts on plankton. The lovelier the ocean where Shellos resides, the more vibrant its color becomes.",
-    "HearthGold": "Its shape and coloration vary, depending on its habitat.",
-    "OmegaRuby": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Pearl": "It lives along bodies of water. Its body shape has changed to suit its habitat.",
-    "White": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Sword": "This Pokémon's habitat shapes its physique. According to some theories, life in warm ocean waters causes this variation to develop.",
-    "Platinum": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "X": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
-    "Y": "Its shape and coloration vary, depending on its habitat.",
-    "Soulsilver": "Its shape and coloration vary, depending on its habitat."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "5"
-      },
-      {
-        "move": "Recover",
-        "lvl": "10"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "15"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "20"
-      },
-      {
-        "move": "Body Slam",
-        "lvl": "25"
-      },
-      {
-        "move": "Muddy Water",
-        "lvl": "31"
-      },
-      {
-        "move": "Earth Power",
-        "lvl": "35"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "40"
-      },
-      {
-        "move": "Memento",
-        "lvl": "45"
-      }
-    ],
-    "egg": [
-      {"move": "Counter"},
-      {"move": "Mirror Coat"},
-      {"move": "Stockpile"},
-      {"move": "Swallow"},
-      {"move": "Spit Up"},
-      {"move": "Yawn"},
-      {"move": "Curse"},
-      {"move": "Sludge"},
-      {"move": "Clear Smog"},
-      {"move": "Mist"},
-      {"move": "Acid Armor"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "6.3kg",
-    "category": "Sea Slug Pokémon",
-    "height": "0.3m"
-  },
+  "MoonEntry": "The difference in color from one Shellos to another seems to be a result of their diet. No large changes can be seen in their capabilities.",
+  "spatk": 57,
+  "UltraSunEntry": "When it senses danger, it gushes a purple liquid. Some theories suggest this liquid is a greasy sweat induced by stress.",
+  "atk": 48,
+  "PlatinumEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "abilityHidden": "Sand Force",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "5"
+    },
+    {
+      "move": "Recover",
+      "lvl": "10"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "15"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "20"
+    },
+    {
+      "move": "Body Slam",
+      "lvl": "25"
+    },
+    {
+      "move": "Muddy Water",
+      "lvl": "31"
+    },
+    {
+      "move": "Earth Power",
+      "lvl": "35"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "40"
+    },
+    {
+      "move": "Memento",
+      "lvl": "45"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "eggGroup2": "Amorphous",
+  "spd": 34,
+  "weight": "6.3kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlackEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "OmegaRubyEntry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "dfs": 48,
+  "colour": "Purple",
+  "hasAlolan": false,
+  "DiamondEntry": "Its color and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+  "SoulsilverEntry": "Its shape and coloration vary, depending on its habitat.",
   "name": "Shellos",
-  "Stats": {
-    "dfs": 48,
-    "spatk": 57,
-    "spd": 34,
-    "hp": 76,
-    "atk": 48,
-    "spdfs": 62
-  },
-  "Biology": {
-    "ability1": "Sticky Hold",
-    "type2": "",
-    "eggGroup2": "Amorphous",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Sand Force",
-    "ability2": "Storm Drain",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+  "SwordEntry": "This Pokémon's habitat shapes its physique. According to some theories, life in warm ocean waters causes this variation to develop.",
+  "PearlEntry": "It lives along bodies of water. Its body shape has changed to suit its habitat.",
+  "spdfs": 62,
+  "category": "Sea Slug Pokémon",
+  "Black2Entry": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out."
 }

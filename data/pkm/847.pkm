@@ -1,216 +1,210 @@
 {
+  "ShieldEntry": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+  "extraMega": false,
+  "ability1": "Swift Swim",
+  "hp": 61,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Drill Run",
+      "technical": "TR87"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 847,
-  "Entry": {
-    "Sword": "This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
-    "Shield": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Drill Run",
-        "technical": "TR87"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Throat Chop",
-        "lvl": "1"
-      },
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Aqua Jet",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Agility",
-        "lvl": "18"
-      },
-      {
-        "move": "Dive",
-        "lvl": "24"
-      },
-      {
-        "move": "Laser Focus",
-        "lvl": "32"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "40"
-      },
-      {
-        "move": "Liquidation",
-        "lvl": "48"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "56"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "30.0kg",
-    "category": "Skewer Pokémon",
-    "height": "1.3m"
-  },
+  "spatk": 60,
+  "atk": 123,
+  "abilityHidden": "Propeller Tail",
+  "height": "1.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Throat Chop",
+      "lvl": "1"
+    },
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Aqua Jet",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Agility",
+      "lvl": "18"
+    },
+    {
+      "move": "Dive",
+      "lvl": "24"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "32"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "40"
+    },
+    {
+      "move": "Liquidation",
+      "lvl": "48"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "56"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 136,
+  "weight": "30.0kg",
+  "eggGroup1": "Water 2",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 60,
+  "colour": "Brown",
+  "hasAlolan": false,
   "name": "Barraskewda",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 60,
-    "spd": 136,
-    "hp": 61,
-    "atk": 123,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Swift Swim",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Water 2",
-    "abilityHidden": "Propeller Tail",
-    "ability2": "",
-    "type1": "Water",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
+  "spdfs": 50,
+  "category": "Skewer Pokémon"
 }

@@ -1,170 +1,164 @@
 {
+  "ShieldEntry": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
+  "extraMega": false,
+  "ability1": "Sand Spit",
+  "hp": 52,
+  "ability2": "Shed Skin",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Drill Run",
+      "technical": "TR87"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Dragon Rush"},
+    {"move": "Mud"},
+    {"move": "Last Resort"},
+    {"move": "Belch"},
+    {"move": "Poison Tail"}
+  ],
   "number": 843,
-  "Entry": {
-    "Sword": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
-    "Shield": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Drill Run",
-        "technical": "TR87"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Wrap",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Minimize",
-        "lvl": "5"
-      },
-      {
-        "move": "Brutal Swing",
-        "lvl": "10"
-      },
-      {
-        "move": "Bulldoze",
-        "lvl": "15"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "20"
-      },
-      {
-        "move": "Glare",
-        "lvl": "25"
-      },
-      {
-        "move": "Dig",
-        "lvl": "30"
-      },
-      {
-        "move": "Sandstorm",
-        "lvl": "35"
-      },
-      {
-        "move": "Slam",
-        "lvl": "40"
-      },
-      {
-        "move": "Coil",
-        "lvl": "45"
-      },
-      {
-        "move": "Sand Tomb",
-        "lvl": "50"
-      }
-    ],
-    "egg": [
-      {"move": "Dragon Rush"},
-      {"move": "Mud"},
-      {"move": "Last Resort"},
-      {"move": "Belch"},
-      {"move": "Poison Tail"}
-    ]
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "7.6kg",
-    "category": "Sand Snake Pokémon",
-    "height": "2.2m"
-  },
+  "spatk": 35,
+  "atk": 57,
+  "abilityHidden": "Sand Veil",
+  "height": "2.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Wrap",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Minimize",
+      "lvl": "5"
+    },
+    {
+      "move": "Brutal Swing",
+      "lvl": "10"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "15"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "20"
+    },
+    {
+      "move": "Glare",
+      "lvl": "25"
+    },
+    {
+      "move": "Dig",
+      "lvl": "30"
+    },
+    {
+      "move": "Sandstorm",
+      "lvl": "35"
+    },
+    {
+      "move": "Slam",
+      "lvl": "40"
+    },
+    {
+      "move": "Coil",
+      "lvl": "45"
+    },
+    {
+      "move": "Sand Tomb",
+      "lvl": "50"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "Dragon",
+  "spd": 46,
+  "weight": "7.6kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Ground",
+  "hasGalarian": false,
+  "dfs": 75,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Silicobra",
-  "Stats": {
-    "dfs": 75,
-    "spatk": 35,
-    "spd": 46,
-    "hp": 52,
-    "atk": 57,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Sand Spit",
-    "type2": "",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Field",
-    "abilityHidden": "Sand Veil",
-    "ability2": "Shed Skin",
-    "type1": "Ground",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+  "spdfs": 50,
+  "category": "Sand Snake Pokémon"
 }

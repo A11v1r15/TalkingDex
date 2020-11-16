@@ -1,255 +1,250 @@
 {
+  "YellowEntry": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+  "EmeraldEntry": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+  "ability1": "Shell Armor",
+  "AlphaSapphireEntry": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+  "hp": 30,
+  "SilverEntry": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+  "ability2": "Skill Link",
+  "eggMoves": [
+    {"move": "Bubble Beam"},
+    {"move": "Water Pulse"},
+    {"move": "Aqua Ring"},
+    {"move": "Life Dew"}
+  ],
+  "UltraMoonEntry": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
   "number": 90,
-  "Entry": {
-    "Shield": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "Moon": "This Pokémon's tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
-    "Black": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "Black2": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "FireRed": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
-    "HearthGold": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-    "Sword": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-    "Sapphire": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-    "Platinum": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "Emerald": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
-    "X": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "Y": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
-    "Ruby": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-    "Soulsilver": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
-    "AlphaSapphire": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-    "Gold": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-    "UltraMoon": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
-    "Blue": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "LetsGoPikachu": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-    "White2": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "Diamond": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "UltraSun": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
-    "Sun": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
-    "OmegaRuby": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
-    "Red": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "Pearl": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "Silver": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
-    "White": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
-    "Yellow": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-    "LeafGreen": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "LetsGoEevee": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
-    "Crystal": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Razor Shell",
-        "technical": "TM83"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Tri Attack",
-        "technical": "TR19"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Withdraw",
-        "lvl": "4"
-      },
-      {
-        "move": "Ice Shard",
-        "lvl": "8"
-      },
-      {
-        "move": "Leer",
-        "lvl": "12"
-      },
-      {
-        "move": "Whirlpool",
-        "lvl": "16"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "20"
-      },
-      {
-        "move": "Aurora Beam",
-        "lvl": "24"
-      },
-      {
-        "move": "Protect",
-        "lvl": "28"
-      },
-      {
-        "move": "Razor Shell",
-        "lvl": "32"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "36"
-      },
-      {
-        "move": "Ice Beam",
-        "lvl": "40"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "44"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Bubble Beam"},
-      {"move": "Water Pulse"},
-      {"move": "Aqua Ring"},
-      {"move": "Life Dew"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "4.0kg",
-    "category": "Bivalve Pokémon",
-    "height": "0.3m"
-  },
+  "MoonEntry": "This Pokémon's tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
+  "spatk": 45,
+  "UltraSunEntry": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
+  "atk": 65,
+  "RedEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "height": "0.3m",
+  "type2": "",
+  "WhiteEntry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+  "eggGroup2": "",
+  "spd": 40,
+  "CrystalEntry": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+  "weight": "4.0kg",
+  "eggGroup1": "Water 3",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlueEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "dfs": 100,
+  "GoldEntry": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+  "90Entry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "SapphireEntry": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+  "DiamondEntry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
   "name": "Shellder",
-  "Stats": {
-    "dfs": 100,
-    "spatk": 45,
-    "spd": 40,
-    "hp": 30,
-    "atk": 65,
-    "spdfs": 25
-  },
-  "Biology": {
-    "ability1": "Shell Armor",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Water 3",
-    "abilityHidden": "Overcoat",
-    "ability2": "Skill Link",
-    "type1": "Water",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 25,
+  "ShieldEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "extraMega": false,
+  "HearthGoldEntry": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+  "YEntry": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+  "SunEntry": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
+  "tmTrMoves": [
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Razor Shell",
+      "technical": "TM83"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Tri Attack",
+      "technical": "TR19"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "PlatinumEntry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+  "abilityHidden": "Overcoat",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "4"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "8"
+    },
+    {
+      "move": "Leer",
+      "lvl": "12"
+    },
+    {
+      "move": "Whirlpool",
+      "lvl": "16"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "20"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "24"
+    },
+    {
+      "move": "Protect",
+      "lvl": "28"
+    },
+    {
+      "move": "Razor Shell",
+      "lvl": "32"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "36"
+    },
+    {
+      "move": "Ice Beam",
+      "lvl": "40"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "44"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+  "BlackEntry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+  "OmegaRubyEntry": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+  "LetsGoEeveeEntry": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+  "colour": "Purple",
+  "SoulsilverEntry": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+  "FireRedEntry": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+  "White2Entry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+  "SwordEntry": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+  "PearlEntry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+  "category": "Bivalve Pokémon",
+  "LeafGreenEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "Black2Entry": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
 }

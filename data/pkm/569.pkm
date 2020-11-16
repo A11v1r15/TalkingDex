@@ -1,284 +1,278 @@
 {
+  "ShieldEntry": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+  "extraMega": false,
+  "ability1": "Stench",
+  "YEntry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+  "AlphaSapphireEntry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+  "hp": 80,
+  "SunEntry": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
+  "ability2": "Weak Armor",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": true,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+  "UltraMoonEntry": "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.",
   "number": 569,
-  "Entry": {
-    "AlphaSapphire": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
-    "UltraMoon": "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.",
-    "Shield": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
-    "Moon": "For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically.",
-    "White2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
-    "UltraSun": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
-    "Black": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
-    "Black2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
-    "Sun": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
-    "OmegaRuby": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
-    "White": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
-    "Sword": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
-    "X": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
-    "Y": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "1"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "1"
-      },
-      {
-        "move": "Poison Gas",
-        "lvl": "1"
-      },
-      {
-        "move": "Recycle",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid Spray",
-        "lvl": "1"
-      },
-      {
-        "move": "Amnesia",
-        "lvl": "9"
-      },
-      {
-        "move": "Clear Smog",
-        "lvl": "12"
-      },
-      {
-        "move": "Toxic Spikes",
-        "lvl": "15"
-      },
-      {
-        "move": "Sludge",
-        "lvl": "18"
-      },
-      {
-        "move": "Stockpile",
-        "lvl": "21"
-      },
-      {
-        "move": "Swallow",
-        "lvl": "21"
-      },
-      {
-        "move": "Body Slam",
-        "lvl": "24"
-      },
-      {
-        "move": "Sludge Bomb",
-        "lvl": "27"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "30"
-      },
-      {
-        "move": "Belch",
-        "lvl": "33"
-      },
-      {
-        "move": "Pain Split",
-        "lvl": "39"
-      },
-      {
-        "move": "Gunk Shot",
-        "lvl": "43"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "48"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "107.3kg",
-    "category": "Trash Heap Pokémon",
-    "height": "1.9m"
-  },
+  "MoonEntry": "For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically.",
+  "spatk": 60,
+  "UltraSunEntry": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
+  "atk": 95,
+  "abilityHidden": "Aftermath",
+  "height": "1.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Gas",
+      "lvl": "1"
+    },
+    {
+      "move": "Recycle",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid Spray",
+      "lvl": "1"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "9"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "12"
+    },
+    {
+      "move": "Toxic Spikes",
+      "lvl": "15"
+    },
+    {
+      "move": "Sludge",
+      "lvl": "18"
+    },
+    {
+      "move": "Stockpile",
+      "lvl": "21"
+    },
+    {
+      "move": "Swallow",
+      "lvl": "21"
+    },
+    {
+      "move": "Body Slam",
+      "lvl": "24"
+    },
+    {
+      "move": "Sludge Bomb",
+      "lvl": "27"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "30"
+    },
+    {
+      "move": "Belch",
+      "lvl": "33"
+    },
+    {
+      "move": "Pain Split",
+      "lvl": "39"
+    },
+    {
+      "move": "Gunk Shot",
+      "lvl": "43"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+  "eggGroup2": "",
+  "spd": 75,
+  "weight": "107.3kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Poison",
+  "hasGalarian": false,
+  "BlackEntry": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+  "OmegaRubyEntry": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+  "dfs": 82,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Garbodor",
-  "Stats": {
-    "dfs": 82,
-    "spatk": 60,
-    "spd": 75,
-    "hp": 80,
-    "atk": 95,
-    "spdfs": 82
-  },
-  "Biology": {
-    "ability1": "Stench",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Aftermath",
-    "ability2": "Weak Armor",
-    "type1": "Poison",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": true
+  "White2Entry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+  "SwordEntry": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+  "spdfs": 82,
+  "category": "Trash Heap Pokémon",
+  "Black2Entry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies."
 }

@@ -1,277 +1,272 @@
 {
+  "YellowEntry": "A Pokémon that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
+  "EmeraldEntry": "It is a Pokémon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.",
+  "ability1": "Swift Swim",
+  "AlphaSapphireEntry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+  "hp": 30,
+  "SilverEntry": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+  "ability2": "Battle Armor",
+  "UltraMoonEntry": "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
+  "eggMoves": [
+    {"move": "Aurora Beam"},
+    {"move": "Bubble Beam"},
+    {"move": "Confuse Ray"},
+    {"move": "Flail"},
+    {"move": "Knock Off"},
+    {"move": "Rapid Spin"},
+    {"move": "Take Down"},
+    {"move": "Mega Drain"}
+  ],
   "number": 140,
-  "Entry": {
-    "Shield": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
-    "Black": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Black2": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "FireRed": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
-    "HearthGold": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
-    "Sword": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
-    "Sapphire": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-    "Platinum": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Emerald": "It is a Pokémon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.",
-    "X": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Y": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
-    "Ruby": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-    "Soulsilver": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
-    "AlphaSapphire": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-    "Gold": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
-    "UltraMoon": "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
-    "Blue": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
-    "LetsGoPikachu": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
-    "White2": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Diamond": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "UltraSun": "This Pokémon thrived 300 million years ago. It's said that living specimens can still be seen in a certain region\u2014a rare sight.",
-    "OmegaRuby": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
-    "Red": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
-    "Pearl": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Silver": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
-    "White": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
-    "Yellow": "A Pokémon that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
-    "LeafGreen": "A Pokémon that was regenerated from a fossil found in what was once the ocean floor long ago.",
-    "LetsGoEevee": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
-    "Crystal": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Scratch",
-        "lvl": "5"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "10"
-      },
-      {
-        "move": "Aqua Jet",
-        "lvl": "15"
-      },
-      {
-        "move": "Leer",
-        "lvl": "20"
-      },
-      {
-        "move": "Mud Shot",
-        "lvl": "25"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "30"
-      },
-      {
-        "move": "Brine",
-        "lvl": "35"
-      },
-      {
-        "move": "Protect",
-        "lvl": "41"
-      },
-      {
-        "move": "Leech Life",
-        "lvl": "45"
-      },
-      {
-        "move": "Liquidation",
-        "lvl": "50"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "55"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Aurora Beam"},
-      {"move": "Bubble Beam"},
-      {"move": "Confuse Ray"},
-      {"move": "Flail"},
-      {"move": "Knock Off"},
-      {"move": "Rapid Spin"},
-      {"move": "Take Down"},
-      {"move": "Mega Drain"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "11.5kg",
-    "category": "Shellfish Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 55,
+  "UltraSunEntry": "This Pokémon thrived 300 million years ago. It's said that living specimens can still be seen in a certain region\u2014a rare sight.",
+  "atk": 80,
+  "RedEntry": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+  "height": "0.5m",
+  "type2": "Water",
+  "WhiteEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "eggGroup2": "Water 3",
+  "spd": 55,
+  "CrystalEntry": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
+  "weight": "11.5kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Rock",
+  "hasGalarian": false,
+  "BlueEntry": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+  "dfs": 90,
+  "GoldEntry": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+  "SapphireEntry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+  "DiamondEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
   "name": "Kabuto",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 55,
-    "spd": 55,
-    "hp": 30,
-    "atk": 80,
-    "spdfs": 45
-  },
-  "Biology": {
-    "ability1": "Swift Swim",
-    "type2": "Water",
-    "eggGroup2": "Water 3",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Weak Armor",
-    "ability2": "Battle Armor",
-    "type1": "Rock",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 45,
+  "ShieldEntry": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+  "extraMega": false,
+  "HearthGoldEntry": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+  "140Entry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+  "YEntry": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "PlatinumEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "abilityHidden": "Weak Armor",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "5"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "10"
+    },
+    {
+      "move": "Aqua Jet",
+      "lvl": "15"
+    },
+    {
+      "move": "Leer",
+      "lvl": "20"
+    },
+    {
+      "move": "Mud Shot",
+      "lvl": "25"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "30"
+    },
+    {
+      "move": "Brine",
+      "lvl": "35"
+    },
+    {
+      "move": "Protect",
+      "lvl": "41"
+    },
+    {
+      "move": "Leech Life",
+      "lvl": "45"
+    },
+    {
+      "move": "Liquidation",
+      "lvl": "50"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "55"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "60"
+    }
+  ],
+  "RubyEntry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+  "BlackEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "OmegaRubyEntry": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+  "LetsGoEeveeEntry": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+  "colour": "Brown",
+  "SoulsilverEntry": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+  "FireRedEntry": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+  "White2Entry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "SwordEntry": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+  "PearlEntry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+  "category": "Shellfish Pokémon",
+  "LeafGreenEntry": "A Pokémon that was regenerated from a fossil found in what was once the ocean floor long ago.",
+  "Black2Entry": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell."
 }

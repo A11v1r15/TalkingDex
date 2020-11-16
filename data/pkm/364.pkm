@@ -1,234 +1,228 @@
 {
+  "ShieldEntry": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+  "extraMega": false,
+  "HearthGoldEntry": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+  "EmeraldEntry": "Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+  "ability1": "Thick Fat",
+  "YEntry": "Be it Spheal or a Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+  "AlphaSapphireEntry": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object\u2019s aroma and texture to determine whether it likes the object or not.",
+  "hp": 90,
+  "ability2": "Ice Body",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+  "eggMoves": [],
   "number": 364,
-  "Entry": {
-    "AlphaSapphire": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object\u2019s aroma and texture to determine whether it likes the object or not.",
-    "Shield": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
-    "White2": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-    "Diamond": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-    "Black": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-    "Black2": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-    "FireRed": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose.",
-    "HearthGold": "It has a very sensitive nose. It touches new things with its nose to examine them.",
-    "OmegaRuby": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
-    "Pearl": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-    "White": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-    "Sword": "Sealeo live on top of drift ice. They go swimming when they're on the hunt, seeking out their prey by scent.",
-    "Sapphire": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
-    "LeafGreen": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose.",
-    "Platinum": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
-    "Emerald": "Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
-    "X": "It has a very sensitive nose. It touches new things with its nose to examine them.",
-    "Y": "Be it Spheal or a Poké Ball, it will spin any round object on its nose with the greatest of ease.",
-    "Ruby": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
-    "Soulsilver": "It has a very sensitive nose. It touches new things with its nose to examine them."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Swagger",
-        "lvl": "0"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "1"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Powder Snow",
-        "lvl": "12"
-      },
-      {
-        "move": "Rest",
-        "lvl": "16"
-      },
-      {
-        "move": "Snore",
-        "lvl": "20"
-      },
-      {
-        "move": "Brine",
-        "lvl": "24"
-      },
-      {
-        "move": "Aurora Beam",
-        "lvl": "28"
-      },
-      {
-        "move": "Encore",
-        "lvl": "35"
-      },
-      {
-        "move": "Body Slam",
-        "lvl": "40"
-      },
-      {
-        "move": "Surf",
-        "lvl": "46"
-      },
-      {
-        "move": "Blizzard",
-        "lvl": "52"
-      },
-      {
-        "move": "Hail",
-        "lvl": "58"
-      },
-      {
-        "move": "Sheer Cold",
-        "lvl": "64"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "87.6kg",
-    "category": "Ball Roll Pokémon",
-    "height": "1.1m"
-  },
+  "spatk": 75,
+  "atk": 60,
+  "PlatinumEntry": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+  "abilityHidden": "Oblivious",
+  "height": "1.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Swagger",
+      "lvl": "0"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "1"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Powder Snow",
+      "lvl": "12"
+    },
+    {
+      "move": "Rest",
+      "lvl": "16"
+    },
+    {
+      "move": "Snore",
+      "lvl": "20"
+    },
+    {
+      "move": "Brine",
+      "lvl": "24"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "28"
+    },
+    {
+      "move": "Encore",
+      "lvl": "35"
+    },
+    {
+      "move": "Body Slam",
+      "lvl": "40"
+    },
+    {
+      "move": "Surf",
+      "lvl": "46"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "52"
+    },
+    {
+      "move": "Hail",
+      "lvl": "58"
+    },
+    {
+      "move": "Sheer Cold",
+      "lvl": "64"
+    }
+  ],
+  "type2": "Water",
+  "WhiteEntry": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+  "eggGroup2": "Field",
+  "spd": 45,
+  "weight": "87.6kg",
+  "eggGroup1": "Water 1",
+  "RubyEntry": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+  "hasMega": false,
+  "type1": "Ice",
+  "hasGalarian": false,
+  "BlackEntry": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+  "OmegaRubyEntry": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+  "dfs": 70,
+  "SapphireEntry": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
+  "colour": "Blue",
+  "hasAlolan": false,
+  "DiamondEntry": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+  "SoulsilverEntry": "It has a very sensitive nose. It touches new things with its nose to examine them.",
   "name": "Sealeo",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 75,
-    "spd": 45,
-    "hp": 90,
-    "atk": 60,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Thick Fat",
-    "type2": "Water",
-    "eggGroup2": "Field",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Oblivious",
-    "ability2": "Ice Body",
-    "type1": "Ice",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose.",
+  "White2Entry": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+  "SwordEntry": "Sealeo live on top of drift ice. They go swimming when they're on the hunt, seeking out their prey by scent.",
+  "PearlEntry": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+  "spdfs": 70,
+  "category": "Ball Roll Pokémon",
+  "LeafGreenEntry": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose.",
+  "Black2Entry": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease."
 }

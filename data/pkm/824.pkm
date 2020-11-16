@@ -1,46 +1,40 @@
 {
+  "ShieldEntry": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
+  "extraMega": false,
+  "ability1": "Swarm",
+  "hp": 25,
+  "ability2": "Compound Eyes",
+  "tmTrMoves": [],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Infestation"},
+    {"move": "Supersonic"},
+    {"move": "Sticky Web"},
+    {"move": "Recover"}
+  ],
   "number": 824,
-  "Entry": {
-    "Sword": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",
-    "Shield": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
-  },
-  "Moves": {
-    "tmTr": [],
-    "lvlUp": [{
-      "move": "Struggle Bug",
-      "lvl": "1"
-    }],
-    "egg": [
-      {"move": "Infestation"},
-      {"move": "Supersonic"},
-      {"move": "Sticky Web"},
-      {"move": "Recover"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "8.0kg",
-    "category": "Larva Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 25,
+  "atk": 20,
+  "abilityHidden": "Telepathy",
+  "height": "0.4m",
+  "lvlUpMoves": [{
+    "move": "Struggle Bug",
+    "lvl": "1"
+  }],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 45,
+  "weight": "8.0kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "dfs": 20,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Blipbug",
-  "Stats": {
-    "dfs": 20,
-    "spatk": 25,
-    "spd": 45,
-    "hp": 25,
-    "atk": 20,
-    "spdfs": 45
-  },
-  "Biology": {
-    "ability1": "Swarm",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Telepathy",
-    "ability2": "Compound Eyes",
-    "type1": "Bug",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",
+  "spdfs": 45,
+  "category": "Larva Pokémon"
 }

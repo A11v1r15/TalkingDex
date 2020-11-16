@@ -1,304 +1,298 @@
 {
+  "ShieldEntry": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
+  "extraMega": false,
+  "ability1": "Solid Rock",
+  "YEntry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+  "AlphaSapphireEntry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+  "hp": 74,
+  "SunEntry": "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey.",
+  "ability2": "Sturdy",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Razor Shell",
+      "technical": "TM83"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "They can live in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+  "UltraMoonEntry": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
+  "eggMoves": [],
   "number": 565,
-  "Entry": {
-    "AlphaSapphire": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
-    "UltraMoon": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
-    "Shield": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
-    "Moon": "Active both on land and in the sea, this Pokémon drags its land-based prey into the water to finish it off.",
-    "White2": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
-    "UltraSun": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
-    "Black": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
-    "Black2": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
-    "Sun": "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey.",
-    "OmegaRuby": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
-    "White": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
-    "Sword": "Carracosta completely devours its prey\u2014bones, shells, and all. Because of this, Carracosta's own shell grows thick and sturdy.",
-    "X": "They can live in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
-    "Y": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Razor Shell",
-        "technical": "TM83"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Withdraw",
-        "lvl": "1"
-      },
-      {
-        "move": "Protect",
-        "lvl": "1"
-      },
-      {
-        "move": "Aqua Jet",
-        "lvl": "1"
-      },
-      {
-        "move": "Smack Down",
-        "lvl": "9"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "12"
-      },
-      {
-        "move": "Bite",
-        "lvl": "15"
-      },
-      {
-        "move": "Wide Guard",
-        "lvl": "18"
-      },
-      {
-        "move": "Brine",
-        "lvl": "21"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "24"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "27"
-      },
-      {
-        "move": "Curse",
-        "lvl": "30"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "33"
-      },
-      {
-        "move": "Aqua Tail",
-        "lvl": "36"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "41"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "46"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "51"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "81.0kg",
-    "category": "Prototurtle Pokémon",
-    "height": "1.2m"
-  },
+  "MoonEntry": "Active both on land and in the sea, this Pokémon drags its land-based prey into the water to finish it off.",
+  "spatk": 83,
+  "UltraSunEntry": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
+  "atk": 108,
+  "abilityHidden": "Swift Swim",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "1"
+    },
+    {
+      "move": "Protect",
+      "lvl": "1"
+    },
+    {
+      "move": "Aqua Jet",
+      "lvl": "1"
+    },
+    {
+      "move": "Smack Down",
+      "lvl": "9"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "12"
+    },
+    {
+      "move": "Bite",
+      "lvl": "15"
+    },
+    {
+      "move": "Wide Guard",
+      "lvl": "18"
+    },
+    {
+      "move": "Brine",
+      "lvl": "21"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "24"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "27"
+    },
+    {
+      "move": "Curse",
+      "lvl": "30"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "33"
+    },
+    {
+      "move": "Aqua Tail",
+      "lvl": "36"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "41"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "46"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "51"
+    }
+  ],
+  "type2": "Rock",
+  "WhiteEntry": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
+  "eggGroup2": "Water 3",
+  "spd": 32,
+  "weight": "81.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlackEntry": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+  "OmegaRubyEntry": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+  "dfs": 133,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Carracosta",
-  "Stats": {
-    "dfs": 133,
-    "spatk": 83,
-    "spd": 32,
-    "hp": 74,
-    "atk": 108,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Solid Rock",
-    "type2": "Rock",
-    "eggGroup2": "Water 3",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Swift Swim",
-    "ability2": "Sturdy",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+  "SwordEntry": "Carracosta completely devours its prey\u2014bones, shells, and all. Because of this, Carracosta's own shell grows thick and sturdy.",
+  "spdfs": 65,
+  "category": "Prototurtle Pokémon",
+  "Black2Entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
 }

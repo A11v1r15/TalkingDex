@@ -1,215 +1,209 @@
 {
+  "ShieldEntry": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.",
+  "extraMega": false,
+  "ability1": "Sturdy",
+  "YEntry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+  "AlphaSapphireEntry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+  "hp": 50,
+  "ability2": "Shell Armor",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Night Slash"},
+    {"move": "Counter"},
+    {"move": "Curse"},
+    {"move": "Block"},
+    {"move": "Wide Guard"},
+    {"move": "Knock Off"}
+  ],
+  "XEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
   "number": 557,
-  "Entry": {
-    "AlphaSapphire": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-    "White": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
-    "Sword": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
-    "Shield": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.",
-    "X": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
-    "White2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-    "Y": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-    "Black": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
-    "Black2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-    "OmegaRuby": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fury Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Withdraw",
-        "lvl": "4"
-      },
-      {
-        "move": "Smack Down",
-        "lvl": "8"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "12"
-      },
-      {
-        "move": "Flail",
-        "lvl": "16"
-      },
-      {
-        "move": "Slash",
-        "lvl": "20"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "24"
-      },
-      {
-        "move": "Stealth Rock",
-        "lvl": "28"
-      },
-      {
-        "move": "Rock Blast",
-        "lvl": "32"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "36"
-      },
-      {
-        "move": "Rock Polish",
-        "lvl": "40"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "44"
-      },
-      {
-        "move": "Rock Wrecker",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Night Slash"},
-      {"move": "Counter"},
-      {"move": "Curse"},
-      {"move": "Block"},
-      {"move": "Wide Guard"},
-      {"move": "Knock Off"}
-    ]
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "14.5kg",
-    "category": "Rock Inn Pokémon",
-    "height": "0.3m"
-  },
+  "spatk": 35,
+  "atk": 65,
+  "abilityHidden": "Weak Armor",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Fury Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "4"
+    },
+    {
+      "move": "Smack Down",
+      "lvl": "8"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "12"
+    },
+    {
+      "move": "Flail",
+      "lvl": "16"
+    },
+    {
+      "move": "Slash",
+      "lvl": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "24"
+    },
+    {
+      "move": "Stealth Rock",
+      "lvl": "28"
+    },
+    {
+      "move": "Rock Blast",
+      "lvl": "32"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "36"
+    },
+    {
+      "move": "Rock Polish",
+      "lvl": "40"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "44"
+    },
+    {
+      "move": "Rock Wrecker",
+      "lvl": "48"
+    }
+  ],
+  "type2": "Rock",
+  "WhiteEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+  "eggGroup2": "Mineral",
+  "spd": 55,
+  "weight": "14.5kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+  "OmegaRubyEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+  "dfs": 85,
+  "colour": "Red",
+  "hasAlolan": false,
   "name": "Dwebble",
-  "Stats": {
-    "dfs": 85,
-    "spatk": 35,
-    "spd": 55,
-    "hp": 50,
-    "atk": 65,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Sturdy",
-    "type2": "Rock",
-    "eggGroup2": "Mineral",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Weak Armor",
-    "ability2": "Shell Armor",
-    "type1": "Bug",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+  "SwordEntry": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
+  "spdfs": 35,
+  "category": "Rock Inn Pokémon",
+  "Black2Entry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
 }

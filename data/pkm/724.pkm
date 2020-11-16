@@ -1,288 +1,282 @@
 {
+  "ShieldEntry": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening.",
+  "extraMega": false,
+  "ability1": "Overgrow",
+  "hp": 78,
+  "SunEntry": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Phantom Force",
+      "technical": "TM86"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Leaf Blade",
+      "technical": "TR50"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Hurricane",
+      "technical": "TR89"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "UltraMoonEntry": "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
   "number": 724,
-  "Entry": {
-    "UltraMoon": "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
-    "Sword": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
-    "Shield": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening.",
-    "Moon": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
-    "UltraSun": "It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.",
-    "Sun": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Low Sweep",
-        "technical": "TM75"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Phantom Force",
-        "technical": "TM86"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Leaf Blade",
-        "technical": "TR50"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Hurricane",
-        "technical": "TR89"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Spirit Shackle",
-        "lvl": "0"
-      },
-      {
-        "move": "Spirit Shackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Phantom Force",
-        "lvl": "1"
-      },
-      {
-        "move": "Leaf Storm",
-        "lvl": "1"
-      },
-      {
-        "move": "U-turn",
-        "lvl": "1"
-      },
-      {
-        "move": "Spite",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Leafage",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Peck",
-        "lvl": "9"
-      },
-      {
-        "move": "Shadow Sneak",
-        "lvl": "12"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "15"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "20"
-      },
-      {
-        "move": "Pluck",
-        "lvl": "25"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "30"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "37"
-      },
-      {
-        "move": "Leaf Blade",
-        "lvl": "44"
-      },
-      {
-        "move": "Feather Dance",
-        "lvl": "51"
-      },
-      {
-        "move": "Brave Bird",
-        "lvl": "58"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "36.6kg",
-    "category": "Arrow Quill Pokémon",
-    "height": "1.6m"
-  },
+  "MoonEntry": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
+  "spatk": 100,
+  "UltraSunEntry": "It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.",
+  "atk": 107,
+  "abilityHidden": "Long Reach",
+  "height": "1.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Spirit Shackle",
+      "lvl": "0"
+    },
+    {
+      "move": "Spirit Shackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Phantom Force",
+      "lvl": "1"
+    },
+    {
+      "move": "Leaf Storm",
+      "lvl": "1"
+    },
+    {
+      "move": "U-turn",
+      "lvl": "1"
+    },
+    {
+      "move": "Spite",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Peck",
+      "lvl": "9"
+    },
+    {
+      "move": "Shadow Sneak",
+      "lvl": "12"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "15"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "20"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "25"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "30"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "37"
+    },
+    {
+      "move": "Leaf Blade",
+      "lvl": "44"
+    },
+    {
+      "move": "Feather Dance",
+      "lvl": "51"
+    },
+    {
+      "move": "Brave Bird",
+      "lvl": "58"
+    }
+  ],
+  "type2": "Ghost",
+  "eggGroup2": "",
+  "spd": 70,
+  "weight": "36.6kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "dfs": 75,
+  "colour": "Brown",
+  "hasAlolan": false,
   "name": "Decidueye",
-  "Stats": {
-    "dfs": 75,
-    "spatk": 100,
-    "spd": 70,
-    "hp": 78,
-    "atk": 107,
-    "spdfs": 100
-  },
-  "Biology": {
-    "ability1": "Overgrow",
-    "type2": "Ghost",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Long Reach",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
+  "spdfs": 100,
+  "category": "Arrow Quill Pokémon"
 }

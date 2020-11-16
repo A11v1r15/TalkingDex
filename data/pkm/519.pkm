@@ -1,194 +1,188 @@
 {
+  "ShieldEntry": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+  "extraMega": false,
+  "ability1": "Big Pecks",
+  "YEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+  "AlphaSapphireEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+  "hp": 50,
+  "ability2": "Super Luck",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Hypnosis"},
+    {"move": "Wish"},
+    {"move": "Morning Sun"},
+    {"move": "Night Slash"},
+    {"move": "Defog"}
+  ],
+  "XEntry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
   "number": 519,
-  "Entry": {
-    "AlphaSapphire": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-    "White": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-    "Sword": "Where people go, these Pokémon follow. If you're scattering food for them, be careful\u2014 several hundred of them can gather at once.",
-    "Shield": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
-    "X": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
-    "White2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
-    "Y": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-    "Black": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
-    "Black2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
-    "OmegaRuby": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Gust",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "4"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "8"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "12"
-      },
-      {
-        "move": "Air Cutter",
-        "lvl": "16"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "20"
-      },
-      {
-        "move": "Feather Dance",
-        "lvl": "24"
-      },
-      {
-        "move": "Detect",
-        "lvl": "28"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "32"
-      },
-      {
-        "move": "Roost",
-        "lvl": "36"
-      },
-      {
-        "move": "Tailwind",
-        "lvl": "40"
-      },
-      {
-        "move": "Sky Attack",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Hypnosis"},
-      {"move": "Wish"},
-      {"move": "Morning Sun"},
-      {"move": "Night Slash"},
-      {"move": "Defog"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "2.1kg",
-    "category": "Tiny Pigeon Pokémon",
-    "height": "0.3m"
-  },
+  "spatk": 36,
+  "atk": 55,
+  "abilityHidden": "Rivalry",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Gust",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "4"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "8"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "12"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "16"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "20"
+    },
+    {
+      "move": "Feather Dance",
+      "lvl": "24"
+    },
+    {
+      "move": "Detect",
+      "lvl": "28"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "32"
+    },
+    {
+      "move": "Roost",
+      "lvl": "36"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "40"
+    },
+    {
+      "move": "Sky Attack",
+      "lvl": "44"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+  "eggGroup2": "",
+  "spd": 43,
+  "weight": "2.1kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlackEntry": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+  "OmegaRubyEntry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+  "dfs": 50,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Pidove",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 36,
-    "spd": 43,
-    "hp": 50,
-    "atk": 55,
-    "spdfs": 30
-  },
-  "Biology": {
-    "ability1": "Big Pecks",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Rivalry",
-    "ability2": "Super Luck",
-    "type1": "Normal",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+  "SwordEntry": "Where people go, these Pokémon follow. If you're scattering food for them, be careful\u2014 several hundred of them can gather at once.",
+  "spdfs": 30,
+  "category": "Tiny Pigeon Pokémon",
+  "Black2Entry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
 }

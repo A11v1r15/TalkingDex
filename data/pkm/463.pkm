@@ -1,327 +1,321 @@
 {
+  "ShieldEntry": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky's use of its fingers is clumsy.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva.",
+  "ability1": "Own Tempo",
+  "YEntry": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+  "AlphaSapphireEntry": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+  "hp": 110,
+  "ability2": "Oblivious",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Power Whip",
+      "technical": "TR72"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+  "UltraMoonEntry": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
   "number": 463,
-  "Entry": {
-    "AlphaSapphire": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
-    "UltraMoon": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
-    "Shield": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky's use of its fingers is clumsy.",
-    "White2": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
-    "Diamond": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
-    "UltraSun": "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet.",
-    "Black": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
-    "Black2": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
-    "HearthGold": "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva.",
-    "OmegaRuby": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
-    "Pearl": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
-    "White": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
-    "Sword": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
-    "Platinum": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
-    "X": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
-    "Y": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
-    "Soulsilver": "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Power Whip",
-        "technical": "TR72"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Lick",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "1"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "1"
-      },
-      {
-        "move": "Wrap",
-        "lvl": "18"
-      },
-      {
-        "move": "Disable",
-        "lvl": "24"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "30"
-      },
-      {
-        "move": "Knock Off",
-        "lvl": "36"
-      },
-      {
-        "move": "Screech",
-        "lvl": "42"
-      },
-      {
-        "move": "Slam",
-        "lvl": "48"
-      },
-      {
-        "move": "Power Whip",
-        "lvl": "54"
-      },
-      {
-        "move": "Belly Drum",
-        "lvl": "60"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "140.0kg",
-    "category": "Licking Pokémon",
-    "height": "1.7m"
-  },
+  "spatk": 80,
+  "UltraSunEntry": "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet.",
+  "atk": 85,
+  "PlatinumEntry": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+  "abilityHidden": "Cloud Nine",
+  "height": "1.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Lick",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Wrap",
+      "lvl": "18"
+    },
+    {
+      "move": "Disable",
+      "lvl": "24"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "30"
+    },
+    {
+      "move": "Knock Off",
+      "lvl": "36"
+    },
+    {
+      "move": "Screech",
+      "lvl": "42"
+    },
+    {
+      "move": "Slam",
+      "lvl": "48"
+    },
+    {
+      "move": "Power Whip",
+      "lvl": "54"
+    },
+    {
+      "move": "Belly Drum",
+      "lvl": "60"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+  "eggGroup2": "",
+  "spd": 50,
+  "weight": "140.0kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlackEntry": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+  "OmegaRubyEntry": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+  "dfs": 95,
+  "colour": "Pink",
+  "hasAlolan": false,
+  "DiamondEntry": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+  "SoulsilverEntry": "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot.",
   "name": "Lickilicky",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 80,
-    "spd": 50,
-    "hp": 110,
-    "atk": 85,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Own Tempo",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Cloud Nine",
-    "ability2": "Oblivious",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+  "SwordEntry": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
+  "PearlEntry": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+  "spdfs": 95,
+  "category": "Licking Pokémon",
+  "Black2Entry": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate."
 }

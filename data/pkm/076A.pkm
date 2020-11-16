@@ -1,31 +1,24 @@
 {
+  "ability1": "Magnet Pull",
+  "type2": "Electric",
+  "eggGroup2": "",
+  "spd": 45,
+  "hp": 80,
+  "SunEntry": "It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.",
+  "eggGroup1": "Mineral",
+  "ability2": "Sturdy",
+  "type1": "Rock",
+  "xpGroup": "Medium Slow",
+  "dfs": 130,
+  "UltraMoonEntry": "It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.",
   "number": 76,
-  "Entry": {
-    "UltraMoon": "It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.",
-    "Moon": "Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.",
-    "LetsGoPikachu": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job.",
-    "UltraSun": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
-    "Sun": "It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.",
-    "LetsGoEevee": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job."
-  },
-  "Moves": {},
+  "MoonEntry": "Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.",
+  "LetsGoEeveeEntry": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job.",
+  "spatk": 55,
+  "UltraSunEntry": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+  "LetsGoPikachuEntry": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn't score a direct hit, the jolt of electricity will do the job.",
   "name": "Alolan Golem",
-  "Stats": {
-    "dfs": 130,
-    "spatk": 55,
-    "spd": 45,
-    "hp": 80,
-    "atk": 120,
-    "spdfs": 65
-  },
-  "Flair": {},
-  "Biology": {
-    "ability1": "Magnet Pull",
-    "type2": "Electric",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Galvanize",
-    "ability2": "Sturdy",
-    "type1": "Rock"
-  }
+  "atk": 120,
+  "abilityHidden": "Galvanize",
+  "spdfs": 65
 }

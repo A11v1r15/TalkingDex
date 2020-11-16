@@ -1,326 +1,321 @@
 {
+  "YellowEntry": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+  "EmeraldEntry": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
+  "ability1": "Lightning Rod",
+  "AlphaSapphireEntry": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+  "hp": 80,
+  "SilverEntry": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
+  "ability2": "Rock Head",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Curse"},
+    {"move": "Dragon Rush"},
+    {"move": "Skull Bash"},
+    {"move": "Metal Burst"},
+    {"move": "Guard Split"},
+    {"move": "Rock Polish"}
+  ],
   "number": 111,
-  "Entry": {
-    "Shield": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
-    "Black": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-    "Black2": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-    "FireRed": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
-    "HearthGold": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-    "Sword": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
-    "Sapphire": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
-    "Platinum": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-    "Emerald": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
-    "X": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
-    "Y": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-    "Ruby": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
-    "Soulsilver": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
-    "AlphaSapphire": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
-    "Gold": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
-    "Blue": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-    "LetsGoPikachu": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
-    "White2": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-    "Diamond": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
-    "OmegaRuby": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
-    "Red": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-    "Pearl": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
-    "Silver": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
-    "White": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
-    "Yellow": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
-    "LeafGreen": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-    "LetsGoEevee": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
-    "Crystal": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Smart Strike",
-        "technical": "TM96"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Megahorn",
-        "technical": "TR28"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Drill Run",
-        "technical": "TR87"
-      },
-      {
-        "move": "High Horsepower",
-        "technical": "TR94"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Smack Down",
-        "lvl": "5"
-      },
-      {
-        "move": "Bulldoze",
-        "lvl": "10"
-      },
-      {
-        "move": "Horn Attack",
-        "lvl": "15"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "20"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "25"
-      },
-      {
-        "move": "Rock Blast",
-        "lvl": "30"
-      },
-      {
-        "move": "Drill Run",
-        "lvl": "35"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "40"
-      },
-      {
-        "move": "Earthquake",
-        "lvl": "45"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "50"
-      },
-      {
-        "move": "Megahorn",
-        "lvl": "55"
-      },
-      {
-        "move": "Horn Drill",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Counter"},
-      {"move": "Curse"},
-      {"move": "Dragon Rush"},
-      {"move": "Skull Bash"},
-      {"move": "Metal Burst"},
-      {"move": "Guard Split"},
-      {"move": "Rock Polish"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "115.0kg",
-    "category": "Spikes Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 30,
+  "atk": 85,
+  "RedEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+  "height": "1.0m",
+  "type2": "Rock",
+  "WhiteEntry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+  "eggGroup2": "Field",
+  "spd": 25,
+  "CrystalEntry": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+  "111Entry": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+  "weight": "115.0kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Ground",
+  "hasGalarian": false,
+  "BlueEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+  "dfs": 95,
+  "GoldEntry": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+  "SapphireEntry": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+  "DiamondEntry": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
   "name": "Rhyhorn",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 30,
-    "spd": 25,
-    "hp": 80,
-    "atk": 85,
-    "spdfs": 30
-  },
-  "Biology": {
-    "ability1": "Lightning Rod",
-    "type2": "Rock",
-    "eggGroup2": "Field",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Reckless",
-    "ability2": "Rock Head",
-    "type1": "Ground",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 30,
+  "ShieldEntry": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+  "extraMega": false,
+  "HearthGoldEntry": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+  "YEntry": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Smart Strike",
+      "technical": "TM96"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Megahorn",
+      "technical": "TR28"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Drill Run",
+      "technical": "TR87"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
+  "PlatinumEntry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+  "abilityHidden": "Reckless",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Smack Down",
+      "lvl": "5"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "10"
+    },
+    {
+      "move": "Horn Attack",
+      "lvl": "15"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "20"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "25"
+    },
+    {
+      "move": "Rock Blast",
+      "lvl": "30"
+    },
+    {
+      "move": "Drill Run",
+      "lvl": "35"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "45"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "50"
+    },
+    {
+      "move": "Megahorn",
+      "lvl": "55"
+    },
+    {
+      "move": "Horn Drill",
+      "lvl": "60"
+    }
+  ],
+  "RubyEntry": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+  "BlackEntry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+  "OmegaRubyEntry": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+  "LetsGoEeveeEntry": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+  "colour": "Gray",
+  "SoulsilverEntry": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
+  "FireRedEntry": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+  "White2Entry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+  "SwordEntry": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+  "PearlEntry": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+  "category": "Spikes Pokémon",
+  "LeafGreenEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+  "Black2Entry": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
 }

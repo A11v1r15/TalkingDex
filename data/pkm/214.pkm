@@ -1,315 +1,309 @@
 {
+  "EmeraldEntry": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+  "ability1": "Swarm",
+  "AlphaSapphireEntry": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
+  "hp": 80,
+  "SilverEntry": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+  "ability2": "Guts",
+  "eggMoves": [
+    {"move": "Flail"},
+    {"move": "Double"},
+    {"move": "Harden"},
+    {"move": "Seismic Toss"},
+    {"move": "Night Slash"},
+    {"move": "Feint"},
+    {"move": "Take Down"}
+  ],
+  "UltraMoonEntry": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it's not that good at flying.",
   "number": 214,
-  "Entry": {
-    "Shield": "This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.",
-    "Black": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-    "Black2": "No matter how heavy its opponents, it flings them far away with its prized horn.",
-    "FireRed": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
-    "HearthGold": "This powerful Pokémon thrusts its prized horn under the enemies' bellies then lifts and throws them.",
-    "Sword": "Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.",
-    "Sapphire": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
-    "Platinum": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-    "Emerald": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
-    "X": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
-    "Y": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
-    "Ruby": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
-    "Soulsilver": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn.",
-    "AlphaSapphire": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
-    "Gold": "This powerful Pokémon thrusts its prized horn under its enemies' bellies then lifts and throws them.",
-    "UltraMoon": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it's not that good at flying.",
-    "White2": "No matter how heavy its opponents, it flings them far away with its prized horn.",
-    "Diamond": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
-    "UltraSun": "It's proud of its thick horn. In Alola, its biggest rival is Vikavolt, which it's always fighting with.",
-    "OmegaRuby": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
-    "Pearl": "With powerful legs and claws, it generates enough power to hurl foes over great distances.",
-    "Silver": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
-    "White": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
-    "LeafGreen": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
-    "Crystal": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Smart Strike",
-        "technical": "TM96"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Megahorn",
-        "technical": "TR28"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "High Horsepower",
-        "technical": "TR94"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Attack",
-        "lvl": "5"
-      },
-      {
-        "move": "Endure",
-        "lvl": "10"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "15"
-      },
-      {
-        "move": "Horn Attack",
-        "lvl": "20"
-      },
-      {
-        "move": "Counter",
-        "lvl": "25"
-      },
-      {
-        "move": "Brick Break",
-        "lvl": "30"
-      },
-      {
-        "move": "Pin Missile",
-        "lvl": "35"
-      },
-      {
-        "move": "Throat Chop",
-        "lvl": "40"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "45"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "50"
-      },
-      {
-        "move": "Megahorn",
-        "lvl": "55"
-      },
-      {
-        "move": "Close Combat",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Flail"},
-      {"move": "Double"},
-      {"move": "Harden"},
-      {"move": "Seismic Toss"},
-      {"move": "Night Slash"},
-      {"move": "Feint"},
-      {"move": "Take Down"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "54.0kg",
-    "category": "Single Horn Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 40,
+  "UltraSunEntry": "It's proud of its thick horn. In Alola, its biggest rival is Vikavolt, which it's always fighting with.",
+  "atk": 125,
+  "height": "1.5m",
+  "type2": "Fighting",
+  "WhiteEntry": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+  "eggGroup2": "",
+  "spd": 85,
+  "CrystalEntry": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+  "weight": "54.0kg",
+  "eggGroup1": "Bug",
+  "hasMega": true,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "dfs": 75,
+  "GoldEntry": "This powerful Pokémon thrusts its prized horn under its enemies' bellies then lifts and throws them.",
+  "SapphireEntry": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.",
+  "hasAlolan": false,
+  "DiamondEntry": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
   "name": "Heracross",
-  "Stats": {
-    "dfs": 75,
-    "spatk": 40,
-    "spd": 85,
-    "hp": 80,
-    "atk": 125,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Swarm",
-    "type2": "Fighting",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Moxie",
-    "ability2": "Guts",
-    "type1": "Bug",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 95,
+  "ShieldEntry": "This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.",
+  "extraMega": false,
+  "HearthGoldEntry": "This powerful Pokémon thrusts its prized horn under the enemies' bellies then lifts and throws them.",
+  "YEntry": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+  "tmTrMoves": [
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Smart Strike",
+      "technical": "TM96"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Megahorn",
+      "technical": "TR28"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+  "PlatinumEntry": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+  "abilityHidden": "Moxie",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Attack",
+      "lvl": "5"
+    },
+    {
+      "move": "Endure",
+      "lvl": "10"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "15"
+    },
+    {
+      "move": "Horn Attack",
+      "lvl": "20"
+    },
+    {
+      "move": "Counter",
+      "lvl": "25"
+    },
+    {
+      "move": "Brick Break",
+      "lvl": "30"
+    },
+    {
+      "move": "Pin Missile",
+      "lvl": "35"
+    },
+    {
+      "move": "Throat Chop",
+      "lvl": "40"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "45"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "50"
+    },
+    {
+      "move": "Megahorn",
+      "lvl": "55"
+    },
+    {
+      "move": "Close Combat",
+      "lvl": "60"
+    }
+  ],
+  "RubyEntry": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+  "BlackEntry": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+  "OmegaRubyEntry": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+  "colour": "Blue",
+  "SoulsilverEntry": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn.",
+  "FireRedEntry": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+  "White2Entry": "No matter how heavy its opponents, it flings them far away with its prized horn.",
+  "SwordEntry": "Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.",
+  "PearlEntry": "With powerful legs and claws, it generates enough power to hurl foes over great distances.",
+  "category": "Single Horn Pokémon",
+  "LeafGreenEntry": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+  "Black2Entry": "No matter how heavy its opponents, it flings them far away with its prized horn."
 }

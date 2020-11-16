@@ -1,259 +1,254 @@
 {
+  "YellowEntry": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+  "EmeraldEntry": "Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+  "ability1": "Levitate",
+  "AlphaSapphireEntry": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
+  "hp": 40,
+  "SilverEntry": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+  "ability2": "Neutralizing Gas",
+  "eggMoves": [
+    {"move": "Psybeam"},
+    {"move": "Pain Split"},
+    {"move": "Grudge"},
+    {"move": "Spite"},
+    {"move": "Curse"},
+    {"move": "Stockpile"},
+    {"move": "Swallow"},
+    {"move": "Spit Up"}
+  ],
   "number": 109,
-  "Entry": {
-    "Shield": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
-    "Black": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "Black2": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
-    "FireRed": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
-    "HearthGold": "Its thin, flimsy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
-    "Sword": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
-    "Sapphire": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
-    "Platinum": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "Emerald": "Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
-    "X": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
-    "Y": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "Ruby": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may overinflate its round body, then explode.",
-    "Soulsilver": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
-    "AlphaSapphire": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
-    "Gold": "Its thin, flimsy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
-    "Blue": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
-    "LetsGoPikachu": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
-    "White2": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
-    "Diamond": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "OmegaRuby": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
-    "Red": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
-    "Pearl": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "Silver": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
-    "White": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
-    "Yellow": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
-    "LeafGreen": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
-    "LetsGoEevee": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
-    "Crystal": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Poison Gas",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Smog",
-        "lvl": "4"
-      },
-      {
-        "move": "Smokescreen",
-        "lvl": "8"
-      },
-      {
-        "move": "Clear Smog",
-        "lvl": "12"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "16"
-      },
-      {
-        "move": "Sludge",
-        "lvl": "20"
-      },
-      {
-        "move": "Haze",
-        "lvl": "24"
-      },
-      {
-        "move": "Self-Destruct",
-        "lvl": "28"
-      },
-      {
-        "move": "Sludge Bomb",
-        "lvl": "32"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "36"
-      },
-      {
-        "move": "Belch",
-        "lvl": "40"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "44"
-      },
-      {
-        "move": "Memento",
-        "lvl": "48"
-      },
-      {
-        "move": "Destiny Bond",
-        "lvl": "52"
-      }
-    ],
-    "egg": [
-      {"move": "Psybeam"},
-      {"move": "Pain Split"},
-      {"move": "Grudge"},
-      {"move": "Spite"},
-      {"move": "Curse"},
-      {"move": "Stockpile"},
-      {"move": "Swallow"},
-      {"move": "Spit Up"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "1.0kg",
-    "category": "Poison Gas Pokémon",
-    "height": "0.6m"
-  },
+  "109Entry": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
+  "spatk": 60,
+  "atk": 65,
+  "RedEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "height": "0.6m",
+  "type2": "",
+  "WhiteEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+  "eggGroup2": "",
+  "spd": 35,
+  "CrystalEntry": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen.",
+  "weight": "1.0kg",
+  "eggGroup1": "Amorphous",
+  "hasMega": false,
+  "type1": "Poison",
+  "hasGalarian": false,
+  "BlueEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "dfs": 95,
+  "GoldEntry": "Its thin, flimsy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+  "SapphireEntry": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful Poison Gas. The higher the temperature, the more gas is concocted by this Pokémon.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+  "DiamondEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
   "name": "Koffing",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 60,
-    "spd": 35,
-    "hp": 40,
-    "atk": 65,
-    "spdfs": 45
-  },
-  "Biology": {
-    "ability1": "Levitate",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Amorphous",
-    "abilityHidden": "Stench",
-    "ability2": "Neutralizing Gas",
-    "type1": "Poison",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 45,
+  "ShieldEntry": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its thin, flimsy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+  "YEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+  "tmTrMoves": [
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+  "PlatinumEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+  "abilityHidden": "Stench",
+  "lvlUpMoves": [
+    {
+      "move": "Poison Gas",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Smog",
+      "lvl": "4"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "8"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "12"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "16"
+    },
+    {
+      "move": "Sludge",
+      "lvl": "20"
+    },
+    {
+      "move": "Haze",
+      "lvl": "24"
+    },
+    {
+      "move": "Self-Destruct",
+      "lvl": "28"
+    },
+    {
+      "move": "Sludge Bomb",
+      "lvl": "32"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "36"
+    },
+    {
+      "move": "Belch",
+      "lvl": "40"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "44"
+    },
+    {
+      "move": "Memento",
+      "lvl": "48"
+    },
+    {
+      "move": "Destiny Bond",
+      "lvl": "52"
+    }
+  ],
+  "RubyEntry": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may overinflate its round body, then explode.",
+  "BlackEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+  "OmegaRubyEntry": "If Koffing becomes agitated, it raises the toxicity of its internal gases and then jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+  "LetsGoEeveeEntry": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+  "colour": "Purple",
+  "SoulsilverEntry": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+  "FireRedEntry": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+  "White2Entry": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+  "SwordEntry": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+  "PearlEntry": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+  "category": "Poison Gas Pokémon",
+  "LeafGreenEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "Black2Entry": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions."
 }

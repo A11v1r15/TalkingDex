@@ -1,249 +1,244 @@
 {
+  "YellowEntry": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.",
+  "EmeraldEntry": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+  "ability1": "Chlorophyll",
+  "AlphaSapphireEntry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+  "hp": 65,
+  "SilverEntry": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+  "ability2": "Leaf Guard",
+  "eggMoves": [
+    {"move": "Confusion"},
+    {"move": "Endeavor"},
+    {"move": "Flail"},
+    {"move": "Leech Seed"},
+    {"move": "Nature Power"},
+    {"move": "Rage Powder"}
+  ],
   "number": 114,
-  "Entry": {
-    "Shield": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
-    "Black": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
-    "Black2": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
-    "FireRed": "Blue plant vines cloak the Pokémon's identity in a tangled mass. It entangles anything that gets close.",
-    "HearthGold": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
-    "Sword": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
-    "Sapphire": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    "Platinum": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
-    "Emerald": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
-    "X": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
-    "Y": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
-    "Ruby": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    "Soulsilver": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
-    "AlphaSapphire": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    "Gold": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
-    "Blue": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
-    "LetsGoPikachu": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
-    "White2": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
-    "Diamond": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
-    "OmegaRuby": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    "Red": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
-    "Pearl": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
-    "Silver": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
-    "White": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
-    "Yellow": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.",
-    "LeafGreen": "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.",
-    "LetsGoEevee": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
-    "Crystal": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Power Whip",
-        "technical": "TR72"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Bind",
-        "lvl": "1"
-      },
-      {
-        "move": "Stun Spore",
-        "lvl": "4"
-      },
-      {
-        "move": "Growth",
-        "lvl": "8"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "12"
-      },
-      {
-        "move": "Vine Whip",
-        "lvl": "16"
-      },
-      {
-        "move": "Poison Powder",
-        "lvl": "20"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "24"
-      },
-      {
-        "move": "Knock Off",
-        "lvl": "28"
-      },
-      {
-        "move": "Giga Drain",
-        "lvl": "32"
-      },
-      {
-        "move": "Sleep Powder",
-        "lvl": "36"
-      },
-      {
-        "move": "Slam",
-        "lvl": "40"
-      },
-      {
-        "move": "Tickle",
-        "lvl": "44"
-      },
-      {
-        "move": "Power Whip",
-        "lvl": "48"
-      },
-      {
-        "move": "Ingrain",
-        "lvl": "52"
-      },
-      {
-        "move": "Grassy Terrain",
-        "lvl": "56"
-      }
-    ],
-    "egg": [
-      {"move": "Confusion"},
-      {"move": "Endeavor"},
-      {"move": "Flail"},
-      {"move": "Leech Seed"},
-      {"move": "Nature Power"},
-      {"move": "Rage Powder"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "35.0kg",
-    "category": "Vine Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 100,
+  "atk": 55,
+  "RedEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+  "height": "1.0m",
+  "type2": "",
+  "WhiteEntry": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+  "eggGroup2": "",
+  "spd": 60,
+  "CrystalEntry": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+  "weight": "35.0kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlueEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+  "dfs": 115,
+  "GoldEntry": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+  "SapphireEntry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+  "DiamondEntry": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
   "name": "Tangela",
-  "Stats": {
-    "dfs": 115,
-    "spatk": 100,
-    "spd": 60,
-    "hp": 65,
-    "atk": 55,
-    "spdfs": 40
-  },
-  "Biology": {
-    "ability1": "Chlorophyll",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Regenerator",
-    "ability2": "Leaf Guard",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 40,
+  "ShieldEntry": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
+  "extraMega": false,
+  "HearthGoldEntry": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+  "YEntry": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Power Whip",
+      "technical": "TR72"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+  "PlatinumEntry": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+  "114Entry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+  "abilityHidden": "Regenerator",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Bind",
+      "lvl": "1"
+    },
+    {
+      "move": "Stun Spore",
+      "lvl": "4"
+    },
+    {
+      "move": "Growth",
+      "lvl": "8"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "12"
+    },
+    {
+      "move": "Vine Whip",
+      "lvl": "16"
+    },
+    {
+      "move": "Poison Powder",
+      "lvl": "20"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "24"
+    },
+    {
+      "move": "Knock Off",
+      "lvl": "28"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "32"
+    },
+    {
+      "move": "Sleep Powder",
+      "lvl": "36"
+    },
+    {
+      "move": "Slam",
+      "lvl": "40"
+    },
+    {
+      "move": "Tickle",
+      "lvl": "44"
+    },
+    {
+      "move": "Power Whip",
+      "lvl": "48"
+    },
+    {
+      "move": "Ingrain",
+      "lvl": "52"
+    },
+    {
+      "move": "Grassy Terrain",
+      "lvl": "56"
+    }
+  ],
+  "RubyEntry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+  "BlackEntry": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+  "OmegaRubyEntry": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+  "LetsGoEeveeEntry": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+  "colour": "Blue",
+  "SoulsilverEntry": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+  "FireRedEntry": "Blue plant vines cloak the Pokémon's identity in a tangled mass. It entangles anything that gets close.",
+  "White2Entry": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+  "SwordEntry": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+  "PearlEntry": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+  "category": "Vine Pokémon",
+  "LeafGreenEntry": "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.",
+  "Black2Entry": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long."
 }

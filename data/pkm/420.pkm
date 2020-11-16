@@ -1,208 +1,202 @@
 {
+  "ShieldEntry": "The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
+  "extraMega": false,
+  "HearthGoldEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "ability1": "Chlorophyll",
+  "YEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "AlphaSapphireEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "hp": 45,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    },
+    {
+      "move": "Pollen Puff",
+      "technical": "TR96"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Razor Leaf"},
+    {"move": "Sweet Scent"},
+    {"move": "Tickle"},
+    {"move": "Nature Power"},
+    {"move": "Aromatherapy"},
+    {"move": "Heal Pulse"},
+    {"move": "Healing Wish"},
+    {"move": "Defense Curl"},
+    {"move": "Flower Shield"},
+    {"move": "Rollout"}
+  ],
+  "XEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
   "number": 420,
-  "Entry": {
-    "AlphaSapphire": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
-    "Shield": "The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
-    "White2": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
-    "Diamond": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
-    "Black": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
-    "Black2": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
-    "HearthGold": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
-    "OmegaRuby": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
-    "Pearl": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
-    "White": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
-    "Sword": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
-    "Platinum": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
-    "X": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
-    "Y": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
-    "Soulsilver": "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      },
-      {
-        "move": "Pollen Puff",
-        "technical": "TR96"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Morning Sun",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Leafage",
-        "lvl": "5"
-      },
-      {
-        "move": "Growth",
-        "lvl": "10"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "15"
-      },
-      {
-        "move": "Magical Leaf",
-        "lvl": "20"
-      },
-      {
-        "move": "Leech Seed",
-        "lvl": "26"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "30"
-      },
-      {
-        "move": "Petal Blizzard",
-        "lvl": "35"
-      },
-      {
-        "move": "Worry Seed",
-        "lvl": "40"
-      },
-      {
-        "move": "Solar Beam",
-        "lvl": "45"
-      }
-    ],
-    "egg": [
-      {"move": "Razor Leaf"},
-      {"move": "Sweet Scent"},
-      {"move": "Tickle"},
-      {"move": "Nature Power"},
-      {"move": "Aromatherapy"},
-      {"move": "Heal Pulse"},
-      {"move": "Healing Wish"},
-      {"move": "Defense Curl"},
-      {"move": "Flower Shield"},
-      {"move": "Rollout"}
-    ]
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "3.3kg",
-    "category": "Cherry Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 62,
+  "atk": 35,
+  "PlatinumEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
+  "abilityHidden": "",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Morning Sun",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Leafage",
+      "lvl": "5"
+    },
+    {
+      "move": "Growth",
+      "lvl": "10"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "15"
+    },
+    {
+      "move": "Magical Leaf",
+      "lvl": "20"
+    },
+    {
+      "move": "Leech Seed",
+      "lvl": "26"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "30"
+    },
+    {
+      "move": "Petal Blizzard",
+      "lvl": "35"
+    },
+    {
+      "move": "Worry Seed",
+      "lvl": "40"
+    },
+    {
+      "move": "Solar Beam",
+      "lvl": "45"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
+  "eggGroup2": "Grass",
+  "spd": 35,
+  "weight": "3.3kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
+  "OmegaRubyEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+  "dfs": 45,
+  "colour": "Pink",
+  "hasAlolan": false,
+  "DiamondEntry": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+  "SoulsilverEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
   "name": "Cherubi",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 62,
-    "spd": 35,
-    "hp": 45,
-    "atk": 35,
-    "spdfs": 53
-  },
-  "Biology": {
-    "ability1": "Chlorophyll",
-    "type2": "",
-    "eggGroup2": "Grass",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+  "SwordEntry": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+  "PearlEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+  "spdfs": 53,
+  "category": "Cherry Pokémon",
+  "Black2Entry": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off."
 }

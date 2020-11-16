@@ -1,298 +1,290 @@
 {
+  "ShieldEntry": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.",
+  "lvlUpMoves": [
+    {
+      "move": "Double Hit",
+      "lvl": "1"
+    },
+    {
+      "move": "Strange Steam",
+      "lvl": "1"
+    },
+    {
+      "move": "Defog",
+      "lvl": "1"
+    },
+    {
+      "move": "Heat Wave",
+      "lvl": "1"
+    },
+    {
+      "move": "Smog",
+      "lvl": "1"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "1"
+    },
+    {
+      "move": "Haze",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Gas",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Fairy Wind",
+      "lvl": "1"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "1"
+    },
+    {
+      "move": "Double Hit",
+      "lvl": ""
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "12"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "16"
+    },
+    {
+      "move": "Sludge",
+      "lvl": "20"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "24"
+    },
+    {
+      "move": "Self-Destruct",
+      "lvl": "28"
+    },
+    {
+      "move": "Sludge Bomb",
+      "lvl": "32"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "38"
+    },
+    {
+      "move": "Belch",
+      "lvl": "44"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "50"
+    },
+    {
+      "move": "Memento",
+      "lvl": "56"
+    },
+    {
+      "move": "Destiny Bond",
+      "lvl": "62"
+    },
+    {
+      "move": "Misty Terrain",
+      "lvl": "68"
+    }
+  ],
+  "ability1": "Levitate",
+  "type2": "Fairy",
+  "eggGroup2": "",
+  "spd": 60,
+  "hp": 65,
+  "eggGroup1": "Amorphous",
+  "ability2": "Neutralizing Gas",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "type1": "Poison",
+  "xpGroup": "Medium Fast",
+  "dfs": 120,
+  "eggMoves": [
+    {"move": "Curse"},
+    {"move": "Grudge"},
+    {"move": "Pain Split"},
+    {"move": "Psybeam"},
+    {"move": "Spite"},
+    {"move": "Stockpile"},
+    {"move": "Spit Up"},
+    {"move": "Swallow"}
+  ],
   "number": 110,
-  "Entry": {
-    "Sword": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
-    "Shield": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Double Hit",
-        "lvl": "1"
-      },
-      {
-        "move": "Strange Steam",
-        "lvl": "1"
-      },
-      {
-        "move": "Defog",
-        "lvl": "1"
-      },
-      {
-        "move": "Heat Wave",
-        "lvl": "1"
-      },
-      {
-        "move": "Smog",
-        "lvl": "1"
-      },
-      {
-        "move": "Smokescreen",
-        "lvl": "1"
-      },
-      {
-        "move": "Haze",
-        "lvl": "1"
-      },
-      {
-        "move": "Poison Gas",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Fairy Wind",
-        "lvl": "1"
-      },
-      {
-        "move": "Aromatic Mist",
-        "lvl": "1"
-      },
-      {
-        "move": "Double Hit",
-        "lvl": ""
-      },
-      {
-        "move": "Clear Smog",
-        "lvl": "12"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "16"
-      },
-      {
-        "move": "Sludge",
-        "lvl": "20"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "24"
-      },
-      {
-        "move": "Self-Destruct",
-        "lvl": "28"
-      },
-      {
-        "move": "Sludge Bomb",
-        "lvl": "32"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "38"
-      },
-      {
-        "move": "Belch",
-        "lvl": "44"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "50"
-      },
-      {
-        "move": "Memento",
-        "lvl": "56"
-      },
-      {
-        "move": "Destiny Bond",
-        "lvl": "62"
-      },
-      {
-        "move": "Misty Terrain",
-        "lvl": "68"
-      }
-    ],
-    "egg": [
-      {"move": "Curse"},
-      {"move": "Grudge"},
-      {"move": "Pain Split"},
-      {"move": "Psybeam"},
-      {"move": "Spite"},
-      {"move": "Stockpile"},
-      {"move": "Spit Up"},
-      {"move": "Swallow"}
-    ]
-  },
+  "spatk": 85,
   "name": "Galarian Weezing",
-  "Stats": {
-    "dfs": 120,
-    "spatk": 85,
-    "spd": 60,
-    "hp": 65,
-    "atk": 90,
-    "spdfs": 70
-  },
-  "Flair": {},
-  "Biology": {
-    "ability1": "Levitate",
-    "type2": "Fairy",
-    "eggGroup2": "",
-    "eggGroup1": "Amorphous",
-    "abilityHidden": "Misty Surge",
-    "ability2": "Neutralizing Gas",
-    "type1": "Poison"
-  }
+  "atk": 90,
+  "SwordEntry": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+  "abilityHidden": "Misty Surge",
+  "spdfs": 70
 }

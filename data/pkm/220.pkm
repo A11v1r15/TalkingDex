@@ -1,245 +1,239 @@
 {
+  "EmeraldEntry": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+  "ability1": "Oblivious",
+  "AlphaSapphireEntry": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+  "hp": 50,
+  "SilverEntry": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+  "ability2": "Snow Cloak",
+  "eggMoves": [
+    {"move": "Bite"},
+    {"move": "Ancient Power"},
+    {"move": "Double"},
+    {"move": "Fissure"},
+    {"move": "Curse"},
+    {"move": "Icicle Crash"},
+    {"move": "Freeze"}
+  ],
   "number": 220,
-  "Entry": {
-    "AlphaSapphire": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-    "Gold": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "Shield": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-    "White2": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
-    "Diamond": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
-    "Black": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-    "Black2": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
-    "FireRed": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
-    "HearthGold": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "OmegaRuby": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-    "Pearl": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
-    "Silver": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
-    "White": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-    "Sword": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "Sapphire": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-    "LeafGreen": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "Platinum": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
-    "Emerald": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
-    "X": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "Y": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
-    "Ruby": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-    "Soulsilver": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
-    "Crystal": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Powder Snow",
-        "lvl": "5"
-      },
-      {
-        "move": "Flail",
-        "lvl": "10"
-      },
-      {
-        "move": "Ice Shard",
-        "lvl": "15"
-      },
-      {
-        "move": "Mist",
-        "lvl": "20"
-      },
-      {
-        "move": "Endure",
-        "lvl": "25"
-      },
-      {
-        "move": "Icy Wind",
-        "lvl": "30"
-      },
-      {
-        "move": "Amnesia",
-        "lvl": "35"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "40"
-      },
-      {
-        "move": "Earthquake",
-        "lvl": "45"
-      },
-      {
-        "move": "Blizzard",
-        "lvl": "50"
-      }
-    ],
-    "egg": [
-      {"move": "Bite"},
-      {"move": "Ancient Power"},
-      {"move": "Double"},
-      {"move": "Fissure"},
-      {"move": "Curse"},
-      {"move": "Icicle Crash"},
-      {"move": "Freeze"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "6.5kg",
-    "category": "Pig Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 30,
+  "atk": 50,
+  "height": "0.4m",
+  "type2": "Ground",
+  "WhiteEntry": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+  "eggGroup2": "",
+  "spd": 50,
+  "CrystalEntry": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem.",
+  "weight": "6.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Ice",
+  "hasGalarian": false,
+  "dfs": 40,
+  "GoldEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "SapphireEntry": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+  "hasAlolan": false,
+  "DiamondEntry": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
   "name": "Swinub",
-  "Stats": {
-    "dfs": 40,
-    "spatk": 30,
-    "spd": 50,
-    "hp": 50,
-    "atk": 50,
-    "spdfs": 30
-  },
-  "Biology": {
-    "ability1": "Oblivious",
-    "type2": "Ground",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Thick Fat",
-    "ability2": "Snow Cloak",
-    "type1": "Ice",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 30,
+  "ShieldEntry": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+  "extraMega": false,
+  "HearthGoldEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "YEntry": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "PlatinumEntry": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+  "abilityHidden": "Thick Fat",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Powder Snow",
+      "lvl": "5"
+    },
+    {
+      "move": "Flail",
+      "lvl": "10"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "15"
+    },
+    {
+      "move": "Mist",
+      "lvl": "20"
+    },
+    {
+      "move": "Endure",
+      "lvl": "25"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "30"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "35"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "45"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "50"
+    }
+  ],
+  "RubyEntry": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+  "BlackEntry": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+  "OmegaRubyEntry": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+  "colour": "Brown",
+  "SoulsilverEntry": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+  "FireRedEntry": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+  "White2Entry": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
+  "SwordEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "PearlEntry": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+  "category": "Pig Pokémon",
+  "LeafGreenEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+  "Black2Entry": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring."
 }

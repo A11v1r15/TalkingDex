@@ -1,251 +1,245 @@
 {
+  "ShieldEntry": "All Spiritomb's mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
+  "extraMega": false,
+  "HearthGoldEntry": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
+  "ability1": "Pressure",
+  "YEntry": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
+  "AlphaSapphireEntry": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
+  "hp": 50,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Phantom Force",
+      "technical": "TM86"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
+  "eggMoves": [
+    {"move": "Destiny Bond"},
+    {"move": "Grudge"},
+    {"move": "Pain Split"},
+    {"move": "Smokescreen"},
+    {"move": "Disable"}
+  ],
   "number": 442,
-  "Entry": {
-    "AlphaSapphire": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
-    "Shield": "All Spiritomb's mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
-    "White2": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-    "Diamond": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
-    "Black": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-    "Black2": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-    "HearthGold": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
-    "OmegaRuby": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
-    "Pearl": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
-    "White": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-    "Sword": "Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.",
-    "Platinum": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
-    "X": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
-    "Y": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
-    "Soulsilver": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Phantom Force",
-        "technical": "TM86"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Night Shade",
-        "lvl": "1"
-      },
-      {
-        "move": "Confuse Ray",
-        "lvl": "1"
-      },
-      {
-        "move": "Shadow Sneak",
-        "lvl": "5"
-      },
-      {
-        "move": "Spite",
-        "lvl": "10"
-      },
-      {
-        "move": "Payback",
-        "lvl": "15"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "20"
-      },
-      {
-        "move": "Hex",
-        "lvl": "25"
-      },
-      {
-        "move": "Memento",
-        "lvl": "30"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "35"
-      },
-      {
-        "move": "Curse",
-        "lvl": "40"
-      },
-      {
-        "move": "Shadow Ball",
-        "lvl": "45"
-      },
-      {
-        "move": "Dark Pulse",
-        "lvl": "50"
-      },
-      {
-        "move": "Hypnosis",
-        "lvl": "55"
-      },
-      {
-        "move": "Dream Eater",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Destiny Bond"},
-      {"move": "Grudge"},
-      {"move": "Pain Split"},
-      {"move": "Smokescreen"},
-      {"move": "Disable"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "108.0kg",
-    "category": "Forbidden Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 92,
+  "atk": 92,
+  "PlatinumEntry": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+  "abilityHidden": "Infiltrator",
+  "height": "1.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Night Shade",
+      "lvl": "1"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "1"
+    },
+    {
+      "move": "Shadow Sneak",
+      "lvl": "5"
+    },
+    {
+      "move": "Spite",
+      "lvl": "10"
+    },
+    {
+      "move": "Payback",
+      "lvl": "15"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "20"
+    },
+    {
+      "move": "Hex",
+      "lvl": "25"
+    },
+    {
+      "move": "Memento",
+      "lvl": "30"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "35"
+    },
+    {
+      "move": "Curse",
+      "lvl": "40"
+    },
+    {
+      "move": "Shadow Ball",
+      "lvl": "45"
+    },
+    {
+      "move": "Dark Pulse",
+      "lvl": "50"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "55"
+    },
+    {
+      "move": "Dream Eater",
+      "lvl": "60"
+    }
+  ],
+  "type2": "Dark",
+  "WhiteEntry": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+  "eggGroup2": "",
+  "spd": 35,
+  "weight": "108.0kg",
+  "eggGroup1": "Amorphous",
+  "hasMega": false,
+  "type1": "Ghost",
+  "hasGalarian": false,
+  "BlackEntry": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+  "OmegaRubyEntry": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
+  "dfs": 108,
+  "colour": "Purple",
+  "hasAlolan": false,
+  "DiamondEntry": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
+  "SoulsilverEntry": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
   "name": "Spiritomb",
-  "Stats": {
-    "dfs": 108,
-    "spatk": 92,
-    "spd": 35,
-    "hp": 50,
-    "atk": 92,
-    "spdfs": 108
-  },
-  "Biology": {
-    "ability1": "Pressure",
-    "type2": "Dark",
-    "eggGroup2": "",
-    "eggGroup1": "Amorphous",
-    "abilityHidden": "Infiltrator",
-    "ability2": "",
-    "type1": "Ghost",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+  "SwordEntry": "Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.",
+  "PearlEntry": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
+  "spdfs": 108,
+  "category": "Forbidden Pokémon",
+  "Black2Entry": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
 }

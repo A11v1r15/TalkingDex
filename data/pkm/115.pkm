@@ -1,369 +1,364 @@
 {
+  "YellowEntry": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
+  "EmeraldEntry": "If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
+  "ability1": "Early Bird",
+  "AlphaSapphireEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+  "hp": 105,
+  "SilverEntry": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
+  "ability2": "Scrappy",
+  "eggMoves": [
+    {"move": "Circle Throw"},
+    {"move": "Counter"},
+    {"move": "Disable"},
+    {"move": "Double"},
+    {"move": "Endeavor"},
+    {"move": "Hammer Arm"}
+  ],
+  "UltraMoonEntry": "You shouldn't get close to the child when it's playing outside its mother's pouch. Its mother is always nearby watching over it.",
   "number": 115,
-  "Entry": {
-    "Shield": "There are records of a lost human child being raised by a childless Kangaskhan.",
-    "Moon": "The child in its pouch leaves home after roughly three years. That is the only time the mother is heard to cry wildly.",
-    "Black": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Black2": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "FireRed": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using Comet Punch.",
-    "HearthGold": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-    "Sword": "Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
-    "Sapphire": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
-    "Platinum": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Emerald": "If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
-    "X": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Y": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-    "Ruby": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
-    "Soulsilver": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
-    "AlphaSapphire": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
-    "Gold": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
-    "UltraMoon": "You shouldn't get close to the child when it's playing outside its mother's pouch. Its mother is always nearby watching over it.",
-    "Blue": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
-    "LetsGoPikachu": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
-    "White2": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Diamond": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "UltraSun": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
-    "Sun": "Kangaskhan's maternal love is so deep that it will brave death to protect its offspring.",
-    "OmegaRuby": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
-    "Red": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
-    "Pearl": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Silver": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
-    "White": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
-    "Yellow": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
-    "LeafGreen": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
-    "LetsGoEevee": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
-    "Crystal": "To avoid crushing the baby it carries in its pouch, it always sleeps standing up."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "4"
-      },
-      {
-        "move": "Fake Out",
-        "lvl": "8"
-      },
-      {
-        "move": "Bite",
-        "lvl": "12"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "16"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Double Hit",
-        "lvl": "32"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "36"
-      },
-      {
-        "move": "Endure",
-        "lvl": "40"
-      },
-      {
-        "move": "Reversal",
-        "lvl": "44"
-      },
-      {
-        "move": "Outrage",
-        "lvl": "48"
-      },
-      {
-        "move": "Last Resort",
-        "lvl": "52"
-      }
-    ],
-    "egg": [
-      {"move": "Circle Throw"},
-      {"move": "Counter"},
-      {"move": "Disable"},
-      {"move": "Double"},
-      {"move": "Endeavor"},
-      {"move": "Hammer Arm"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "80.0kg",
-    "category": "Parent Pokémon",
-    "height": "2.2m"
-  },
+  "MoonEntry": "The child in its pouch leaves home after roughly three years. That is the only time the mother is heard to cry wildly.",
+  "spatk": 40,
+  "UltraSunEntry": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
+  "atk": 95,
+  "RedEntry": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+  "height": "2.2m",
+  "type2": "",
+  "WhiteEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "eggGroup2": "",
+  "spd": 90,
+  "CrystalEntry": "To avoid crushing the baby it carries in its pouch, it always sleeps standing up.",
+  "weight": "80.0kg",
+  "eggGroup1": "Monster",
+  "hasMega": true,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlueEntry": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+  "dfs": 80,
+  "GoldEntry": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+  "SapphireEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
+  "DiamondEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
   "name": "Kangaskhan",
-  "Stats": {
-    "dfs": 80,
-    "spatk": 40,
-    "spd": 90,
-    "hp": 105,
-    "atk": 95,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Early Bird",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Inner Focus",
-    "ability2": "Scrappy",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 80,
+  "ShieldEntry": "There are records of a lost human child being raised by a childless Kangaskhan.",
+  "extraMega": false,
+  "HearthGoldEntry": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+  "YEntry": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+  "115Entry": "There are records of a lost human child being raised by a childless Kangaskhan.",
+  "SunEntry": "Kangaskhan's maternal love is so deep that it will brave death to protect its offspring.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "PlatinumEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "abilityHidden": "Inner Focus",
+  "lvlUpMoves": [
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "4"
+    },
+    {
+      "move": "Fake Out",
+      "lvl": "8"
+    },
+    {
+      "move": "Bite",
+      "lvl": "12"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "16"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Double Hit",
+      "lvl": "32"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "36"
+    },
+    {
+      "move": "Endure",
+      "lvl": "40"
+    },
+    {
+      "move": "Reversal",
+      "lvl": "44"
+    },
+    {
+      "move": "Outrage",
+      "lvl": "48"
+    },
+    {
+      "move": "Last Resort",
+      "lvl": "52"
+    }
+  ],
+  "RubyEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+  "BlackEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "OmegaRubyEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+  "LetsGoEeveeEntry": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
+  "colour": "Brown",
+  "SoulsilverEntry": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
+  "FireRedEntry": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using Comet Punch.",
+  "White2Entry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "SwordEntry": "Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
+  "PearlEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "category": "Parent Pokémon",
+  "LeafGreenEntry": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+  "Black2Entry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe."
 }

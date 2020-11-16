@@ -1,334 +1,327 @@
 {
+  "ShieldEntry": "Though it has a gentle disposition, it's also very strong. It will quickly freeze the snowball on its head before going for a headbutt.",
+  "lvlUpMoves": [
+    {
+      "move": "Icicle Crash",
+      "lvl": "1"
+    },
+    {
+      "move": "Powder Snow",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Icicle Crash",
+      "lvl": ""
+    },
+    {
+      "move": "Avalanche",
+      "lvl": "12"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "16"
+    },
+    {
+      "move": "Ice Fang",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Ice Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "32"
+    },
+    {
+      "move": "Belly Drum",
+      "lvl": "38"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "44"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "50"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "56"
+    }
+  ],
+  "ability1": "Gorilla Tactics",
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 95,
+  "hp": 105,
+  "eggGroup1": "Field",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "type1": "Ice",
+  "xpGroup": "Medium Slow",
+  "dfs": 55,
+  "eggMoves": [
+    {"move": "Flame Wheel"},
+    {"move": "Focus Punch"},
+    {"move": "Freeze-Dry"},
+    {"move": "Hammer Arm"},
+    {"move": "Incinerate"},
+    {"move": "Power-Up Punch"},
+    {"move": "Take Down"},
+    {"move": "Yawn"}
+  ],
   "number": 555,
-  "Entry": {
-    "Sword": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
-    "Shield": "Though it has a gentle disposition, it's also very strong. It will quickly freeze the snowball on its head before going for a headbutt."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Icicle Crash",
-        "lvl": "1"
-      },
-      {
-        "move": "Powder Snow",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Icicle Crash",
-        "lvl": ""
-      },
-      {
-        "move": "Avalanche",
-        "lvl": "12"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "16"
-      },
-      {
-        "move": "Ice Fang",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Ice Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "32"
-      },
-      {
-        "move": "Belly Drum",
-        "lvl": "38"
-      },
-      {
-        "move": "Blizzard",
-        "lvl": "44"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "50"
-      },
-      {
-        "move": "Superpower",
-        "lvl": "56"
-      }
-    ],
-    "egg": [
-      {"move": "Flame Wheel"},
-      {"move": "Focus Punch"},
-      {"move": "Freeze-Dry"},
-      {"move": "Hammer Arm"},
-      {"move": "Incinerate"},
-      {"move": "Power-Up Punch"},
-      {"move": "Take Down"},
-      {"move": "Yawn"}
-    ]
-  },
+  "spatk": 30,
   "name": "Galarian Darmanitan",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 30,
-    "spd": 95,
-    "hp": 105,
-    "atk": 140,
-    "spdfs": 55
-  },
-  "Flair": {"category": "Zen Charm Pokémon"},
-  "Biology": {
-    "ability1": "Gorilla Tactics",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Zen Mode",
-    "ability2": "",
-    "type1": "Ice"
-  }
+  "atk": 140,
+  "SwordEntry": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
+  "abilityHidden": "Zen Mode",
+  "spdfs": 55,
+  "category": "Zen Charm Pokémon"
 }

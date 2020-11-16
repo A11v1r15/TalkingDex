@@ -1,226 +1,220 @@
 {
+  "ShieldEntry": "Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
+  "extraMega": false,
+  "ability1": "Flame Body",
+  "YEntry": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+  "AlphaSapphireEntry": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+  "hp": 55,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [
+    {"move": "Harden"},
+    {"move": "Absorb"},
+    {"move": "Thrash"}
+  ],
+  "XEntry": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+  "UltraMoonEntry": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
   "number": 636,
-  "Entry": {
-    "AlphaSapphire": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
-    "White": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
-    "UltraMoon": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
-    "Sword": "The people of ancient times believed that Larvesta fell from the sun.",
-    "Shield": "Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
-    "X": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
-    "White2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
-    "Y": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
-    "UltraSun": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit.",
-    "Black": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
-    "Black2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
-    "OmegaRuby": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Ember",
-        "lvl": "1"
-      },
-      {
-        "move": "String Shot",
-        "lvl": "1"
-      },
-      {
-        "move": "Flame Charge",
-        "lvl": "6"
-      },
-      {
-        "move": "Struggle Bug",
-        "lvl": "12"
-      },
-      {
-        "move": "Flame Wheel",
-        "lvl": "18"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "24"
-      },
-      {
-        "move": "Screech",
-        "lvl": "30"
-      },
-      {
-        "move": "Leech Life",
-        "lvl": "36"
-      },
-      {
-        "move": "Bug Buzz",
-        "lvl": "42"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "48"
-      },
-      {
-        "move": "Amnesia",
-        "lvl": "54"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "60"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "66"
-      }
-    ],
-    "egg": [
-      {"move": "Harden"},
-      {"move": "Absorb"},
-      {"move": "Thrash"}
-    ]
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "28.8kg",
-    "category": "Torch Pokémon",
-    "height": "1.1m"
-  },
+  "spatk": 50,
+  "UltraSunEntry": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit.",
+  "atk": 85,
+  "abilityHidden": "Swarm",
+  "height": "1.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "String Shot",
+      "lvl": "1"
+    },
+    {
+      "move": "Flame Charge",
+      "lvl": "6"
+    },
+    {
+      "move": "Struggle Bug",
+      "lvl": "12"
+    },
+    {
+      "move": "Flame Wheel",
+      "lvl": "18"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "24"
+    },
+    {
+      "move": "Screech",
+      "lvl": "30"
+    },
+    {
+      "move": "Leech Life",
+      "lvl": "36"
+    },
+    {
+      "move": "Bug Buzz",
+      "lvl": "42"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "48"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "54"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "60"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "66"
+    }
+  ],
+  "type2": "Fire",
+  "WhiteEntry": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "28.8kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+  "OmegaRubyEntry": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+  "dfs": 55,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Larvesta",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 50,
-    "spd": 60,
-    "hp": 55,
-    "atk": 85,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Flame Body",
-    "type2": "Fire",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Swarm",
-    "ability2": "",
-    "type1": "Bug",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+  "SwordEntry": "The people of ancient times believed that Larvesta fell from the sun.",
+  "spdfs": 55,
+  "category": "Torch Pokémon",
+  "Black2Entry": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
 }

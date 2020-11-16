@@ -1,183 +1,177 @@
 {
+  "ShieldEntry": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+  "extraMega": false,
+  "ability1": "Cotton Down",
+  "hp": 40,
+  "ability2": "Regenerator",
+  "tmTrMoves": [
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Pollen Puff",
+      "technical": "TR96"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Growth"},
+    {"move": "Leech Seed"},
+    {"move": "Worry Seed"},
+    {"move": "Poison Powder"},
+    {"move": "Stun Spore"},
+    {"move": "Sleep Powder"}
+  ],
   "number": 829,
-  "Entry": {
-    "Sword": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
-    "Shield": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Pollen Puff",
-        "technical": "TR96"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Leafage",
-        "lvl": "1"
-      },
-      {
-        "move": "Sing",
-        "lvl": "1"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "4"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "8"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "12"
-      },
-      {
-        "move": "Round",
-        "lvl": "16"
-      },
-      {
-        "move": "Leaf Tornado",
-        "lvl": "21"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "24"
-      },
-      {
-        "move": "Hyper Voice",
-        "lvl": "28"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "32"
-      },
-      {
-        "move": "Leaf Storm",
-        "lvl": "36"
-      }
-    ],
-    "egg": [
-      {"move": "Growth"},
-      {"move": "Leech Seed"},
-      {"move": "Worry Seed"},
-      {"move": "Poison Powder"},
-      {"move": "Stun Spore"},
-      {"move": "Sleep Powder"}
-    ]
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "2.2kg",
-    "category": "Flowering Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 40,
+  "atk": 40,
+  "abilityHidden": "Effect Spore",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Sing",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "4"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "8"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "12"
+    },
+    {
+      "move": "Round",
+      "lvl": "16"
+    },
+    {
+      "move": "Leaf Tornado",
+      "lvl": "21"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "24"
+    },
+    {
+      "move": "Hyper Voice",
+      "lvl": "28"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "32"
+    },
+    {
+      "move": "Leaf Storm",
+      "lvl": "36"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 10,
+  "weight": "2.2kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "dfs": 60,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Gossifleur",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 40,
-    "spd": 10,
-    "hp": 40,
-    "atk": 40,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Cotton Down",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Effect Spore",
-    "ability2": "Regenerator",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+  "spdfs": 60,
+  "category": "Flowering Pokémon"
 }

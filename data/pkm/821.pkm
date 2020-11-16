@@ -1,200 +1,194 @@
 {
+  "ShieldEntry": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
+  "extraMega": false,
+  "ability1": "Keen Eye",
+  "hp": 38,
+  "ability2": "Unnerve",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Sky Attack"},
+    {"move": "Sand Attack"},
+    {"move": "Tailwind"},
+    {"move": "Defog"},
+    {"move": "Rock Smash"},
+    {"move": "Spite"},
+    {"move": "Roost"}
+  ],
   "number": 821,
-  "Entry": {
-    "Sword": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle\u2014even a defeat increases its strength a bit.",
-    "Shield": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Power Trip",
-        "lvl": "4"
-      },
-      {
-        "move": "Hone Claws",
-        "lvl": "8"
-      },
-      {
-        "move": "Fury Attack",
-        "lvl": "12"
-      },
-      {
-        "move": "Pluck",
-        "lvl": "16"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "20"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "24"
-      },
-      {
-        "move": "Drill Peck",
-        "lvl": "28"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "32"
-      },
-      {
-        "move": "Brave Bird",
-        "lvl": "36"
-      }
-    ],
-    "egg": [
-      {"move": "Sky Attack"},
-      {"move": "Sand Attack"},
-      {"move": "Tailwind"},
-      {"move": "Defog"},
-      {"move": "Rock Smash"},
-      {"move": "Spite"},
-      {"move": "Roost"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "1.8kg",
-    "category": "Tiny Bird Pokémon",
-    "height": "0.2m"
-  },
+  "spatk": 33,
+  "atk": 47,
+  "abilityHidden": "Big Pecks",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Power Trip",
+      "lvl": "4"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "8"
+    },
+    {
+      "move": "Fury Attack",
+      "lvl": "12"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "16"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "20"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "24"
+    },
+    {
+      "move": "Drill Peck",
+      "lvl": "28"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "32"
+    },
+    {
+      "move": "Brave Bird",
+      "lvl": "36"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 57,
+  "weight": "1.8kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Flying",
+  "hasGalarian": false,
+  "dfs": 35,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Rookidee",
-  "Stats": {
-    "dfs": 35,
-    "spatk": 33,
-    "spd": 57,
-    "hp": 38,
-    "atk": 47,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Big Pecks",
-    "ability2": "Unnerve",
-    "type1": "Flying",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle\u2014even a defeat increases its strength a bit.",
+  "spdfs": 35,
+  "category": "Tiny Bird Pokémon"
 }

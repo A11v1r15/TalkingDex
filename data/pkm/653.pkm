@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Blaze",
+  "YEntry": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+  "AlphaSapphireEntry": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+  "hp": 40,
+  "ability2": "",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
   "number": 653,
-  "Entry": {
-    "AlphaSapphire": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
-    "X": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
-    "Y": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
-    "OmegaRuby": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit."
-  },
-  "Moves": {},
-  "Flair": {"category": "Fox Pokémon"},
+  "spatk": 62,
+  "atk": 45,
+  "abilityHidden": "Magician",
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 60,
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Fire",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+  "dfs": 40,
+  "hasAlolan": false,
   "name": "Fennekin",
-  "Stats": {
-    "dfs": 40,
-    "spatk": 62,
-    "spd": 60,
-    "hp": 40,
-    "atk": 45,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Blaze",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Magician",
-    "ability2": "",
-    "type1": "Fire",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 60,
+  "category": "Fox Pokémon"
 }

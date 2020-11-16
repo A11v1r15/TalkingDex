@@ -1,204 +1,198 @@
 {
+  "ShieldEntry": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
+  "extraMega": false,
+  "ability1": "Cotton Down",
+  "hp": 60,
+  "ability2": "Regenerator",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Pollen Puff",
+      "technical": "TR96"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
   "number": 830,
-  "Entry": {
-    "Sword": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
-    "Shield": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Pollen Puff",
-        "technical": "TR96"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Cotton Spore",
-        "lvl": "0"
-      },
-      {
-        "move": "Cotton Spore",
-        "lvl": "1"
-      },
-      {
-        "move": "Leafage",
-        "lvl": "1"
-      },
-      {
-        "move": "Sing",
-        "lvl": "1"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "1"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "12"
-      },
-      {
-        "move": "Round",
-        "lvl": "16"
-      },
-      {
-        "move": "Leaf Tornado",
-        "lvl": "23"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "28"
-      },
-      {
-        "move": "Hyper Voice",
-        "lvl": "34"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "40"
-      },
-      {
-        "move": "Leaf Storm",
-        "lvl": "46"
-      },
-      {
-        "move": "Cotton Guard",
-        "lvl": "52"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "2.5kg",
-    "category": "Cotton Bloom Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 80,
+  "atk": 50,
+  "abilityHidden": "Effect Spore",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Cotton Spore",
+      "lvl": "0"
+    },
+    {
+      "move": "Cotton Spore",
+      "lvl": "1"
+    },
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Sing",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "1"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "12"
+    },
+    {
+      "move": "Round",
+      "lvl": "16"
+    },
+    {
+      "move": "Leaf Tornado",
+      "lvl": "23"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "28"
+    },
+    {
+      "move": "Hyper Voice",
+      "lvl": "34"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "40"
+    },
+    {
+      "move": "Leaf Storm",
+      "lvl": "46"
+    },
+    {
+      "move": "Cotton Guard",
+      "lvl": "52"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "2.5kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "dfs": 90,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Eldegoss",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 80,
-    "spd": 60,
-    "hp": 60,
-    "atk": 50,
-    "spdfs": 120
-  },
-  "Biology": {
-    "ability1": "Cotton Down",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Effect Spore",
-    "ability2": "Regenerator",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
+  "spdfs": 120,
+  "category": "Cotton Bloom Pokémon"
 }

@@ -1,264 +1,258 @@
 {
+  "ShieldEntry": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
+  "extraMega": false,
+  "ability1": "Volt Absorb",
+  "hp": 90,
+  "ability2": "Hustle",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Breaking Swipe",
+      "technical": "TM99"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Dragon Claw",
+      "technical": "TR47"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "High Horsepower",
+      "technical": "TR94"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 880,
-  "Entry": {
-    "Sword": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
-    "Shield": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Breaking Swipe",
-        "technical": "TM99"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Dragon Claw",
-        "technical": "TR47"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "High Horsepower",
-        "technical": "TR94"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Charge",
-        "lvl": "7"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "14"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "21"
-      },
-      {
-        "move": "Pluck",
-        "lvl": "28"
-      },
-      {
-        "move": "Dragon Tail",
-        "lvl": "35"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "42"
-      },
-      {
-        "move": "Slam",
-        "lvl": "49"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "56"
-      },
-      {
-        "move": "Bolt Beak",
-        "lvl": "63"
-      },
-      {
-        "move": "Dragon Pulse",
-        "lvl": "70"
-      },
-      {
-        "move": "Dragon Rush",
-        "lvl": "77"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "190.0kg",
-    "category": "Fossil Pokémon",
-    "height": "1.8m"
-  },
+  "spatk": 80,
+  "atk": 100,
+  "abilityHidden": "Sand Rush",
+  "height": "1.8m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Charge",
+      "lvl": "7"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "14"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "21"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "28"
+    },
+    {
+      "move": "Dragon Tail",
+      "lvl": "35"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "42"
+    },
+    {
+      "move": "Slam",
+      "lvl": "49"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "56"
+    },
+    {
+      "move": "Bolt Beak",
+      "lvl": "63"
+    },
+    {
+      "move": "Dragon Pulse",
+      "lvl": "70"
+    },
+    {
+      "move": "Dragon Rush",
+      "lvl": "77"
+    }
+  ],
+  "type2": "Dragon",
+  "eggGroup2": "",
+  "spd": 75,
+  "weight": "190.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "dfs": 90,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Dracozolt",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 80,
-    "spd": 75,
-    "hp": 90,
-    "atk": 100,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Volt Absorb",
-    "type2": "Dragon",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Sand Rush",
-    "ability2": "Hustle",
-    "type1": "Electric",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+  "spdfs": 70,
+  "category": "Fossil Pokémon"
 }

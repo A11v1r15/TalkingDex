@@ -1,298 +1,292 @@
 {
+  "ShieldEntry": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice.",
+  "extraMega": false,
+  "ability1": "Refrigerate",
+  "YEntry": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
+  "AlphaSapphireEntry": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
+  "hp": 123,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
+  "UltraMoonEntry": "This usually quiet and kindly Pokémon has a surface temperature of around \u2013240 degrees Fahrenheit.",
+  "eggMoves": [],
   "number": 699,
-  "Entry": {
-    "AlphaSapphire": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
-    "UltraMoon": "This usually quiet and kindly Pokémon has a surface temperature of around \u2013240 degrees Fahrenheit.",
-    "Sword": "Aurorus was restored from a fossil. It's said that when this Pokémon howls, auroras appear in the night sky.",
-    "Shield": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice.",
-    "X": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
-    "Y": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
-    "UltraSun": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
-    "OmegaRuby": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Powder Snow",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Encore",
-        "lvl": "1"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "1"
-      },
-      {
-        "move": "Icy Wind",
-        "lvl": "12"
-      },
-      {
-        "move": "Round",
-        "lvl": "16"
-      },
-      {
-        "move": "Mist",
-        "lvl": "20"
-      },
-      {
-        "move": "Aurora Beam",
-        "lvl": "24"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "28"
-      },
-      {
-        "move": "Nature Power",
-        "lvl": "32"
-      },
-      {
-        "move": "Freeze-Dry",
-        "lvl": "36"
-      },
-      {
-        "move": "Ice Beam",
-        "lvl": "42"
-      },
-      {
-        "move": "Light Screen",
-        "lvl": "48"
-      },
-      {
-        "move": "Hail",
-        "lvl": "54"
-      },
-      {
-        "move": "Blizzard",
-        "lvl": "60"
-      },
-      {
-        "move": "Hyper Beam",
-        "lvl": "66"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "225.0kg",
-    "category": "Tundra Pokémon",
-    "height": "2.7m"
-  },
+  "spatk": 99,
+  "UltraSunEntry": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
+  "atk": 77,
+  "abilityHidden": "Snow Warning",
+  "height": "2.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Powder Snow",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Encore",
+      "lvl": "1"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "1"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "12"
+    },
+    {
+      "move": "Round",
+      "lvl": "16"
+    },
+    {
+      "move": "Mist",
+      "lvl": "20"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "24"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "28"
+    },
+    {
+      "move": "Nature Power",
+      "lvl": "32"
+    },
+    {
+      "move": "Freeze-Dry",
+      "lvl": "36"
+    },
+    {
+      "move": "Ice Beam",
+      "lvl": "42"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "48"
+    },
+    {
+      "move": "Hail",
+      "lvl": "54"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "60"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "66"
+    }
+  ],
+  "type2": "Ice",
+  "eggGroup2": "",
+  "spd": 58,
+  "weight": "225.0kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Rock",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
+  "dfs": 72,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Aurorus",
-  "Stats": {
-    "dfs": 72,
-    "spatk": 99,
-    "spd": 58,
-    "hp": 123,
-    "atk": 77,
-    "spdfs": 92
-  },
-  "Biology": {
-    "ability1": "Refrigerate",
-    "type2": "Ice",
-    "eggGroup2": "",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Snow Warning",
-    "ability2": "",
-    "type1": "Rock",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Aurorus was restored from a fossil. It's said that when this Pokémon howls, auroras appear in the night sky.",
+  "spdfs": 92,
+  "category": "Tundra Pokémon"
 }

@@ -1,312 +1,306 @@
 {
+  "extraMega": false,
+  "HearthGoldEntry": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
+  "EmeraldEntry": "Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
+  "ability1": "Overgrow",
+  "YEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "AlphaSapphireEntry": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
+  "hp": 50,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Leaf Blade",
+      "technical": "TR50"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+  "eggMoves": [],
   "number": 253,
-  "Entry": {
-    "AlphaSapphire": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
-    "White2": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Diamond": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Black": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Black2": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "FireRed": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-    "HearthGold": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
-    "OmegaRuby": "The leaves growing out of Grovyle\u2019s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
-    "Pearl": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "White": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Sapphire": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
-    "LeafGreen": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-    "Platinum": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Emerald": "Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
-    "X": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
-    "Y": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
-    "Ruby": "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
-    "Soulsilver": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Low Sweep",
-        "technical": "TM75"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Leaf Blade",
-        "technical": "TR50"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fury Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "1"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "1"
-      },
-      {
-        "move": "Energy Ball",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Leafage",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "9"
-      },
-      {
-        "move": "Detect",
-        "lvl": "12"
-      },
-      {
-        "move": "Quick Guard",
-        "lvl": "15"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "20"
-      },
-      {
-        "move": "Giga Drain",
-        "lvl": "25"
-      },
-      {
-        "move": "Slam",
-        "lvl": "30"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "35"
-      },
-      {
-        "move": "Leaf Blade",
-        "lvl": "40"
-      },
-      {
-        "move": "Screech",
-        "lvl": "45"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "50"
-      },
-      {
-        "move": "Leaf Storm",
-        "lvl": "55"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "21.6kg",
-    "category": "Wood Gecko Pokémon",
-    "height": "0.9m"
-  },
+  "spatk": 85,
+  "atk": 65,
+  "PlatinumEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "abilityHidden": "Unburden",
+  "height": "0.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Fury Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "1"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "1"
+    },
+    {
+      "move": "Energy Ball",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "9"
+    },
+    {
+      "move": "Detect",
+      "lvl": "12"
+    },
+    {
+      "move": "Quick Guard",
+      "lvl": "15"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "20"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "25"
+    },
+    {
+      "move": "Slam",
+      "lvl": "30"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "35"
+    },
+    {
+      "move": "Leaf Blade",
+      "lvl": "40"
+    },
+    {
+      "move": "Screech",
+      "lvl": "45"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "50"
+    },
+    {
+      "move": "Leaf Storm",
+      "lvl": "55"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "eggGroup2": "Dragon",
+  "spd": 95,
+  "weight": "21.6kg",
+  "eggGroup1": "Monster",
+  "RubyEntry": "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "OmegaRubyEntry": "The leaves growing out of Grovyle\u2019s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
+  "dfs": 45,
+  "SapphireEntry": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
+  "colour": "Green",
+  "hasAlolan": false,
+  "DiamondEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "SoulsilverEntry": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
   "name": "Grovyle",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 85,
-    "spd": 95,
-    "hp": 50,
-    "atk": 65,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Overgrow",
-    "type2": "",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Unburden",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+  "White2Entry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "PearlEntry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+  "spdfs": 65,
+  "category": "Wood Gecko Pokémon",
+  "LeafGreenEntry": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+  "Black2Entry": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
 }

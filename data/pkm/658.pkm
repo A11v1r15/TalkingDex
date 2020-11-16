@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Torrent",
+  "YEntry": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+  "AlphaSapphireEntry": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+  "hp": 72,
+  "ability2": "",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
   "number": 658,
-  "Entry": {
-    "AlphaSapphire": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
-    "X": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
-    "Y": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
-    "OmegaRuby": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two."
-  },
-  "Moves": {},
-  "Flair": {"category": "Ninja Pokémon"},
+  "spatk": 103,
+  "atk": 95,
+  "abilityHidden": "Protean",
+  "type2": "Dark",
+  "eggGroup2": "",
+  "spd": 122,
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+  "dfs": 67,
+  "hasAlolan": false,
   "name": "Greninja",
-  "Stats": {
-    "dfs": 67,
-    "spatk": 103,
-    "spd": 122,
-    "hp": 72,
-    "atk": 95,
-    "spdfs": 71
-  },
-  "Biology": {
-    "ability1": "Torrent",
-    "type2": "Dark",
-    "eggGroup2": "",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Protean",
-    "ability2": "",
-    "type1": "Water",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 71,
+  "category": "Ninja Pokémon"
 }

@@ -1,315 +1,309 @@
 {
+  "EmeraldEntry": "Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+  "ability1": "Serene Grace",
+  "AlphaSapphireEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+  "hp": 100,
+  "SilverEntry": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+  "ability2": "Run Away",
+  "eggMoves": [
+    {"move": "Astonish"},
+    {"move": "Bite"},
+    {"move": "Curse"},
+    {"move": "Headbutt"},
+    {"move": "Magic Coat"},
+    {"move": "Aqua Tail"},
+    {"move": "Last Resort"}
+  ],
+  "UltraMoonEntry": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
   "number": 206,
-  "Entry": {
-    "Shield": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests\u2014they can tell where they are by the scent of the dirt.",
-    "Black": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "Black2": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
-    "FireRed": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
-    "HearthGold": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-    "Sword": "This Pokémon's tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
-    "Sapphire": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-    "Platinum": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "Emerald": "Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-    "X": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-    "Y": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "Ruby": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-    "Soulsilver": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
-    "AlphaSapphire": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-    "Gold": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-    "UltraMoon": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
-    "White2": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
-    "Diamond": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "UltraSun": "It travels by digging through the ground. Diglett and Dunsparce share one another's tunnels happily.",
-    "OmegaRuby": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
-    "Pearl": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "Silver": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
-    "White": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
-    "LeafGreen": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
-    "Crystal": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Drill Run",
-        "technical": "TR87"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Flail",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "4"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "8"
-      },
-      {
-        "move": "Glare",
-        "lvl": "12"
-      },
-      {
-        "move": "Screech",
-        "lvl": "16"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "20"
-      },
-      {
-        "move": "Drill Run",
-        "lvl": "24"
-      },
-      {
-        "move": "Yawn",
-        "lvl": "28"
-      },
-      {
-        "move": "Body Slam",
-        "lvl": "32"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "36"
-      },
-      {
-        "move": "Roost",
-        "lvl": "40"
-      },
-      {
-        "move": "Dragon Rush",
-        "lvl": "44"
-      },
-      {
-        "move": "Coil",
-        "lvl": "48"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "52"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "56"
-      }
-    ],
-    "egg": [
-      {"move": "Astonish"},
-      {"move": "Bite"},
-      {"move": "Curse"},
-      {"move": "Headbutt"},
-      {"move": "Magic Coat"},
-      {"move": "Aqua Tail"},
-      {"move": "Last Resort"}
-    ]
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "14.0kg",
-    "category": "Land Snake Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 65,
+  "UltraSunEntry": "It travels by digging through the ground. Diglett and Dunsparce share one another's tunnels happily.",
+  "atk": 70,
+  "height": "1.5m",
+  "type2": "",
+  "WhiteEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+  "eggGroup2": "",
+  "spd": 45,
+  "CrystalEntry": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there.",
+  "weight": "14.0kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "dfs": 70,
+  "GoldEntry": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+  "SapphireEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+  "hasAlolan": false,
+  "DiamondEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
   "name": "Dunsparce",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 65,
-    "spd": 45,
-    "hp": 100,
-    "atk": 70,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Serene Grace",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Rattled",
-    "ability2": "Run Away",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 65,
+  "ShieldEntry": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests\u2014they can tell where they are by the scent of the dirt.",
+  "extraMega": false,
+  "HearthGoldEntry": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+  "YEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Drill Run",
+      "technical": "TR87"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+  "PlatinumEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+  "abilityHidden": "Rattled",
+  "lvlUpMoves": [
+    {
+      "move": "Flail",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "4"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "8"
+    },
+    {
+      "move": "Glare",
+      "lvl": "12"
+    },
+    {
+      "move": "Screech",
+      "lvl": "16"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "20"
+    },
+    {
+      "move": "Drill Run",
+      "lvl": "24"
+    },
+    {
+      "move": "Yawn",
+      "lvl": "28"
+    },
+    {
+      "move": "Body Slam",
+      "lvl": "32"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "36"
+    },
+    {
+      "move": "Roost",
+      "lvl": "40"
+    },
+    {
+      "move": "Dragon Rush",
+      "lvl": "44"
+    },
+    {
+      "move": "Coil",
+      "lvl": "48"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "52"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "56"
+    }
+  ],
+  "RubyEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+  "BlackEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+  "OmegaRubyEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+  "colour": "Yellow",
+  "SoulsilverEntry": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+  "FireRedEntry": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+  "White2Entry": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+  "SwordEntry": "This Pokémon's tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
+  "PearlEntry": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+  "category": "Land Snake Pokémon",
+  "LeafGreenEntry": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+  "Black2Entry": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail."
 }

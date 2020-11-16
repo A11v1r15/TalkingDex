@@ -1,251 +1,246 @@
 {
+  "YellowEntry": "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.",
+  "EmeraldEntry": "An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.",
+  "ability1": "Run Away",
+  "AlphaSapphireEntry": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+  "hp": 55,
+  "SilverEntry": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+  "ability2": "Adaptability",
+  "eggMoves": [
+    {"move": "Flail"},
+    {"move": "Curse"},
+    {"move": "Tickle"},
+    {"move": "Yawn"},
+    {"move": "Detect"},
+    {"move": "Double Kick"},
+    {"move": "Mud"},
+    {"move": "Wish"}
+  ],
+  "UltraMoonEntry": "Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.",
   "number": 133,
-  "Entry": {
-    "Shield": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
-    "Moon": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
-    "Black": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
-    "Black2": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
-    "FireRed": "An extremely rare Pokémon that may evolve in a number of different ways depending on stimuli.",
-    "HearthGold": "It has the ability to alter the composition of its body to suit its surrounding environment.",
-    "Sword": "It has the ability to alter the composition of its body to suit its surrounding environment.",
-    "Sapphire": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
-    "Platinum": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
-    "Emerald": "An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.",
-    "X": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
-    "Y": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
-    "Ruby": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
-    "Soulsilver": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
-    "AlphaSapphire": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
-    "Gold": "It has the ability to alter the composition of its body to suit its surrounding environment.",
-    "UltraMoon": "Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.",
-    "Blue": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.",
-    "LetsGoPikachu": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution.",
-    "White2": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
-    "Diamond": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
-    "UltraSun": "The question of why only Eevee has such unstable genes has still not been solved.",
-    "Sun": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
-    "OmegaRuby": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
-    "Red": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.",
-    "Pearl": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
-    "Silver": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
-    "White": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
-    "Yellow": "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.",
-    "LeafGreen": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
-    "LetsGoEevee": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution.",
-    "Crystal": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pay Day",
-        "technical": "TM02"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Covet",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "5"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "10"
-      },
-      {
-        "move": "Baby-Doll Eyes",
-        "lvl": "15"
-      },
-      {
-        "move": "Swift",
-        "lvl": "20"
-      },
-      {
-        "move": "Bite",
-        "lvl": "25"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "30"
-      },
-      {
-        "move": "Baton Pass",
-        "lvl": "35"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "40"
-      },
-      {
-        "move": "Charm",
-        "lvl": "45"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "50"
-      },
-      {
-        "move": "Last Resort",
-        "lvl": "55"
-      }
-    ],
-    "egg": [
-      {"move": "Flail"},
-      {"move": "Curse"},
-      {"move": "Tickle"},
-      {"move": "Yawn"},
-      {"move": "Detect"},
-      {"move": "Double Kick"},
-      {"move": "Mud"},
-      {"move": "Wish"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "6.5kg",
-    "category": "Evolution Pokémon",
-    "height": "0.3m"
-  },
+  "MoonEntry": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
+  "spatk": 45,
+  "UltraSunEntry": "The question of why only Eevee has such unstable genes has still not been solved.",
+  "atk": 55,
+  "RedEntry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.",
+  "height": "0.3m",
+  "type2": "",
+  "WhiteEntry": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+  "eggGroup2": "",
+  "spd": 55,
+  "CrystalEntry": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "weight": "6.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlueEntry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.",
+  "dfs": 50,
+  "GoldEntry": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+  "SapphireEntry": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution.",
+  "DiamondEntry": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
   "name": "Eevee",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 45,
-    "spd": 55,
-    "hp": 55,
-    "atk": 55,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Run Away",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Anticipation",
-    "ability2": "Adaptability",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": true
+  "spdfs": 65,
+  "ShieldEntry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+  "extraMega": false,
+  "HearthGoldEntry": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+  "YEntry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+  "SunEntry": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+  "tmTrMoves": [
+    {
+      "move": "Pay Day",
+      "technical": "TM02"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": true,
+  "xpGroup": "Medium Fast",
+  "XEntry": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+  "PlatinumEntry": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+  "abilityHidden": "Anticipation",
+  "133Entry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+  "lvlUpMoves": [
+    {
+      "move": "Covet",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "5"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "10"
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "lvl": "15"
+    },
+    {
+      "move": "Swift",
+      "lvl": "20"
+    },
+    {
+      "move": "Bite",
+      "lvl": "25"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "30"
+    },
+    {
+      "move": "Baton Pass",
+      "lvl": "35"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Charm",
+      "lvl": "45"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "50"
+    },
+    {
+      "move": "Last Resort",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+  "BlackEntry": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+  "OmegaRubyEntry": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+  "LetsGoEeveeEntry": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution.",
+  "colour": "Brown",
+  "SoulsilverEntry": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+  "FireRedEntry": "An extremely rare Pokémon that may evolve in a number of different ways depending on stimuli.",
+  "White2Entry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+  "SwordEntry": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+  "PearlEntry": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+  "category": "Evolution Pokémon",
+  "LeafGreenEntry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+  "Black2Entry": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions."
 }

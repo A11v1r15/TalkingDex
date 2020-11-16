@@ -1,328 +1,322 @@
 {
+  "ShieldEntry": "Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
+  "extraMega": false,
+  "ability1": "Leaf Guard",
+  "hp": 105,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Power Whip",
+      "technical": "TR72"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Darkest Lariat",
+      "technical": "TR93"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 893,
-  "Entry": {
-    "Sword": "Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.",
-    "Shield": "Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Power Whip",
-        "technical": "TR72"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Darkest Lariat",
-        "technical": "TR93"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Bind",
-        "lvl": "1"
-      },
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "6"
-      },
-      {
-        "move": "Vine Whip",
-        "lvl": "12"
-      },
-      {
-        "move": "Growth",
-        "lvl": "18"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "24"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "30"
-      },
-      {
-        "move": "Grass Knot",
-        "lvl": "36"
-      },
-      {
-        "move": "Bite",
-        "lvl": "42"
-      },
-      {
-        "move": "U-turn",
-        "lvl": "48"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "54"
-      },
-      {
-        "move": "Energy Ball",
-        "lvl": "60"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "66"
-      },
-      {
-        "move": "Hammer Arm",
-        "lvl": "72"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "78"
-      },
-      {
-        "move": "Power Whip",
-        "lvl": "84"
-      },
-      {
-        "move": "Jungle Healing",
-        "lvl": "90"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "70.0kg",
-    "category": "Rogue Monkey Pokémon",
-    "height": "1.8m"
-  },
+  "spatk": 70,
+  "atk": 120,
+  "abilityHidden": "",
+  "height": "1.8m",
+  "lvlUpMoves": [
+    {
+      "move": "Bind",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "6"
+    },
+    {
+      "move": "Vine Whip",
+      "lvl": "12"
+    },
+    {
+      "move": "Growth",
+      "lvl": "18"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "30"
+    },
+    {
+      "move": "Grass Knot",
+      "lvl": "36"
+    },
+    {
+      "move": "Bite",
+      "lvl": "42"
+    },
+    {
+      "move": "U-turn",
+      "lvl": "48"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "54"
+    },
+    {
+      "move": "Energy Ball",
+      "lvl": "60"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "66"
+    },
+    {
+      "move": "Hammer Arm",
+      "lvl": "72"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "78"
+    },
+    {
+      "move": "Power Whip",
+      "lvl": "84"
+    },
+    {
+      "move": "Jungle Healing",
+      "lvl": "90"
+    }
+  ],
+  "type2": "Grass",
+  "eggGroup2": "",
+  "spd": 105,
+  "weight": "70.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "dfs": 105,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Zarude",
-  "Stats": {
-    "dfs": 105,
-    "spatk": 70,
-    "spd": 105,
-    "hp": 105,
-    "atk": 120,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Leaf Guard",
-    "type2": "Grass",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Dark",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.",
+  "spdfs": 95,
+  "category": "Rogue Monkey Pokémon"
 }

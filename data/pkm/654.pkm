@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Blaze",
+  "YEntry": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+  "AlphaSapphireEntry": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+  "hp": 59,
+  "ability2": "",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
   "number": 654,
-  "Entry": {
-    "AlphaSapphire": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
-    "X": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
-    "Y": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
-    "OmegaRuby": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle."
-  },
-  "Moves": {},
-  "Flair": {"category": "Fox Pokémon"},
+  "spatk": 90,
+  "atk": 59,
+  "abilityHidden": "Magician",
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 73,
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Fire",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+  "dfs": 58,
+  "hasAlolan": false,
   "name": "Braixen",
-  "Stats": {
-    "dfs": 58,
-    "spatk": 90,
-    "spd": 73,
-    "hp": 59,
-    "atk": 59,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Blaze",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Magician",
-    "ability2": "",
-    "type1": "Fire",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 70,
+  "category": "Fox Pokémon"
 }

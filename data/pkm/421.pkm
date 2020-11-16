@@ -1,229 +1,223 @@
 {
+  "ShieldEntry": "Its folded petals are pretty tough. Bird Pokémon can peck at them all they want, and Cherrim won't be bothered at all.",
+  "extraMega": false,
+  "HearthGoldEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+  "ability1": "Flower Gift",
+  "YEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "AlphaSapphireEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "hp": 70,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    },
+    {
+      "move": "Pollen Puff",
+      "technical": "TR96"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
   "number": 421,
-  "Entry": {
-    "AlphaSapphire": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "Shield": "Its folded petals are pretty tough. Bird Pokémon can peck at them all they want, and Cherrim won't be bothered at all.",
-    "White2": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "Diamond": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
-    "Black": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "Black2": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "HearthGold": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
-    "OmegaRuby": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
-    "Pearl": "It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
-    "White": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "Sword": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
-    "Platinum": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "X": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
-    "Y": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
-    "Soulsilver": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      },
-      {
-        "move": "Pollen Puff",
-        "technical": "TR96"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Sunny Day",
-        "lvl": "0"
-      },
-      {
-        "move": "Sunny Day",
-        "lvl": "1"
-      },
-      {
-        "move": "Flower Shield",
-        "lvl": "1"
-      },
-      {
-        "move": "Morning Sun",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Leafage",
-        "lvl": "1"
-      },
-      {
-        "move": "Growth",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "15"
-      },
-      {
-        "move": "Magical Leaf",
-        "lvl": "20"
-      },
-      {
-        "move": "Leech Seed",
-        "lvl": "28"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "34"
-      },
-      {
-        "move": "Petal Blizzard",
-        "lvl": "41"
-      },
-      {
-        "move": "Worry Seed",
-        "lvl": "48"
-      },
-      {
-        "move": "Solar Beam",
-        "lvl": "55"
-      },
-      {
-        "move": "Petal Dance",
-        "lvl": "62"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "9.3kg",
-    "category": "Blossom Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 87,
+  "atk": 60,
+  "PlatinumEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "abilityHidden": "",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Sunny Day",
+      "lvl": "0"
+    },
+    {
+      "move": "Sunny Day",
+      "lvl": "1"
+    },
+    {
+      "move": "Flower Shield",
+      "lvl": "1"
+    },
+    {
+      "move": "Morning Sun",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Leafage",
+      "lvl": "1"
+    },
+    {
+      "move": "Growth",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "15"
+    },
+    {
+      "move": "Magical Leaf",
+      "lvl": "20"
+    },
+    {
+      "move": "Leech Seed",
+      "lvl": "28"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "34"
+    },
+    {
+      "move": "Petal Blizzard",
+      "lvl": "41"
+    },
+    {
+      "move": "Worry Seed",
+      "lvl": "48"
+    },
+    {
+      "move": "Solar Beam",
+      "lvl": "55"
+    },
+    {
+      "move": "Petal Dance",
+      "lvl": "62"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "eggGroup2": "Grass",
+  "spd": 85,
+  "weight": "9.3kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "OmegaRubyEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+  "dfs": 70,
+  "colour": "Purple",
+  "hasAlolan": false,
+  "DiamondEntry": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+  "SoulsilverEntry": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
   "name": "Cherrim",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 87,
-    "spd": 85,
-    "hp": 70,
-    "atk": 60,
-    "spdfs": 78
-  },
-  "Biology": {
-    "ability1": "Flower Gift",
-    "type2": "",
-    "eggGroup2": "Grass",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+  "SwordEntry": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+  "PearlEntry": "It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+  "spdfs": 78,
+  "category": "Blossom Pokémon",
+  "Black2Entry": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body."
 }

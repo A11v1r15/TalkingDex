@@ -1,244 +1,238 @@
 {
+  "ShieldEntry": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
+  "extraMega": false,
+  "ability1": "Sweet Veil",
+  "hp": 65,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Tri Attack",
+      "technical": "TR19"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": true,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
   "number": 869,
-  "Entry": {
-    "Sword": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
-    "Shield": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Tri Attack",
-        "technical": "TR19"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Decorate",
-        "lvl": "0"
-      },
-      {
-        "move": "Decorate",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Aromatic Mist",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Kiss",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "1"
-      },
-      {
-        "move": "Draining Kiss",
-        "lvl": "15"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "20"
-      },
-      {
-        "move": "Attract",
-        "lvl": "25"
-      },
-      {
-        "move": "Acid Armor",
-        "lvl": "30"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "lvl": "35"
-      },
-      {
-        "move": "Recover",
-        "lvl": "40"
-      },
-      {
-        "move": "Misty Terrain",
-        "lvl": "45"
-      },
-      {
-        "move": "Entrainment",
-        "lvl": "50"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "0.5kg",
-    "category": "Cream Pokémon",
-    "height": "0.3m"
-  },
+  "spatk": 110,
+  "atk": 60,
+  "abilityHidden": "Aroma Veil",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Decorate",
+      "lvl": "0"
+    },
+    {
+      "move": "Decorate",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Kiss",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "1"
+    },
+    {
+      "move": "Draining Kiss",
+      "lvl": "15"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "20"
+    },
+    {
+      "move": "Attract",
+      "lvl": "25"
+    },
+    {
+      "move": "Acid Armor",
+      "lvl": "30"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "lvl": "35"
+    },
+    {
+      "move": "Recover",
+      "lvl": "40"
+    },
+    {
+      "move": "Misty Terrain",
+      "lvl": "45"
+    },
+    {
+      "move": "Entrainment",
+      "lvl": "50"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "Amorphous",
+  "spd": 64,
+  "weight": "0.5kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Fairy",
+  "hasGalarian": false,
+  "dfs": 75,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Alcremie",
-  "Stats": {
-    "dfs": 75,
-    "spatk": 110,
-    "spd": 64,
-    "hp": 65,
-    "atk": 60,
-    "spdfs": 121
-  },
-  "Biology": {
-    "ability1": "Sweet Veil",
-    "type2": "",
-    "eggGroup2": "Amorphous",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "Aroma Veil",
-    "ability2": "",
-    "type1": "Fairy",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": true
+  "SwordEntry": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+  "spdfs": 121,
+  "category": "Cream Pokémon"
 }

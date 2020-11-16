@@ -1,270 +1,264 @@
 {
+  "ShieldEntry": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+  "EmeraldEntry": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+  "ability1": "Speed Boost",
+  "YEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "AlphaSapphireEntry": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer\u2019s abilities to the test.",
+  "hp": 61,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Erratic",
+  "eggMoves": [],
+  "XEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
   "number": 291,
-  "Entry": {
-    "AlphaSapphire": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer\u2019s abilities to the test.",
-    "Shield": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-    "White2": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Diamond": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Black": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Black2": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "FireRed": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-    "HearthGold": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-    "OmegaRuby": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
-    "Pearl": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "White": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Sword": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-    "Sapphire": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test.",
-    "LeafGreen": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
-    "Platinum": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Emerald": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
-    "X": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
-    "Y": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
-    "Ruby": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
-    "Soulsilver": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Double Team",
-        "lvl": "0"
-      },
-      {
-        "move": "Screech",
-        "lvl": "0"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "0"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "1"
-      },
-      {
-        "move": "Screech",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Baton Pass",
-        "lvl": "1"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "1"
-      },
-      {
-        "move": "Dig",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "1"
-      },
-      {
-        "move": "Agility",
-        "lvl": "15"
-      },
-      {
-        "move": "Absorb",
-        "lvl": "23"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "29"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "36"
-      },
-      {
-        "move": "Mind Reader",
-        "lvl": "43"
-      },
-      {
-        "move": "Slash",
-        "lvl": "50"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "57"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "64"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "12.0kg",
-    "category": "Ninja Pokémon",
-    "height": "0.8m"
-  },
+  "spatk": 50,
+  "atk": 90,
+  "PlatinumEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "abilityHidden": "Infiltrator",
+  "height": "0.8m",
+  "lvlUpMoves": [
+    {
+      "move": "Double Team",
+      "lvl": "0"
+    },
+    {
+      "move": "Screech",
+      "lvl": "0"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "0"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "1"
+    },
+    {
+      "move": "Screech",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Baton Pass",
+      "lvl": "1"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "1"
+    },
+    {
+      "move": "Dig",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "1"
+    },
+    {
+      "move": "Agility",
+      "lvl": "15"
+    },
+    {
+      "move": "Absorb",
+      "lvl": "23"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "29"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "36"
+    },
+    {
+      "move": "Mind Reader",
+      "lvl": "43"
+    },
+    {
+      "move": "Slash",
+      "lvl": "50"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "57"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "64"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "eggGroup2": "",
+  "spd": 160,
+  "weight": "12.0kg",
+  "eggGroup1": "Bug",
+  "RubyEntry": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "OmegaRubyEntry": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
+  "dfs": 45,
+  "SapphireEntry": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test.",
+  "colour": "Yellow",
+  "hasAlolan": false,
+  "DiamondEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "SoulsilverEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
   "name": "Ninjask",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 50,
-    "spd": 160,
-    "hp": 61,
-    "atk": 90,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Speed Boost",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Infiltrator",
-    "ability2": "",
-    "type1": "Bug",
-    "xpGroup": "Erratic"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+  "White2Entry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "SwordEntry": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+  "PearlEntry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+  "spdfs": 50,
+  "category": "Ninja Pokémon",
+  "LeafGreenEntry": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+  "Black2Entry": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap."
 }

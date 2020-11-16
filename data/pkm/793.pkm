@@ -1,266 +1,260 @@
 {
+  "extraMega": false,
+  "ability1": "Beast Boost",
+  "hp": 109,
+  "SunEntry": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "UltraMoonEntry": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
+  "eggMoves": [],
   "number": 793,
-  "Entry": {
-    "UltraMoon": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
-    "Moon": "One of the Ultra Beasts. It's unclear whether or not this Pokémon is sentient, but sometimes it can be observed behaving like a young girl.",
-    "UltraSun": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
-    "Sun": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Wrap",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "5"
-      },
-      {
-        "move": "Tickle",
-        "lvl": "10"
-      },
-      {
-        "move": "Acid Spray",
-        "lvl": "15"
-      },
-      {
-        "move": "Clear Smog",
-        "lvl": "20"
-      },
-      {
-        "move": "Power Split",
-        "lvl": "25"
-      },
-      {
-        "move": "Guard Split",
-        "lvl": "25"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "30"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "35"
-      },
-      {
-        "move": "Toxic Spikes",
-        "lvl": "40"
-      },
-      {
-        "move": "Venom Drench",
-        "lvl": "45"
-      },
-      {
-        "move": "Power Gem",
-        "lvl": "50"
-      },
-      {
-        "move": "Stealth Rock",
-        "lvl": "55"
-      },
-      {
-        "move": "Mirror Coat",
-        "lvl": "60"
-      },
-      {
-        "move": "Wonder Room",
-        "lvl": "65"
-      },
-      {
-        "move": "Head Smash",
-        "lvl": "70"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "55.5kg",
-    "category": "Parasite Pokémon",
-    "height": "1.2m"
-  },
+  "MoonEntry": "One of the Ultra Beasts. It's unclear whether or not this Pokémon is sentient, but sometimes it can be observed behaving like a young girl.",
+  "spatk": 127,
+  "UltraSunEntry": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+  "atk": 53,
+  "abilityHidden": "",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Wrap",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "5"
+    },
+    {
+      "move": "Tickle",
+      "lvl": "10"
+    },
+    {
+      "move": "Acid Spray",
+      "lvl": "15"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "20"
+    },
+    {
+      "move": "Power Split",
+      "lvl": "25"
+    },
+    {
+      "move": "Guard Split",
+      "lvl": "25"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "30"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "35"
+    },
+    {
+      "move": "Toxic Spikes",
+      "lvl": "40"
+    },
+    {
+      "move": "Venom Drench",
+      "lvl": "45"
+    },
+    {
+      "move": "Power Gem",
+      "lvl": "50"
+    },
+    {
+      "move": "Stealth Rock",
+      "lvl": "55"
+    },
+    {
+      "move": "Mirror Coat",
+      "lvl": "60"
+    },
+    {
+      "move": "Wonder Room",
+      "lvl": "65"
+    },
+    {
+      "move": "Head Smash",
+      "lvl": "70"
+    }
+  ],
+  "type2": "Poison",
+  "eggGroup2": "",
+  "spd": 103,
+  "weight": "55.5kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Rock",
+  "hasGalarian": false,
+  "dfs": 47,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Nihilego",
-  "Stats": {
-    "dfs": 47,
-    "spatk": 127,
-    "spd": 103,
-    "hp": 109,
-    "atk": 53,
-    "spdfs": 131
-  },
-  "Biology": {
-    "ability1": "Beast Boost",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Rock",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 131,
+  "category": "Parasite Pokémon"
 }

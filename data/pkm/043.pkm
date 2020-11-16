@@ -1,221 +1,216 @@
 {
+  "YellowEntry": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+  "EmeraldEntry": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+  "ability1": "Chlorophyll",
+  "AlphaSapphireEntry": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees..",
+  "hp": 45,
+  "SilverEntry": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+  "ability2": "",
+  "eggMoves": [
+    {"move": "Razor Leaf"},
+    {"move": "Flail"},
+    {"move": "Synthesis"},
+    {"move": "Ingrain"},
+    {"move": "Tickle"},
+    {"move": "Teeter Dance"},
+    {"move": "Nature Power"},
+    {"move": "After You"},
+    {"move": "Strength Sap"},
+    {"move": "Leech Seed"}
+  ],
   "number": 43,
-  "Entry": {
-    "Shield": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-    "Black": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "Black2": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "FireRed": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
-    "HearthGold": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
-    "Sword": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-    "Sapphire": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees.",
-    "Platinum": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "Emerald": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
-    "X": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
-    "Y": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
-    "Ruby": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
-    "Soulsilver": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-    "AlphaSapphire": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees..",
-    "Gold": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
-    "Blue": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-    "LetsGoPikachu": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-    "White2": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "Diamond": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "OmegaRuby": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
-    "Red": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-    "Pearl": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "Silver": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-    "White": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
-    "Yellow": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-    "LeafGreen": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-    "LetsGoEevee": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
-    "Crystal": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Growth",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "4"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "8"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "12"
-      },
-      {
-        "move": "Poison Powder",
-        "lvl": "14"
-      },
-      {
-        "move": "Stun Spore",
-        "lvl": "16"
-      },
-      {
-        "move": "Sleep Powder",
-        "lvl": "18"
-      },
-      {
-        "move": "Giga Drain",
-        "lvl": "20"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "24"
-      },
-      {
-        "move": "Moonblast",
-        "lvl": "28"
-      },
-      {
-        "move": "Grassy Terrain",
-        "lvl": "32"
-      },
-      {
-        "move": "Moonlight",
-        "lvl": "36"
-      },
-      {
-        "move": "Petal Dance",
-        "lvl": "40"
-      }
-    ],
-    "egg": [
-      {"move": "Razor Leaf"},
-      {"move": "Flail"},
-      {"move": "Synthesis"},
-      {"move": "Ingrain"},
-      {"move": "Tickle"},
-      {"move": "Teeter Dance"},
-      {"move": "Nature Power"},
-      {"move": "After You"},
-      {"move": "Strength Sap"},
-      {"move": "Leech Seed"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "5.4kg",
-    "category": "Weed Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 75,
+  "atk": 50,
+  "RedEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+  "height": "0.5m",
+  "type2": "Poison",
+  "WhiteEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "eggGroup2": "",
+  "spd": 30,
+  "CrystalEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+  "weight": "5.4kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlueEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+  "dfs": 55,
+  "GoldEntry": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+  "SapphireEntry": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+  "DiamondEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
   "name": "Oddish",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 75,
-    "spd": 30,
-    "hp": 45,
-    "atk": 50,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Chlorophyll",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Run Away",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 65,
+  "ShieldEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+  "extraMega": false,
+  "HearthGoldEntry": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+  "YEntry": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+  "PlatinumEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "abilityHidden": "Run Away",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Growth",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "4"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "8"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "12"
+    },
+    {
+      "move": "Poison Powder",
+      "lvl": "14"
+    },
+    {
+      "move": "Stun Spore",
+      "lvl": "16"
+    },
+    {
+      "move": "Sleep Powder",
+      "lvl": "18"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "20"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "24"
+    },
+    {
+      "move": "Moonblast",
+      "lvl": "28"
+    },
+    {
+      "move": "Grassy Terrain",
+      "lvl": "32"
+    },
+    {
+      "move": "Moonlight",
+      "lvl": "36"
+    },
+    {
+      "move": "Petal Dance",
+      "lvl": "40"
+    }
+  ],
+  "RubyEntry": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+  "BlackEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "OmegaRubyEntry": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+  "LetsGoEeveeEntry": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+  "colour": "Blue",
+  "SoulsilverEntry": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+  "FireRedEntry": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+  "43Entry": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees..",
+  "White2Entry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "SwordEntry": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+  "PearlEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "category": "Weed Pokémon",
+  "LeafGreenEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+  "Black2Entry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
 }

@@ -1,241 +1,235 @@
 {
+  "ShieldEntry": "Electricity makes this Pokémon's fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
+  "extraMega": false,
+  "HearthGoldEntry": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
+  "ability1": "Rivalry",
+  "YEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+  "AlphaSapphireEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+  "hp": 45,
+  "ability2": "Intimidate",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Baby"},
+    {"move": "Take Down"},
+    {"move": "Double Kick"},
+    {"move": "Howl"},
+    {"move": "Night Slash"},
+    {"move": "Quick Attack"},
+    {"move": "Shock Wave"}
+  ],
+  "XEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "number": 403,
-  "Entry": {
-    "AlphaSapphire": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-    "Shield": "Electricity makes this Pokémon's fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
-    "White2": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "Diamond": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-    "Black": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "Black2": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "HearthGold": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
-    "OmegaRuby": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "Pearl": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered.",
-    "White": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "Sword": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
-    "Platinum": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "X": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-    "Y": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-    "Soulsilver": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Eerie Impulse",
-        "technical": "TM93"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Thunder Shock",
-        "lvl": "4"
-      },
-      {
-        "move": "Charge",
-        "lvl": "8"
-      },
-      {
-        "move": "Bite",
-        "lvl": "12"
-      },
-      {
-        "move": "Spark",
-        "lvl": "16"
-      },
-      {
-        "move": "Roar",
-        "lvl": "20"
-      },
-      {
-        "move": "Volt Switch",
-        "lvl": "24"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "28"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "32"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "36"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "40"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "44"
-      },
-      {
-        "move": "Wild Charge",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Baby"},
-      {"move": "Take Down"},
-      {"move": "Double Kick"},
-      {"move": "Howl"},
-      {"move": "Night Slash"},
-      {"move": "Quick Attack"},
-      {"move": "Shock Wave"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "9.5kg",
-    "category": "Flash Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 40,
+  "atk": 65,
+  "PlatinumEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+  "abilityHidden": "Guts",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "4"
+    },
+    {
+      "move": "Charge",
+      "lvl": "8"
+    },
+    {
+      "move": "Bite",
+      "lvl": "12"
+    },
+    {
+      "move": "Spark",
+      "lvl": "16"
+    },
+    {
+      "move": "Roar",
+      "lvl": "20"
+    },
+    {
+      "move": "Volt Switch",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "28"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "32"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "36"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "40"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "44"
+    },
+    {
+      "move": "Wild Charge",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+  "eggGroup2": "",
+  "spd": 45,
+  "weight": "9.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "BlackEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+  "OmegaRubyEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+  "dfs": 34,
+  "colour": "Blue",
+  "hasAlolan": false,
+  "DiamondEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+  "SoulsilverEntry": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
   "name": "Shinx",
-  "Stats": {
-    "dfs": 34,
-    "spatk": 40,
-    "spd": 45,
-    "hp": 45,
-    "atk": 65,
-    "spdfs": 34
-  },
-  "Biology": {
-    "ability1": "Rivalry",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Guts",
-    "ability2": "Intimidate",
-    "type1": "Electric",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+  "SwordEntry": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
+  "PearlEntry": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered.",
+  "spdfs": 34,
+  "category": "Flash Pokémon",
+  "Black2Entry": "The extension and contraction of its muscles generates electricity. It glows when in trouble."
 }

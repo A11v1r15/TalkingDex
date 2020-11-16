@@ -1,274 +1,268 @@
 {
+  "EmeraldEntry": "A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
+  "ability1": "Hustle",
+  "AlphaSapphireEntry": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+  "hp": 35,
+  "SilverEntry": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
+  "ability2": "Sniper",
+  "eggMoves": [
+    {"move": "Octazooka"},
+    {"move": "Supersonic"},
+    {"move": "Haze"},
+    {"move": "Flail"},
+    {"move": "Water Spout"},
+    {"move": "Acid Spray"}
+  ],
+  "UltraMoonEntry": "Also known as the \u201csniper of the seas,\u201d its water gun can hit prey without fail from over 300 feet away.",
   "number": 223,
-  "Entry": {
-    "Shield": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
-    "Black": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
-    "Black2": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-    "FireRed": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
-    "HearthGold": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
-    "Sword": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-    "Sapphire": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-    "Platinum": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
-    "Emerald": "A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
-    "X": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
-    "Y": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
-    "Ruby": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-    "Soulsilver": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
-    "AlphaSapphire": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-    "Gold": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
-    "UltraMoon": "Also known as the \u201csniper of the seas,\u201d its water gun can hit prey without fail from over 300 feet away.",
-    "White2": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
-    "Diamond": "It squirts water forcefully from its mouth to shoot down flying prey.",
-    "UltraSun": "This Pokémon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!",
-    "OmegaRuby": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
-    "Pearl": "It clings to Mantine to feed on the big Pokémon's scraps. This is an adaptation to avoid foes.",
-    "Silver": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
-    "White": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
-    "LeafGreen": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
-    "Crystal": "To escape from an attacker, it may shoot water out of its mouth, then use that force to swim backward."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "4"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "8"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "12"
-      },
-      {
-        "move": "Aurora Beam",
-        "lvl": "16"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "20"
-      },
-      {
-        "move": "Lock-On",
-        "lvl": "24"
-      },
-      {
-        "move": "Bullet Seed",
-        "lvl": "28"
-      },
-      {
-        "move": "Ice Beam",
-        "lvl": "32"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "36"
-      },
-      {
-        "move": "Soak",
-        "lvl": "40"
-      },
-      {
-        "move": "Hyper Beam",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Octazooka"},
-      {"move": "Supersonic"},
-      {"move": "Haze"},
-      {"move": "Flail"},
-      {"move": "Water Spout"},
-      {"move": "Acid Spray"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "12.0kg",
-    "category": "Jet Pokémon",
-    "height": "0.6m"
-  },
+  "spatk": 65,
+  "UltraSunEntry": "This Pokémon clings to Mantine and shares in its prosperity. When its Mantine is attacked, Remoraid will fight alongside it!",
+  "atk": 65,
+  "height": "0.6m",
+  "type2": "",
+  "WhiteEntry": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
+  "eggGroup2": "Water 2",
+  "spd": 65,
+  "CrystalEntry": "To escape from an attacker, it may shoot water out of its mouth, then use that force to swim backward.",
+  "weight": "12.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 35,
+  "GoldEntry": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+  "SapphireEntry": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+  "hasAlolan": false,
+  "DiamondEntry": "It squirts water forcefully from its mouth to shoot down flying prey.",
   "name": "Remoraid",
-  "Stats": {
-    "dfs": 35,
-    "spatk": 65,
-    "spd": 65,
-    "hp": 35,
-    "atk": 65,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Hustle",
-    "type2": "",
-    "eggGroup2": "Water 2",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Moody",
-    "ability2": "Sniper",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 35,
+  "ShieldEntry": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
+  "extraMega": false,
+  "HearthGoldEntry": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+  "YEntry": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+  "PlatinumEntry": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
+  "abilityHidden": "Moody",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "4"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "8"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "12"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "16"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "20"
+    },
+    {
+      "move": "Lock-On",
+      "lvl": "24"
+    },
+    {
+      "move": "Bullet Seed",
+      "lvl": "28"
+    },
+    {
+      "move": "Ice Beam",
+      "lvl": "32"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "36"
+    },
+    {
+      "move": "Soak",
+      "lvl": "40"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "44"
+    }
+  ],
+  "RubyEntry": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+  "BlackEntry": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
+  "OmegaRubyEntry": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.",
+  "colour": "Gray",
+  "SoulsilverEntry": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
+  "FireRedEntry": "Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers.",
+  "White2Entry": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
+  "SwordEntry": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
+  "PearlEntry": "It clings to Mantine to feed on the big Pokémon's scraps. This is an adaptation to avoid foes.",
+  "category": "Jet Pokémon",
+  "LeafGreenEntry": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+  "Black2Entry": "The water they shoot from their mouths can hit moving prey from more than 300 feet away."
 }

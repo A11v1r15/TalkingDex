@@ -1,240 +1,234 @@
 {
+  "ShieldEntry": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
+  "extraMega": false,
+  "ability1": "Torrent",
+  "hp": 50,
+  "SunEntry": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Aqua Ring"},
+    {"move": "Perish Song"},
+    {"move": "Life Dew"}
+  ],
+  "UltraMoonEntry": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!",
   "number": 728,
-  "Entry": {
-    "UltraMoon": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!",
-    "Sword": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
-    "Shield": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
-    "Moon": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
-    "UltraSun": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
-    "Sun": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "3"
-      },
-      {
-        "move": "Disarming Voice",
-        "lvl": "6"
-      },
-      {
-        "move": "Aqua Jet",
-        "lvl": "9"
-      },
-      {
-        "move": "Baby-Doll Eyes",
-        "lvl": "12"
-      },
-      {
-        "move": "Icy Wind",
-        "lvl": "15"
-      },
-      {
-        "move": "Sing",
-        "lvl": "18"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "21"
-      },
-      {
-        "move": "Encore",
-        "lvl": "24"
-      },
-      {
-        "move": "Misty Terrain",
-        "lvl": "27"
-      },
-      {
-        "move": "Hyper Voice",
-        "lvl": "30"
-      },
-      {
-        "move": "Moonblast",
-        "lvl": "33"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "36"
-      }
-    ],
-    "egg": [
-      {"move": "Aqua Ring"},
-      {"move": "Perish Song"},
-      {"move": "Life Dew"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "7.5kg",
-    "category": "Sea Lion Pokémon",
-    "height": "0.4m"
-  },
+  "MoonEntry": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
+  "spatk": 66,
+  "UltraSunEntry": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+  "atk": 54,
+  "abilityHidden": "Liquid Voice",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "3"
+    },
+    {
+      "move": "Disarming Voice",
+      "lvl": "6"
+    },
+    {
+      "move": "Aqua Jet",
+      "lvl": "9"
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "lvl": "12"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "15"
+    },
+    {
+      "move": "Sing",
+      "lvl": "18"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "21"
+    },
+    {
+      "move": "Encore",
+      "lvl": "24"
+    },
+    {
+      "move": "Misty Terrain",
+      "lvl": "27"
+    },
+    {
+      "move": "Hyper Voice",
+      "lvl": "30"
+    },
+    {
+      "move": "Moonblast",
+      "lvl": "33"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "36"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "Field",
+  "spd": 40,
+  "weight": "7.5kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 54,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Popplio",
-  "Stats": {
-    "dfs": 54,
-    "spatk": 66,
-    "spd": 40,
-    "hp": 50,
-    "atk": 54,
-    "spdfs": 56
-  },
-  "Biology": {
-    "ability1": "Torrent",
-    "type2": "",
-    "eggGroup2": "Field",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Liquid Voice",
-    "ability2": "",
-    "type1": "Water",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
+  "spdfs": 56,
+  "category": "Sea Lion Pokémon"
 }

@@ -1,320 +1,315 @@
 {
+  "YellowEntry": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+  "EmeraldEntry": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+  "ability1": "Guts",
+  "AlphaSapphireEntry": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
+  "hp": 70,
+  "SilverEntry": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+  "ability2": "No Guard",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Bullet Punch"},
+    {"move": "Tickle"},
+    {"move": "Quick Guard"},
+    {"move": "Submission"}
+  ],
+  "UltraMoonEntry": "It likes food that's highly nutritious because its instincts drive it to build muscle efficiently.",
   "number": 66,
-  "Entry": {
-    "Shield": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-    "Moon": "With its superhuman strength, it's able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
-    "Black": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-    "Black2": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-    "FireRed": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
-    "HearthGold": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-    "Sword": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
-    "Sapphire": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
-    "Platinum": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-    "Emerald": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
-    "X": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
-    "Y": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
-    "Ruby": "Machop's muscles are special - they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
-    "Soulsilver": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
-    "AlphaSapphire": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
-    "Gold": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
-    "UltraMoon": "It likes food that's highly nutritious because its instincts drive it to build muscle efficiently.",
-    "Blue": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-    "LetsGoPikachu": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-    "White2": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-    "Diamond": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
-    "UltraSun": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
-    "Sun": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
-    "OmegaRuby": "Machop's muscles are special\u2014they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
-    "Red": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-    "Pearl": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
-    "Silver": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
-    "White": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
-    "Yellow": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-    "LeafGreen": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-    "LetsGoEevee": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
-    "Crystal": "It trains by lifting rocks in the mountains. It can even pick up a Graveler with ease."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Low Sweep",
-        "technical": "TM75"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Heavy Slam",
-        "technical": "TR79"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Low Kick",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "4"
-      },
-      {
-        "move": "Revenge",
-        "lvl": "8"
-      },
-      {
-        "move": "Low Sweep",
-        "lvl": "12"
-      },
-      {
-        "move": "Knock Off",
-        "lvl": "16"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "20"
-      },
-      {
-        "move": "Vital Throw",
-        "lvl": "24"
-      },
-      {
-        "move": "Strength",
-        "lvl": "29"
-      },
-      {
-        "move": "Dual Chop",
-        "lvl": "32"
-      },
-      {
-        "move": "Bulk Up",
-        "lvl": "36"
-      },
-      {
-        "move": "Seismic Toss",
-        "lvl": "40"
-      },
-      {
-        "move": "Dynamic Punch",
-        "lvl": "44"
-      },
-      {
-        "move": "Cross Chop",
-        "lvl": "48"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "52"
-      }
-    ],
-    "egg": [
-      {"move": "Counter"},
-      {"move": "Bullet Punch"},
-      {"move": "Tickle"},
-      {"move": "Quick Guard"},
-      {"move": "Submission"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "19.5kg",
-    "category": "Superpower Pokémon",
-    "height": "0.8m"
-  },
+  "MoonEntry": "With its superhuman strength, it's able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
+  "spatk": 35,
+  "UltraSunEntry": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
+  "atk": 80,
+  "RedEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+  "height": "0.8m",
+  "type2": "",
+  "WhiteEntry": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+  "66Entry": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+  "eggGroup2": "",
+  "spd": 35,
+  "CrystalEntry": "It trains by lifting rocks in the mountains. It can even pick up a Graveler with ease.",
+  "weight": "19.5kg",
+  "eggGroup1": "Human-Like",
+  "hasMega": false,
+  "type1": "Fighting",
+  "hasGalarian": false,
+  "BlueEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+  "dfs": 50,
+  "GoldEntry": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+  "SapphireEntry": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+  "DiamondEntry": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
   "name": "Machop",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 35,
-    "spd": 35,
-    "hp": 70,
-    "atk": 80,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Guts",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Human-Like",
-    "abilityHidden": "Steadfast",
-    "ability2": "No Guard",
-    "type1": "Fighting",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 35,
+  "ShieldEntry": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+  "extraMega": false,
+  "HearthGoldEntry": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+  "YEntry": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+  "SunEntry": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+  "PlatinumEntry": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+  "abilityHidden": "Steadfast",
+  "lvlUpMoves": [
+    {
+      "move": "Low Kick",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "4"
+    },
+    {
+      "move": "Revenge",
+      "lvl": "8"
+    },
+    {
+      "move": "Low Sweep",
+      "lvl": "12"
+    },
+    {
+      "move": "Knock Off",
+      "lvl": "16"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "20"
+    },
+    {
+      "move": "Vital Throw",
+      "lvl": "24"
+    },
+    {
+      "move": "Strength",
+      "lvl": "29"
+    },
+    {
+      "move": "Dual Chop",
+      "lvl": "32"
+    },
+    {
+      "move": "Bulk Up",
+      "lvl": "36"
+    },
+    {
+      "move": "Seismic Toss",
+      "lvl": "40"
+    },
+    {
+      "move": "Dynamic Punch",
+      "lvl": "44"
+    },
+    {
+      "move": "Cross Chop",
+      "lvl": "48"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "52"
+    }
+  ],
+  "RubyEntry": "Machop's muscles are special - they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+  "BlackEntry": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+  "OmegaRubyEntry": "Machop's muscles are special\u2014they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+  "LetsGoEeveeEntry": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+  "colour": "Gray",
+  "SoulsilverEntry": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+  "FireRedEntry": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+  "White2Entry": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+  "SwordEntry": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+  "PearlEntry": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+  "category": "Superpower Pokémon",
+  "LeafGreenEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+  "Black2Entry": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once."
 }

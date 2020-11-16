@@ -1,272 +1,266 @@
 {
+  "ShieldEntry": "From the moment it's born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.",
+  "extraMega": false,
+  "ability1": "Justified",
+  "YEntry": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+  "AlphaSapphireEntry": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+  "hp": 91,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Smart Strike",
+      "technical": "TM96"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Megahorn",
+      "technical": "TR28"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
+  "XEntry": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
   "number": 638,
-  "Entry": {
-    "AlphaSapphire": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
-    "White": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
-    "Sword": "This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region's Pokémon.",
-    "Shield": "From the moment it's born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.",
-    "X": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
-    "White2": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
-    "Y": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
-    "Black": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
-    "Black2": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
-    "OmegaRuby": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Smart Strike",
-        "technical": "TM96"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Megahorn",
-        "technical": "TR28"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "1"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "7"
-      },
-      {
-        "move": "Quick Guard",
-        "lvl": "14"
-      },
-      {
-        "move": "Double Kick",
-        "lvl": "21"
-      },
-      {
-        "move": "Retaliate",
-        "lvl": "28"
-      },
-      {
-        "move": "Metal Burst",
-        "lvl": "35"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "42"
-      },
-      {
-        "move": "Sacred Sword",
-        "lvl": "49"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "56"
-      },
-      {
-        "move": "Iron Head",
-        "lvl": "63"
-      },
-      {
-        "move": "Close Combat",
-        "lvl": "70"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "250.0kg",
-    "category": "Iron Will Pokémon",
-    "height": "2.1m"
-  },
+  "spatk": 90,
+  "atk": 90,
+  "abilityHidden": "",
+  "height": "2.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "7"
+    },
+    {
+      "move": "Quick Guard",
+      "lvl": "14"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "21"
+    },
+    {
+      "move": "Retaliate",
+      "lvl": "28"
+    },
+    {
+      "move": "Metal Burst",
+      "lvl": "35"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "42"
+    },
+    {
+      "move": "Sacred Sword",
+      "lvl": "49"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "56"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "63"
+    },
+    {
+      "move": "Close Combat",
+      "lvl": "70"
+    }
+  ],
+  "type2": "Fighting",
+  "WhiteEntry": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+  "eggGroup2": "",
+  "spd": 108,
+  "weight": "250.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "BlackEntry": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
+  "OmegaRubyEntry": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+  "dfs": 129,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Cobalion",
-  "Stats": {
-    "dfs": 129,
-    "spatk": 90,
-    "spd": 108,
-    "hp": 91,
-    "atk": 90,
-    "spdfs": 72
-  },
-  "Biology": {
-    "ability1": "Justified",
-    "type2": "Fighting",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Steel",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+  "SwordEntry": "This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region's Pokémon.",
+  "spdfs": 72,
+  "category": "Iron Will Pokémon",
+  "Black2Entry": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon."
 }

@@ -1,299 +1,294 @@
 {
+  "YellowEntry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+  "EmeraldEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
+  "ability1": "Blaze",
+  "AlphaSapphireEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "hp": 39,
+  "SilverEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+  "ability2": "",
+  "eggMoves": [
+    {"move": "Belly Drum"},
+    {"move": "Ancient Power"},
+    {"move": "Bite"},
+    {"move": "Dragon Rush"},
+    {"move": "Metal Claw"},
+    {"move": "Counter"},
+    {"move": "Wing Attack"},
+    {"move": "Dragon Tail"}
+  ],
   "number": 4,
-  "Entry": {
-    "Shield": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-    "Black": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "Black2": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "FireRed": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-    "HearthGold": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
-    "Sword": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-    "Sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-    "Platinum": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "Emerald": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
-    "X": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
-    "Y": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-    "Ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-    "Soulsilver": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
-    "AlphaSapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-    "Gold": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
-    "Blue": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-    "LetsGoPikachu": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-    "White2": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "Diamond": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "OmegaRuby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-    "Red": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-    "Pearl": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "Silver": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
-    "White": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
-    "Yellow": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-    "LeafGreen": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-    "LetsGoEevee": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
-    "Crystal": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Dragon Claw",
-        "technical": "TR47"
-      },
-      {
-        "move": "Dragon Dance",
-        "technical": "TR51"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Ember",
-        "lvl": "4"
-      },
-      {
-        "move": "Smokescreen",
-        "lvl": "8"
-      },
-      {
-        "move": "Dragon Breath",
-        "lvl": "12"
-      },
-      {
-        "move": "Fire Fang",
-        "lvl": "17"
-      },
-      {
-        "move": "Slash",
-        "lvl": "20"
-      },
-      {
-        "move": "Flamethrower",
-        "lvl": "24"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "28"
-      },
-      {
-        "move": "Fire Spin",
-        "lvl": "32"
-      },
-      {
-        "move": "Inferno",
-        "lvl": "36"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "40"
-      }
-    ],
-    "egg": [
-      {"move": "Belly Drum"},
-      {"move": "Ancient Power"},
-      {"move": "Bite"},
-      {"move": "Dragon Rush"},
-      {"move": "Metal Claw"},
-      {"move": "Counter"},
-      {"move": "Wing Attack"},
-      {"move": "Dragon Tail"}
-    ]
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "8.5kg",
-    "category": "Lizard Pokémon",
-    "height": "0.6m"
-  },
+  "spatk": 60,
+  "atk": 52,
+  "RedEntry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+  "height": "0.6m",
+  "4Entry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "type2": "",
+  "WhiteEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "eggGroup2": "Dragon",
+  "spd": 65,
+  "CrystalEntry": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet.",
+  "weight": "8.5kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Fire",
+  "hasGalarian": false,
+  "BlueEntry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+  "dfs": 43,
+  "GoldEntry": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+  "SapphireEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+  "DiamondEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
   "name": "Charmander",
-  "Stats": {
-    "dfs": 43,
-    "spatk": 60,
-    "spd": 65,
-    "hp": 39,
-    "atk": 52,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Blaze",
-    "type2": "",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Solar Power",
-    "ability2": "",
-    "type1": "Fire",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 50,
+  "ShieldEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+  "extraMega": false,
+  "HearthGoldEntry": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+  "YEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Dragon Claw",
+      "technical": "TR47"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+  "PlatinumEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "abilityHidden": "Solar Power",
+  "lvlUpMoves": [
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Ember",
+      "lvl": "4"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "8"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "12"
+    },
+    {
+      "move": "Fire Fang",
+      "lvl": "17"
+    },
+    {
+      "move": "Slash",
+      "lvl": "20"
+    },
+    {
+      "move": "Flamethrower",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "28"
+    },
+    {
+      "move": "Fire Spin",
+      "lvl": "32"
+    },
+    {
+      "move": "Inferno",
+      "lvl": "36"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "40"
+    }
+  ],
+  "RubyEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "BlackEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "OmegaRubyEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "LetsGoEeveeEntry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+  "colour": "Red",
+  "SoulsilverEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+  "FireRedEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+  "White2Entry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "SwordEntry": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+  "PearlEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "category": "Lizard Pokémon",
+  "LeafGreenEntry": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+  "Black2Entry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely."
 }

@@ -1,228 +1,222 @@
 {
+  "ShieldEntry": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.",
+  "extraMega": false,
+  "ability1": "Weak Armor",
+  "hp": 60,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Phantom Force",
+      "technical": "TM86"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
   "number": 855,
-  "Entry": {
-    "Sword": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
-    "Shield": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Phantom Force",
-        "technical": "TM86"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Teatime",
-        "lvl": "0"
-      },
-      {
-        "move": "Teatime",
-        "lvl": "1"
-      },
-      {
-        "move": "Strength Sap",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Withdraw",
-        "lvl": "1"
-      },
-      {
-        "move": "Aromatic Mist",
-        "lvl": "1"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "1"
-      },
-      {
-        "move": "Protect",
-        "lvl": "18"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "24"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "30"
-      },
-      {
-        "move": "Giga Drain",
-        "lvl": "36"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "42"
-      },
-      {
-        "move": "Shadow Ball",
-        "lvl": "48"
-      },
-      {
-        "move": "Memento",
-        "lvl": "54"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "60"
-      },
-      {
-        "move": "Curse",
-        "lvl": "66"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "0.4kg",
-    "category": "Black Tea Pokémon",
-    "height": "0.2m"
-  },
+  "spatk": 134,
+  "atk": 65,
+  "abilityHidden": "Cursed Body",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Teatime",
+      "lvl": "0"
+    },
+    {
+      "move": "Teatime",
+      "lvl": "1"
+    },
+    {
+      "move": "Strength Sap",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "1"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "1"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "1"
+    },
+    {
+      "move": "Protect",
+      "lvl": "18"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "24"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "30"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "36"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "42"
+    },
+    {
+      "move": "Shadow Ball",
+      "lvl": "48"
+    },
+    {
+      "move": "Memento",
+      "lvl": "54"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "60"
+    },
+    {
+      "move": "Curse",
+      "lvl": "66"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "Amorphous",
+  "spd": 70,
+  "weight": "0.4kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Ghost",
+  "hasGalarian": false,
+  "dfs": 65,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Polteageist",
-  "Stats": {
-    "dfs": 65,
-    "spatk": 134,
-    "spd": 70,
-    "hp": 60,
-    "atk": 65,
-    "spdfs": 114
-  },
-  "Biology": {
-    "ability1": "Weak Armor",
-    "type2": "",
-    "eggGroup2": "Amorphous",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Cursed Body",
-    "ability2": "",
-    "type1": "Ghost",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
+  "spdfs": 114,
+  "category": "Black Tea Pokémon"
 }

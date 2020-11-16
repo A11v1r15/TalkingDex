@@ -1,243 +1,237 @@
 {
+  "ShieldEntry": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments.",
+  "extraMega": false,
+  "ability1": "Pickup",
+  "YEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+  "AlphaSapphireEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+  "hp": 38,
+  "ability2": "Cheek Pouch",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Defense Curl"},
+    {"move": "Rollout"}
+  ],
+  "XEntry": "They use their large ears to dig burrows. They will dig the whole night through.",
   "number": 659,
-  "Entry": {
-    "AlphaSapphire": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-    "Sword": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
-    "Shield": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments.",
-    "X": "They use their large ears to dig burrows. They will dig the whole night through.",
-    "Y": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-    "OmegaRuby": "They use their large ears to dig burrows. They will dig the whole night through."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "3"
-      },
-      {
-        "move": "Laser Focus",
-        "lvl": "6"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "9"
-      },
-      {
-        "move": "Mud Shot",
-        "lvl": "12"
-      },
-      {
-        "move": "Flail",
-        "lvl": "15"
-      },
-      {
-        "move": "Double Kick",
-        "lvl": "18"
-      },
-      {
-        "move": "Bulldoze",
-        "lvl": "21"
-      },
-      {
-        "move": "Dig",
-        "lvl": "24"
-      },
-      {
-        "move": "Bounce",
-        "lvl": "27"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "30"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "33"
-      },
-      {
-        "move": "Earthquake",
-        "lvl": "36"
-      },
-      {
-        "move": "Super Fang",
-        "lvl": "39"
-      }
-    ],
-    "egg": [
-      {"move": "Defense Curl"},
-      {"move": "Rollout"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "5.0kg",
-    "category": "Digging Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 32,
+  "atk": 36,
+  "abilityHidden": "Huge Power",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "3"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "6"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "9"
+    },
+    {
+      "move": "Mud Shot",
+      "lvl": "12"
+    },
+    {
+      "move": "Flail",
+      "lvl": "15"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "18"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "21"
+    },
+    {
+      "move": "Dig",
+      "lvl": "24"
+    },
+    {
+      "move": "Bounce",
+      "lvl": "27"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "30"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "33"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "36"
+    },
+    {
+      "move": "Super Fang",
+      "lvl": "39"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 57,
+  "weight": "5.0kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "They use their large ears to dig burrows. They will dig the whole night through.",
+  "dfs": 38,
+  "colour": "Brown",
+  "hasAlolan": false,
   "name": "Bunnelby",
-  "Stats": {
-    "dfs": 38,
-    "spatk": 32,
-    "spd": 57,
-    "hp": 38,
-    "atk": 36,
-    "spdfs": 36
-  },
-  "Biology": {
-    "ability1": "Pickup",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Huge Power",
-    "ability2": "Cheek Pouch",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+  "spdfs": 36,
+  "category": "Digging Pokémon"
 }

@@ -1,282 +1,276 @@
 {
+  "ShieldEntry": "It's said that Malamar's hypnotic powers played a role in certain history-changing events.",
+  "extraMega": false,
+  "ability1": "Contrary",
+  "YEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+  "AlphaSapphireEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+  "hp": 86,
+  "ability2": "Suction Cups",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+  "UltraMoonEntry": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
   "number": 687,
-  "Entry": {
-    "AlphaSapphire": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
-    "UltraMoon": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
-    "Sword": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
-    "Shield": "It's said that Malamar's hypnotic powers played a role in certain history-changing events.",
-    "X": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
-    "Y": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
-    "UltraSun": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
-    "OmegaRuby": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Reversal",
-        "lvl": "1"
-      },
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Hypnosis",
-        "lvl": "1"
-      },
-      {
-        "move": "Wrap",
-        "lvl": "1"
-      },
-      {
-        "move": "Payback",
-        "lvl": "9"
-      },
-      {
-        "move": "Pluck",
-        "lvl": "12"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "15"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "18"
-      },
-      {
-        "move": "Slash",
-        "lvl": "21"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "24"
-      },
-      {
-        "move": "Psycho Cut",
-        "lvl": "27"
-      },
-      {
-        "move": "Switcheroo",
-        "lvl": "33"
-      },
-      {
-        "move": "Foul Play",
-        "lvl": "37"
-      },
-      {
-        "move": "Topsy-Turvy",
-        "lvl": "42"
-      },
-      {
-        "move": "Superpower",
-        "lvl": "47"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "47.0kg",
-    "category": "Overturning Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 68,
+  "UltraSunEntry": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
+  "atk": 92,
+  "abilityHidden": "Infiltrator",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Reversal",
+      "lvl": "1"
+    },
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "1"
+    },
+    {
+      "move": "Wrap",
+      "lvl": "1"
+    },
+    {
+      "move": "Payback",
+      "lvl": "9"
+    },
+    {
+      "move": "Pluck",
+      "lvl": "12"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "15"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "18"
+    },
+    {
+      "move": "Slash",
+      "lvl": "21"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "24"
+    },
+    {
+      "move": "Psycho Cut",
+      "lvl": "27"
+    },
+    {
+      "move": "Switcheroo",
+      "lvl": "33"
+    },
+    {
+      "move": "Foul Play",
+      "lvl": "37"
+    },
+    {
+      "move": "Topsy-Turvy",
+      "lvl": "42"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "47"
+    }
+  ],
+  "type2": "Psychic",
+  "eggGroup2": "Water 2",
+  "spd": 73,
+  "weight": "47.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+  "dfs": 88,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Malamar",
-  "Stats": {
-    "dfs": 88,
-    "spatk": 68,
-    "spd": 73,
-    "hp": 86,
-    "atk": 92,
-    "spdfs": 75
-  },
-  "Biology": {
-    "ability1": "Contrary",
-    "type2": "Psychic",
-    "eggGroup2": "Water 2",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Infiltrator",
-    "ability2": "Suction Cups",
-    "type1": "Dark",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+  "spdfs": 75,
+  "category": "Overturning Pokémon"
 }

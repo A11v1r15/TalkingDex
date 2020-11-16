@@ -1,268 +1,263 @@
 {
+  "YellowEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+  "EmeraldEntry": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+  "ability1": "Swarm",
+  "AlphaSapphireEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+  "hp": 70,
+  "SilverEntry": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
+  "ability2": "Technician",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Defog"},
+    {"move": "Night Slash"},
+    {"move": "Feint"},
+    {"move": "Quick Guard"}
+  ],
+  "UltraMoonEntry": "Some call it a ninja. Its movements\u2014 imperceptibly quick\u2014are sufficient to cleave the air in two. It's very popular in Alola.",
   "number": 123,
-  "Entry": {
-    "Shield": "If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.",
-    "Moon": "While young, they live together deep in the mountains, training themselves in how to fight with their scythes and move at high speeds.",
-    "Black": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-    "Black2": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-    "FireRed": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
-    "HearthGold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
-    "Sword": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
-    "Sapphire": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
-    "Platinum": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-    "Emerald": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
-    "X": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
-    "Y": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
-    "Ruby": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
-    "Soulsilver": "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible.",
-    "AlphaSapphire": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
-    "Gold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
-    "UltraMoon": "Some call it a ninja. Its movements\u2014 imperceptibly quick\u2014are sufficient to cleave the air in two. It's very popular in Alola.",
-    "Blue": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
-    "LetsGoPikachu": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
-    "White2": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-    "Diamond": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
-    "UltraSun": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
-    "Sun": "It confuses its prey with its quick, ninja-like movements. Then, in an instant, it cleaves them with its scythes.",
-    "OmegaRuby": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
-    "Red": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
-    "Pearl": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
-    "Silver": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
-    "White": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-    "Yellow": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
-    "LeafGreen": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
-    "LetsGoEevee": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
-    "Crystal": "It's very proud of its speed. It moves so fast that its opponent does not even know what knocked it down."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "4"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "8"
-      },
-      {
-        "move": "Wing Attack",
-        "lvl": "12"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "16"
-      },
-      {
-        "move": "Double Hit",
-        "lvl": "20"
-      },
-      {
-        "move": "Slash",
-        "lvl": "24"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "28"
-      },
-      {
-        "move": "Agility",
-        "lvl": "32"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "36"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "40"
-      },
-      {
-        "move": "Laser Focus",
-        "lvl": "44"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Counter"},
-      {"move": "Defog"},
-      {"move": "Night Slash"},
-      {"move": "Feint"},
-      {"move": "Quick Guard"}
-    ]
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "56.0kg",
-    "category": "Mantis Pokémon",
-    "height": "1.5m"
-  },
+  "MoonEntry": "While young, they live together deep in the mountains, training themselves in how to fight with their scythes and move at high speeds.",
+  "spatk": 55,
+  "UltraSunEntry": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+  "atk": 110,
+  "RedEntry": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+  "height": "1.5m",
+  "type2": "Flying",
+  "WhiteEntry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+  "eggGroup2": "",
+  "spd": 105,
+  "CrystalEntry": "It's very proud of its speed. It moves so fast that its opponent does not even know what knocked it down.",
+  "weight": "56.0kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlueEntry": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+  "dfs": 80,
+  "GoldEntry": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+  "SapphireEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+  "DiamondEntry": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
   "name": "Scyther",
-  "Stats": {
-    "dfs": 80,
-    "spatk": 55,
-    "spd": 105,
-    "hp": 70,
-    "atk": 110,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Swarm",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Steadfast",
-    "ability2": "Technician",
-    "type1": "Bug",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 80,
+  "ShieldEntry": "If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.",
+  "extraMega": false,
+  "HearthGoldEntry": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+  "YEntry": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+  "SunEntry": "It confuses its prey with its quick, ninja-like movements. Then, in an instant, it cleaves them with its scythes.",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+  "PlatinumEntry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+  "abilityHidden": "Steadfast",
+  "lvlUpMoves": [
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "4"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "8"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "12"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "16"
+    },
+    {
+      "move": "Double Hit",
+      "lvl": "20"
+    },
+    {
+      "move": "Slash",
+      "lvl": "24"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "28"
+    },
+    {
+      "move": "Agility",
+      "lvl": "32"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "36"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "40"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "44"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+  "BlackEntry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+  "OmegaRubyEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+  "LetsGoEeveeEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+  "colour": "Green",
+  "SoulsilverEntry": "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible.",
+  "FireRedEntry": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+  "123Entry": "If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.",
+  "White2Entry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+  "SwordEntry": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+  "PearlEntry": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
+  "category": "Mantis Pokémon",
+  "LeafGreenEntry": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+  "Black2Entry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
 }

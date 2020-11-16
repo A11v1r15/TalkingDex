@@ -1,312 +1,306 @@
 {
+  "extraMega": false,
+  "ability1": "Beast Boost",
+  "hp": 73,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Smart Strike",
+      "technical": "TM96"
+    },
+    {
+      "move": "Breaking Swipe",
+      "technical": "TM99"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Dragon Claw",
+      "technical": "TR47"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "UltraMoonEntry": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
+  "eggMoves": [],
   "number": 804,
-  "Entry": {
-    "UltraMoon": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
-    "UltraSun": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Smart Strike",
-        "technical": "TM96"
-      },
-      {
-        "move": "Breaking Swipe",
-        "technical": "TM99"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Dragon Claw",
-        "technical": "TR47"
-      },
-      {
-        "move": "Dragon Dance",
-        "technical": "TR51"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Air Cutter",
-        "lvl": "0"
-      },
-      {
-        "move": "Air Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "1"
-      },
-      {
-        "move": "Dragon Pulse",
-        "lvl": "1"
-      },
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Attack",
-        "lvl": "7"
-      },
-      {
-        "move": "Fell Stinger",
-        "lvl": "14"
-      },
-      {
-        "move": "Charm",
-        "lvl": "21"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "28"
-      },
-      {
-        "move": "Venom Drench",
-        "lvl": "35"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "42"
-      },
-      {
-        "move": "Poison Jab",
-        "lvl": "49"
-      },
-      {
-        "move": "Gastro Acid",
-        "lvl": "56"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "63"
-      },
-      {
-        "move": "Dragon Rush",
-        "lvl": "70"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "150.0kg",
-    "category": "Poison Pin Pokémon",
-    "height": "3.6m"
-  },
+  "spatk": 127,
+  "UltraSunEntry": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+  "atk": 73,
+  "abilityHidden": "",
+  "height": "3.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Air Cutter",
+      "lvl": "0"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "1"
+    },
+    {
+      "move": "Dragon Pulse",
+      "lvl": "1"
+    },
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Attack",
+      "lvl": "7"
+    },
+    {
+      "move": "Fell Stinger",
+      "lvl": "14"
+    },
+    {
+      "move": "Charm",
+      "lvl": "21"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "28"
+    },
+    {
+      "move": "Venom Drench",
+      "lvl": "35"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "42"
+    },
+    {
+      "move": "Poison Jab",
+      "lvl": "49"
+    },
+    {
+      "move": "Gastro Acid",
+      "lvl": "56"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "63"
+    },
+    {
+      "move": "Dragon Rush",
+      "lvl": "70"
+    }
+  ],
+  "type2": "Dragon",
+  "eggGroup2": "",
+  "spd": 121,
+  "weight": "150.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Poison",
+  "hasGalarian": false,
+  "dfs": 73,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Naganadel",
-  "Stats": {
-    "dfs": 73,
-    "spatk": 127,
-    "spd": 121,
-    "hp": 73,
-    "atk": 73,
-    "spdfs": 73
-  },
-  "Biology": {
-    "ability1": "Beast Boost",
-    "type2": "Dragon",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Poison",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 73,
+  "category": "Poison Pin Pokémon"
 }

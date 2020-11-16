@@ -1,291 +1,285 @@
 {
-  "number": 645,
-  "Entry": {
-    "AlphaSapphire": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-    "White": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
-    "X": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
-    "White2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-    "Y": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-    "Black": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
-    "Black2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
-    "OmegaRuby": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\""
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Sand Tomb",
-        "lvl": "1"
-      },
-      {
-        "move": "Rock Throw",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "5"
-      },
-      {
-        "move": "Block",
-        "lvl": "10"
-      },
-      {
-        "move": "Bulldoze",
-        "lvl": "15"
-      },
-      {
-        "move": "Rock Tomb",
-        "lvl": "20"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "25"
-      },
-      {
-        "move": "Imprison",
-        "lvl": "30"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "35"
-      },
-      {
-        "move": "Earth Power",
-        "lvl": "40"
-      },
-      {
-        "move": "Extrasensory",
-        "lvl": "45"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "50"
-      },
-      {
-        "move": "Hammer Arm",
-        "lvl": "55"
-      },
-      {
-        "move": "Sandstorm",
-        "lvl": "60"
-      },
-      {
-        "move": "Earthquake",
-        "lvl": "65"
-      },
-      {
-        "move": "Outrage",
-        "lvl": "70"
-      },
-      {
-        "move": "Fissure",
-        "lvl": "75"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "68.0kg",
-    "category": "Abundance Pokémon",
-    "height": "1.5m"
-  },
-  "name": "Landorus",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 115,
-    "spd": 101,
-    "hp": 89,
-    "atk": 125,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Sand Force",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Sheer Force",
-    "ability2": "",
-    "type1": "Ground",
-    "xpGroup": "Slow"
-  },
+  "extraMega": false,
+  "ability1": "Sand Force",
+  "YEntry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+  "AlphaSapphireEntry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+  "hp": 89,
+  "ability2": "",
   "title": "Incarnate Forme",
-  "hasGigantamax": false
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+  "eggMoves": [],
+  "number": 645,
+  "spatk": 115,
+  "atk": 125,
+  "abilityHidden": "Sheer Force",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Sand Tomb",
+      "lvl": "1"
+    },
+    {
+      "move": "Rock Throw",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "5"
+    },
+    {
+      "move": "Block",
+      "lvl": "10"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "15"
+    },
+    {
+      "move": "Rock Tomb",
+      "lvl": "20"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "25"
+    },
+    {
+      "move": "Imprison",
+      "lvl": "30"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "35"
+    },
+    {
+      "move": "Earth Power",
+      "lvl": "40"
+    },
+    {
+      "move": "Extrasensory",
+      "lvl": "45"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "50"
+    },
+    {
+      "move": "Hammer Arm",
+      "lvl": "55"
+    },
+    {
+      "move": "Sandstorm",
+      "lvl": "60"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "65"
+    },
+    {
+      "move": "Outrage",
+      "lvl": "70"
+    },
+    {
+      "move": "Fissure",
+      "lvl": "75"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+  "eggGroup2": "",
+  "spd": 101,
+  "weight": "68.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Ground",
+  "hasGalarian": false,
+  "BlackEntry": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+  "OmegaRubyEntry": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+  "dfs": 90,
+  "colour": "Brown",
+  "hasAlolan": false,
+  "name": "Landorus",
+  "White2Entry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+  "spdfs": 80,
+  "category": "Abundance Pokémon",
+  "Black2Entry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
 }

@@ -1,264 +1,258 @@
 {
+  "extraMega": false,
+  "HearthGoldEntry": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
+  "EmeraldEntry": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.",
+  "ability1": "Torrent",
+  "YEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+  "AlphaSapphireEntry": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power\u2014it can crush rocks bigger than itself.",
+  "hp": 50,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+  "eggMoves": [
+    {"move": "Mud"},
+    {"move": "Bite"},
+    {"move": "Ancient Power"},
+    {"move": "Counter"},
+    {"move": "Curse"},
+    {"move": "Double"},
+    {"move": "Mirror Coat"},
+    {"move": "Sludge"},
+    {"move": "Stomp"},
+    {"move": "Wide Guard"},
+    {"move": "Yawn"}
+  ],
   "number": 258,
-  "Entry": {
-    "AlphaSapphire": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power\u2014it can crush rocks bigger than itself.",
-    "White2": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "Diamond": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "Black": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "Black2": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "FireRed": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-    "HearthGold": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
-    "OmegaRuby": "The fin on Mudkip\u2019s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
-    "Pearl": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "White": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "Sapphire": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power - it can crush rocks bigger than itself.",
-    "LeafGreen": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-    "Platinum": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
-    "Emerald": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.",
-    "X": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
-    "Y": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
-    "Ruby": "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
-    "Soulsilver": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "3"
-      },
-      {
-        "move": "Rock Smash",
-        "lvl": "6"
-      },
-      {
-        "move": "Rock Throw",
-        "lvl": "9"
-      },
-      {
-        "move": "Protect",
-        "lvl": "12"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "15"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "18"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "21"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "24"
-      },
-      {
-        "move": "Amnesia",
-        "lvl": "27"
-      },
-      {
-        "move": "Surf",
-        "lvl": "30"
-      },
-      {
-        "move": "Screech",
-        "lvl": "33"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "36"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "39"
-      }
-    ],
-    "egg": [
-      {"move": "Mud"},
-      {"move": "Bite"},
-      {"move": "Ancient Power"},
-      {"move": "Counter"},
-      {"move": "Curse"},
-      {"move": "Double"},
-      {"move": "Mirror Coat"},
-      {"move": "Sludge"},
-      {"move": "Stomp"},
-      {"move": "Wide Guard"},
-      {"move": "Yawn"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "7.6kg",
-    "category": "Mud Fish Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 50,
+  "atk": 70,
+  "PlatinumEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "abilityHidden": "Damp",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "3"
+    },
+    {
+      "move": "Rock Smash",
+      "lvl": "6"
+    },
+    {
+      "move": "Rock Throw",
+      "lvl": "9"
+    },
+    {
+      "move": "Protect",
+      "lvl": "12"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "15"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "18"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "21"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "24"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "27"
+    },
+    {
+      "move": "Surf",
+      "lvl": "30"
+    },
+    {
+      "move": "Screech",
+      "lvl": "33"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "36"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "39"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "eggGroup2": "Water 1",
+  "spd": 40,
+  "weight": "7.6kg",
+  "eggGroup1": "Monster",
+  "RubyEntry": "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlackEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "OmegaRubyEntry": "The fin on Mudkip\u2019s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+  "dfs": 50,
+  "SapphireEntry": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power - it can crush rocks bigger than itself.",
+  "colour": "Blue",
+  "hasAlolan": false,
+  "DiamondEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "SoulsilverEntry": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
   "name": "Mudkip",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 50,
-    "spd": 40,
-    "hp": 50,
-    "atk": 70,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Torrent",
-    "type2": "",
-    "eggGroup2": "Water 1",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Damp",
-    "ability2": "",
-    "type1": "Water",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+  "White2Entry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "PearlEntry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.",
+  "spdfs": 50,
+  "category": "Mud Fish Pokémon",
+  "LeafGreenEntry": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+  "Black2Entry": "To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders."
 }

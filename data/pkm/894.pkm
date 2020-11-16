@@ -1,220 +1,214 @@
 {
+  "ShieldEntry": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar's electricity.",
+  "extraMega": false,
+  "ability1": "Transistor",
+  "hp": 80,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Electroweb",
+      "technical": "TM82"
+    },
+    {
+      "move": "Electric Terrain",
+      "technical": "TM90"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 894,
-  "Entry": {
-    "Sword": "This Pokémon is a cluster of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pokémon's latent power.",
-    "Shield": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar's electricity."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Electroweb",
-        "technical": "TM82"
-      },
-      {
-        "move": "Electric Terrain",
-        "technical": "TM90"
-      },
-      {
-        "move": "Eerie Impulse",
-        "technical": "TM93"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "1"
-      },
-      {
-        "move": "Electroweb",
-        "lvl": "6"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "12"
-      },
-      {
-        "move": "Shock Wave",
-        "lvl": "18"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "24"
-      },
-      {
-        "move": "Extreme Speed",
-        "lvl": "30"
-      },
-      {
-        "move": "Thunder Cage",
-        "lvl": "36"
-      },
-      {
-        "move": "Thunderbolt",
-        "lvl": "42"
-      },
-      {
-        "move": "Magnet Rise",
-        "lvl": "48"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "54"
-      },
-      {
-        "move": "Lock-On",
-        "lvl": "60"
-      },
-      {
-        "move": "Zap Cannon",
-        "lvl": "66"
-      },
-      {
-        "move": "Hyper Beam",
-        "lvl": "72"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "78"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "145.0kg",
-    "category": "Electron Pokémon",
-    "height": "1.2m"
-  },
+  "spatk": 100,
+  "atk": 100,
+  "abilityHidden": "",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Electroweb",
+      "lvl": "6"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "12"
+    },
+    {
+      "move": "Shock Wave",
+      "lvl": "18"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "24"
+    },
+    {
+      "move": "Extreme Speed",
+      "lvl": "30"
+    },
+    {
+      "move": "Thunder Cage",
+      "lvl": "36"
+    },
+    {
+      "move": "Thunderbolt",
+      "lvl": "42"
+    },
+    {
+      "move": "Magnet Rise",
+      "lvl": "48"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "54"
+    },
+    {
+      "move": "Lock-On",
+      "lvl": "60"
+    },
+    {
+      "move": "Zap Cannon",
+      "lvl": "66"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "72"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "78"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 200,
+  "weight": "145.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "dfs": 50,
+  "colour": "Yellow",
+  "hasAlolan": false,
   "name": "Regieleki",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 100,
-    "spd": 200,
-    "hp": 80,
-    "atk": 100,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Transistor",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Electric",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "This Pokémon is a cluster of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pokémon's latent power.",
+  "spdfs": 50,
+  "category": "Electron Pokémon"
 }

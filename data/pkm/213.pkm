@@ -1,263 +1,257 @@
 {
+  "EmeraldEntry": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+  "ability1": "Sturdy",
+  "AlphaSapphireEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+  "hp": 20,
+  "SilverEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+  "ability2": "Gluttony",
+  "eggMoves": [
+    {"move": "Sweet Scent"},
+    {"move": "Knock Off"},
+    {"move": "Acupressure"},
+    {"move": "Acid"},
+    {"move": "Final Gambit"},
+    {"move": "Defense Curl"},
+    {"move": "Infestation"},
+    {"move": "Toxic"},
+    {"move": "Covet"}
+  ],
   "number": 213,
-  "Entry": {
-    "AlphaSapphire": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-    "Gold": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
-    "Shield": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-    "White2": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-    "Diamond": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-    "Black": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-    "Black2": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
-    "FireRed": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "HearthGold": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
-    "OmegaRuby": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-    "Pearl": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-    "Silver": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "White": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-    "Sword": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "Sapphire": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-    "LeafGreen": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
-    "Platinum": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
-    "Emerald": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
-    "X": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
-    "Y": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "Ruby": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-    "Soulsilver": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "Crystal": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with Berries to make a drink."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Withdraw",
-        "lvl": "1"
-      },
-      {
-        "move": "Wrap",
-        "lvl": "1"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "5"
-      },
-      {
-        "move": "Struggle Bug",
-        "lvl": "10"
-      },
-      {
-        "move": "Rock Throw",
-        "lvl": "15"
-      },
-      {
-        "move": "Safeguard",
-        "lvl": "20"
-      },
-      {
-        "move": "Rest",
-        "lvl": "25"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "30"
-      },
-      {
-        "move": "Power Split",
-        "lvl": "35"
-      },
-      {
-        "move": "Guard Split",
-        "lvl": "35"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "40"
-      },
-      {
-        "move": "Gastro Acid",
-        "lvl": "45"
-      },
-      {
-        "move": "Sticky Web",
-        "lvl": "50"
-      },
-      {
-        "move": "Power Trick",
-        "lvl": "55"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "60"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "65"
-      }
-    ],
-    "egg": [
-      {"move": "Sweet Scent"},
-      {"move": "Knock Off"},
-      {"move": "Acupressure"},
-      {"move": "Acid"},
-      {"move": "Final Gambit"},
-      {"move": "Defense Curl"},
-      {"move": "Infestation"},
-      {"move": "Toxic"},
-      {"move": "Covet"}
-    ]
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "20.5kg",
-    "category": "Mold Pokémon",
-    "height": "0.6m"
-  },
+  "spatk": 10,
+  "atk": 10,
+  "height": "0.6m",
+  "type2": "Rock",
+  "WhiteEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+  "eggGroup2": "",
+  "spd": 5,
+  "CrystalEntry": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with Berries to make a drink.",
+  "weight": "20.5kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "dfs": 230,
+  "GoldEntry": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+  "SapphireEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+  "hasAlolan": false,
+  "DiamondEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
   "name": "Shuckle",
-  "Stats": {
-    "dfs": 230,
-    "spatk": 10,
-    "spd": 5,
-    "hp": 20,
-    "atk": 10,
-    "spdfs": 230
-  },
-  "Biology": {
-    "ability1": "Sturdy",
-    "type2": "Rock",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Contrary",
-    "ability2": "Gluttony",
-    "type1": "Bug",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 230,
+  "ShieldEntry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+  "extraMega": false,
+  "HearthGoldEntry": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+  "YEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
+  "PlatinumEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+  "abilityHidden": "Contrary",
+  "lvlUpMoves": [
+    {
+      "move": "Withdraw",
+      "lvl": "1"
+    },
+    {
+      "move": "Wrap",
+      "lvl": "1"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "5"
+    },
+    {
+      "move": "Struggle Bug",
+      "lvl": "10"
+    },
+    {
+      "move": "Rock Throw",
+      "lvl": "15"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "20"
+    },
+    {
+      "move": "Rest",
+      "lvl": "25"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "30"
+    },
+    {
+      "move": "Power Split",
+      "lvl": "35"
+    },
+    {
+      "move": "Guard Split",
+      "lvl": "35"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "40"
+    },
+    {
+      "move": "Gastro Acid",
+      "lvl": "45"
+    },
+    {
+      "move": "Sticky Web",
+      "lvl": "50"
+    },
+    {
+      "move": "Power Trick",
+      "lvl": "55"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "60"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "65"
+    }
+  ],
+  "RubyEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+  "BlackEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+  "OmegaRubyEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+  "colour": "Yellow",
+  "SoulsilverEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+  "FireRedEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+  "White2Entry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+  "SwordEntry": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+  "PearlEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+  "category": "Mold Pokémon",
+  "LeafGreenEntry": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+  "Black2Entry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
 }

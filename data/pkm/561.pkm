@@ -1,292 +1,286 @@
 {
+  "ShieldEntry": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
+  "extraMega": false,
+  "ability1": "Wonder Skin",
+  "YEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+  "AlphaSapphireEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+  "hp": 72,
+  "ability2": "Magic Guard",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Speed Swap",
+      "technical": "TM62"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Cosmic Power",
+      "technical": "TR44"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Psycho Shift"},
+    {"move": "Ancient Power"},
+    {"move": "Roost"}
+  ],
+  "XEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
   "number": 561,
-  "Entry": {
-    "AlphaSapphire": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-    "White": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-    "Sword": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
-    "Shield": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
-    "X": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-    "White2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-    "Y": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-    "Black": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
-    "Black2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-    "OmegaRuby": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Speed Swap",
-        "technical": "TM62"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Cosmic Power",
-        "technical": "TR44"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Gust",
-        "lvl": "1"
-      },
-      {
-        "move": "Confusion",
-        "lvl": "1"
-      },
-      {
-        "move": "Gravity",
-        "lvl": "5"
-      },
-      {
-        "move": "Hypnosis",
-        "lvl": "10"
-      },
-      {
-        "move": "Air Cutter",
-        "lvl": "15"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "20"
-      },
-      {
-        "move": "Whirlwind",
-        "lvl": "25"
-      },
-      {
-        "move": "Cosmic Power",
-        "lvl": "30"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "35"
-      },
-      {
-        "move": "Psychic",
-        "lvl": "40"
-      },
-      {
-        "move": "Tailwind",
-        "lvl": "45"
-      },
-      {
-        "move": "Light Screen",
-        "lvl": "50"
-      },
-      {
-        "move": "Reflect",
-        "lvl": "50"
-      },
-      {
-        "move": "Sky Attack",
-        "lvl": "55"
-      },
-      {
-        "move": "Skill Swap",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Psycho Shift"},
-      {"move": "Ancient Power"},
-      {"move": "Roost"}
-    ]
-  },
-  "Flair": {
-    "colour": "Black",
-    "weight": "14.0kg",
-    "category": "Avianoid Pokémon",
-    "height": "1.4m"
-  },
+  "spatk": 103,
+  "atk": 58,
+  "abilityHidden": "Tinted Lens",
+  "height": "1.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Gust",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Gravity",
+      "lvl": "5"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "10"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "15"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "20"
+    },
+    {
+      "move": "Whirlwind",
+      "lvl": "25"
+    },
+    {
+      "move": "Cosmic Power",
+      "lvl": "30"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "35"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "40"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "45"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "50"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "50"
+    },
+    {
+      "move": "Sky Attack",
+      "lvl": "55"
+    },
+    {
+      "move": "Skill Swap",
+      "lvl": "60"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+  "eggGroup2": "",
+  "spd": 97,
+  "weight": "14.0kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "BlackEntry": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+  "OmegaRubyEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+  "dfs": 80,
+  "colour": "Black",
+  "hasAlolan": false,
   "name": "Sigilyph",
-  "Stats": {
-    "dfs": 80,
-    "spatk": 103,
-    "spd": 97,
-    "hp": 72,
-    "atk": 58,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Wonder Skin",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Tinted Lens",
-    "ability2": "Magic Guard",
-    "type1": "Psychic",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+  "SwordEntry": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
+  "spdfs": 80,
+  "category": "Avianoid Pokémon",
+  "Black2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
 }

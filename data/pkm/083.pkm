@@ -1,286 +1,280 @@
 {
+  "YellowEntry": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.",
+  "EmeraldEntry": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.",
+  "ability1": "Keen Eye",
+  "AlphaSapphireEntry": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+  "hp": 52,
+  "SilverEntry": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
+  "ability2": "Inner Focus",
+  "eggMoves": [
+    {"move": "Gust"},
+    {"move": "Quick Attack"},
+    {"move": "Flail"},
+    {"move": "Feather Dance"},
+    {"move": "Curse"},
+    {"move": "Covet"},
+    {"move": "Night Slash"},
+    {"move": "Roost"},
+    {"move": "Simple Beam"},
+    {"move": "First Impression"},
+    {"move": "Final Gambit"},
+    {"move": "Feint"},
+    {"move": "Sky Attack"}
+  ],
   "number": 83,
-  "Entry": {
-    "Shield": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
-    "Black": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "Black2": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "FireRed": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
-    "HearthGold": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
-    "Sword": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
-    "Sapphire": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
-    "Platinum": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "Emerald": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.",
-    "X": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
-    "Y": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
-    "Ruby": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
-    "Soulsilver": "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.",
-    "AlphaSapphire": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
-    "Gold": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
-    "Blue": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
-    "White2": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "Diamond": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "OmegaRuby": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
-    "Red": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
-    "Pearl": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "Silver": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
-    "White": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
-    "Yellow": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.",
-    "LeafGreen": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
-    "Crystal": "In order to prevent their extinction, more people have made an effort to breed these Pokémon."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Leaf Blade",
-        "technical": "TR50"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "5"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "10"
-      },
-      {
-        "move": "Cut",
-        "lvl": "15"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "20"
-      },
-      {
-        "move": "Air Cutter",
-        "lvl": "25"
-      },
-      {
-        "move": "Knock Off",
-        "lvl": "30"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "35"
-      },
-      {
-        "move": "Slash",
-        "lvl": "40"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "45"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "50"
-      },
-      {
-        "move": "Leaf Blade",
-        "lvl": "55"
-      },
-      {
-        "move": "Agility",
-        "lvl": "60"
-      },
-      {
-        "move": "Brave Bird",
-        "lvl": "65"
-      }
-    ],
-    "egg": [
-      {"move": "Gust"},
-      {"move": "Quick Attack"},
-      {"move": "Flail"},
-      {"move": "Feather Dance"},
-      {"move": "Curse"},
-      {"move": "Covet"},
-      {"move": "Night Slash"},
-      {"move": "Roost"},
-      {"move": "Simple Beam"},
-      {"move": "First Impression"},
-      {"move": "Final Gambit"},
-      {"move": "Feint"},
-      {"move": "Sky Attack"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "15.0kg",
-    "category": "Wild Duck Pokémon",
-    "height": "0.8m"
-  },
+  "spatk": 58,
+  "atk": 90,
+  "RedEntry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+  "height": "0.8m",
+  "type2": "Flying",
+  "WhiteEntry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+  "eggGroup2": "Field",
+  "spd": 60,
+  "CrystalEntry": "In order to prevent their extinction, more people have made an effort to breed these Pokémon.",
+  "weight": "15.0kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": true,
+  "BlueEntry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+  "dfs": 55,
+  "GoldEntry": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+  "SapphireEntry": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
+  "hasAlolan": false,
+  "DiamondEntry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
   "name": "Farfetch\u2019d",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 58,
-    "spd": 60,
-    "hp": 52,
-    "atk": 90,
-    "spdfs": 62
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "Flying",
-    "eggGroup2": "Field",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Defiant",
-    "ability2": "Inner Focus",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 62,
+  "ShieldEntry": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+  "extraMega": false,
+  "HearthGoldEntry": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+  "YEntry": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Leaf Blade",
+      "technical": "TR50"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+  "PlatinumEntry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+  "abilityHidden": "Defiant",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "5"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "10"
+    },
+    {
+      "move": "Cut",
+      "lvl": "15"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "20"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "25"
+    },
+    {
+      "move": "Knock Off",
+      "lvl": "30"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "35"
+    },
+    {
+      "move": "Slash",
+      "lvl": "40"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "45"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "50"
+    },
+    {
+      "move": "Leaf Blade",
+      "lvl": "55"
+    },
+    {
+      "move": "Agility",
+      "lvl": "60"
+    },
+    {
+      "move": "Brave Bird",
+      "lvl": "65"
+    }
+  ],
+  "RubyEntry": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.",
+  "BlackEntry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+  "OmegaRubyEntry": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+  "colour": "Brown",
+  "SoulsilverEntry": "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.",
+  "FireRedEntry": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+  "White2Entry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+  "SwordEntry": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
+  "PearlEntry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+  "category": "Wild Duck Pokémon",
+  "LeafGreenEntry": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+  "Black2Entry": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life."
 }

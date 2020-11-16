@@ -1,341 +1,335 @@
 {
+  "EmeraldEntry": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
+  "ability1": "Synchronize",
+  "AlphaSapphireEntry": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
+  "hp": 65,
+  "SilverEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
+  "ability2": "",
+  "eggMoves": [],
+  "UltraMoonEntry": "Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night.",
   "number": 196,
-  "Entry": {
-    "Shield": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
-    "Moon": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
-    "Black": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-    "Black2": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather... and its foes' thoughts.",
-    "FireRed": "By reading air currents, it can predict things such as the weather or its foe's next move.",
-    "HearthGold": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
-    "Sword": "By reading air currents, it can predict things such as the weather or its foe's next move.",
-    "Sapphire": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
-    "Platinum": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-    "Emerald": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
-    "X": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
-    "Y": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts.",
-    "Ruby": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
-    "Soulsilver": "By reading air currents, it can predict things such as the weather or its foe's next move.",
-    "AlphaSapphire": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
-    "Gold": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
-    "UltraMoon": "Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night.",
-    "White2": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather... and its foes' thoughts.",
-    "Diamond": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
-    "UltraSun": "Although it originally had no powers at all, people say its precognitive faculties were awakened by its need to protect itself.",
-    "Sun": "It can instantaneously sense its opponent's movements by feeling air currents with its fine fur.",
-    "OmegaRuby": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
-    "Pearl": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
-    "Silver": "By reading air currents, it can predict things such as the weather or its foe's next move.",
-    "White": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
-    "LeafGreen": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
-    "Crystal": "The tip of its forked tail quivers when it is predicting its opponent's next move."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pay Day",
-        "technical": "TM02"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Confusion",
-        "lvl": "0"
-      },
-      {
-        "move": "Confusion",
-        "lvl": "1"
-      },
-      {
-        "move": "Covet",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "1"
-      },
-      {
-        "move": "Baton Pass",
-        "lvl": "1"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "1"
-      },
-      {
-        "move": "Charm",
-        "lvl": "1"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "5"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "10"
-      },
-      {
-        "move": "Baby-Doll Eyes",
-        "lvl": "15"
-      },
-      {
-        "move": "Swift",
-        "lvl": "20"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "25"
-      },
-      {
-        "move": "Morning Sun",
-        "lvl": "30"
-      },
-      {
-        "move": "Power Swap",
-        "lvl": "35"
-      },
-      {
-        "move": "Psychic",
-        "lvl": "40"
-      },
-      {
-        "move": "Psych Up",
-        "lvl": "45"
-      },
-      {
-        "move": "Future Sight",
-        "lvl": "50"
-      },
-      {
-        "move": "Last Resort",
-        "lvl": "55"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "26.5kg",
-    "category": "Sun Pokémon",
-    "height": "0.9m"
-  },
+  "MoonEntry": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
+  "spatk": 130,
+  "UltraSunEntry": "Although it originally had no powers at all, people say its precognitive faculties were awakened by its need to protect itself.",
+  "atk": 65,
+  "height": "0.9m",
+  "type2": "",
+  "WhiteEntry": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+  "eggGroup2": "",
+  "spd": 110,
+  "CrystalEntry": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
+  "weight": "26.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "dfs": 60,
+  "GoldEntry": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+  "SapphireEntry": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
+  "hasAlolan": false,
+  "DiamondEntry": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
   "name": "Espeon",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 130,
-    "spd": 110,
-    "hp": 65,
-    "atk": 65,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Synchronize",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Magic Bounce",
-    "ability2": "",
-    "type1": "Psychic",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 95,
+  "ShieldEntry": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
+  "extraMega": false,
+  "HearthGoldEntry": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+  "YEntry": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts.",
+  "SunEntry": "It can instantaneously sense its opponent's movements by feeling air currents with its fine fur.",
+  "tmTrMoves": [
+    {
+      "move": "Pay Day",
+      "technical": "TM02"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
+  "PlatinumEntry": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+  "abilityHidden": "Magic Bounce",
+  "lvlUpMoves": [
+    {
+      "move": "Confusion",
+      "lvl": "0"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Covet",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Baton Pass",
+      "lvl": "1"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "1"
+    },
+    {
+      "move": "Charm",
+      "lvl": "1"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "5"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "10"
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "lvl": "15"
+    },
+    {
+      "move": "Swift",
+      "lvl": "20"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "25"
+    },
+    {
+      "move": "Morning Sun",
+      "lvl": "30"
+    },
+    {
+      "move": "Power Swap",
+      "lvl": "35"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "40"
+    },
+    {
+      "move": "Psych Up",
+      "lvl": "45"
+    },
+    {
+      "move": "Future Sight",
+      "lvl": "50"
+    },
+    {
+      "move": "Last Resort",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm.",
+  "BlackEntry": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+  "OmegaRubyEntry": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
+  "colour": "Purple",
+  "SoulsilverEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
+  "FireRedEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
+  "White2Entry": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather... and its foes' thoughts.",
+  "SwordEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
+  "PearlEntry": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
+  "category": "Sun Pokémon",
+  "LeafGreenEntry": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+  "Black2Entry": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather... and its foes' thoughts."
 }

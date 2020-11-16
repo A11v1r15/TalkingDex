@@ -1,309 +1,303 @@
 {
-  "number": 849,
-  "Entry": {
-    "Sword": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
-    "Shield": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Eerie Impulse",
-        "technical": "TM93"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Spark",
-        "lvl": "0"
-      },
-      {
-        "move": "Spark",
-        "lvl": "1"
-      },
-      {
-        "move": "Eerie Impulse",
-        "lvl": "1"
-      },
-      {
-        "move": "Belch",
-        "lvl": "1"
-      },
-      {
-        "move": "Tearful Look",
-        "lvl": "1"
-      },
-      {
-        "move": "Nuzzle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Flail",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "1"
-      },
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid Spray",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Noble Roar",
-        "lvl": "1"
-      },
-      {
-        "move": "Charge",
-        "lvl": "4"
-      },
-      {
-        "move": "Shock Wave",
-        "lvl": "8"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "12"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "16"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "20"
-      },
-      {
-        "move": "Screech",
-        "lvl": "24"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "28"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "32"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "36"
-      },
-      {
-        "move": "Poison Jab",
-        "lvl": "40"
-      },
-      {
-        "move": "Overdrive",
-        "lvl": "44"
-      },
-      {
-        "move": "Boomburst",
-        "lvl": "48"
-      },
-      {
-        "move": "Shift Gear",
-        "lvl": "52"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "40.0kg",
-    "category": "Punk Pokémon",
-    "height": "1.6m"
-  },
-  "name": "Toxtricity",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 114,
-    "spd": 75,
-    "hp": 75,
-    "atk": 98,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Punk Rock",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Human-Like",
-    "abilityHidden": "Technician",
-    "ability2": "Plus",
-    "type1": "Electric",
-    "xpGroup": "Medium Slow"
-  },
+  "ShieldEntry": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
+  "extraMega": false,
+  "ability1": "Punk Rock",
+  "hp": 75,
+  "ability2": "Plus",
   "title": "Amped Form",
-  "hasGigantamax": false
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "number": 849,
+  "spatk": 114,
+  "atk": 98,
+  "abilityHidden": "Technician",
+  "height": "1.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Spark",
+      "lvl": "0"
+    },
+    {
+      "move": "Spark",
+      "lvl": "1"
+    },
+    {
+      "move": "Eerie Impulse",
+      "lvl": "1"
+    },
+    {
+      "move": "Belch",
+      "lvl": "1"
+    },
+    {
+      "move": "Tearful Look",
+      "lvl": "1"
+    },
+    {
+      "move": "Nuzzle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Flail",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid Spray",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Noble Roar",
+      "lvl": "1"
+    },
+    {
+      "move": "Charge",
+      "lvl": "4"
+    },
+    {
+      "move": "Shock Wave",
+      "lvl": "8"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "12"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "16"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "20"
+    },
+    {
+      "move": "Screech",
+      "lvl": "24"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "28"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "32"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "36"
+    },
+    {
+      "move": "Poison Jab",
+      "lvl": "40"
+    },
+    {
+      "move": "Overdrive",
+      "lvl": "44"
+    },
+    {
+      "move": "Boomburst",
+      "lvl": "48"
+    },
+    {
+      "move": "Shift Gear",
+      "lvl": "52"
+    }
+  ],
+  "type2": "Poison",
+  "eggGroup2": "",
+  "spd": 75,
+  "weight": "40.0kg",
+  "eggGroup1": "Human-Like",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "dfs": 70,
+  "colour": "Purple",
+  "hasAlolan": false,
+  "name": "Toxtricity",
+  "SwordEntry": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
+  "spdfs": 70,
+  "category": "Punk Pokémon"
 }

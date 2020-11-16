@@ -1,293 +1,287 @@
 {
+  "ShieldEntry": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+  "extraMega": false,
+  "HearthGoldEntry": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
+  "ability1": "Stench",
+  "YEntry": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+  "AlphaSapphireEntry": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+  "hp": 103,
+  "ability2": "Aftermath",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Tail Slap",
+      "technical": "TM84"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
   "number": 435,
-  "Entry": {
-    "AlphaSapphire": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
-    "Shield": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
-    "White2": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
-    "Diamond": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
-    "Black": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
-    "Black2": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
-    "HearthGold": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
-    "OmegaRuby": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
-    "Pearl": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
-    "White": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
-    "Sword": "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon's diet varies, so does the stench of its fluid.",
-    "Platinum": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
-    "X": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
-    "Y": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
-    "Soulsilver": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Tail Slap",
-        "technical": "TM84"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Flamethrower",
-        "lvl": "0"
-      },
-      {
-        "move": "Flamethrower",
-        "lvl": "1"
-      },
-      {
-        "move": "Poison Gas",
-        "lvl": "1"
-      },
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Feint",
-        "lvl": "1"
-      },
-      {
-        "move": "Smokescreen",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid Spray",
-        "lvl": "9"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "12"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "15"
-      },
-      {
-        "move": "Bite",
-        "lvl": "18"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "21"
-      },
-      {
-        "move": "Screech",
-        "lvl": "24"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "27"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "30"
-      },
-      {
-        "move": "Memento",
-        "lvl": "33"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "38"
-      },
-      {
-        "move": "Belch",
-        "lvl": "43"
-      },
-      {
-        "move": "Venom Drench",
-        "lvl": "48"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "53"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "38.0kg",
-    "category": "Skunk Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 71,
+  "atk": 93,
+  "PlatinumEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+  "abilityHidden": "Keen Eye",
+  "height": "1.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Flamethrower",
+      "lvl": "0"
+    },
+    {
+      "move": "Flamethrower",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Gas",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Feint",
+      "lvl": "1"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid Spray",
+      "lvl": "9"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "12"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "15"
+    },
+    {
+      "move": "Bite",
+      "lvl": "18"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "21"
+    },
+    {
+      "move": "Screech",
+      "lvl": "24"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "27"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "30"
+    },
+    {
+      "move": "Memento",
+      "lvl": "33"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "38"
+    },
+    {
+      "move": "Belch",
+      "lvl": "43"
+    },
+    {
+      "move": "Venom Drench",
+      "lvl": "48"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "53"
+    }
+  ],
+  "type2": "Dark",
+  "WhiteEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+  "eggGroup2": "",
+  "spd": 84,
+  "weight": "38.0kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Poison",
+  "hasGalarian": false,
+  "BlackEntry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+  "OmegaRubyEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+  "dfs": 67,
+  "colour": "Purple",
+  "hasAlolan": false,
+  "DiamondEntry": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+  "SoulsilverEntry": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
   "name": "Skuntank",
-  "Stats": {
-    "dfs": 67,
-    "spatk": 71,
-    "spd": 84,
-    "hp": 103,
-    "atk": 93,
-    "spdfs": 61
-  },
-  "Biology": {
-    "ability1": "Stench",
-    "type2": "Dark",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Keen Eye",
-    "ability2": "Aftermath",
-    "type1": "Poison",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+  "SwordEntry": "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon's diet varies, so does the stench of its fluid.",
+  "PearlEntry": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+  "spdfs": 61,
+  "category": "Skunk Pokémon",
+  "Black2Entry": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it."
 }

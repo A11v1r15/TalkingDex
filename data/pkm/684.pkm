@@ -1,217 +1,211 @@
 {
+  "ShieldEntry": "The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.",
+  "extraMega": false,
+  "ability1": "Sweet Veil",
+  "YEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+  "AlphaSapphireEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+  "hp": 62,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "After You"},
+    {"move": "Yawn"},
+    {"move": "Copycat"},
+    {"move": "Sticky Web"}
+  ],
+  "XEntry": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
   "number": 684,
-  "Entry": {
-    "AlphaSapphire": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-    "Sword": "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
-    "Shield": "The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.",
-    "X": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
-    "Y": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-    "OmegaRuby": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "1"
-      },
-      {
-        "move": "Play Nice",
-        "lvl": "3"
-      },
-      {
-        "move": "Fairy Wind",
-        "lvl": "6"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "9"
-      },
-      {
-        "move": "Draining Kiss",
-        "lvl": "12"
-      },
-      {
-        "move": "Fake Tears",
-        "lvl": "15"
-      },
-      {
-        "move": "Round",
-        "lvl": "18"
-      },
-      {
-        "move": "String Shot",
-        "lvl": "21"
-      },
-      {
-        "move": "Cotton Spore",
-        "lvl": "24"
-      },
-      {
-        "move": "Energy Ball",
-        "lvl": "27"
-      },
-      {
-        "move": "Wish",
-        "lvl": "30"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "33"
-      },
-      {
-        "move": "Cotton Guard",
-        "lvl": "36"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "39"
-      }
-    ],
-    "egg": [
-      {"move": "After You"},
-      {"move": "Yawn"},
-      {"move": "Copycat"},
-      {"move": "Sticky Web"}
-    ]
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "3.5kg",
-    "category": "Cotton Candy Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 59,
+  "atk": 48,
+  "abilityHidden": "Unburden",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "1"
+    },
+    {
+      "move": "Play Nice",
+      "lvl": "3"
+    },
+    {
+      "move": "Fairy Wind",
+      "lvl": "6"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "9"
+    },
+    {
+      "move": "Draining Kiss",
+      "lvl": "12"
+    },
+    {
+      "move": "Fake Tears",
+      "lvl": "15"
+    },
+    {
+      "move": "Round",
+      "lvl": "18"
+    },
+    {
+      "move": "String Shot",
+      "lvl": "21"
+    },
+    {
+      "move": "Cotton Spore",
+      "lvl": "24"
+    },
+    {
+      "move": "Energy Ball",
+      "lvl": "27"
+    },
+    {
+      "move": "Wish",
+      "lvl": "30"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "33"
+    },
+    {
+      "move": "Cotton Guard",
+      "lvl": "36"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "39"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 49,
+  "weight": "3.5kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Fairy",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+  "dfs": 66,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Swirlix",
-  "Stats": {
-    "dfs": 66,
-    "spatk": 59,
-    "spd": 49,
-    "hp": 62,
-    "atk": 48,
-    "spdfs": 57
-  },
-  "Biology": {
-    "ability1": "Sweet Veil",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "Unburden",
-    "ability2": "",
-    "type1": "Fairy",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
+  "spdfs": 57,
+  "category": "Cotton Candy Pokémon"
 }

@@ -1,239 +1,233 @@
 {
+  "ShieldEntry": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.",
+  "extraMega": false,
+  "ability1": "Prankster",
+  "YEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+  "AlphaSapphireEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+  "hp": 57,
+  "SunEntry": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people's homes to steal their keys.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "eggMoves": [
+    {"move": "Switcheroo"},
+    {"move": "Magnet Rise"}
+  ],
+  "XEntry": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+  "UltraMoonEntry": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
   "number": 707,
-  "Entry": {
-    "AlphaSapphire": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
-    "UltraMoon": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
-    "Sword": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
-    "Shield": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.",
-    "Moon": "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
-    "X": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
-    "Y": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
-    "UltraSun": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
-    "Sun": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people's homes to steal their keys.",
-    "OmegaRuby": "These key collectors threaten any attackers by fiercely jingling their keys at them."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fairy Lock",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "4"
-      },
-      {
-        "move": "Fairy Wind",
-        "lvl": "8"
-      },
-      {
-        "move": "Torment",
-        "lvl": "12"
-      },
-      {
-        "move": "Crafty Shield",
-        "lvl": "16"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "20"
-      },
-      {
-        "move": "Draining Kiss",
-        "lvl": "24"
-      },
-      {
-        "move": "Recycle",
-        "lvl": "28"
-      },
-      {
-        "move": "Imprison",
-        "lvl": "32"
-      },
-      {
-        "move": "Flash Cannon",
-        "lvl": "36"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "40"
-      },
-      {
-        "move": "Magic Room",
-        "lvl": "44"
-      },
-      {
-        "move": "Foul Play",
-        "lvl": "48"
-      },
-      {
-        "move": "Last Resort",
-        "lvl": "52"
-      }
-    ],
-    "egg": [
-      {"move": "Switcheroo"},
-      {"move": "Magnet Rise"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "3.0kg",
-    "category": "Key Ring Pokémon",
-    "height": "0.2m"
-  },
+  "MoonEntry": "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
+  "spatk": 80,
+  "UltraSunEntry": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
+  "atk": 80,
+  "abilityHidden": "Magician",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Fairy Lock",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "4"
+    },
+    {
+      "move": "Fairy Wind",
+      "lvl": "8"
+    },
+    {
+      "move": "Torment",
+      "lvl": "12"
+    },
+    {
+      "move": "Crafty Shield",
+      "lvl": "16"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "20"
+    },
+    {
+      "move": "Draining Kiss",
+      "lvl": "24"
+    },
+    {
+      "move": "Recycle",
+      "lvl": "28"
+    },
+    {
+      "move": "Imprison",
+      "lvl": "32"
+    },
+    {
+      "move": "Flash Cannon",
+      "lvl": "36"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "40"
+    },
+    {
+      "move": "Magic Room",
+      "lvl": "44"
+    },
+    {
+      "move": "Foul Play",
+      "lvl": "48"
+    },
+    {
+      "move": "Last Resort",
+      "lvl": "52"
+    }
+  ],
+  "type2": "Fairy",
+  "eggGroup2": "",
+  "spd": 75,
+  "weight": "3.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+  "dfs": 91,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Klefki",
-  "Stats": {
-    "dfs": 91,
-    "spatk": 80,
-    "spd": 75,
-    "hp": 57,
-    "atk": 80,
-    "spdfs": 87
-  },
-  "Biology": {
-    "ability1": "Prankster",
-    "type2": "Fairy",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Magician",
-    "ability2": "",
-    "type1": "Steel",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
+  "spdfs": 87,
+  "category": "Key Ring Pokémon"
 }

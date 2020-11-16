@@ -1,241 +1,235 @@
 {
+  "ShieldEntry": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+  "extraMega": false,
+  "HearthGoldEntry": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+  "ability1": "Levitate",
+  "YEntry": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+  "AlphaSapphireEntry": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+  "hp": 50,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Electroweb",
+      "technical": "TM82"
+    },
+    {
+      "move": "Electric Terrain",
+      "technical": "TM90"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "Research continues on this Pokémon, which could be the power source of a unique motor.",
   "number": 479,
-  "Entry": {
-    "AlphaSapphire": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-    "Shield": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
-    "White2": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-    "Diamond": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-    "Black": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-    "Black2": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-    "HearthGold": "Research continues on this Pokémon, which could be the power source of a unique motor.",
-    "OmegaRuby": "Research continues on this Pokémon, which could be the power source of a unique motor.",
-    "Pearl": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-    "White": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-    "Sword": "One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.",
-    "Platinum": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-    "X": "Research continues on this Pokémon, which could be the power source of a unique motor.",
-    "Y": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-    "Soulsilver": "Research continues on this Pokémon, which could be the power source of a unique motor."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Electroweb",
-        "technical": "TM82"
-      },
-      {
-        "move": "Electric Terrain",
-        "technical": "TM90"
-      },
-      {
-        "move": "Eerie Impulse",
-        "technical": "TM93"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "1"
-      },
-      {
-        "move": "Thunder Shock",
-        "lvl": "5"
-      },
-      {
-        "move": "Confuse Ray",
-        "lvl": "10"
-      },
-      {
-        "move": "Charge",
-        "lvl": "15"
-      },
-      {
-        "move": "Electro Ball",
-        "lvl": "20"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "25"
-      },
-      {
-        "move": "Shock Wave",
-        "lvl": "30"
-      },
-      {
-        "move": "Hex",
-        "lvl": "35"
-      },
-      {
-        "move": "Substitute",
-        "lvl": "40"
-      },
-      {
-        "move": "Trick",
-        "lvl": "45"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "50"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "55"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "0.3kg",
-    "category": "Plasma Pokémon",
-    "height": "0.3m"
-  },
+  "spatk": 95,
+  "atk": 50,
+  "PlatinumEntry": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+  "abilityHidden": "",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "5"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "10"
+    },
+    {
+      "move": "Charge",
+      "lvl": "15"
+    },
+    {
+      "move": "Electro Ball",
+      "lvl": "20"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "25"
+    },
+    {
+      "move": "Shock Wave",
+      "lvl": "30"
+    },
+    {
+      "move": "Hex",
+      "lvl": "35"
+    },
+    {
+      "move": "Substitute",
+      "lvl": "40"
+    },
+    {
+      "move": "Trick",
+      "lvl": "45"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "50"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "55"
+    }
+  ],
+  "type2": "Ghost",
+  "WhiteEntry": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+  "eggGroup2": "",
+  "spd": 91,
+  "weight": "0.3kg",
+  "eggGroup1": "Amorphous",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "BlackEntry": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+  "OmegaRubyEntry": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+  "dfs": 77,
+  "colour": "Red",
+  "hasAlolan": false,
+  "DiamondEntry": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+  "SoulsilverEntry": "Research continues on this Pokémon, which could be the power source of a unique motor.",
   "name": "Rotom",
-  "Stats": {
-    "dfs": 77,
-    "spatk": 95,
-    "spd": 91,
-    "hp": 50,
-    "atk": 50,
-    "spdfs": 77
-  },
-  "Biology": {
-    "ability1": "Levitate",
-    "type2": "Ghost",
-    "eggGroup2": "",
-    "eggGroup1": "Amorphous",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Electric",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+  "SwordEntry": "One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.",
+  "PearlEntry": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+  "spdfs": 77,
+  "category": "Plasma Pokémon",
+  "Black2Entry": "Its electric-like body can enter some kinds of machines and take control in order to make mischief."
 }

@@ -1,340 +1,334 @@
 {
+  "ShieldEntry": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
+  "extraMega": false,
+  "ability1": "Full Metal Body",
+  "hp": 137,
+  "SunEntry": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Cosmic Power",
+      "technical": "TR44"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Heat Crash",
+      "technical": "TR88"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
+  "UltraMoonEntry": "In writings from the distant past, it's called by the name \u201cthe beast that devours the sun.\u201d",
   "number": 791,
-  "Entry": {
-    "UltraMoon": "In writings from the distant past, it's called by the name \u201cthe beast that devours the sun.\u201d",
-    "Sword": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
-    "Shield": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
-    "Moon": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world.",
-    "UltraSun": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
-    "Sun": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Cosmic Power",
-        "technical": "TR44"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Heavy Slam",
-        "technical": "TR79"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Heat Crash",
-        "technical": "TR88"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Sunsteel Strike",
-        "lvl": "0"
-      },
-      {
-        "move": "Sunsteel Strike",
-        "lvl": "1"
-      },
-      {
-        "move": "Cosmic Power",
-        "lvl": "1"
-      },
-      {
-        "move": "Teleport",
-        "lvl": "1"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "1"
-      },
-      {
-        "move": "Noble Roar",
-        "lvl": "1"
-      },
-      {
-        "move": "Iron Head",
-        "lvl": "7"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "14"
-      },
-      {
-        "move": "Zen Headbutt",
-        "lvl": "21"
-      },
-      {
-        "move": "Flash Cannon",
-        "lvl": "28"
-      },
-      {
-        "move": "Morning Sun",
-        "lvl": "35"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "42"
-      },
-      {
-        "move": "Metal Burst",
-        "lvl": "49"
-      },
-      {
-        "move": "Wild Charge",
-        "lvl": "56"
-      },
-      {
-        "move": "Solar Beam",
-        "lvl": "63"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "70"
-      },
-      {
-        "move": "Wide Guard",
-        "lvl": "77"
-      },
-      {
-        "move": "Giga Impact",
-        "lvl": "84"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "230.0kg",
-    "category": "Sunne Pokémon",
-    "height": "3.4m"
-  },
+  "MoonEntry": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world.",
+  "spatk": 113,
+  "UltraSunEntry": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
+  "atk": 137,
+  "abilityHidden": "",
+  "height": "3.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Sunsteel Strike",
+      "lvl": "0"
+    },
+    {
+      "move": "Sunsteel Strike",
+      "lvl": "1"
+    },
+    {
+      "move": "Cosmic Power",
+      "lvl": "1"
+    },
+    {
+      "move": "Teleport",
+      "lvl": "1"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "1"
+    },
+    {
+      "move": "Noble Roar",
+      "lvl": "1"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "7"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "14"
+    },
+    {
+      "move": "Zen Headbutt",
+      "lvl": "21"
+    },
+    {
+      "move": "Flash Cannon",
+      "lvl": "28"
+    },
+    {
+      "move": "Morning Sun",
+      "lvl": "35"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "42"
+    },
+    {
+      "move": "Metal Burst",
+      "lvl": "49"
+    },
+    {
+      "move": "Wild Charge",
+      "lvl": "56"
+    },
+    {
+      "move": "Solar Beam",
+      "lvl": "63"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "70"
+    },
+    {
+      "move": "Wide Guard",
+      "lvl": "77"
+    },
+    {
+      "move": "Giga Impact",
+      "lvl": "84"
+    }
+  ],
+  "type2": "Steel",
+  "eggGroup2": "",
+  "spd": 97,
+  "weight": "230.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "dfs": 107,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Solgaleo",
-  "Stats": {
-    "dfs": 107,
-    "spatk": 113,
-    "spd": 97,
-    "hp": 137,
-    "atk": 137,
-    "spdfs": 89
-  },
-  "Biology": {
-    "ability1": "Full Metal Body",
-    "type2": "Steel",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Psychic",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
+  "spdfs": 89,
+  "category": "Sunne Pokémon"
 }

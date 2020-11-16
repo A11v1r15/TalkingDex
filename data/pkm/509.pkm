@@ -1,251 +1,245 @@
 {
+  "ShieldEntry": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+  "extraMega": false,
+  "ability1": "Limber",
+  "YEntry": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+  "AlphaSapphireEntry": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+  "hp": 41,
+  "ability2": "Unburden",
+  "tmTrMoves": [
+    {
+      "move": "Pay Day",
+      "technical": "TM02"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Yawn"},
+    {"move": "Covet"},
+    {"move": "Copycat"},
+    {"move": "Slash"},
+    {"move": "Double Team"},
+    {"move": "Quick Attack"}
+  ],
+  "XEntry": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
   "number": 509,
-  "Entry": {
-    "AlphaSapphire": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
-    "White": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
-    "Sword": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
-    "Shield": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
-    "X": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
-    "White2": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
-    "Y": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
-    "Black": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
-    "Black2": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
-    "OmegaRuby": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pay Day",
-        "technical": "TM02"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "4"
-      },
-      {
-        "move": "Fake Out",
-        "lvl": "5"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "12"
-      },
-      {
-        "move": "Torment",
-        "lvl": "16"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "21"
-      },
-      {
-        "move": "Hone Claws",
-        "lvl": "24"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "32"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "36"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "40"
-      }
-    ],
-    "egg": [
-      {"move": "Yawn"},
-      {"move": "Covet"},
-      {"move": "Copycat"},
-      {"move": "Slash"},
-      {"move": "Double Team"},
-      {"move": "Quick Attack"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "10.1kg",
-    "category": "Devious Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 50,
+  "atk": 50,
+  "abilityHidden": "Prankster",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "4"
+    },
+    {
+      "move": "Fake Out",
+      "lvl": "5"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "12"
+    },
+    {
+      "move": "Torment",
+      "lvl": "16"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "21"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "24"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "32"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "36"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "40"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+  "eggGroup2": "",
+  "spd": 66,
+  "weight": "10.1kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "BlackEntry": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.",
+  "OmegaRubyEntry": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+  "dfs": 37,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Purrloin",
-  "Stats": {
-    "dfs": 37,
-    "spatk": 50,
-    "spd": 66,
-    "hp": 41,
-    "atk": 50,
-    "spdfs": 37
-  },
-  "Biology": {
-    "ability1": "Limber",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Prankster",
-    "ability2": "Unburden",
-    "type1": "Dark",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
+  "SwordEntry": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
+  "spdfs": 37,
+  "category": "Devious Pokémon",
+  "Black2Entry": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces."
 }

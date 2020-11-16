@@ -1,260 +1,254 @@
 {
+  "ShieldEntry": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+  "extraMega": false,
+  "ability1": "Limber",
+  "YEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+  "AlphaSapphireEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+  "hp": 64,
+  "ability2": "Unburden",
+  "tmTrMoves": [
+    {
+      "move": "Pay Day",
+      "technical": "TM02"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "XEntry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
   "number": 510,
-  "Entry": {
-    "AlphaSapphire": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-    "White": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-    "Sword": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
-    "Shield": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
-    "X": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-    "White2": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-    "Y": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-    "Black": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
-    "Black2": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-    "OmegaRuby": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pay Day",
-        "technical": "TM02"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Fake Out",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "12"
-      },
-      {
-        "move": "Torment",
-        "lvl": "16"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "23"
-      },
-      {
-        "move": "Hone Claws",
-        "lvl": "28"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "34"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "40"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "46"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "52"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "37.5kg",
-    "category": "Cruel Pokémon",
-    "height": "1.1m"
-  },
+  "spatk": 88,
+  "atk": 88,
+  "abilityHidden": "Prankster",
+  "height": "1.1m",
+  "lvlUpMoves": [
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Fake Out",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "12"
+    },
+    {
+      "move": "Torment",
+      "lvl": "16"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "23"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "28"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "34"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "40"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "46"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "52"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+  "eggGroup2": "",
+  "spd": 106,
+  "weight": "37.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "BlackEntry": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+  "OmegaRubyEntry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+  "dfs": 50,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Liepard",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 88,
-    "spd": 106,
-    "hp": 64,
-    "atk": 88,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Limber",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Prankster",
-    "ability2": "Unburden",
-    "type1": "Dark",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+  "SwordEntry": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+  "spdfs": 50,
+  "category": "Cruel Pokémon",
+  "Black2Entry": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
 }

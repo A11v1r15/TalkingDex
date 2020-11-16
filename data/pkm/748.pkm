@@ -1,240 +1,234 @@
 {
+  "ShieldEntry": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
+  "extraMega": false,
+  "ability1": "Merciless",
+  "hp": 50,
+  "SunEntry": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+  "ability2": "Limber",
+  "tmTrMoves": [
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
+  "UltraMoonEntry": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.",
   "number": 748,
-  "Entry": {
-    "UltraMoon": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.",
-    "Sword": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
-    "Shield": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
-    "Moon": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
-    "UltraSun": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
-    "Sun": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Baneful Bunker",
-        "lvl": "0"
-      },
-      {
-        "move": "Baneful Bunker",
-        "lvl": "1"
-      },
-      {
-        "move": "Poison Sting",
-        "lvl": "1"
-      },
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Wide Guard",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "15"
-      },
-      {
-        "move": "Recover",
-        "lvl": "20"
-      },
-      {
-        "move": "Pin Missile",
-        "lvl": "25"
-      },
-      {
-        "move": "Toxic Spikes",
-        "lvl": "30"
-      },
-      {
-        "move": "Liquidation",
-        "lvl": "35"
-      },
-      {
-        "move": "Venom Drench",
-        "lvl": "42"
-      },
-      {
-        "move": "Poison Jab",
-        "lvl": "49"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "56"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "14.5kg",
-    "category": "Brutal Star Pokémon",
-    "height": "0.7m"
-  },
+  "MoonEntry": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+  "spatk": 53,
+  "UltraSunEntry": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
+  "atk": 63,
+  "abilityHidden": "Regenerator",
+  "height": "0.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Baneful Bunker",
+      "lvl": "0"
+    },
+    {
+      "move": "Baneful Bunker",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Sting",
+      "lvl": "1"
+    },
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Wide Guard",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "15"
+    },
+    {
+      "move": "Recover",
+      "lvl": "20"
+    },
+    {
+      "move": "Pin Missile",
+      "lvl": "25"
+    },
+    {
+      "move": "Toxic Spikes",
+      "lvl": "30"
+    },
+    {
+      "move": "Liquidation",
+      "lvl": "35"
+    },
+    {
+      "move": "Venom Drench",
+      "lvl": "42"
+    },
+    {
+      "move": "Poison Jab",
+      "lvl": "49"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "56"
+    }
+  ],
+  "type2": "Water",
+  "eggGroup2": "",
+  "spd": 35,
+  "weight": "14.5kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Poison",
+  "hasGalarian": false,
+  "dfs": 152,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Toxapex",
-  "Stats": {
-    "dfs": 152,
-    "spatk": 53,
-    "spd": 35,
-    "hp": 50,
-    "atk": 63,
-    "spdfs": 142
-  },
-  "Biology": {
-    "ability1": "Merciless",
-    "type2": "Water",
-    "eggGroup2": "",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Regenerator",
-    "ability2": "Limber",
-    "type1": "Poison",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
+  "spdfs": 142,
+  "category": "Brutal Star Pokémon"
 }

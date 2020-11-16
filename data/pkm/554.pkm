@@ -1,263 +1,257 @@
 {
+  "ShieldEntry": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
+  "extraMega": false,
+  "ability1": "Hustle",
+  "YEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+  "AlphaSapphireEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+  "hp": 70,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Focus Punch"},
+    {"move": "Hammer Arm"},
+    {"move": "Take Down"},
+    {"move": "Flame Wheel"},
+    {"move": "Yawn"},
+    {"move": "Extrasensory"}
+  ],
+  "XEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
   "number": 554,
-  "Entry": {
-    "AlphaSapphire": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-    "White": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-    "Sword": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
-    "Shield": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
-    "X": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-    "White2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
-    "Y": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-    "Black": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
-    "Black2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
-    "OmegaRuby": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Ember",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "4"
-      },
-      {
-        "move": "Bite",
-        "lvl": "8"
-      },
-      {
-        "move": "Incinerate",
-        "lvl": "12"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "16"
-      },
-      {
-        "move": "Fire Fang",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Fire Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "32"
-      },
-      {
-        "move": "Belly Drum",
-        "lvl": "36"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "40"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "44"
-      },
-      {
-        "move": "Superpower",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Focus Punch"},
-      {"move": "Hammer Arm"},
-      {"move": "Take Down"},
-      {"move": "Flame Wheel"},
-      {"move": "Yawn"},
-      {"move": "Extrasensory"}
-    ]
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "37.5kg",
-    "category": "Zen Charm Pokémon",
-    "height": "0.6m"
-  },
+  "spatk": 15,
+  "atk": 90,
+  "abilityHidden": "Inner Focus",
+  "height": "0.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "4"
+    },
+    {
+      "move": "Bite",
+      "lvl": "8"
+    },
+    {
+      "move": "Incinerate",
+      "lvl": "12"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "16"
+    },
+    {
+      "move": "Fire Fang",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Fire Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "32"
+    },
+    {
+      "move": "Belly Drum",
+      "lvl": "36"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "40"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "44"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+  "eggGroup2": "",
+  "spd": 50,
+  "weight": "37.5kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Fire",
+  "hasGalarian": true,
+  "BlackEntry": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+  "OmegaRubyEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+  "dfs": 45,
+  "colour": "Red",
+  "hasAlolan": false,
   "name": "Darumaka",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 15,
-    "spd": 50,
-    "hp": 70,
-    "atk": 90,
-    "spdfs": 45
-  },
-  "Biology": {
-    "ability1": "Hustle",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Inner Focus",
-    "ability2": "",
-    "type1": "Fire",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
+  "SwordEntry": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
+  "spdfs": 45,
+  "category": "Zen Charm Pokémon",
+  "Black2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F."
 }

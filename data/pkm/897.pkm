@@ -1,224 +1,218 @@
 {
+  "ShieldEntry": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
+  "extraMega": false,
+  "ability1": "Grim Neigh",
+  "hp": 100,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Phantom Force",
+      "technical": "TM86"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 897,
-  "Entry": {
-    "Sword": "It probes its surroundings with all its senses save one\u2014it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body.",
-    "Shield": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Phantom Force",
-        "technical": "TM86"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Double Kick",
-        "lvl": "6"
-      },
-      {
-        "move": "Hex",
-        "lvl": "12"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "18"
-      },
-      {
-        "move": "Confuse Ray",
-        "lvl": "24"
-      },
-      {
-        "move": "Haze",
-        "lvl": "30"
-      },
-      {
-        "move": "Shadow Ball",
-        "lvl": "36"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "42"
-      },
-      {
-        "move": "Agility",
-        "lvl": "48"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "54"
-      },
-      {
-        "move": "Disable",
-        "lvl": "60"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "66"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "72"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Black",
-    "weight": "44.5kg",
-    "category": "Swift Horse Pokémon",
-    "height": "2.0m"
-  },
+  "spatk": 145,
+  "atk": 65,
+  "abilityHidden": "",
+  "height": "2.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "6"
+    },
+    {
+      "move": "Hex",
+      "lvl": "12"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "18"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "24"
+    },
+    {
+      "move": "Haze",
+      "lvl": "30"
+    },
+    {
+      "move": "Shadow Ball",
+      "lvl": "36"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "42"
+    },
+    {
+      "move": "Agility",
+      "lvl": "48"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "54"
+    },
+    {
+      "move": "Disable",
+      "lvl": "60"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "66"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "72"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 130,
+  "weight": "44.5kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Ghost",
+  "hasGalarian": false,
+  "dfs": 60,
+  "colour": "Black",
+  "hasAlolan": false,
   "name": "Spectrier",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 145,
-    "spd": 130,
-    "hp": 100,
-    "atk": 65,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Grim Neigh",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Ghost",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It probes its surroundings with all its senses save one\u2014it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body.",
+  "spdfs": 80,
+  "category": "Swift Horse Pokémon"
 }

@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Keen Eye",
+  "hp": 55,
+  "SunEntry": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+  "ability2": "Skill Link",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "UltraMoonEntry": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
   "number": 732,
-  "Entry": {
-    "UltraMoon": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
-    "Moon": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
-    "UltraSun": "It can bend the tip of its beak to produce over a hundred different cries at will.",
-    "Sun": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst."
-  },
-  "Moves": {},
-  "Flair": {"category": "Bugle Beak Pokémon"},
+  "MoonEntry": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
+  "spatk": 40,
+  "UltraSunEntry": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+  "atk": 85,
+  "abilityHidden": "Pickup",
+  "type2": "Flying",
+  "eggGroup2": "",
+  "spd": 75,
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "dfs": 50,
+  "hasAlolan": false,
   "name": "Trumbeak",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 40,
-    "spd": 75,
-    "hp": 55,
-    "atk": 85,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Pickup",
-    "ability2": "Skill Link",
-    "type1": "Normal",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 50,
+  "category": "Bugle Beak Pokémon"
 }

@@ -1,186 +1,180 @@
 {
+  "EmeraldEntry": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few Trainers raise it.",
+  "ability1": "Swift Swim",
+  "AlphaSapphireEntry": "While Feebas\u2019s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+  "hp": 20,
+  "ability2": "Oblivious",
+  "eggMoves": [
+    {"move": "Mirror Coat"},
+    {"move": "Dragon Breath"},
+    {"move": "Hypnosis"},
+    {"move": "Confuse Ray"},
+    {"move": "Mist"},
+    {"move": "Haze"},
+    {"move": "Tickle"}
+  ],
+  "UltraMoonEntry": "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas\u2014and Feebas alone!",
   "number": 349,
-  "Entry": {
-    "AlphaSapphire": "While Feebas\u2019s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
-    "UltraMoon": "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas\u2014and Feebas alone!",
-    "Shield": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "Moon": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
-    "White2": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "Diamond": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
-    "UltraSun": "They look ragged, so no one catches them. They look like they'd taste bad, so predators won't eat them. And their numbers continue to grow.",
-    "Black": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "Black2": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "FireRed": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
-    "Sun": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn't popular.",
-    "HearthGold": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
-    "OmegaRuby": "Feebas\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
-    "Pearl": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
-    "White": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "Sword": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
-    "Sapphire": "While Feebas's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
-    "LeafGreen": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
-    "Platinum": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
-    "Emerald": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few Trainers raise it.",
-    "X": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
-    "Y": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
-    "Ruby": "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
-    "Soulsilver": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Splash",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "15"
-      },
-      {
-        "move": "Flail",
-        "lvl": "25"
-      }
-    ],
-    "egg": [
-      {"move": "Mirror Coat"},
-      {"move": "Dragon Breath"},
-      {"move": "Hypnosis"},
-      {"move": "Confuse Ray"},
-      {"move": "Mist"},
-      {"move": "Haze"},
-      {"move": "Tickle"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "7.4kg",
-    "category": "Fish Pokémon",
-    "height": "0.6m"
-  },
+  "MoonEntry": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
+  "spatk": 10,
+  "UltraSunEntry": "They look ragged, so no one catches them. They look like they'd taste bad, so predators won't eat them. And their numbers continue to grow.",
+  "atk": 15,
+  "height": "0.6m",
+  "type2": "",
+  "WhiteEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "eggGroup2": "Dragon",
+  "spd": 80,
+  "weight": "7.4kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 20,
+  "SapphireEntry": "While Feebas's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+  "hasAlolan": false,
+  "DiamondEntry": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
   "name": "Feebas",
-  "Stats": {
-    "dfs": 20,
-    "spatk": 10,
-    "spd": 80,
-    "hp": 20,
-    "atk": 15,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Swift Swim",
-    "type2": "",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Adaptability",
-    "ability2": "Oblivious",
-    "type1": "Water",
-    "xpGroup": "Erratic"
-  },
-  "hasGigantamax": false
+  "spdfs": 55,
+  "ShieldEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "extraMega": false,
+  "HearthGoldEntry": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
+  "YEntry": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+  "SunEntry": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn't popular.",
+  "tmTrMoves": [
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Erratic",
+  "XEntry": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+  "PlatinumEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "abilityHidden": "Adaptability",
+  "lvlUpMoves": [
+    {
+      "move": "Splash",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "15"
+    },
+    {
+      "move": "Flail",
+      "lvl": "25"
+    }
+  ],
+  "RubyEntry": "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+  "BlackEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "OmegaRubyEntry": "Feebas\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+  "colour": "Brown",
+  "SoulsilverEntry": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
+  "FireRedEntry": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+  "White2Entry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "SwordEntry": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
+  "PearlEntry": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+  "category": "Fish Pokémon",
+  "LeafGreenEntry": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+  "Black2Entry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water."
 }

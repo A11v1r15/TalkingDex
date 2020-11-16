@@ -1,224 +1,218 @@
 {
+  "EmeraldEntry": "They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+  "ability1": "Inner Focus",
+  "AlphaSapphireEntry": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
+  "hp": 50,
+  "ability2": "Ice Body",
+  "eggMoves": [
+    {"move": "Block"},
+    {"move": "Disable"},
+    {"move": "Switcheroo"},
+    {"move": "Rollout"},
+    {"move": "Icicle Crash"}
+  ],
+  "UltraMoonEntry": "Rich people from cold areas all share childhood memories of playing with Snorunt.",
   "number": 361,
-  "Entry": {
-    "AlphaSapphire": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
-    "UltraMoon": "Rich people from cold areas all share childhood memories of playing with Snorunt.",
-    "Shield": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
-    "Moon": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
-    "White2": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "Diamond": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
-    "UltraSun": "It feeds mainly on ice and snow. It's only able to survive in a limited number of places in the warm Alola region.",
-    "Black": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "Black2": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "FireRed": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
-    "Sun": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
-    "HearthGold": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
-    "OmegaRuby": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
-    "Pearl": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
-    "White": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "Sword": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
-    "Sapphire": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
-    "LeafGreen": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
-    "Platinum": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "Emerald": "They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
-    "X": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
-    "Y": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
-    "Ruby": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
-    "Soulsilver": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Powder Snow",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "5"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "10"
-      },
-      {
-        "move": "Ice Shard",
-        "lvl": "15"
-      },
-      {
-        "move": "Protect",
-        "lvl": "20"
-      },
-      {
-        "move": "Icy Wind",
-        "lvl": "25"
-      },
-      {
-        "move": "Frost Breath",
-        "lvl": "30"
-      },
-      {
-        "move": "Bite",
-        "lvl": "35"
-      },
-      {
-        "move": "Ice Fang",
-        "lvl": "40"
-      },
-      {
-        "move": "Hail",
-        "lvl": "45"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "50"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "55"
-      },
-      {
-        "move": "Blizzard",
-        "lvl": "60"
-      }
-    ],
-    "egg": [
-      {"move": "Block"},
-      {"move": "Disable"},
-      {"move": "Switcheroo"},
-      {"move": "Rollout"},
-      {"move": "Icicle Crash"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "16.8kg",
-    "category": "Snow Hat Pokémon",
-    "height": "0.7m"
-  },
+  "MoonEntry": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
+  "spatk": 50,
+  "UltraSunEntry": "It feeds mainly on ice and snow. It's only able to survive in a limited number of places in the warm Alola region.",
+  "atk": 50,
+  "height": "0.7m",
+  "type2": "",
+  "WhiteEntry": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+  "eggGroup2": "Mineral",
+  "spd": 50,
+  "weight": "16.8kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Ice",
+  "hasGalarian": false,
+  "dfs": 50,
+  "SapphireEntry": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
+  "hasAlolan": false,
+  "DiamondEntry": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
   "name": "Snorunt",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 50,
-    "spd": 50,
-    "hp": 50,
-    "atk": 50,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Inner Focus",
-    "type2": "",
-    "eggGroup2": "Mineral",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "Moody",
-    "ability2": "Ice Body",
-    "type1": "Ice",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 50,
+  "ShieldEntry": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
+  "extraMega": false,
+  "HearthGoldEntry": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+  "YEntry": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+  "SunEntry": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
+  "tmTrMoves": [
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+  "PlatinumEntry": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+  "abilityHidden": "Moody",
+  "lvlUpMoves": [
+    {
+      "move": "Powder Snow",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "5"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "10"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "15"
+    },
+    {
+      "move": "Protect",
+      "lvl": "20"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "25"
+    },
+    {
+      "move": "Frost Breath",
+      "lvl": "30"
+    },
+    {
+      "move": "Bite",
+      "lvl": "35"
+    },
+    {
+      "move": "Ice Fang",
+      "lvl": "40"
+    },
+    {
+      "move": "Hail",
+      "lvl": "45"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "50"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "55"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "60"
+    }
+  ],
+  "RubyEntry": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+  "BlackEntry": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+  "OmegaRubyEntry": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+  "colour": "Gray",
+  "SoulsilverEntry": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+  "FireRedEntry": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
+  "White2Entry": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+  "SwordEntry": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+  "PearlEntry": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+  "category": "Snow Hat Pokémon",
+  "LeafGreenEntry": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit..",
+  "Black2Entry": "It is said that several Snorunt gather under giant leaves and live together in harmony."
 }

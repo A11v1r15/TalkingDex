@@ -1,150 +1,144 @@
 {
+  "ShieldEntry": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
+  "extraMega": false,
+  "ability1": "Wimp Out",
+  "hp": 25,
+  "SunEntry": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Metal Claw"},
+    {"move": "Wide Guard"},
+    {"move": "Harden"},
+    {"move": "Aqua Jet"},
+    {"move": "Rollout"}
+  ],
+  "UltraMoonEntry": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
   "number": 767,
-  "Entry": {
-    "UltraMoon": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
-    "Sword": "It's nature's cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
-    "Shield": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
-    "Moon": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
-    "UltraSun": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
-    "Sun": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Struggle Bug",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      }
-    ],
-    "egg": [
-      {"move": "Metal Claw"},
-      {"move": "Wide Guard"},
-      {"move": "Harden"},
-      {"move": "Aqua Jet"},
-      {"move": "Rollout"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "12.0kg",
-    "category": "Turn Tail Pokémon",
-    "height": "0.5m"
-  },
+  "MoonEntry": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+  "spatk": 20,
+  "UltraSunEntry": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+  "atk": 35,
+  "abilityHidden": "",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Struggle Bug",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    }
+  ],
+  "type2": "Water",
+  "eggGroup2": "Water 3",
+  "spd": 80,
+  "weight": "12.0kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "dfs": 40,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Wimpod",
-  "Stats": {
-    "dfs": 40,
-    "spatk": 20,
-    "spd": 80,
-    "hp": 25,
-    "atk": 35,
-    "spdfs": 30
-  },
-  "Biology": {
-    "ability1": "Wimp Out",
-    "type2": "Water",
-    "eggGroup2": "Water 3",
-    "eggGroup1": "Bug",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Bug",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It's nature's cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+  "spdfs": 30,
+  "category": "Turn Tail Pokémon"
 }

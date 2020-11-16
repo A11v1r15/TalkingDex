@@ -1,436 +1,430 @@
 {
+  "ShieldEntry": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
+  "extraMega": false,
+  "ability1": "Tangled Feet",
+  "hp": 80,
+  "ability2": "Screen Cleaner",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Avalanche",
+      "technical": "TM64"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Psychic Terrain",
+      "technical": "TM91"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
   "number": 866,
-  "Entry": {
-    "Sword": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
-    "Shield": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Avalanche",
-        "technical": "TM64"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Psychic Terrain",
-        "technical": "TM91"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fake Tears",
-        "lvl": "1"
-      },
-      {
-        "move": "Slack Off",
-        "lvl": "1"
-      },
-      {
-        "move": "After You",
-        "lvl": "1"
-      },
-      {
-        "move": "Block",
-        "lvl": "1"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "1"
-      },
-      {
-        "move": "Encore",
-        "lvl": "1"
-      },
-      {
-        "move": "Role Play",
-        "lvl": "1"
-      },
-      {
-        "move": "Protect",
-        "lvl": "1"
-      },
-      {
-        "move": "Recycle",
-        "lvl": "1"
-      },
-      {
-        "move": "Mimic",
-        "lvl": "1"
-      },
-      {
-        "move": "Light Screen",
-        "lvl": "1"
-      },
-      {
-        "move": "Reflect",
-        "lvl": "1"
-      },
-      {
-        "move": "Safeguard",
-        "lvl": "1"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "lvl": "1"
-      },
-      {
-        "move": "Misty Terrain",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "1"
-      },
-      {
-        "move": "Baton Pass",
-        "lvl": "1"
-      },
-      {
-        "move": "Ice Shard",
-        "lvl": "1"
-      },
-      {
-        "move": "Confusion",
-        "lvl": "12"
-      },
-      {
-        "move": "Ally Switch",
-        "lvl": "16"
-      },
-      {
-        "move": "Icy Wind",
-        "lvl": "20"
-      },
-      {
-        "move": "Double Kick",
-        "lvl": "24"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "28"
-      },
-      {
-        "move": "Hypnosis",
-        "lvl": "32"
-      },
-      {
-        "move": "Mirror Coat",
-        "lvl": "36"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "40"
-      },
-      {
-        "move": "Freeze-Dry",
-        "lvl": "44"
-      },
-      {
-        "move": "Psychic",
-        "lvl": "48"
-      },
-      {
-        "move": "Teeter Dance",
-        "lvl": "52"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "58.2kg",
-    "category": "Comedian Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 110,
+  "atk": 85,
+  "abilityHidden": "Ice Body",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Fake Tears",
+      "lvl": "1"
+    },
+    {
+      "move": "Slack Off",
+      "lvl": "1"
+    },
+    {
+      "move": "After You",
+      "lvl": "1"
+    },
+    {
+      "move": "Block",
+      "lvl": "1"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Encore",
+      "lvl": "1"
+    },
+    {
+      "move": "Role Play",
+      "lvl": "1"
+    },
+    {
+      "move": "Protect",
+      "lvl": "1"
+    },
+    {
+      "move": "Recycle",
+      "lvl": "1"
+    },
+    {
+      "move": "Mimic",
+      "lvl": "1"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "1"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "1"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "1"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "lvl": "1"
+    },
+    {
+      "move": "Misty Terrain",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Baton Pass",
+      "lvl": "1"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "12"
+    },
+    {
+      "move": "Ally Switch",
+      "lvl": "16"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "20"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "24"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "28"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "32"
+    },
+    {
+      "move": "Mirror Coat",
+      "lvl": "36"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "40"
+    },
+    {
+      "move": "Freeze-Dry",
+      "lvl": "44"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "48"
+    },
+    {
+      "move": "Teeter Dance",
+      "lvl": "52"
+    }
+  ],
+  "type2": "Psychic",
+  "eggGroup2": "",
+  "spd": 70,
+  "weight": "58.2kg",
+  "eggGroup1": "Human-Like",
+  "hasMega": false,
+  "type1": "Ice",
+  "hasGalarian": false,
+  "dfs": 75,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Mr. Rime",
-  "Stats": {
-    "dfs": 75,
-    "spatk": 110,
-    "spd": 70,
-    "hp": 80,
-    "atk": 85,
-    "spdfs": 100
-  },
-  "Biology": {
-    "ability1": "Tangled Feet",
-    "type2": "Psychic",
-    "eggGroup2": "",
-    "eggGroup1": "Human-Like",
-    "abilityHidden": "Ice Body",
-    "ability2": "Screen Cleaner",
-    "type1": "Ice",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+  "spdfs": 100,
+  "category": "Comedian Pokémon"
 }

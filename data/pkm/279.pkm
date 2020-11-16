@@ -1,286 +1,280 @@
 {
+  "EmeraldEntry": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+  "ability1": "Keen Eye",
+  "AlphaSapphireEntry": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+  "hp": 60,
+  "ability2": "Drizzle",
+  "eggMoves": [],
+  "UltraMoonEntry": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
   "number": 279,
-  "Entry": {
-    "AlphaSapphire": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
-    "UltraMoon": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
-    "Shield": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-    "Moon": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
-    "White2": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-    "Diamond": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
-    "UltraSun": "It places small Pokémon into its spacious beak and carries them around. No one knows where it's taking them.",
-    "Black": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-    "Black2": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
-    "FireRed": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
-    "Sun": "Its spacious beak is large enough for a small child to fit right inside.",
-    "HearthGold": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
-    "OmegaRuby": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
-    "Pearl": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.",
-    "White": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-    "Sword": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-    "Sapphire": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
-    "LeafGreen": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
-    "Platinum": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-    "Emerald": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
-    "X": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
-    "Y": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
-    "Ruby": "Pelipper is a flying transporter that carries small Pokémon and Eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
-    "Soulsilver": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Hurricane",
-        "technical": "TR89"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Protect",
-        "lvl": "1"
-      },
-      {
-        "move": "Soak",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Agility",
-        "lvl": "1"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Tailwind",
-        "lvl": "1"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "1"
-      },
-      {
-        "move": "Wing Attack",
-        "lvl": "15"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "20"
-      },
-      {
-        "move": "Stockpile",
-        "lvl": "28"
-      },
-      {
-        "move": "Swallow",
-        "lvl": "28"
-      },
-      {
-        "move": "Spit Up",
-        "lvl": "28"
-      },
-      {
-        "move": "Fling",
-        "lvl": "34"
-      },
-      {
-        "move": "Mist",
-        "lvl": "41"
-      },
-      {
-        "move": "Roost",
-        "lvl": "48"
-      },
-      {
-        "move": "Hurricane",
-        "lvl": "55"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "62"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "28.0kg",
-    "category": "Water Bird Pokémon",
-    "height": "1.2m"
-  },
+  "MoonEntry": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
+  "spatk": 95,
+  "UltraSunEntry": "It places small Pokémon into its spacious beak and carries them around. No one knows where it's taking them.",
+  "atk": 50,
+  "height": "1.2m",
+  "type2": "Flying",
+  "WhiteEntry": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+  "eggGroup2": "Flying",
+  "spd": 65,
+  "weight": "28.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 100,
+  "SapphireEntry": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+  "hasAlolan": false,
+  "DiamondEntry": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
   "name": "Pelipper",
-  "Stats": {
-    "dfs": 100,
-    "spatk": 95,
-    "spd": 65,
-    "hp": 60,
-    "atk": 50,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "Flying",
-    "eggGroup2": "Flying",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Rain Dish",
-    "ability2": "Drizzle",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 70,
+  "ShieldEntry": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+  "extraMega": false,
+  "HearthGoldEntry": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+  "YEntry": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+  "SunEntry": "Its spacious beak is large enough for a small child to fit right inside.",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Hurricane",
+      "technical": "TR89"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+  "PlatinumEntry": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+  "abilityHidden": "Rain Dish",
+  "lvlUpMoves": [
+    {
+      "move": "Protect",
+      "lvl": "1"
+    },
+    {
+      "move": "Soak",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Agility",
+      "lvl": "1"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "15"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "20"
+    },
+    {
+      "move": "Stockpile",
+      "lvl": "28"
+    },
+    {
+      "move": "Swallow",
+      "lvl": "28"
+    },
+    {
+      "move": "Spit Up",
+      "lvl": "28"
+    },
+    {
+      "move": "Fling",
+      "lvl": "34"
+    },
+    {
+      "move": "Mist",
+      "lvl": "41"
+    },
+    {
+      "move": "Roost",
+      "lvl": "48"
+    },
+    {
+      "move": "Hurricane",
+      "lvl": "55"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "62"
+    }
+  ],
+  "RubyEntry": "Pelipper is a flying transporter that carries small Pokémon and Eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
+  "BlackEntry": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+  "OmegaRubyEntry": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
+  "colour": "Yellow",
+  "SoulsilverEntry": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+  "FireRedEntry": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
+  "White2Entry": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+  "SwordEntry": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+  "PearlEntry": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.",
+  "category": "Water Bird Pokémon",
+  "LeafGreenEntry": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
+  "Black2Entry": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it."
 }

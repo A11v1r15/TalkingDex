@@ -1,276 +1,271 @@
 {
+  "YellowEntry": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+  "EmeraldEntry": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+  "ability1": "Hyper Cutter",
+  "AlphaSapphireEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "hp": 30,
+  "SilverEntry": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+  "ability2": "Shell Armor",
+  "eggMoves": [
+    {"move": "Knock Off"},
+    {"move": "Ancient Power"},
+    {"move": "Hammer Arm"},
+    {"move": "Slash"},
+    {"move": "Night Slash"}
+  ],
   "number": 98,
-  "Entry": {
-    "Shield": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-    "Black": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "Black2": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "FireRed": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-    "HearthGold": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-    "Sword": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-    "Sapphire": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-    "Platinum": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "Emerald": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
-    "X": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-    "Y": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-    "Ruby": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-    "Soulsilver": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
-    "AlphaSapphire": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-    "Gold": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
-    "Blue": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-    "LetsGoPikachu": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-    "White2": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "Diamond": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "OmegaRuby": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-    "Red": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-    "Pearl": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "Silver": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
-    "White": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
-    "Yellow": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-    "LeafGreen": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-    "LetsGoEevee": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
-    "Crystal": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Razor Shell",
-        "technical": "TM83"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "4"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "8"
-      },
-      {
-        "move": "Mud Shot",
-        "lvl": "12"
-      },
-      {
-        "move": "Protect",
-        "lvl": "16"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "20"
-      },
-      {
-        "move": "Stomp",
-        "lvl": "24"
-      },
-      {
-        "move": "Flail",
-        "lvl": "29"
-      },
-      {
-        "move": "Razor Shell",
-        "lvl": "32"
-      },
-      {
-        "move": "Slam",
-        "lvl": "36"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "40"
-      },
-      {
-        "move": "Crabhammer",
-        "lvl": "44"
-      },
-      {
-        "move": "Guillotine",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Knock Off"},
-      {"move": "Ancient Power"},
-      {"move": "Hammer Arm"},
-      {"move": "Slash"},
-      {"move": "Night Slash"}
-    ]
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "6.5kg",
-    "category": "River Crab Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 25,
+  "atk": 105,
+  "RedEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+  "height": "0.4m",
+  "type2": "",
+  "WhiteEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "eggGroup2": "",
+  "spd": 50,
+  "CrystalEntry": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
+  "weight": "6.5kg",
+  "eggGroup1": "Water 3",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlueEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+  "dfs": 90,
+  "GoldEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+  "SapphireEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+  "DiamondEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
   "name": "Krabby",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 25,
-    "spd": 50,
-    "hp": 30,
-    "atk": 105,
-    "spdfs": 25
-  },
-  "Biology": {
-    "ability1": "Hyper Cutter",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Water 3",
-    "abilityHidden": "Sheer Force",
-    "ability2": "Shell Armor",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 25,
+  "ShieldEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+  "extraMega": false,
+  "HearthGoldEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+  "98Entry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "YEntry": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Razor Shell",
+      "technical": "TM83"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+  "PlatinumEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "abilityHidden": "Sheer Force",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "4"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "8"
+    },
+    {
+      "move": "Mud Shot",
+      "lvl": "12"
+    },
+    {
+      "move": "Protect",
+      "lvl": "16"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "20"
+    },
+    {
+      "move": "Stomp",
+      "lvl": "24"
+    },
+    {
+      "move": "Flail",
+      "lvl": "29"
+    },
+    {
+      "move": "Razor Shell",
+      "lvl": "32"
+    },
+    {
+      "move": "Slam",
+      "lvl": "36"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "40"
+    },
+    {
+      "move": "Crabhammer",
+      "lvl": "44"
+    },
+    {
+      "move": "Guillotine",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "BlackEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "OmegaRubyEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "LetsGoEeveeEntry": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+  "colour": "Red",
+  "SoulsilverEntry": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+  "FireRedEntry": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+  "White2Entry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "SwordEntry": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+  "PearlEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "category": "River Crab Pokémon",
+  "LeafGreenEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+  "Black2Entry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle."
 }

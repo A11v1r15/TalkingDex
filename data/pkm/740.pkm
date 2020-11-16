@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Hyper Cutter",
+  "hp": 97,
+  "SunEntry": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
+  "ability2": "Iron Fist",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "UltraMoonEntry": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
   "number": 740,
-  "Entry": {
-    "UltraMoon": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
-    "Moon": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
-    "UltraSun": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
-    "Sun": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur."
-  },
-  "Moves": {},
-  "Flair": {"category": "Woolly Crab Pokémon"},
+  "MoonEntry": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
+  "spatk": 62,
+  "UltraSunEntry": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
+  "atk": 132,
+  "abilityHidden": "Anger Point",
+  "type2": "Ice",
+  "eggGroup2": "",
+  "spd": 43,
+  "eggGroup1": "Water 3",
+  "hasMega": false,
+  "type1": "Fighting",
+  "hasGalarian": false,
+  "dfs": 77,
+  "hasAlolan": false,
   "name": "Crabominable",
-  "Stats": {
-    "dfs": 77,
-    "spatk": 62,
-    "spd": 43,
-    "hp": 97,
-    "atk": 132,
-    "spdfs": 67
-  },
-  "Biology": {
-    "ability1": "Hyper Cutter",
-    "type2": "Ice",
-    "eggGroup2": "",
-    "eggGroup1": "Water 3",
-    "abilityHidden": "Anger Point",
-    "ability2": "Iron Fist",
-    "type1": "Fighting",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 67,
+  "category": "Woolly Crab Pokémon"
 }

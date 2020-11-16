@@ -1,268 +1,262 @@
 {
+  "EmeraldEntry": "Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.",
+  "ability1": "Static",
+  "AlphaSapphireEntry": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
+  "hp": 70,
+  "ability2": "Lightning Rod",
+  "eggMoves": [],
+  "UltraMoonEntry": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
   "number": 310,
-  "Entry": {
-    "AlphaSapphire": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
-    "UltraMoon": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
-    "Shield": "It rarely appears before people. It is said to nest where lightning has fallen.",
-    "White2": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "Diamond": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "UltraSun": "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
-    "Black": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "Black2": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "FireRed": "It rarely appears before people. It is said to nest where lightning has fallen.",
-    "HearthGold": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
-    "OmegaRuby": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
-    "Pearl": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "White": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "Sword": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
-    "Sapphire": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
-    "LeafGreen": "It rarely appears before people. It is said to nest where lightning has fallen.",
-    "Platinum": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "Emerald": "Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.",
-    "X": "It rarely appears before people. It is said to nest where lightning has fallen.",
-    "Y": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
-    "Ruby": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
-    "Soulsilver": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Electric Terrain",
-        "technical": "TM90"
-      },
-      {
-        "move": "Eerie Impulse",
-        "technical": "TM93"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fire Fang",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Howl",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "12"
-      },
-      {
-        "move": "Shock Wave",
-        "lvl": "16"
-      },
-      {
-        "move": "Bite",
-        "lvl": "20"
-      },
-      {
-        "move": "Thunder Fang",
-        "lvl": "24"
-      },
-      {
-        "move": "Roar",
-        "lvl": "30"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "36"
-      },
-      {
-        "move": "Charge",
-        "lvl": "42"
-      },
-      {
-        "move": "Wild Charge",
-        "lvl": "48"
-      },
-      {
-        "move": "Thunder",
-        "lvl": "54"
-      },
-      {
-        "move": "Electric Terrain",
-        "lvl": "60"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "40.2kg",
-    "category": "Discharge Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 105,
+  "UltraSunEntry": "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
+  "atk": 75,
+  "height": "1.5m",
+  "type2": "",
+  "WhiteEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "eggGroup2": "",
+  "spd": 105,
+  "weight": "40.2kg",
+  "eggGroup1": "Field",
+  "hasMega": true,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "dfs": 60,
+  "SapphireEntry": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head.",
+  "hasAlolan": false,
+  "DiamondEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
   "name": "Manectric",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 105,
-    "spd": 105,
-    "hp": 70,
-    "atk": 75,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Static",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Minus",
-    "ability2": "Lightning Rod",
-    "type1": "Electric",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 60,
+  "ShieldEntry": "It rarely appears before people. It is said to nest where lightning has fallen.",
+  "extraMega": false,
+  "HearthGoldEntry": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
+  "YEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Electric Terrain",
+      "technical": "TM90"
+    },
+    {
+      "move": "Eerie Impulse",
+      "technical": "TM93"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "It rarely appears before people. It is said to nest where lightning has fallen.",
+  "PlatinumEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "abilityHidden": "Minus",
+  "lvlUpMoves": [
+    {
+      "move": "Fire Fang",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Howl",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "12"
+    },
+    {
+      "move": "Shock Wave",
+      "lvl": "16"
+    },
+    {
+      "move": "Bite",
+      "lvl": "20"
+    },
+    {
+      "move": "Thunder Fang",
+      "lvl": "24"
+    },
+    {
+      "move": "Roar",
+      "lvl": "30"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "36"
+    },
+    {
+      "move": "Charge",
+      "lvl": "42"
+    },
+    {
+      "move": "Wild Charge",
+      "lvl": "48"
+    },
+    {
+      "move": "Thunder",
+      "lvl": "54"
+    },
+    {
+      "move": "Electric Terrain",
+      "lvl": "60"
+    }
+  ],
+  "RubyEntry": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
+  "BlackEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "OmegaRubyEntry": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
+  "colour": "Yellow",
+  "SoulsilverEntry": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
+  "FireRedEntry": "It rarely appears before people. It is said to nest where lightning has fallen.",
+  "White2Entry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "SwordEntry": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+  "PearlEntry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+  "category": "Discharge Pokémon",
+  "LeafGreenEntry": "It rarely appears before people. It is said to nest where lightning has fallen.",
+  "Black2Entry": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts."
 }

@@ -1,188 +1,182 @@
 {
+  "ShieldEntry": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+  "extraMega": false,
+  "HearthGoldEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+  "ability1": "Natural Cure",
+  "YEntry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+  "AlphaSapphireEntry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+  "hp": 40,
+  "ability2": "Poison Point",
+  "tmTrMoves": [
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Synthesis"},
+    {"move": "Cotton Spore"},
+    {"move": "Sleep Powder"},
+    {"move": "Razor Leaf"},
+    {"move": "Extrasensory"},
+    {"move": "Life Dew"}
+  ],
+  "XEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
   "number": 406,
-  "Entry": {
-    "AlphaSapphire": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-    "Shield": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
-    "White2": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen.",
-    "Diamond": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-    "Black": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
-    "Black2": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen.",
-    "HearthGold": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-    "OmegaRuby": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-    "Pearl": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
-    "White": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
-    "Sword": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison's toxicity is increased.",
-    "Platinum": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
-    "X": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
-    "Y": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-    "Soulsilver": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Growth",
-        "lvl": "1"
-      },
-      {
-        "move": "Stun Spore",
-        "lvl": "1"
-      },
-      {
-        "move": "Worry Seed",
-        "lvl": "1"
-      }
-    ],
-    "egg": [
-      {"move": "Synthesis"},
-      {"move": "Cotton Spore"},
-      {"move": "Sleep Powder"},
-      {"move": "Razor Leaf"},
-      {"move": "Extrasensory"},
-      {"move": "Life Dew"}
-    ]
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "1.2kg",
-    "category": "Bud Pokémon",
-    "height": "0.2m"
-  },
+  "spatk": 50,
+  "atk": 30,
+  "PlatinumEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+  "abilityHidden": "Leaf Guard",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Growth",
+      "lvl": "1"
+    },
+    {
+      "move": "Stun Spore",
+      "lvl": "1"
+    },
+    {
+      "move": "Worry Seed",
+      "lvl": "1"
+    }
+  ],
+  "type2": "Poison",
+  "WhiteEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+  "eggGroup2": "",
+  "spd": 55,
+  "weight": "1.2kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+  "OmegaRubyEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+  "dfs": 35,
+  "colour": "Green",
+  "hasAlolan": false,
+  "DiamondEntry": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+  "SoulsilverEntry": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
   "name": "Budew",
-  "Stats": {
-    "dfs": 35,
-    "spatk": 50,
-    "spd": 55,
-    "hp": 40,
-    "atk": 30,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Natural Cure",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Leaf Guard",
-    "ability2": "Poison Point",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen.",
+  "SwordEntry": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison's toxicity is increased.",
+  "PearlEntry": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+  "spdfs": 70,
+  "category": "Bud Pokémon",
+  "Black2Entry": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen."
 }

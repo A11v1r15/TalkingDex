@@ -1,269 +1,263 @@
 {
+  "ShieldEntry": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
+  "extraMega": false,
+  "HearthGoldEntry": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
+  "ability1": "Pressure",
+  "YEntry": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+  "AlphaSapphireEntry": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+  "hp": 70,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Cross Poison",
+      "technical": "TM73"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
   "number": 416,
-  "Entry": {
-    "AlphaSapphire": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
-    "Shield": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
-    "White2": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
-    "Diamond": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
-    "Black": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
-    "Black2": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
-    "HearthGold": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
-    "OmegaRuby": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
-    "Pearl": "When endangered, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
-    "White": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
-    "Sword": "It skillfully commands its grubs in battles with its enemies. The grubs are willing to risk their lives to defend Vespiquen.",
-    "Platinum": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
-    "X": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
-    "Y": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
-    "Soulsilver": "It raises grubs in the holes in its body. It secretes pheromones to control Combee."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Cross Poison",
-        "technical": "TM73"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Slash",
-        "lvl": "0"
-      },
-      {
-        "move": "Slash",
-        "lvl": "1"
-      },
-      {
-        "move": "Struggle Bug",
-        "lvl": "1"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "1"
-      },
-      {
-        "move": "Gust",
-        "lvl": "1"
-      },
-      {
-        "move": "Poison Sting",
-        "lvl": "1"
-      },
-      {
-        "move": "Confuse Ray",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "4"
-      },
-      {
-        "move": "Aromatic Mist",
-        "lvl": "8"
-      },
-      {
-        "move": "Fell Stinger",
-        "lvl": "12"
-      },
-      {
-        "move": "Fury Swipes",
-        "lvl": "16"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "20"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "24"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "28"
-      },
-      {
-        "move": "Power Gem",
-        "lvl": "32"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "36"
-      },
-      {
-        "move": "Attack Order",
-        "lvl": "40"
-      },
-      {
-        "move": "Defend Order",
-        "lvl": "40"
-      },
-      {
-        "move": "Destiny Bond",
-        "lvl": "44"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "38.5kg",
-    "category": "Beehive Pokémon",
-    "height": "1.2m"
-  },
+  "spatk": 80,
+  "atk": 80,
+  "PlatinumEntry": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+  "abilityHidden": "Unnerve",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Slash",
+      "lvl": "0"
+    },
+    {
+      "move": "Slash",
+      "lvl": "1"
+    },
+    {
+      "move": "Struggle Bug",
+      "lvl": "1"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "1"
+    },
+    {
+      "move": "Gust",
+      "lvl": "1"
+    },
+    {
+      "move": "Poison Sting",
+      "lvl": "1"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "4"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "8"
+    },
+    {
+      "move": "Fell Stinger",
+      "lvl": "12"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "16"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "20"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "24"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "28"
+    },
+    {
+      "move": "Power Gem",
+      "lvl": "32"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "36"
+    },
+    {
+      "move": "Attack Order",
+      "lvl": "40"
+    },
+    {
+      "move": "Defend Order",
+      "lvl": "40"
+    },
+    {
+      "move": "Destiny Bond",
+      "lvl": "44"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+  "eggGroup2": "",
+  "spd": 40,
+  "weight": "38.5kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+  "OmegaRubyEntry": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+  "dfs": 102,
+  "colour": "Yellow",
+  "hasAlolan": false,
+  "DiamondEntry": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+  "SoulsilverEntry": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
   "name": "Vespiquen",
-  "Stats": {
-    "dfs": 102,
-    "spatk": 80,
-    "spd": 40,
-    "hp": 70,
-    "atk": 80,
-    "spdfs": 102
-  },
-  "Biology": {
-    "ability1": "Pressure",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Unnerve",
-    "ability2": "",
-    "type1": "Bug",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+  "SwordEntry": "It skillfully commands its grubs in battles with its enemies. The grubs are willing to risk their lives to defend Vespiquen.",
+  "PearlEntry": "When endangered, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
+  "spdfs": 102,
+  "category": "Beehive Pokémon",
+  "Black2Entry": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding."
 }

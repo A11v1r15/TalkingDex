@@ -1,248 +1,242 @@
 {
+  "ShieldEntry": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
+  "extraMega": false,
+  "ability1": "Run Away",
+  "hp": 70,
+  "ability2": "Unburden",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "Tail Slap",
+      "technical": "TM84"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "eggMoves": [],
   "number": 828,
-  "Entry": {
-    "Sword": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
-    "Shield": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "Tail Slap",
-        "technical": "TM84"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Thief",
-        "lvl": "0"
-      },
-      {
-        "move": "Thief",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Beat Up",
-        "lvl": "1"
-      },
-      {
-        "move": "Hone Claws",
-        "lvl": "1"
-      },
-      {
-        "move": "Snarl",
-        "lvl": "12"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "16"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "22"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "34"
-      },
-      {
-        "move": "Tail Slap",
-        "lvl": "40"
-      },
-      {
-        "move": "Foul Play",
-        "lvl": "46"
-      },
-      {
-        "move": "Parting Shot",
-        "lvl": "52"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "19.9kg",
-    "category": "Fox Pokémon",
-    "height": "1.2m"
-  },
+  "spatk": 87,
+  "atk": 58,
+  "abilityHidden": "Stakeout",
+  "height": "1.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Thief",
+      "lvl": "0"
+    },
+    {
+      "move": "Thief",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Beat Up",
+      "lvl": "1"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "1"
+    },
+    {
+      "move": "Snarl",
+      "lvl": "12"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "16"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "22"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "34"
+    },
+    {
+      "move": "Tail Slap",
+      "lvl": "40"
+    },
+    {
+      "move": "Foul Play",
+      "lvl": "46"
+    },
+    {
+      "move": "Parting Shot",
+      "lvl": "52"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 90,
+  "weight": "19.9kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "dfs": 58,
+  "colour": "Brown",
+  "hasAlolan": false,
   "name": "Thievul",
-  "Stats": {
-    "dfs": 58,
-    "spatk": 87,
-    "spd": 90,
-    "hp": 70,
-    "atk": 58,
-    "spdfs": 92
-  },
-  "Biology": {
-    "ability1": "Run Away",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Stakeout",
-    "ability2": "Unburden",
-    "type1": "Dark",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+  "spdfs": 92,
+  "category": "Fox Pokémon"
 }

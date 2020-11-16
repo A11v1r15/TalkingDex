@@ -1,192 +1,186 @@
 {
+  "ShieldEntry": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
+  "extraMega": false,
+  "ability1": "Leaf Guard",
+  "hp": 42,
+  "SunEntry": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+  "ability2": "Oblivious",
+  "tmTrMoves": [
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Synthesis"},
+    {"move": "Acupressure"},
+    {"move": "Endeavor"}
+  ],
+  "UltraMoonEntry": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt.",
   "number": 761,
-  "Entry": {
-    "UltraMoon": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt.",
-    "Sword": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
-    "Shield": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
-    "Moon": "Although it's too sugary for human consumption, Bounsweet's sweat can be watered down into a juice with just the right amount of sweetness.",
-    "UltraSun": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
-    "Sun": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Splash",
-        "lvl": "1"
-      },
-      {
-        "move": "Play Nice",
-        "lvl": "4"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "8"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "12"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "16"
-      },
-      {
-        "move": "Magical Leaf",
-        "lvl": "20"
-      },
-      {
-        "move": "Flail",
-        "lvl": "24"
-      },
-      {
-        "move": "Teeter Dance",
-        "lvl": "28"
-      },
-      {
-        "move": "Aromatic Mist",
-        "lvl": "32"
-      },
-      {
-        "move": "Aromatherapy",
-        "lvl": "36"
-      }
-    ],
-    "egg": [
-      {"move": "Synthesis"},
-      {"move": "Acupressure"},
-      {"move": "Endeavor"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "3.2kg",
-    "category": "Fruit Pokémon",
-    "height": "0.3m"
-  },
+  "MoonEntry": "Although it's too sugary for human consumption, Bounsweet's sweat can be watered down into a juice with just the right amount of sweetness.",
+  "spatk": 30,
+  "UltraSunEntry": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
+  "atk": 30,
+  "abilityHidden": "Sweet Veil",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Splash",
+      "lvl": "1"
+    },
+    {
+      "move": "Play Nice",
+      "lvl": "4"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "8"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "12"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "16"
+    },
+    {
+      "move": "Magical Leaf",
+      "lvl": "20"
+    },
+    {
+      "move": "Flail",
+      "lvl": "24"
+    },
+    {
+      "move": "Teeter Dance",
+      "lvl": "28"
+    },
+    {
+      "move": "Aromatic Mist",
+      "lvl": "32"
+    },
+    {
+      "move": "Aromatherapy",
+      "lvl": "36"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 32,
+  "weight": "3.2kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "dfs": 38,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Bounsweet",
-  "Stats": {
-    "dfs": 38,
-    "spatk": 30,
-    "spd": 32,
-    "hp": 42,
-    "atk": 30,
-    "spdfs": 38
-  },
-  "Biology": {
-    "ability1": "Leaf Guard",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Sweet Veil",
-    "ability2": "Oblivious",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
+  "spdfs": 38,
+  "category": "Fruit Pokémon"
 }

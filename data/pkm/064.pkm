@@ -1,334 +1,329 @@
 {
+  "YellowEntry": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backwards.",
+  "EmeraldEntry": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
+  "ability1": "Synchronize",
+  "AlphaSapphireEntry": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
+  "hp": 40,
+  "SilverEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+  "ability2": "Inner Focus",
+  "eggMoves": [],
+  "UltraMoonEntry": "It possesses strong mental capabilities, but its psychic powers are halved when it's not holding a silver spoon.",
   "number": 64,
-  "Entry": {
-    "Shield": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
-    "Moon": "Kadabra's presence infests televisions and monitors with creepy shadows that bring bad luck.",
-    "Black": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-    "Black2": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-    "FireRed": "It happened one morning - a boy with extrasensory powers awoke in bed transformed into Kadabra.",
-    "HearthGold": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
-    "Sword": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
-    "Sapphire": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
-    "Platinum": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-    "Emerald": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
-    "X": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
-    "Y": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-    "Ruby": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
-    "Soulsilver": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-    "AlphaSapphire": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
-    "Gold": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
-    "UltraMoon": "It possesses strong mental capabilities, but its psychic powers are halved when it's not holding a silver spoon.",
-    "Blue": "It emits special alpha waves from its body that induce headaches just by being close by.",
-    "LetsGoPikachu": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
-    "White2": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-    "Diamond": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
-    "UltraSun": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
-    "Sun": "A theory exists that this Pokémon was a young boy who couldn't control his psychic powers and ended up transformed into this Pokémon.",
-    "OmegaRuby": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a trainer of this Pokémon.",
-    "Red": "It emits special alpha waves from its body that induce headaches just by being close by.",
-    "Pearl": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
-    "Silver": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
-    "White": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
-    "Yellow": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backwards.",
-    "LeafGreen": "It emits special alpha waves from its body that induce headaches just by being close.",
-    "LetsGoEevee": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
-    "Crystal": "When it closes its eyes, twice as many alpha particles come out of the surface of its body."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Speed Swap",
-        "technical": "TM62"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Psychic Terrain",
-        "technical": "TM91"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Tri Attack",
-        "technical": "TR19"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Confusion",
-        "lvl": "0"
-      },
-      {
-        "move": "Confusion",
-        "lvl": "1"
-      },
-      {
-        "move": "Kinesis",
-        "lvl": "1"
-      },
-      {
-        "move": "Disable",
-        "lvl": "1"
-      },
-      {
-        "move": "Teleport",
-        "lvl": "1"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "5"
-      },
-      {
-        "move": "Reflect",
-        "lvl": "10"
-      },
-      {
-        "move": "Ally Switch",
-        "lvl": "15"
-      },
-      {
-        "move": "Psycho Cut",
-        "lvl": "20"
-      },
-      {
-        "move": "Recover",
-        "lvl": "25"
-      },
-      {
-        "move": "Psyshock",
-        "lvl": "30"
-      },
-      {
-        "move": "Psychic",
-        "lvl": "35"
-      },
-      {
-        "move": "Role Play",
-        "lvl": "40"
-      },
-      {
-        "move": "Future Sight",
-        "lvl": "45"
-      },
-      {
-        "move": "Calm Mind",
-        "lvl": "50"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "56.5kg",
-    "category": "Psi Pokémon",
-    "height": "1.3m"
-  },
+  "MoonEntry": "Kadabra's presence infests televisions and monitors with creepy shadows that bring bad luck.",
+  "spatk": 120,
+  "UltraSunEntry": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
+  "64Entry": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+  "atk": 35,
+  "RedEntry": "It emits special alpha waves from its body that induce headaches just by being close by.",
+  "height": "1.3m",
+  "type2": "",
+  "WhiteEntry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+  "eggGroup2": "",
+  "spd": 105,
+  "CrystalEntry": "When it closes its eyes, twice as many alpha particles come out of the surface of its body.",
+  "weight": "56.5kg",
+  "eggGroup1": "Human-Like",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "BlueEntry": "It emits special alpha waves from its body that induce headaches just by being close by.",
+  "dfs": 30,
+  "GoldEntry": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+  "SapphireEntry": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+  "DiamondEntry": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
   "name": "Kadabra",
-  "Stats": {
-    "dfs": 30,
-    "spatk": 120,
-    "spd": 105,
-    "hp": 40,
-    "atk": 35,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Synchronize",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Human-Like",
-    "abilityHidden": "Magic Guard",
-    "ability2": "Inner Focus",
-    "type1": "Psychic",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 70,
+  "ShieldEntry": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+  "extraMega": false,
+  "HearthGoldEntry": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+  "YEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+  "SunEntry": "A theory exists that this Pokémon was a young boy who couldn't control his psychic powers and ended up transformed into this Pokémon.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Speed Swap",
+      "technical": "TM62"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Psychic Terrain",
+      "technical": "TM91"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Tri Attack",
+      "technical": "TR19"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+  "PlatinumEntry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+  "abilityHidden": "Magic Guard",
+  "lvlUpMoves": [
+    {
+      "move": "Confusion",
+      "lvl": "0"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Kinesis",
+      "lvl": "1"
+    },
+    {
+      "move": "Disable",
+      "lvl": "1"
+    },
+    {
+      "move": "Teleport",
+      "lvl": "1"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "5"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "10"
+    },
+    {
+      "move": "Ally Switch",
+      "lvl": "15"
+    },
+    {
+      "move": "Psycho Cut",
+      "lvl": "20"
+    },
+    {
+      "move": "Recover",
+      "lvl": "25"
+    },
+    {
+      "move": "Psyshock",
+      "lvl": "30"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "35"
+    },
+    {
+      "move": "Role Play",
+      "lvl": "40"
+    },
+    {
+      "move": "Future Sight",
+      "lvl": "45"
+    },
+    {
+      "move": "Calm Mind",
+      "lvl": "50"
+    }
+  ],
+  "RubyEntry": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
+  "BlackEntry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+  "OmegaRubyEntry": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a trainer of this Pokémon.",
+  "LetsGoEeveeEntry": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+  "colour": "Brown",
+  "SoulsilverEntry": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+  "FireRedEntry": "It happened one morning - a boy with extrasensory powers awoke in bed transformed into Kadabra.",
+  "White2Entry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+  "SwordEntry": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+  "PearlEntry": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+  "category": "Psi Pokémon",
+  "LeafGreenEntry": "It emits special alpha waves from its body that induce headaches just by being close.",
+  "Black2Entry": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so."
 }

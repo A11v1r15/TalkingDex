@@ -1,341 +1,335 @@
 {
-  "number": 555,
-  "Entry": {
-    "AlphaSapphire": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
-    "White": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
-    "Sword": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
-    "Shield": "This Pokémon's power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
-    "X": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
-    "White2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
-    "Y": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
-    "Black": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
-    "Black2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
-    "OmegaRuby": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Hammer Arm",
-        "lvl": "0"
-      },
-      {
-        "move": "Hammer Arm",
-        "lvl": "1"
-      },
-      {
-        "move": "Ember",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Incinerate",
-        "lvl": "12"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "16"
-      },
-      {
-        "move": "Fire Fang",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Fire Punch",
-        "lvl": "28"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "32"
-      },
-      {
-        "move": "Belly Drum",
-        "lvl": "38"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "44"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "50"
-      },
-      {
-        "move": "Superpower",
-        "lvl": "56"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "92.9kg",
-    "category": "Blazing Pokémon",
-    "height": "1.3m"
-  },
-  "name": "Darmanitan",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 30,
-    "spd": 95,
-    "hp": 105,
-    "atk": 140,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Sheer Force",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Zen Mode",
-    "ability2": "",
-    "type1": "Fire",
-    "xpGroup": "Medium Slow"
-  },
+  "ShieldEntry": "This Pokémon's power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
+  "extraMega": false,
+  "ability1": "Sheer Force",
+  "YEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+  "AlphaSapphireEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+  "hp": 105,
+  "ability2": "",
   "title": "Standard Mode",
-  "hasGigantamax": false
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+  "number": 555,
+  "spatk": 30,
+  "atk": 140,
+  "abilityHidden": "Zen Mode",
+  "height": "1.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Hammer Arm",
+      "lvl": "0"
+    },
+    {
+      "move": "Hammer Arm",
+      "lvl": "1"
+    },
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Incinerate",
+      "lvl": "12"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "16"
+    },
+    {
+      "move": "Fire Fang",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Fire Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "32"
+    },
+    {
+      "move": "Belly Drum",
+      "lvl": "38"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "44"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "50"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "56"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+  "eggGroup2": "",
+  "spd": 95,
+  "weight": "92.9kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Fire",
+  "hasGalarian": true,
+  "BlackEntry": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
+  "OmegaRubyEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+  "dfs": 55,
+  "colour": "Red",
+  "hasAlolan": false,
+  "name": "Darmanitan",
+  "White2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+  "SwordEntry": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
+  "spdfs": 55,
+  "category": "Blazing Pokémon",
+  "Black2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
 }

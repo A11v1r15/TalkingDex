@@ -1,267 +1,261 @@
 {
+  "extraMega": false,
+  "HearthGoldEntry": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+  "ability1": "Levitate",
+  "YEntry": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+  "AlphaSapphireEntry": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
+  "hp": 120,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Magic Room",
+      "technical": "TM72"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "eggMoves": [],
   "number": 488,
-  "Entry": {
-    "AlphaSapphire": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
-    "White2": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
-    "Diamond": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
-    "Black": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
-    "Black2": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
-    "HearthGold": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
-    "OmegaRuby": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
-    "Pearl": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
-    "White": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
-    "Platinum": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
-    "X": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
-    "Y": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
-    "Soulsilver": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Magic Room",
-        "technical": "TM72"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Confusion",
-        "lvl": "1"
-      },
-      {
-        "move": "Double Team",
-        "lvl": "1"
-      },
-      {
-        "move": "Mist",
-        "lvl": "6"
-      },
-      {
-        "move": "Aurora Beam",
-        "lvl": "12"
-      },
-      {
-        "move": "Psybeam",
-        "lvl": "18"
-      },
-      {
-        "move": "Psycho Shift",
-        "lvl": "24"
-      },
-      {
-        "move": "Slash",
-        "lvl": "30"
-      },
-      {
-        "move": "Psycho Cut",
-        "lvl": "36"
-      },
-      {
-        "move": "Moonlight",
-        "lvl": "42"
-      },
-      {
-        "move": "Safeguard",
-        "lvl": "48"
-      },
-      {
-        "move": "Psychic",
-        "lvl": "54"
-      },
-      {
-        "move": "Moonblast",
-        "lvl": "60"
-      },
-      {
-        "move": "Future Sight",
-        "lvl": "66"
-      },
-      {
-        "move": "Lunar Dance",
-        "lvl": "72"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "85.6kg",
-    "category": "Lunar Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 75,
+  "atk": 70,
+  "PlatinumEntry": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+  "abilityHidden": "",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Double Team",
+      "lvl": "1"
+    },
+    {
+      "move": "Mist",
+      "lvl": "6"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "12"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "18"
+    },
+    {
+      "move": "Psycho Shift",
+      "lvl": "24"
+    },
+    {
+      "move": "Slash",
+      "lvl": "30"
+    },
+    {
+      "move": "Psycho Cut",
+      "lvl": "36"
+    },
+    {
+      "move": "Moonlight",
+      "lvl": "42"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "48"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "54"
+    },
+    {
+      "move": "Moonblast",
+      "lvl": "60"
+    },
+    {
+      "move": "Future Sight",
+      "lvl": "66"
+    },
+    {
+      "move": "Lunar Dance",
+      "lvl": "72"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+  "eggGroup2": "",
+  "spd": 85,
+  "weight": "85.6kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "BlackEntry": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+  "OmegaRubyEntry": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "dfs": 120,
+  "colour": "Yellow",
+  "hasAlolan": false,
+  "DiamondEntry": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "SoulsilverEntry": "Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.",
   "name": "Cresselia",
-  "Stats": {
-    "dfs": 120,
-    "spatk": 75,
-    "spd": 85,
-    "hp": 120,
-    "atk": 70,
-    "spdfs": 130
-  },
-  "Biology": {
-    "ability1": "Levitate",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Psychic",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+  "PearlEntry": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "spdfs": 130,
+  "category": "Lunar Pokémon",
+  "Black2Entry": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully."
 }

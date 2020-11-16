@@ -1,287 +1,281 @@
 {
+  "EmeraldEntry": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+  "ability1": "Cute Charm",
+  "AlphaSapphireEntry": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+  "hp": 50,
+  "SilverEntry": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
+  "ability2": "Magic Guard",
+  "eggMoves": [
+    {"move": "Present"},
+    {"move": "Wish"},
+    {"move": "Aromatherapy"},
+    {"move": "Tickle"},
+    {"move": "Heal Pulse"}
+  ],
+  "UltraMoonEntry": "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past.",
   "number": 173,
-  "Entry": {
-    "Shield": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-    "Moon": "Because of its silhouette, it's believed to be a star reborn. For some reason, it loves Minior.",
-    "Black": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
-    "Black2": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-    "FireRed": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
-    "HearthGold": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-    "Sword": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-    "Sapphire": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-    "Platinum": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
-    "Emerald": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
-    "X": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
-    "Y": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
-    "Ruby": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-    "Soulsilver": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
-    "AlphaSapphire": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-    "Gold": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-    "UltraMoon": "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past.",
-    "White2": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
-    "Diamond": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
-    "UltraSun": "On nights with many shooting stars, they gather in packs and dance in circles. If you should see them, something good will happen!",
-    "Sun": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
-    "OmegaRuby": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
-    "Pearl": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
-    "Silver": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
-    "White": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
-    "LeafGreen": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-    "Crystal": "If the impact site of a meteorite is found, this Pokémon is certain to be within the immediate area."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Splash",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "1"
-      },
-      {
-        "move": "Sing",
-        "lvl": "4"
-      },
-      {
-        "move": "Sweet Kiss",
-        "lvl": "8"
-      },
-      {
-        "move": "Disarming Voice",
-        "lvl": "12"
-      },
-      {
-        "move": "Encore",
-        "lvl": "16"
-      },
-      {
-        "move": "Charm",
-        "lvl": "20"
-      }
-    ],
-    "egg": [
-      {"move": "Present"},
-      {"move": "Wish"},
-      {"move": "Aromatherapy"},
-      {"move": "Tickle"},
-      {"move": "Heal Pulse"}
-    ]
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "3.0kg",
-    "category": "Star Shape Pokémon",
-    "height": "0.3m"
-  },
+  "MoonEntry": "Because of its silhouette, it's believed to be a star reborn. For some reason, it loves Minior.",
+  "spatk": 45,
+  "UltraSunEntry": "On nights with many shooting stars, they gather in packs and dance in circles. If you should see them, something good will happen!",
+  "atk": 25,
+  "height": "0.3m",
+  "type2": "",
+  "WhiteEntry": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+  "eggGroup2": "",
+  "spd": 15,
+  "CrystalEntry": "If the impact site of a meteorite is found, this Pokémon is certain to be within the immediate area.",
+  "weight": "3.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Fairy",
+  "hasGalarian": false,
+  "dfs": 28,
+  "GoldEntry": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+  "SapphireEntry": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+  "hasAlolan": false,
+  "DiamondEntry": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
   "name": "Cleffa",
-  "Stats": {
-    "dfs": 28,
-    "spatk": 45,
-    "spd": 15,
-    "hp": 50,
-    "atk": 25,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Cute Charm",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Friend Guard",
-    "ability2": "Magic Guard",
-    "type1": "Fairy",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 55,
+  "ShieldEntry": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+  "extraMega": false,
+  "HearthGoldEntry": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+  "YEntry": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+  "SunEntry": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "XEntry": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+  "PlatinumEntry": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+  "abilityHidden": "Friend Guard",
+  "lvlUpMoves": [
+    {
+      "move": "Splash",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Sing",
+      "lvl": "4"
+    },
+    {
+      "move": "Sweet Kiss",
+      "lvl": "8"
+    },
+    {
+      "move": "Disarming Voice",
+      "lvl": "12"
+    },
+    {
+      "move": "Encore",
+      "lvl": "16"
+    },
+    {
+      "move": "Charm",
+      "lvl": "20"
+    }
+  ],
+  "RubyEntry": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+  "BlackEntry": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+  "OmegaRubyEntry": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+  "colour": "Pink",
+  "SoulsilverEntry": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
+  "FireRedEntry": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
+  "White2Entry": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+  "SwordEntry": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+  "PearlEntry": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+  "category": "Star Shape Pokémon",
+  "LeafGreenEntry": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+  "Black2Entry": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen."
 }

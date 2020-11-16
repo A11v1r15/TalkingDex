@@ -1,202 +1,196 @@
 {
+  "ShieldEntry": "It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast doesn't eat the shell\u2014 it eats only the contents.",
+  "extraMega": false,
+  "ability1": "Swarm",
+  "YEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+  "AlphaSapphireEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+  "hp": 50,
+  "ability2": "Shed Skin",
+  "tmTrMoves": [
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Megahorn",
+      "technical": "TR28"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Drill Run",
+      "technical": "TR87"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Counter"},
+    {"move": "Bug Bite"},
+    {"move": "Knock Off"},
+    {"move": "Slash"},
+    {"move": "Night Slash"}
+  ],
+  "XEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
   "number": 588,
-  "Entry": {
-    "AlphaSapphire": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-    "White": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
-    "Sword": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
-    "Shield": "It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast doesn't eat the shell\u2014 it eats only the contents.",
-    "X": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
-    "White2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-    "Y": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-    "Black": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
-    "Black2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-    "OmegaRuby": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Megahorn",
-        "technical": "TR28"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Drill Run",
-        "technical": "TR87"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "4"
-      },
-      {
-        "move": "Endure",
-        "lvl": "8"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "12"
-      },
-      {
-        "move": "Acid Spray",
-        "lvl": "16"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "20"
-      },
-      {
-        "move": "Flail",
-        "lvl": "24"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "28"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "32"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "36"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "40"
-      },
-      {
-        "move": "Bug Buzz",
-        "lvl": "44"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Counter"},
-      {"move": "Bug Bite"},
-      {"move": "Knock Off"},
-      {"move": "Slash"},
-      {"move": "Night Slash"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "5.9kg",
-    "category": "Clamping Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 40,
+  "atk": 75,
+  "abilityHidden": "No Guard",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "4"
+    },
+    {
+      "move": "Endure",
+      "lvl": "8"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "12"
+    },
+    {
+      "move": "Acid Spray",
+      "lvl": "16"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "20"
+    },
+    {
+      "move": "Flail",
+      "lvl": "24"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "28"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "32"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "36"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Bug Buzz",
+      "lvl": "44"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "5.9kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+  "OmegaRubyEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+  "dfs": 45,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Karrablast",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 40,
-    "spd": 60,
-    "hp": 50,
-    "atk": 75,
-    "spdfs": 45
-  },
-  "Biology": {
-    "ability1": "Swarm",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "No Guard",
-    "ability2": "Shed Skin",
-    "type1": "Bug",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+  "SwordEntry": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+  "spdfs": 45,
+  "category": "Clamping Pokémon",
+  "Black2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet."
 }

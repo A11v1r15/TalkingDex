@@ -1,212 +1,206 @@
 {
+  "ShieldEntry": "It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing.",
+  "extraMega": false,
+  "ability1": "Sturdy",
+  "YEntry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+  "AlphaSapphireEntry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+  "hp": 70,
+  "SunEntry": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+  "ability2": "Weak Armor",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+  "UltraMoonEntry": "Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.",
   "number": 525,
-  "Entry": {
-    "AlphaSapphire": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
-    "UltraMoon": "Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.",
-    "Shield": "It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing.",
-    "Moon": "It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.",
-    "White2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
-    "UltraSun": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
-    "Black": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
-    "Black2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
-    "Sun": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
-    "OmegaRuby": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
-    "White": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
-    "Sword": "If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.",
-    "X": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
-    "Y": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Heavy Slam",
-        "technical": "TR79"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Power Gem",
-        "lvl": "0"
-      },
-      {
-        "move": "Power Gem",
-        "lvl": "1"
-      },
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Stealth Rock",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "12"
-      },
-      {
-        "move": "Smack Down",
-        "lvl": "16"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "30"
-      },
-      {
-        "move": "Rock Blast",
-        "lvl": "36"
-      },
-      {
-        "move": "Sandstorm",
-        "lvl": "42"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "48"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "54"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "102.0kg",
-    "category": "Ore Pokémon",
-    "height": "0.9m"
-  },
+  "MoonEntry": "It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.",
+  "spatk": 50,
+  "UltraSunEntry": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+  "atk": 105,
+  "abilityHidden": "Sand Force",
+  "height": "0.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Power Gem",
+      "lvl": "0"
+    },
+    {
+      "move": "Power Gem",
+      "lvl": "1"
+    },
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Stealth Rock",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "12"
+    },
+    {
+      "move": "Smack Down",
+      "lvl": "16"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "30"
+    },
+    {
+      "move": "Rock Blast",
+      "lvl": "36"
+    },
+    {
+      "move": "Sandstorm",
+      "lvl": "42"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "48"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "54"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+  "eggGroup2": "",
+  "spd": 20,
+  "weight": "102.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Rock",
+  "hasGalarian": false,
+  "BlackEntry": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+  "OmegaRubyEntry": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+  "dfs": 105,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Boldore",
-  "Stats": {
-    "dfs": 105,
-    "spatk": 50,
-    "spd": 20,
-    "hp": 70,
-    "atk": 105,
-    "spdfs": 40
-  },
-  "Biology": {
-    "ability1": "Sturdy",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Sand Force",
-    "ability2": "Weak Armor",
-    "type1": "Rock",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+  "SwordEntry": "If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.",
+  "spdfs": 40,
+  "category": "Ore Pokémon",
+  "Black2Entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
 }

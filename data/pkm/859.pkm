@@ -1,212 +1,206 @@
 {
+  "ShieldEntry": "It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+  "extraMega": false,
+  "ability1": "Prankster",
+  "hp": 45,
+  "ability2": "Frisk",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [],
   "number": 859,
-  "Entry": {
-    "Sword": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
-    "Shield": "It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fake Out",
-        "lvl": "1"
-      },
-      {
-        "move": "Confide",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "4"
-      },
-      {
-        "move": "Flatter",
-        "lvl": "8"
-      },
-      {
-        "move": "Fake Tears",
-        "lvl": "12"
-      },
-      {
-        "move": "Assurance",
-        "lvl": "16"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "20"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "24"
-      },
-      {
-        "move": "Torment",
-        "lvl": "28"
-      },
-      {
-        "move": "Dark Pulse",
-        "lvl": "33"
-      },
-      {
-        "move": "Nasty Plot",
-        "lvl": "36"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "40"
-      },
-      {
-        "move": "Foul Play",
-        "lvl": "44"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "5.5kg",
-    "category": "Wily Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 55,
+  "atk": 45,
+  "abilityHidden": "Pickpocket",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Fake Out",
+      "lvl": "1"
+    },
+    {
+      "move": "Confide",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "4"
+    },
+    {
+      "move": "Flatter",
+      "lvl": "8"
+    },
+    {
+      "move": "Fake Tears",
+      "lvl": "12"
+    },
+    {
+      "move": "Assurance",
+      "lvl": "16"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "20"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "24"
+    },
+    {
+      "move": "Torment",
+      "lvl": "28"
+    },
+    {
+      "move": "Dark Pulse",
+      "lvl": "33"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "36"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "40"
+    },
+    {
+      "move": "Foul Play",
+      "lvl": "44"
+    }
+  ],
+  "type2": "Fairy",
+  "eggGroup2": "Human-Like",
+  "spd": 50,
+  "weight": "5.5kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Dark",
+  "hasGalarian": false,
+  "dfs": 30,
+  "colour": "Pink",
+  "hasAlolan": false,
   "name": "Impidimp",
-  "Stats": {
-    "dfs": 30,
-    "spatk": 55,
-    "spd": 50,
-    "hp": 45,
-    "atk": 45,
-    "spdfs": 40
-  },
-  "Biology": {
-    "ability1": "Prankster",
-    "type2": "Fairy",
-    "eggGroup2": "Human-Like",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "Pickpocket",
-    "ability2": "Frisk",
-    "type1": "Dark",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
+  "spdfs": 40,
+  "category": "Wily Pokémon"
 }

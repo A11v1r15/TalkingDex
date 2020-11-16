@@ -1,244 +1,238 @@
 {
+  "ShieldEntry": "The black fur that covers this Pokémon's body is dense and springy. Even sharp fangs bounce right off.",
+  "extraMega": false,
+  "ability1": "Intimidate",
+  "YEntry": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+  "AlphaSapphireEntry": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+  "hp": 65,
+  "SunEntry": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pokémon to train.",
+  "ability2": "Sand Rush",
+  "tmTrMoves": [
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Thunder Fang",
+      "technical": "TM66"
+    },
+    {
+      "move": "Ice Fang",
+      "technical": "TM67"
+    },
+    {
+      "move": "Fire Fang",
+      "technical": "TM68"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Crunch",
+      "technical": "TR32"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Psychic Fangs",
+      "technical": "TR97"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+  "UltraMoonEntry": "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
   "number": 507,
-  "Entry": {
-    "AlphaSapphire": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
-    "UltraMoon": "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
-    "Shield": "The black fur that covers this Pokémon's body is dense and springy. Even sharp fangs bounce right off.",
-    "Moon": "This Pokémon obeys its master's orders faithfully. However, it refuses to listen to anything said by a person it doesn't respect.",
-    "White2": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
-    "UltraSun": "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can't easily penetrate it.",
-    "Black": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
-    "Black2": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
-    "Sun": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pokémon to train.",
-    "OmegaRuby": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
-    "White": "It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.",
-    "Sword": "Herdier is a very smart and friendly Pokémon. So much so that there's a theory that Herdier was the first Pokémon to partner with people.",
-    "X": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
-    "Y": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Thunder Fang",
-        "technical": "TM66"
-      },
-      {
-        "move": "Ice Fang",
-        "technical": "TM67"
-      },
-      {
-        "move": "Fire Fang",
-        "technical": "TM68"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Crunch",
-        "technical": "TR32"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Psychic Fangs",
-        "technical": "TR97"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "1"
-      },
-      {
-        "move": "Bite",
-        "lvl": "1"
-      },
-      {
-        "move": "Retaliate",
-        "lvl": "12"
-      },
-      {
-        "move": "Baby-Doll Eyes",
-        "lvl": "19"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "24"
-      },
-      {
-        "move": "Crunch",
-        "lvl": "30"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "36"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "42"
-      },
-      {
-        "move": "Reversal",
-        "lvl": "48"
-      },
-      {
-        "move": "Roar",
-        "lvl": "54"
-      },
-      {
-        "move": "Last Resort",
-        "lvl": "60"
-      },
-      {
-        "move": "Giga Impact",
-        "lvl": "66"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "14.7kg",
-    "category": "Loyal Dog Pokémon",
-    "height": "0.9m"
-  },
+  "MoonEntry": "This Pokémon obeys its master's orders faithfully. However, it refuses to listen to anything said by a person it doesn't respect.",
+  "spatk": 35,
+  "UltraSunEntry": "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can't easily penetrate it.",
+  "atk": 80,
+  "abilityHidden": "Scrappy",
+  "height": "0.9m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Retaliate",
+      "lvl": "12"
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "lvl": "19"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "24"
+    },
+    {
+      "move": "Crunch",
+      "lvl": "30"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "36"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "42"
+    },
+    {
+      "move": "Reversal",
+      "lvl": "48"
+    },
+    {
+      "move": "Roar",
+      "lvl": "54"
+    },
+    {
+      "move": "Last Resort",
+      "lvl": "60"
+    },
+    {
+      "move": "Giga Impact",
+      "lvl": "66"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "14.7kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlackEntry": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+  "OmegaRubyEntry": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+  "dfs": 65,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Herdier",
-  "Stats": {
-    "dfs": 65,
-    "spatk": 35,
-    "spd": 60,
-    "hp": 65,
-    "atk": 80,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Intimidate",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Scrappy",
-    "ability2": "Sand Rush",
-    "type1": "Normal",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
+  "SwordEntry": "Herdier is a very smart and friendly Pokémon. So much so that there's a theory that Herdier was the first Pokémon to partner with people.",
+  "spdfs": 65,
+  "category": "Loyal Dog Pokémon",
+  "Black2Entry": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon."
 }

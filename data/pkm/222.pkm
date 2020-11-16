@@ -1,308 +1,302 @@
 {
+  "EmeraldEntry": "Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+  "ability1": "Hustle",
+  "AlphaSapphireEntry": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
+  "hp": 65,
+  "SilverEntry": "In a south sea nation, the people live in communities that are built on groups of these Pokémon.",
+  "ability2": "Natural Cure",
+  "eggMoves": [
+    {"move": "Mist"},
+    {"move": "Confuse Ray"},
+    {"move": "Nature Power"},
+    {"move": "Curse"},
+    {"move": "Water Pulse"},
+    {"move": "Head Smash"}
+  ],
+  "UltraMoonEntry": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
   "number": 222,
-  "Entry": {
-    "Shield": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
-    "Moon": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
-    "Black": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
-    "Black2": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-    "FireRed": "In a south sea nation, the people live in communities that are built on groups of these Pokémon.",
-    "HearthGold": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-    "Sword": "It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.",
-    "Sapphire": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
-    "Platinum": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
-    "Emerald": "Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
-    "X": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
-    "Y": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-    "Ruby": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
-    "Soulsilver": "In a south-sea nation, the people live in communities that are built on groups of these Pokémon.",
-    "AlphaSapphire": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
-    "Gold": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-    "UltraMoon": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
-    "White2": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-    "Diamond": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
-    "UltraSun": "The pink of Corsola that live in Alola is deep and vibrant, thanks to seas filled with nutrition.",
-    "Sun": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
-    "OmegaRuby": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
-    "Pearl": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
-    "Silver": "In a south sea nation, the people live in communities that are built on groups of these Pokémon.",
-    "White": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
-    "LeafGreen": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-    "Crystal": "The points on its head absorb nutrients from clear water. They cannot survive in polluted water."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Icicle Spear",
-        "technical": "TM51"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "5"
-      },
-      {
-        "move": "Aqua Ring",
-        "lvl": "10"
-      },
-      {
-        "move": "Endure",
-        "lvl": "15"
-      },
-      {
-        "move": "Ancient Power",
-        "lvl": "20"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "25"
-      },
-      {
-        "move": "Flail",
-        "lvl": "30"
-      },
-      {
-        "move": "Life Dew",
-        "lvl": "35"
-      },
-      {
-        "move": "Power Gem",
-        "lvl": "40"
-      },
-      {
-        "move": "Earth Power",
-        "lvl": "45"
-      },
-      {
-        "move": "Recover",
-        "lvl": "50"
-      },
-      {
-        "move": "Mirror Coat",
-        "lvl": "55"
-      }
-    ],
-    "egg": [
-      {"move": "Mist"},
-      {"move": "Confuse Ray"},
-      {"move": "Nature Power"},
-      {"move": "Curse"},
-      {"move": "Water Pulse"},
-      {"move": "Head Smash"}
-    ]
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "5.0kg",
-    "category": "Coral Pokémon",
-    "height": "0.6m"
-  },
+  "MoonEntry": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
+  "spatk": 65,
+  "UltraSunEntry": "The pink of Corsola that live in Alola is deep and vibrant, thanks to seas filled with nutrition.",
+  "atk": 55,
+  "height": "0.6m",
+  "type2": "Rock",
+  "WhiteEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+  "eggGroup2": "Water 3",
+  "spd": 35,
+  "CrystalEntry": "The points on its head absorb nutrients from clear water. They cannot survive in polluted water.",
+  "weight": "5.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": true,
+  "dfs": 95,
+  "GoldEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+  "SapphireEntry": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
+  "hasAlolan": false,
+  "DiamondEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
   "name": "Corsola",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 65,
-    "spd": 35,
-    "hp": 65,
-    "atk": 55,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Hustle",
-    "type2": "Rock",
-    "eggGroup2": "Water 3",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Regenerator",
-    "ability2": "Natural Cure",
-    "type1": "Water",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 95,
+  "ShieldEntry": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
+  "extraMega": false,
+  "HearthGoldEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+  "YEntry": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+  "SunEntry": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
+  "tmTrMoves": [
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Icicle Spear",
+      "technical": "TM51"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "XEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
+  "PlatinumEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+  "abilityHidden": "Regenerator",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "5"
+    },
+    {
+      "move": "Aqua Ring",
+      "lvl": "10"
+    },
+    {
+      "move": "Endure",
+      "lvl": "15"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "20"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "25"
+    },
+    {
+      "move": "Flail",
+      "lvl": "30"
+    },
+    {
+      "move": "Life Dew",
+      "lvl": "35"
+    },
+    {
+      "move": "Power Gem",
+      "lvl": "40"
+    },
+    {
+      "move": "Earth Power",
+      "lvl": "45"
+    },
+    {
+      "move": "Recover",
+      "lvl": "50"
+    },
+    {
+      "move": "Mirror Coat",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
+  "BlackEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+  "OmegaRubyEntry": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
+  "colour": "Pink",
+  "SoulsilverEntry": "In a south-sea nation, the people live in communities that are built on groups of these Pokémon.",
+  "FireRedEntry": "In a south sea nation, the people live in communities that are built on groups of these Pokémon.",
+  "White2Entry": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+  "SwordEntry": "It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.",
+  "PearlEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+  "category": "Coral Pokémon",
+  "LeafGreenEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+  "Black2Entry": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water."
 }

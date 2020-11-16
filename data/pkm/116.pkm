@@ -1,250 +1,245 @@
 {
+  "YellowEntry": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+  "EmeraldEntry": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+  "ability1": "Swift Swim",
+  "AlphaSapphireEntry": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
+  "hp": 30,
+  "SilverEntry": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+  "ability2": "Sniper",
+  "eggMoves": [
+    {"move": "Aurora Beam"},
+    {"move": "Clear Smog"},
+    {"move": "Disable"},
+    {"move": "Flail"},
+    {"move": "Octazooka"},
+    {"move": "Splash"},
+    {"move": "Water Pulse"}
+  ],
   "number": 116,
-  "Entry": {
-    "Shield": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
-    "Black": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Black2": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "FireRed": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
-    "HearthGold": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
-    "Sword": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
-    "Sapphire": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fins on its back.",
-    "Platinum": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Emerald": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
-    "X": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-    "Y": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Ruby": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
-    "Soulsilver": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
-    "AlphaSapphire": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
-    "Gold": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
-    "Blue": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-    "LetsGoPikachu": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-    "White2": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Diamond": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "OmegaRuby": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
-    "Red": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-    "Pearl": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Silver": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
-    "White": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
-    "Yellow": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-    "LeafGreen": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-    "LetsGoEevee": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
-    "Crystal": "When they're in a safe location, they can be seen playfully tangling their tails together."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Outrage",
-        "technical": "TR24"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Dragon Dance",
-        "technical": "TR51"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Smokescreen",
-        "lvl": "5"
-      },
-      {
-        "move": "Twister",
-        "lvl": "10"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "15"
-      },
-      {
-        "move": "Dragon Breath",
-        "lvl": "20"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "25"
-      },
-      {
-        "move": "Agility",
-        "lvl": "30"
-      },
-      {
-        "move": "Laser Focus",
-        "lvl": "35"
-      },
-      {
-        "move": "Dragon Pulse",
-        "lvl": "40"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "45"
-      },
-      {
-        "move": "Dragon Dance",
-        "lvl": "50"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "55"
-      }
-    ],
-    "egg": [
-      {"move": "Aurora Beam"},
-      {"move": "Clear Smog"},
-      {"move": "Disable"},
-      {"move": "Flail"},
-      {"move": "Octazooka"},
-      {"move": "Splash"},
-      {"move": "Water Pulse"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "8.0kg",
-    "category": "Dragon Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 70,
+  "atk": 40,
+  "RedEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "height": "0.4m",
+  "type2": "",
+  "WhiteEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "eggGroup2": "Dragon",
+  "spd": 60,
+  "CrystalEntry": "When they're in a safe location, they can be seen playfully tangling their tails together.",
+  "weight": "8.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "116Entry": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
+  "BlueEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "dfs": 70,
+  "GoldEntry": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
+  "SapphireEntry": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fins on its back.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+  "DiamondEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
   "name": "Horsea",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 70,
-    "spd": 60,
-    "hp": 30,
-    "atk": 40,
-    "spdfs": 25
-  },
-  "Biology": {
-    "ability1": "Swift Swim",
-    "type2": "",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Damp",
-    "ability2": "Sniper",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 25,
+  "ShieldEntry": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
+  "extraMega": false,
+  "HearthGoldEntry": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
+  "YEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Outrage",
+      "technical": "TR24"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "PlatinumEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "abilityHidden": "Damp",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Smokescreen",
+      "lvl": "5"
+    },
+    {
+      "move": "Twister",
+      "lvl": "10"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "15"
+    },
+    {
+      "move": "Dragon Breath",
+      "lvl": "20"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "25"
+    },
+    {
+      "move": "Agility",
+      "lvl": "30"
+    },
+    {
+      "move": "Laser Focus",
+      "lvl": "35"
+    },
+    {
+      "move": "Dragon Pulse",
+      "lvl": "40"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "45"
+    },
+    {
+      "move": "Dragon Dance",
+      "lvl": "50"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "55"
+    }
+  ],
+  "RubyEntry": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+  "BlackEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "OmegaRubyEntry": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+  "LetsGoEeveeEntry": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+  "colour": "Blue",
+  "SoulsilverEntry": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+  "FireRedEntry": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
+  "White2Entry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "SwordEntry": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
+  "PearlEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "category": "Dragon Pokémon",
+  "LeafGreenEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "Black2Entry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
 }

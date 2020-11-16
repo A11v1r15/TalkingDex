@@ -1,31 +1,24 @@
 {
+  "ability1": "Magnet Pull",
+  "type2": "Electric",
+  "eggGroup2": "",
+  "spd": 20,
+  "hp": 40,
+  "SunEntry": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+  "eggGroup1": "Mineral",
+  "ability2": "Sturdy",
+  "type1": "Rock",
+  "xpGroup": "Medium Slow",
+  "dfs": 100,
+  "UltraMoonEntry": "Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.",
   "number": 74,
-  "Entry": {
-    "UltraMoon": "Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.",
-    "Moon": "If you accidentally step on a Geodude sleeping on the ground, you'll hear a crunching sound and feel a shock ripple through your entire body.",
-    "LetsGoPikachu": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
-    "UltraSun": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
-    "Sun": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
-    "LetsGoEevee": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock."
-  },
-  "Moves": {},
+  "MoonEntry": "If you accidentally step on a Geodude sleeping on the ground, you'll hear a crunching sound and feel a shock ripple through your entire body.",
+  "LetsGoEeveeEntry": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
+  "spatk": 30,
+  "UltraSunEntry": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
+  "LetsGoPikachuEntry": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
   "name": "Alolan Geodude",
-  "Stats": {
-    "dfs": 100,
-    "spatk": 30,
-    "spd": 20,
-    "hp": 40,
-    "atk": 80,
-    "spdfs": 30
-  },
-  "Flair": {},
-  "Biology": {
-    "ability1": "Magnet Pull",
-    "type2": "Electric",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Galvanize",
-    "ability2": "Sturdy",
-    "type1": "Rock"
-  }
+  "atk": 80,
+  "abilityHidden": "Galvanize",
+  "spdfs": 30
 }

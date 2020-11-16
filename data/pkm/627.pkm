@@ -1,232 +1,226 @@
 {
+  "ShieldEntry": "A combative Pokémon, it's ready to pick a fight with anyone. It has talons that can crush hard berries.",
+  "extraMega": false,
+  "ability1": "Keen Eye",
+  "YEntry": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+  "AlphaSapphireEntry": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+  "hp": 70,
+  "SunEntry": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+  "ability2": "Sheer Force",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Scary Face",
+      "technical": "TM26"
+    },
+    {
+      "move": "Steel Wing",
+      "technical": "TM30"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Bulk Up",
+      "technical": "TR48"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Brave Bird",
+      "technical": "TR66"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Hurricane",
+      "technical": "TR89"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
+  "XEntry": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+  "UltraMoonEntry": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
   "number": 627,
-  "Entry": {
-    "AlphaSapphire": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
-    "UltraMoon": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
-    "Shield": "A combative Pokémon, it's ready to pick a fight with anyone. It has talons that can crush hard berries.",
-    "Moon": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart.",
-    "White2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
-    "UltraSun": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
-    "Black": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-    "Black2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
-    "Sun": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
-    "OmegaRuby": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-    "White": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
-    "Sword": "If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
-    "X": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
-    "Y": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Scary Face",
-        "technical": "TM26"
-      },
-      {
-        "move": "Steel Wing",
-        "technical": "TM30"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Bulk Up",
-        "technical": "TR48"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Brave Bird",
-        "technical": "TR66"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Hurricane",
-        "technical": "TR89"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Peck",
-        "lvl": "1"
-      },
-      {
-        "move": "Leer",
-        "lvl": "1"
-      },
-      {
-        "move": "Hone Claws",
-        "lvl": "6"
-      },
-      {
-        "move": "Wing Attack",
-        "lvl": "12"
-      },
-      {
-        "move": "Tailwind",
-        "lvl": "18"
-      },
-      {
-        "move": "Scary Face",
-        "lvl": "24"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "30"
-      },
-      {
-        "move": "Slash",
-        "lvl": "36"
-      },
-      {
-        "move": "Whirlwind",
-        "lvl": "42"
-      },
-      {
-        "move": "Crush Claw",
-        "lvl": "48"
-      },
-      {
-        "move": "Air Slash",
-        "lvl": "55"
-      },
-      {
-        "move": "Defog",
-        "lvl": "60"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "66"
-      },
-      {
-        "move": "Brave Bird",
-        "lvl": "72"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "10.5kg",
-    "category": "Eaglet Pokémon",
-    "height": "0.5m"
-  },
+  "MoonEntry": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart.",
+  "spatk": 37,
+  "UltraSunEntry": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
+  "atk": 83,
+  "abilityHidden": "Hustle",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Peck",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "6"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "12"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "18"
+    },
+    {
+      "move": "Scary Face",
+      "lvl": "24"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "30"
+    },
+    {
+      "move": "Slash",
+      "lvl": "36"
+    },
+    {
+      "move": "Whirlwind",
+      "lvl": "42"
+    },
+    {
+      "move": "Crush Claw",
+      "lvl": "48"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "55"
+    },
+    {
+      "move": "Defog",
+      "lvl": "60"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "66"
+    },
+    {
+      "move": "Brave Bird",
+      "lvl": "72"
+    }
+  ],
+  "type2": "Flying",
+  "WhiteEntry": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "10.5kg",
+  "eggGroup1": "Flying",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlackEntry": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+  "OmegaRubyEntry": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+  "dfs": 50,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Rufflet",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 37,
-    "spd": 60,
-    "hp": 70,
-    "atk": 83,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Keen Eye",
-    "type2": "Flying",
-    "eggGroup2": "",
-    "eggGroup1": "Flying",
-    "abilityHidden": "Hustle",
-    "ability2": "Sheer Force",
-    "type1": "Normal",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+  "SwordEntry": "If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+  "spdfs": 50,
+  "category": "Eaglet Pokémon",
+  "Black2Entry": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger."
 }

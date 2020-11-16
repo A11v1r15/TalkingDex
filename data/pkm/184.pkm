@@ -1,341 +1,335 @@
 {
+  "EmeraldEntry": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+  "ability1": "Thick Fat",
+  "AlphaSapphireEntry": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
+  "hp": 100,
+  "SilverEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+  "ability2": "Huge Power",
+  "eggMoves": [],
   "number": 184,
-  "Entry": {
-    "AlphaSapphire": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
-    "Gold": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
-    "Shield": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
-    "White2": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
-    "Diamond": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
-    "Black": "It can spend all day in water, since it can inhale and store a large volume of air.",
-    "Black2": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
-    "FireRed": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
-    "HearthGold": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
-    "OmegaRuby": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
-    "Pearl": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
-    "Silver": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
-    "White": "It can spend all day in water, since it can inhale and store a large volume of air.",
-    "Sword": "It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",
-    "Sapphire": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
-    "LeafGreen": "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers.",
-    "Platinum": "It can spend all day in water, since it can inhale and store a large volume of air.",
-    "Emerald": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
-    "X": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
-    "Y": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
-    "Ruby": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
-    "Soulsilver": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
-    "Crystal": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Superpower",
-        "technical": "TR39"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Liquidation",
-        "technical": "TR98"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Rollout",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Helping Hand",
-        "lvl": "1"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "6"
-      },
-      {
-        "move": "Charm",
-        "lvl": "9"
-      },
-      {
-        "move": "Slam",
-        "lvl": "12"
-      },
-      {
-        "move": "Bounce",
-        "lvl": "15"
-      },
-      {
-        "move": "Aqua Tail",
-        "lvl": "21"
-      },
-      {
-        "move": "Play Rough",
-        "lvl": "25"
-      },
-      {
-        "move": "Aqua Ring",
-        "lvl": "30"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "35"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "40"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "45"
-      },
-      {
-        "move": "Superpower",
-        "lvl": "50"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "28.5kg",
-    "category": "Aqua Rabbit Pokémon",
-    "height": "0.8m"
-  },
+  "spatk": 60,
+  "atk": 50,
+  "height": "0.8m",
+  "type2": "Fairy",
+  "WhiteEntry": "It can spend all day in water, since it can inhale and store a large volume of air.",
+  "eggGroup2": "Fairy",
+  "spd": 50,
+  "CrystalEntry": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+  "weight": "28.5kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 80,
+  "GoldEntry": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+  "SapphireEntry": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
+  "hasAlolan": false,
+  "DiamondEntry": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
   "name": "Azumarill",
-  "Stats": {
-    "dfs": 80,
-    "spatk": 60,
-    "spd": 50,
-    "hp": 100,
-    "atk": 50,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Thick Fat",
-    "type2": "Fairy",
-    "eggGroup2": "Fairy",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Sap Sipper",
-    "ability2": "Huge Power",
-    "type1": "Water",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 80,
+  "ShieldEntry": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
+  "extraMega": false,
+  "HearthGoldEntry": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+  "YEntry": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Superpower",
+      "technical": "TR39"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Liquidation",
+      "technical": "TR98"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "XEntry": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+  "PlatinumEntry": "It can spend all day in water, since it can inhale and store a large volume of air.",
+  "abilityHidden": "Sap Sipper",
+  "lvlUpMoves": [
+    {
+      "move": "Rollout",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Helping Hand",
+      "lvl": "1"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "6"
+    },
+    {
+      "move": "Charm",
+      "lvl": "9"
+    },
+    {
+      "move": "Slam",
+      "lvl": "12"
+    },
+    {
+      "move": "Bounce",
+      "lvl": "15"
+    },
+    {
+      "move": "Aqua Tail",
+      "lvl": "21"
+    },
+    {
+      "move": "Play Rough",
+      "lvl": "25"
+    },
+    {
+      "move": "Aqua Ring",
+      "lvl": "30"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "35"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "40"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "45"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "50"
+    }
+  ],
+  "RubyEntry": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+  "BlackEntry": "It can spend all day in water, since it can inhale and store a large volume of air.",
+  "OmegaRubyEntry": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+  "colour": "Blue",
+  "SoulsilverEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+  "FireRedEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+  "White2Entry": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+  "SwordEntry": "It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",
+  "PearlEntry": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+  "category": "Aqua Rabbit Pokémon",
+  "LeafGreenEntry": "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers.",
+  "Black2Entry": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are."
 }

@@ -1,422 +1,417 @@
 {
+  "YellowEntry": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+  "EmeraldEntry": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
+  "ability1": "Cute Charm",
+  "AlphaSapphireEntry": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+  "hp": 70,
+  "SilverEntry": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+  "ability2": "Magic Guard",
+  "eggMoves": [],
+  "UltraMoonEntry": "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
   "number": 35,
-  "Entry": {
-    "Shield": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
-    "Moon": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
-    "Black": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-    "Black2": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
-    "FireRed": "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
-    "HearthGold": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-    "Sword": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-    "Sapphire": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-    "Platinum": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-    "Emerald": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
-    "X": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-    "Y": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-    "Ruby": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-    "Soulsilver": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
-    "AlphaSapphire": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-    "Gold": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
-    "UltraMoon": "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
-    "Blue": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-    "LetsGoPikachu": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-    "White2": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
-    "Diamond": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
-    "UltraSun": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
-    "Sun": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
-    "OmegaRuby": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
-    "Red": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-    "Pearl": "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
-    "Silver": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
-    "White": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-    "Yellow": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-    "LeafGreen": "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
-    "LetsGoEevee": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
-    "Crystal": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Fake Tears",
-        "technical": "TM47"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Wonder Room",
-        "technical": "TM71"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Draining Kiss",
-        "technical": "TM87"
-      },
-      {
-        "move": "Misty Terrain",
-        "technical": "TM89"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Tri Attack",
-        "technical": "TR19"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Cosmic Power",
-        "technical": "TR44"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Play Rough",
-        "technical": "TR90"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Sing",
-        "lvl": "1"
-      },
-      {
-        "move": "Sweet Kiss",
-        "lvl": "1"
-      },
-      {
-        "move": "Disarming Voice",
-        "lvl": "1"
-      },
-      {
-        "move": "Encore",
-        "lvl": "1"
-      },
-      {
-        "move": "Charm",
-        "lvl": "1"
-      },
-      {
-        "move": "Splash",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Stored Power",
-        "lvl": "4"
-      },
-      {
-        "move": "Minimize",
-        "lvl": "8"
-      },
-      {
-        "move": "After You",
-        "lvl": "12"
-      },
-      {
-        "move": "Life Dew",
-        "lvl": "16"
-      },
-      {
-        "move": "Metronome",
-        "lvl": "20"
-      },
-      {
-        "move": "Moonlight",
-        "lvl": "24"
-      },
-      {
-        "move": "Gravity",
-        "lvl": "28"
-      },
-      {
-        "move": "Meteor Mash",
-        "lvl": "32"
-      },
-      {
-        "move": "Follow Me",
-        "lvl": "36"
-      },
-      {
-        "move": "Cosmic Power",
-        "lvl": "40"
-      },
-      {
-        "move": "Moonblast",
-        "lvl": "44"
-      },
-      {
-        "move": "Healing Wish",
-        "lvl": "48"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "7.5kg",
-    "category": "Fairy Pokémon",
-    "height": "0.6m"
-  },
+  "MoonEntry": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+  "spatk": 60,
+  "UltraSunEntry": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+  "atk": 45,
+  "RedEntry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+  "height": "0.6m",
+  "type2": "",
+  "WhiteEntry": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+  "eggGroup2": "",
+  "spd": 35,
+  "CrystalEntry": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
+  "weight": "7.5kg",
+  "eggGroup1": "Fairy",
+  "hasMega": false,
+  "type1": "Fairy",
+  "hasGalarian": false,
+  "BlueEntry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+  "dfs": 48,
+  "GoldEntry": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+  "SapphireEntry": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+  "DiamondEntry": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
   "name": "Clefairy",
-  "Stats": {
-    "dfs": 48,
-    "spatk": 60,
-    "spd": 35,
-    "hp": 70,
-    "atk": 45,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Cute Charm",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Fairy",
-    "abilityHidden": "Friend Guard",
-    "ability2": "Magic Guard",
-    "type1": "Fairy",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 65,
+  "ShieldEntry": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+  "extraMega": false,
+  "HearthGoldEntry": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+  "YEntry": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+  "SunEntry": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Fake Tears",
+      "technical": "TM47"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Wonder Room",
+      "technical": "TM71"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Draining Kiss",
+      "technical": "TM87"
+    },
+    {
+      "move": "Misty Terrain",
+      "technical": "TM89"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Tri Attack",
+      "technical": "TR19"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Cosmic Power",
+      "technical": "TR44"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Play Rough",
+      "technical": "TR90"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "XEntry": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+  "PlatinumEntry": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+  "abilityHidden": "Friend Guard",
+  "lvlUpMoves": [
+    {
+      "move": "Sing",
+      "lvl": "1"
+    },
+    {
+      "move": "Sweet Kiss",
+      "lvl": "1"
+    },
+    {
+      "move": "Disarming Voice",
+      "lvl": "1"
+    },
+    {
+      "move": "Encore",
+      "lvl": "1"
+    },
+    {
+      "move": "Charm",
+      "lvl": "1"
+    },
+    {
+      "move": "Splash",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Stored Power",
+      "lvl": "4"
+    },
+    {
+      "move": "Minimize",
+      "lvl": "8"
+    },
+    {
+      "move": "After You",
+      "lvl": "12"
+    },
+    {
+      "move": "Life Dew",
+      "lvl": "16"
+    },
+    {
+      "move": "Metronome",
+      "lvl": "20"
+    },
+    {
+      "move": "Moonlight",
+      "lvl": "24"
+    },
+    {
+      "move": "Gravity",
+      "lvl": "28"
+    },
+    {
+      "move": "Meteor Mash",
+      "lvl": "32"
+    },
+    {
+      "move": "Follow Me",
+      "lvl": "36"
+    },
+    {
+      "move": "Cosmic Power",
+      "lvl": "40"
+    },
+    {
+      "move": "Moonblast",
+      "lvl": "44"
+    },
+    {
+      "move": "Healing Wish",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+  "BlackEntry": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+  "OmegaRubyEntry": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+  "LetsGoEeveeEntry": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+  "colour": "Pink",
+  "SoulsilverEntry": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+  "FireRedEntry": "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
+  "White2Entry": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+  "SwordEntry": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+  "PearlEntry": "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
+  "category": "Fairy Pokémon",
+  "LeafGreenEntry": "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
+  "Black2Entry": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+  "35Entry": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found."
 }

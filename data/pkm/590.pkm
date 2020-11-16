@@ -1,197 +1,191 @@
 {
+  "ShieldEntry": "The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
+  "extraMega": false,
+  "ability1": "Effect Spore",
+  "YEntry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+  "AlphaSapphireEntry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+  "hp": 69,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Pollen Puff",
+      "technical": "TR96"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Defense Curl"},
+    {"move": "Poison Powder"},
+    {"move": "Rollout"},
+    {"move": "Worry Seed"}
+  ],
+  "XEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
   "number": 590,
-  "Entry": {
-    "AlphaSapphire": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-    "White": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
-    "Sword": "No one knows what the Poké Ball\u2013like pattern on Foongus means or why Foongus has it.",
-    "Shield": "The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
-    "X": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-    "White2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-    "Y": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-    "Black": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-    "Black2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-    "OmegaRuby": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Pollen Puff",
-        "technical": "TR96"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Growth",
-        "lvl": "4"
-      },
-      {
-        "move": "Stun Spore",
-        "lvl": "8"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "12"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "16"
-      },
-      {
-        "move": "Clear Smog",
-        "lvl": "20"
-      },
-      {
-        "move": "Sweet Scent",
-        "lvl": "24"
-      },
-      {
-        "move": "Giga Drain",
-        "lvl": "28"
-      },
-      {
-        "move": "Ingrain",
-        "lvl": "32"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "36"
-      },
-      {
-        "move": "Rage Powder",
-        "lvl": "40"
-      },
-      {
-        "move": "Solar Beam",
-        "lvl": "44"
-      },
-      {
-        "move": "Spore",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Defense Curl"},
-      {"move": "Poison Powder"},
-      {"move": "Rollout"},
-      {"move": "Worry Seed"}
-    ]
-  },
-  "Flair": {
-    "colour": "White",
-    "weight": "1.0kg",
-    "category": "Mushroom Pokémon",
-    "height": "0.2m"
-  },
+  "spatk": 55,
+  "atk": 55,
+  "abilityHidden": "Regenerator",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Growth",
+      "lvl": "4"
+    },
+    {
+      "move": "Stun Spore",
+      "lvl": "8"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "12"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "16"
+    },
+    {
+      "move": "Clear Smog",
+      "lvl": "20"
+    },
+    {
+      "move": "Sweet Scent",
+      "lvl": "24"
+    },
+    {
+      "move": "Giga Drain",
+      "lvl": "28"
+    },
+    {
+      "move": "Ingrain",
+      "lvl": "32"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "36"
+    },
+    {
+      "move": "Rage Powder",
+      "lvl": "40"
+    },
+    {
+      "move": "Solar Beam",
+      "lvl": "44"
+    },
+    {
+      "move": "Spore",
+      "lvl": "48"
+    }
+  ],
+  "type2": "Poison",
+  "WhiteEntry": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+  "eggGroup2": "",
+  "spd": 15,
+  "weight": "1.0kg",
+  "eggGroup1": "Grass",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+  "OmegaRubyEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+  "dfs": 45,
+  "colour": "White",
+  "hasAlolan": false,
   "name": "Foongus",
-  "Stats": {
-    "dfs": 45,
-    "spatk": 55,
-    "spd": 15,
-    "hp": 69,
-    "atk": 55,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Effect Spore",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Grass",
-    "abilityHidden": "Regenerator",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+  "SwordEntry": "No one knows what the Poké Ball\u2013like pattern on Foongus means or why Foongus has it.",
+  "spdfs": 55,
+  "category": "Mushroom Pokémon",
+  "Black2Entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores."
 }

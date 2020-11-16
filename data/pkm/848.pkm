@@ -1,108 +1,102 @@
 {
+  "ShieldEntry": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
+  "extraMega": false,
+  "ability1": "Rattled",
+  "hp": 40,
+  "ability2": "Static",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Endeavor"},
+    {"move": "Metal Sound"},
+    {"move": "Power"}
+  ],
   "number": 848,
-  "Entry": {
-    "Sword": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
-    "Shield": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Belch",
-        "lvl": "1"
-      },
-      {
-        "move": "Tearful Look",
-        "lvl": "1"
-      },
-      {
-        "move": "Nuzzle",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Flail",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "1"
-      }
-    ],
-    "egg": [
-      {"move": "Endeavor"},
-      {"move": "Metal Sound"},
-      {"move": "Power"}
-    ]
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "11.0kg",
-    "category": "Baby Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 54,
+  "atk": 38,
+  "abilityHidden": "Klutz",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Belch",
+      "lvl": "1"
+    },
+    {
+      "move": "Tearful Look",
+      "lvl": "1"
+    },
+    {
+      "move": "Nuzzle",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Flail",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    }
+  ],
+  "type2": "Poison",
+  "eggGroup2": "",
+  "spd": 40,
+  "weight": "11.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "dfs": 35,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Toxel",
-  "Stats": {
-    "dfs": 35,
-    "spatk": 54,
-    "spd": 40,
-    "hp": 40,
-    "atk": 38,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Rattled",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Klutz",
-    "ability2": "Static",
-    "type1": "Electric",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
+  "spdfs": 35,
+  "category": "Baby Pokémon"
 }

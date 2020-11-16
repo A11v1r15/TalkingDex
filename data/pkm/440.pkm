@@ -1,222 +1,216 @@
 {
+  "ShieldEntry": "Happiny's willing to lend its precious round stone to those it's friendly with, but if the stone isn't returned, Happiny will cry and throw a tantrum.",
+  "extraMega": false,
+  "HearthGoldEntry": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+  "ability1": "Natural Cure",
+  "YEntry": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+  "AlphaSapphireEntry": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+  "hp": 100,
+  "SunEntry": "It carries a round white rock in its belly pouch. If it gets along well with someone, it will sometimes give that person the rock.",
+  "ability2": "Serene Grace",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Charm",
+      "technical": "TM29"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Metronome",
+      "technical": "TR14"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Fast",
+  "eggMoves": [
+    {"move": "Aromatherapy"},
+    {"move": "Gravity"},
+    {"move": "Present"},
+    {"move": "Seismic Toss"}
+  ],
+  "XEntry": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
+  "UltraMoonEntry": "When it sees something round and white, Happiny puts it into the pouch on its stomach. It sometimes becomes overloaded and can't move.",
   "number": 440,
-  "Entry": {
-    "AlphaSapphire": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
-    "UltraMoon": "When it sees something round and white, Happiny puts it into the pouch on its stomach. It sometimes becomes overloaded and can't move.",
-    "Shield": "Happiny's willing to lend its precious round stone to those it's friendly with, but if the stone isn't returned, Happiny will cry and throw a tantrum.",
-    "Moon": "It's too small to lay eggs yet. As a surrogate, it searches out round white stones.",
-    "White2": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
-    "Diamond": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
-    "UltraSun": "Usually it's a well-behaved Pokémon, but if you take its round rock away, it will cry and fuss and throw a big old tantrum.",
-    "Black": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
-    "Black2": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
-    "Sun": "It carries a round white rock in its belly pouch. If it gets along well with someone, it will sometimes give that person the rock.",
-    "HearthGold": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
-    "OmegaRuby": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
-    "Pearl": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
-    "White": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
-    "Sword": "Mimicking Chansey, Happiny will place an egg- shaped stone in its belly pouch. Happiny will treasure this stone.",
-    "Platinum": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
-    "X": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
-    "Y": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
-    "Soulsilver": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Charm",
-        "technical": "TM29"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Metronome",
-        "technical": "TR14"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Minimize",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "1"
-      },
-      {
-        "move": "Copycat",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "4"
-      },
-      {
-        "move": "Sweet Kiss",
-        "lvl": "8"
-      },
-      {
-        "move": "Disarming Voice",
-        "lvl": "12"
-      },
-      {
-        "move": "Covet",
-        "lvl": "16"
-      },
-      {
-        "move": "Charm",
-        "lvl": "20"
-      }
-    ],
-    "egg": [
-      {"move": "Aromatherapy"},
-      {"move": "Gravity"},
-      {"move": "Present"},
-      {"move": "Seismic Toss"}
-    ]
-  },
-  "Flair": {
-    "colour": "Pink",
-    "weight": "24.4kg",
-    "category": "Playhouse Pokémon",
-    "height": "0.6m"
-  },
+  "MoonEntry": "It's too small to lay eggs yet. As a surrogate, it searches out round white stones.",
+  "spatk": 15,
+  "UltraSunEntry": "Usually it's a well-behaved Pokémon, but if you take its round rock away, it will cry and fuss and throw a big old tantrum.",
+  "atk": 5,
+  "PlatinumEntry": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
+  "abilityHidden": "Friend Guard",
+  "height": "0.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Minimize",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "4"
+    },
+    {
+      "move": "Sweet Kiss",
+      "lvl": "8"
+    },
+    {
+      "move": "Disarming Voice",
+      "lvl": "12"
+    },
+    {
+      "move": "Covet",
+      "lvl": "16"
+    },
+    {
+      "move": "Charm",
+      "lvl": "20"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
+  "eggGroup2": "",
+  "spd": 30,
+  "weight": "24.4kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Normal",
+  "hasGalarian": false,
+  "BlackEntry": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
+  "OmegaRubyEntry": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
+  "dfs": 5,
+  "colour": "Pink",
+  "hasAlolan": false,
+  "DiamondEntry": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
+  "SoulsilverEntry": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
   "name": "Happiny",
-  "Stats": {
-    "dfs": 5,
-    "spatk": 15,
-    "spd": 30,
-    "hp": 100,
-    "atk": 5,
-    "spdfs": 65
-  },
-  "Biology": {
-    "ability1": "Natural Cure",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "Friend Guard",
-    "ability2": "Serene Grace",
-    "type1": "Normal",
-    "xpGroup": "Fast"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.",
+  "SwordEntry": "Mimicking Chansey, Happiny will place an egg- shaped stone in its belly pouch. Happiny will treasure this stone.",
+  "PearlEntry": "It carries a round, egg-shaped rock in its belly pouch and gives the rock to its friends.",
+  "spdfs": 65,
+  "category": "Playhouse Pokémon",
+  "Black2Entry": "It likes to carry around a small rock. It may wander around others' feet and cause them to stumble."
 }

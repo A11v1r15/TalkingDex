@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Overgrow",
+  "YEntry": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
+  "AlphaSapphireEntry": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
+  "hp": 88,
+  "ability2": "",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
   "number": 652,
-  "Entry": {
-    "AlphaSapphire": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
-    "X": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
-    "Y": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
-    "OmegaRuby": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body."
-  },
-  "Moves": {},
-  "Flair": {"category": "Spiny Armor Pokémon"},
+  "spatk": 74,
+  "atk": 107,
+  "abilityHidden": "Bulletproof",
+  "type2": "Fighting",
+  "eggGroup2": "",
+  "spd": 64,
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+  "dfs": 122,
+  "hasAlolan": false,
   "name": "Chesnaught",
-  "Stats": {
-    "dfs": 122,
-    "spatk": 74,
-    "spd": 64,
-    "hp": 88,
-    "atk": 107,
-    "spdfs": 75
-  },
-  "Biology": {
-    "ability1": "Overgrow",
-    "type2": "Fighting",
-    "eggGroup2": "",
-    "eggGroup1": "Field",
-    "abilityHidden": "Bulletproof",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 75,
+  "category": "Spiny Armor Pokémon"
 }

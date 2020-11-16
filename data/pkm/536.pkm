@@ -1,220 +1,214 @@
 {
+  "ShieldEntry": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
+  "extraMega": false,
+  "ability1": "Swift Swim",
+  "YEntry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+  "AlphaSapphireEntry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+  "hp": 75,
+  "ability2": "Hydration",
+  "tmTrMoves": [
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Hyper Voice",
+      "technical": "TR42"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Power Whip",
+      "technical": "TR72"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Sludge Wave",
+      "technical": "TR78"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
   "number": 536,
-  "Entry": {
-    "AlphaSapphire": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-    "White": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
-    "Sword": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
-    "Shield": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
-    "X": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
-    "White2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-    "Y": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-    "Black": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
-    "Black2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-    "OmegaRuby": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Hyper Voice",
-        "technical": "TR42"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Power Whip",
-        "technical": "TR72"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Sludge Wave",
-        "technical": "TR78"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Echoed Voice",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Acid",
-        "lvl": "1"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "1"
-      },
-      {
-        "move": "Mud Shot",
-        "lvl": "12"
-      },
-      {
-        "move": "Round",
-        "lvl": "16"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "20"
-      },
-      {
-        "move": "Flail",
-        "lvl": "24"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "30"
-      },
-      {
-        "move": "Aqua Ring",
-        "lvl": "37"
-      },
-      {
-        "move": "Hyper Voice",
-        "lvl": "42"
-      },
-      {
-        "move": "Muddy Water",
-        "lvl": "48"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "54"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "60"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "17.0kg",
-    "category": "Vibration Pokémon",
-    "height": "0.8m"
-  },
+  "spatk": 65,
+  "atk": 65,
+  "abilityHidden": "Water Absorb",
+  "height": "0.8m",
+  "lvlUpMoves": [
+    {
+      "move": "Echoed Voice",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Mud Shot",
+      "lvl": "12"
+    },
+    {
+      "move": "Round",
+      "lvl": "16"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "20"
+    },
+    {
+      "move": "Flail",
+      "lvl": "24"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "30"
+    },
+    {
+      "move": "Aqua Ring",
+      "lvl": "37"
+    },
+    {
+      "move": "Hyper Voice",
+      "lvl": "42"
+    },
+    {
+      "move": "Muddy Water",
+      "lvl": "48"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "54"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "60"
+    }
+  ],
+  "type2": "Ground",
+  "WhiteEntry": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+  "eggGroup2": "",
+  "spd": 69,
+  "weight": "17.0kg",
+  "eggGroup1": "Water 1",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlackEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+  "OmegaRubyEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+  "dfs": 55,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Palpitoad",
-  "Stats": {
-    "dfs": 55,
-    "spatk": 65,
-    "spd": 69,
-    "hp": 75,
-    "atk": 65,
-    "spdfs": 55
-  },
-  "Biology": {
-    "ability1": "Swift Swim",
-    "type2": "Ground",
-    "eggGroup2": "",
-    "eggGroup1": "Water 1",
-    "abilityHidden": "Water Absorb",
-    "ability2": "Hydration",
-    "type1": "Water",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+  "SwordEntry": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+  "spdfs": 55,
+  "category": "Vibration Pokémon",
+  "Black2Entry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
 }

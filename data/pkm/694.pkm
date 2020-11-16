@@ -1,232 +1,226 @@
 {
+  "ShieldEntry": "The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+  "extraMega": false,
+  "ability1": "Dry Skin",
+  "YEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+  "AlphaSapphireEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+  "hp": 44,
+  "ability2": "Sand Veil",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Electroweb",
+      "technical": "TM82"
+    },
+    {
+      "move": "Electric Terrain",
+      "technical": "TM90"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Glare"},
+    {"move": "Dragon Rush"},
+    {"move": "Dragon Tail"}
+  ],
+  "XEntry": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
   "number": 694,
-  "Entry": {
-    "AlphaSapphire": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-    "Sword": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
-    "Shield": "The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
-    "X": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
-    "Y": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-    "OmegaRuby": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Low Sweep",
-        "technical": "TM75"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Electroweb",
-        "technical": "TM82"
-      },
-      {
-        "move": "Electric Terrain",
-        "technical": "TM90"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Pound",
-        "lvl": "4"
-      },
-      {
-        "move": "Thunder Shock",
-        "lvl": "8"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "12"
-      },
-      {
-        "move": "Charge",
-        "lvl": "16"
-      },
-      {
-        "move": "Bulldoze",
-        "lvl": "20"
-      },
-      {
-        "move": "Volt Switch",
-        "lvl": "24"
-      },
-      {
-        "move": "Parabolic Charge",
-        "lvl": "28"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "32"
-      },
-      {
-        "move": "Thunderbolt",
-        "lvl": "36"
-      },
-      {
-        "move": "Electrify",
-        "lvl": "40"
-      },
-      {
-        "move": "Thunder",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Glare"},
-      {"move": "Dragon Rush"},
-      {"move": "Dragon Tail"}
-    ]
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "6.0kg",
-    "category": "Generator Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 61,
+  "atk": 38,
+  "abilityHidden": "Solar Power",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "4"
+    },
+    {
+      "move": "Thunder Shock",
+      "lvl": "8"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "12"
+    },
+    {
+      "move": "Charge",
+      "lvl": "16"
+    },
+    {
+      "move": "Bulldoze",
+      "lvl": "20"
+    },
+    {
+      "move": "Volt Switch",
+      "lvl": "24"
+    },
+    {
+      "move": "Parabolic Charge",
+      "lvl": "28"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "32"
+    },
+    {
+      "move": "Thunderbolt",
+      "lvl": "36"
+    },
+    {
+      "move": "Electrify",
+      "lvl": "40"
+    },
+    {
+      "move": "Thunder",
+      "lvl": "44"
+    }
+  ],
+  "type2": "Normal",
+  "eggGroup2": "Dragon",
+  "spd": 70,
+  "weight": "6.0kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Electric",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+  "dfs": 33,
+  "colour": "Yellow",
+  "hasAlolan": false,
   "name": "Helioptile",
-  "Stats": {
-    "dfs": 33,
-    "spatk": 61,
-    "spd": 70,
-    "hp": 44,
-    "atk": 38,
-    "spdfs": 43
-  },
-  "Biology": {
-    "ability1": "Dry Skin",
-    "type2": "Normal",
-    "eggGroup2": "Dragon",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Solar Power",
-    "ability2": "Sand Veil",
-    "type1": "Electric",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+  "spdfs": 43,
+  "category": "Generator Pokémon"
 }

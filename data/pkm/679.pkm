@@ -1,212 +1,206 @@
 {
+  "ShieldEntry": "The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.",
+  "extraMega": false,
+  "ability1": "No Guard",
+  "YEntry": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+  "AlphaSapphireEntry": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+  "hp": 45,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Psycho Cut",
+      "technical": "TM69"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Close Combat",
+      "technical": "TR53"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "eggMoves": [
+    {"move": "Destiny Bond"},
+    {"move": "Wide Guard"},
+    {"move": "Block"}
+  ],
+  "XEntry": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
   "number": 679,
-  "Entry": {
-    "AlphaSapphire": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
-    "Sword": "Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.",
-    "Shield": "The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.",
-    "X": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
-    "Y": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
-    "OmegaRuby": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Psycho Cut",
-        "technical": "TM69"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Close Combat",
-        "technical": "TR53"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Fury Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Shadow Sneak",
-        "lvl": "4"
-      },
-      {
-        "move": "Autotomize",
-        "lvl": "8"
-      },
-      {
-        "move": "Aerial Ace",
-        "lvl": "12"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "16"
-      },
-      {
-        "move": "Slash",
-        "lvl": "20"
-      },
-      {
-        "move": "Night Slash",
-        "lvl": "24"
-      },
-      {
-        "move": "Retaliate",
-        "lvl": "28"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "32"
-      },
-      {
-        "move": "Iron Head",
-        "lvl": "36"
-      },
-      {
-        "move": "Power Trick",
-        "lvl": "40"
-      },
-      {
-        "move": "Swords Dance",
-        "lvl": "44"
-      },
-      {
-        "move": "Sacred Sword",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Destiny Bond"},
-      {"move": "Wide Guard"},
-      {"move": "Block"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "2.0kg",
-    "category": "Sword Pokémon",
-    "height": "0.8m"
-  },
+  "spatk": 35,
+  "atk": 80,
+  "abilityHidden": "",
+  "height": "0.8m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Fury Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Shadow Sneak",
+      "lvl": "4"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "8"
+    },
+    {
+      "move": "Aerial Ace",
+      "lvl": "12"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "16"
+    },
+    {
+      "move": "Slash",
+      "lvl": "20"
+    },
+    {
+      "move": "Night Slash",
+      "lvl": "24"
+    },
+    {
+      "move": "Retaliate",
+      "lvl": "28"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "32"
+    },
+    {
+      "move": "Iron Head",
+      "lvl": "36"
+    },
+    {
+      "move": "Power Trick",
+      "lvl": "40"
+    },
+    {
+      "move": "Swords Dance",
+      "lvl": "44"
+    },
+    {
+      "move": "Sacred Sword",
+      "lvl": "48"
+    }
+  ],
+  "type2": "Ghost",
+  "eggGroup2": "",
+  "spd": 28,
+  "weight": "2.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "OmegaRubyEntry": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+  "dfs": 100,
+  "colour": "Brown",
+  "hasAlolan": false,
   "name": "Honedge",
-  "Stats": {
-    "dfs": 100,
-    "spatk": 35,
-    "spd": 28,
-    "hp": 45,
-    "atk": 80,
-    "spdfs": 37
-  },
-  "Biology": {
-    "ability1": "No Guard",
-    "type2": "Ghost",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Steel",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.",
+  "spdfs": 37,
+  "category": "Sword Pokémon"
 }

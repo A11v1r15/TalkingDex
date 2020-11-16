@@ -1,282 +1,277 @@
 {
+  "YellowEntry": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
+  "EmeraldEntry": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.",
+  "ability1": "Torrent",
+  "AlphaSapphireEntry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+  "hp": 59,
+  "SilverEntry": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+  "ability2": "",
+  "eggMoves": [],
   "number": 8,
-  "Entry": {
-    "Shield": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
-    "Black": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Black2": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "FireRed": "This Pokémon is very popular as a pet. Its fur-covered tail is a symbol of its longevity.",
-    "HearthGold": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-    "Sword": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-    "Sapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-    "Platinum": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Emerald": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.",
-    "X": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
-    "Y": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Ruby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-    "Soulsilver": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
-    "AlphaSapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-    "Gold": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-    "Blue": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-    "LetsGoPikachu": "When tapped on its head, this Pokémon will pull it in, but its tail will stick out a little bit.",
-    "White2": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Diamond": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "OmegaRuby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-    "Red": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-    "Pearl": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Silver": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
-    "White": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
-    "Yellow": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
-    "LeafGreen": "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.",
-    "LetsGoEevee": "When tapped on its head, this Pokémon will pull it in, but its tail will stick out a little bit.",
-    "Crystal": "Its long, furry tail is a symbol of longevity, making it quite popular among older people."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Ice Punch",
-        "technical": "TM04"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Weather Ball",
-        "technical": "TM46"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Aura Sphere",
-        "technical": "TR56"
-      },
-      {
-        "move": "Dragon Pulse",
-        "technical": "TR62"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Withdraw",
-        "lvl": "1"
-      },
-      {
-        "move": "Rapid Spin",
-        "lvl": "9"
-      },
-      {
-        "move": "Bite",
-        "lvl": "12"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "15"
-      },
-      {
-        "move": "Protect",
-        "lvl": "20"
-      },
-      {
-        "move": "Rain Dance",
-        "lvl": "25"
-      },
-      {
-        "move": "Aqua Tail",
-        "lvl": "30"
-      },
-      {
-        "move": "Shell Smash",
-        "lvl": "35"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "40"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "45"
-      },
-      {
-        "move": "Skull Bash",
-        "lvl": "50"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "22.5kg",
-    "category": "Turtle Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 65,
+  "8Entry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+  "atk": 63,
+  "RedEntry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+  "height": "1.0m",
+  "type2": "",
+  "WhiteEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "eggGroup2": "Water 1",
+  "spd": 58,
+  "CrystalEntry": "Its long, furry tail is a symbol of longevity, making it quite popular among older people.",
+  "weight": "22.5kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "BlueEntry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+  "dfs": 80,
+  "GoldEntry": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+  "SapphireEntry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "When tapped on its head, this Pokémon will pull it in, but its tail will stick out a little bit.",
+  "DiamondEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
   "name": "Wartortle",
-  "Stats": {
-    "dfs": 80,
-    "spatk": 65,
-    "spd": 58,
-    "hp": 59,
-    "atk": 63,
-    "spdfs": 80
-  },
-  "Biology": {
-    "ability1": "Torrent",
-    "type2": "",
-    "eggGroup2": "Water 1",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Rain Dish",
-    "ability2": "",
-    "type1": "Water",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 80,
+  "ShieldEntry": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+  "extraMega": false,
+  "HearthGoldEntry": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+  "YEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Ice Punch",
+      "technical": "TM04"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Weather Ball",
+      "technical": "TM46"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Aura Sphere",
+      "technical": "TR56"
+    },
+    {
+      "move": "Dragon Pulse",
+      "technical": "TR62"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "XEntry": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
+  "PlatinumEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "abilityHidden": "Rain Dish",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "9"
+    },
+    {
+      "move": "Bite",
+      "lvl": "12"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "15"
+    },
+    {
+      "move": "Protect",
+      "lvl": "20"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "25"
+    },
+    {
+      "move": "Aqua Tail",
+      "lvl": "30"
+    },
+    {
+      "move": "Shell Smash",
+      "lvl": "35"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "40"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "45"
+    },
+    {
+      "move": "Skull Bash",
+      "lvl": "50"
+    }
+  ],
+  "RubyEntry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+  "BlackEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "OmegaRubyEntry": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+  "LetsGoEeveeEntry": "When tapped on its head, this Pokémon will pull it in, but its tail will stick out a little bit.",
+  "colour": "Blue",
+  "SoulsilverEntry": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+  "FireRedEntry": "This Pokémon is very popular as a pet. Its fur-covered tail is a symbol of its longevity.",
+  "White2Entry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "SwordEntry": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+  "PearlEntry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+  "category": "Turtle Pokémon",
+  "LeafGreenEntry": "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.",
+  "Black2Entry": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
 }

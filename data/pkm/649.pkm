@@ -1,274 +1,268 @@
 {
+  "extraMega": false,
+  "ability1": "Download",
+  "YEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+  "AlphaSapphireEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+  "hp": 71,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Fly",
+      "technical": "TM06"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Reflect",
+      "technical": "TM18"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Shadow Claw",
+      "technical": "TM65"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Electroweb",
+      "technical": "TM82"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Leech Life",
+      "technical": "TR18"
+    },
+    {
+      "move": "Tri Attack",
+      "technical": "TR19"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Blaze Kick",
+      "technical": "TR41"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Bug Buzz",
+      "technical": "TR61"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Gunk Shot",
+      "technical": "TR73"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+  "eggMoves": [],
   "number": 649,
-  "Entry": {
-    "AlphaSapphire": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-    "White": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
-    "X": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
-    "White2": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-    "Y": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-    "Black": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
-    "Black2": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-    "OmegaRuby": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Fly",
-        "technical": "TM06"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Reflect",
-        "technical": "TM18"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Shadow Claw",
-        "technical": "TM65"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Electroweb",
-        "technical": "TM82"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Leech Life",
-        "technical": "TR18"
-      },
-      {
-        "move": "Tri Attack",
-        "technical": "TR19"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Blaze Kick",
-        "technical": "TR41"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Bug Buzz",
-        "technical": "TR61"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Gunk Shot",
-        "technical": "TR73"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Fury Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Screech",
-        "lvl": "7"
-      },
-      {
-        "move": "Metal Claw",
-        "lvl": "14"
-      },
-      {
-        "move": "Fell Stinger",
-        "lvl": "21"
-      },
-      {
-        "move": "Flame Charge",
-        "lvl": "28"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "35"
-      },
-      {
-        "move": "X-Scissor",
-        "lvl": "42"
-      },
-      {
-        "move": "Magnet Rise",
-        "lvl": "49"
-      },
-      {
-        "move": "Bug Buzz",
-        "lvl": "56"
-      },
-      {
-        "move": "Simple Beam",
-        "lvl": "63"
-      },
-      {
-        "move": "Zap Cannon",
-        "lvl": "70"
-      },
-      {
-        "move": "Lock-On",
-        "lvl": "77"
-      },
-      {
-        "move": "Techno Blast",
-        "lvl": "84"
-      },
-      {
-        "move": "Self-Destruct",
-        "lvl": "91"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Purple",
-    "weight": "82.5kg",
-    "category": "Paleozoic Pokémon",
-    "height": "1.5m"
-  },
+  "spatk": 120,
+  "atk": 120,
+  "abilityHidden": "",
+  "height": "1.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Fury Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Screech",
+      "lvl": "7"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "14"
+    },
+    {
+      "move": "Fell Stinger",
+      "lvl": "21"
+    },
+    {
+      "move": "Flame Charge",
+      "lvl": "28"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "35"
+    },
+    {
+      "move": "X-Scissor",
+      "lvl": "42"
+    },
+    {
+      "move": "Magnet Rise",
+      "lvl": "49"
+    },
+    {
+      "move": "Bug Buzz",
+      "lvl": "56"
+    },
+    {
+      "move": "Simple Beam",
+      "lvl": "63"
+    },
+    {
+      "move": "Zap Cannon",
+      "lvl": "70"
+    },
+    {
+      "move": "Lock-On",
+      "lvl": "77"
+    },
+    {
+      "move": "Techno Blast",
+      "lvl": "84"
+    },
+    {
+      "move": "Self-Destruct",
+      "lvl": "91"
+    }
+  ],
+  "type2": "Steel",
+  "WhiteEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+  "eggGroup2": "",
+  "spd": 99,
+  "weight": "82.5kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+  "OmegaRubyEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+  "dfs": 95,
+  "colour": "Purple",
+  "hasAlolan": false,
   "name": "Genesect",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 120,
-    "spd": 99,
-    "hp": 71,
-    "atk": 120,
-    "spdfs": 95
-  },
-  "Biology": {
-    "ability1": "Download",
-    "type2": "Steel",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Bug",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+  "spdfs": 95,
+  "category": "Paleozoic Pokémon",
+  "Black2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
 }

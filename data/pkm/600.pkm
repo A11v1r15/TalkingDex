@@ -1,188 +1,182 @@
 {
+  "ShieldEntry": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
+  "extraMega": false,
+  "ability1": "Plus",
+  "YEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+  "AlphaSapphireEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+  "hp": 60,
+  "ability2": "Minus",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
   "number": 600,
-  "Entry": {
-    "AlphaSapphire": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
-    "White": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
-    "Sword": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
-    "Shield": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
-    "X": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
-    "White2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
-    "Y": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
-    "Black": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
-    "Black2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
-    "OmegaRuby": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Vise Grip",
-        "lvl": "1"
-      },
-      {
-        "move": "Bind",
-        "lvl": "1"
-      },
-      {
-        "move": "Charge",
-        "lvl": "1"
-      },
-      {
-        "move": "Charge Beam",
-        "lvl": "12"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "16"
-      },
-      {
-        "move": "Autotomize",
-        "lvl": "20"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "24"
-      },
-      {
-        "move": "Screech",
-        "lvl": "28"
-      },
-      {
-        "move": "Gear Grind",
-        "lvl": "32"
-      },
-      {
-        "move": "Lock-On",
-        "lvl": "36"
-      },
-      {
-        "move": "Shift Gear",
-        "lvl": "42"
-      },
-      {
-        "move": "Zap Cannon",
-        "lvl": "48"
-      },
-      {
-        "move": "Hyper Beam",
-        "lvl": "54"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "51.0kg",
-    "category": "Gear Pokémon",
-    "height": "0.6m"
-  },
+  "spatk": 70,
+  "atk": 80,
+  "abilityHidden": "Clear Body",
+  "height": "0.6m",
+  "lvlUpMoves": [
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Vise Grip",
+      "lvl": "1"
+    },
+    {
+      "move": "Bind",
+      "lvl": "1"
+    },
+    {
+      "move": "Charge",
+      "lvl": "1"
+    },
+    {
+      "move": "Charge Beam",
+      "lvl": "12"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "16"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "20"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "24"
+    },
+    {
+      "move": "Screech",
+      "lvl": "28"
+    },
+    {
+      "move": "Gear Grind",
+      "lvl": "32"
+    },
+    {
+      "move": "Lock-On",
+      "lvl": "36"
+    },
+    {
+      "move": "Shift Gear",
+      "lvl": "42"
+    },
+    {
+      "move": "Zap Cannon",
+      "lvl": "48"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "54"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+  "eggGroup2": "",
+  "spd": 50,
+  "weight": "51.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "BlackEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+  "OmegaRubyEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+  "dfs": 95,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Klang",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 70,
-    "spd": 50,
-    "hp": 60,
-    "atk": 80,
-    "spdfs": 85
-  },
-  "Biology": {
-    "ability1": "Plus",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Clear Body",
-    "ability2": "Minus",
-    "type1": "Steel",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+  "SwordEntry": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
+  "spdfs": 85,
+  "category": "Gear Pokémon",
+  "Black2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
 }

@@ -1,220 +1,214 @@
 {
+  "ShieldEntry": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.",
+  "extraMega": false,
+  "ability1": "Overgrow",
+  "hp": 70,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Magical Leaf",
+      "technical": "TM10"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Drain Punch",
+      "technical": "TM63"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Acrobatics",
+      "technical": "TM78"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
   "number": 811,
-  "Entry": {
-    "Sword": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
-    "Shield": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Magical Leaf",
-        "technical": "TM10"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Drain Punch",
-        "technical": "TM63"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Acrobatics",
-        "technical": "TM78"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Double Hit",
-        "lvl": "0"
-      },
-      {
-        "move": "Double Hit",
-        "lvl": "1"
-      },
-      {
-        "move": "Scratch",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Branch Poke",
-        "lvl": "1"
-      },
-      {
-        "move": "Taunt",
-        "lvl": "1"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "12"
-      },
-      {
-        "move": "Screech",
-        "lvl": "19"
-      },
-      {
-        "move": "Knock Off",
-        "lvl": "24"
-      },
-      {
-        "move": "Slam",
-        "lvl": "30"
-      },
-      {
-        "move": "Uproar",
-        "lvl": "36"
-      },
-      {
-        "move": "Wood Hammer",
-        "lvl": "42"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "48"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Green",
-    "weight": "14.0kg",
-    "category": "Beat Pokémon",
-    "height": "0.7m"
-  },
+  "spatk": 55,
+  "atk": 85,
+  "abilityHidden": "Grassy Surge",
+  "height": "0.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Double Hit",
+      "lvl": "0"
+    },
+    {
+      "move": "Double Hit",
+      "lvl": "1"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Branch Poke",
+      "lvl": "1"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "1"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "12"
+    },
+    {
+      "move": "Screech",
+      "lvl": "19"
+    },
+    {
+      "move": "Knock Off",
+      "lvl": "24"
+    },
+    {
+      "move": "Slam",
+      "lvl": "30"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "36"
+    },
+    {
+      "move": "Wood Hammer",
+      "lvl": "42"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "Grass",
+  "spd": 80,
+  "weight": "14.0kg",
+  "eggGroup1": "Field",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "dfs": 70,
+  "colour": "Green",
+  "hasAlolan": false,
   "name": "Thwackey",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 55,
-    "spd": 80,
-    "hp": 70,
-    "atk": 85,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Overgrow",
-    "type2": "",
-    "eggGroup2": "Grass",
-    "eggGroup1": "Field",
-    "abilityHidden": "Grassy Surge",
-    "ability2": "",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+  "spdfs": 60,
+  "category": "Beat Pokémon"
 }

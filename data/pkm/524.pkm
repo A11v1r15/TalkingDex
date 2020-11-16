@@ -1,202 +1,196 @@
 {
+  "ShieldEntry": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+  "extraMega": false,
+  "ability1": "Sturdy",
+  "YEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+  "AlphaSapphireEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+  "hp": 55,
+  "SunEntry": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
+  "ability2": "Weak Armor",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Sand Tomb",
+      "technical": "TM49"
+    },
+    {
+      "move": "Rock Blast",
+      "technical": "TM54"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Stone Edge",
+      "technical": "TR75"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    },
+    {
+      "move": "Heavy Slam",
+      "technical": "TR79"
+    },
+    {
+      "move": "Body Press",
+      "technical": "TR99"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Curse"},
+    {"move": "Autotomize"},
+    {"move": "Take Down"},
+    {"move": "Gravity"},
+    {"move": "Wide Guard"}
+  ],
+  "XEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+  "UltraMoonEntry": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
   "number": 524,
-  "Entry": {
-    "AlphaSapphire": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-    "UltraMoon": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
-    "Shield": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
-    "Moon": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
-    "White2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
-    "UltraSun": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
-    "Black": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-    "Black2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
-    "Sun": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
-    "OmegaRuby": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-    "White": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-    "Sword": "It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
-    "X": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-    "Y": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Sand Tomb",
-        "technical": "TM49"
-      },
-      {
-        "move": "Rock Blast",
-        "technical": "TM54"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Stone Edge",
-        "technical": "TR75"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      },
-      {
-        "move": "Heavy Slam",
-        "technical": "TR79"
-      },
-      {
-        "move": "Body Press",
-        "technical": "TR99"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Sand Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "4"
-      },
-      {
-        "move": "Stealth Rock",
-        "lvl": "8"
-      },
-      {
-        "move": "Mud-Slap",
-        "lvl": "12"
-      },
-      {
-        "move": "Smack Down",
-        "lvl": "16"
-      },
-      {
-        "move": "Iron Defense",
-        "lvl": "20"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "24"
-      },
-      {
-        "move": "Rock Slide",
-        "lvl": "28"
-      },
-      {
-        "move": "Rock Blast",
-        "lvl": "32"
-      },
-      {
-        "move": "Sandstorm",
-        "lvl": "36"
-      },
-      {
-        "move": "Stone Edge",
-        "lvl": "40"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Curse"},
-      {"move": "Autotomize"},
-      {"move": "Take Down"},
-      {"move": "Gravity"},
-      {"move": "Wide Guard"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "18.0kg",
-    "category": "Mantle Pokémon",
-    "height": "0.4m"
-  },
+  "MoonEntry": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+  "spatk": 25,
+  "UltraSunEntry": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
+  "atk": 75,
+  "abilityHidden": "Sand Force",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Sand Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "4"
+    },
+    {
+      "move": "Stealth Rock",
+      "lvl": "8"
+    },
+    {
+      "move": "Mud-Slap",
+      "lvl": "12"
+    },
+    {
+      "move": "Smack Down",
+      "lvl": "16"
+    },
+    {
+      "move": "Iron Defense",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Rock Slide",
+      "lvl": "28"
+    },
+    {
+      "move": "Rock Blast",
+      "lvl": "32"
+    },
+    {
+      "move": "Sandstorm",
+      "lvl": "36"
+    },
+    {
+      "move": "Stone Edge",
+      "lvl": "40"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "44"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+  "eggGroup2": "",
+  "spd": 15,
+  "weight": "18.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Rock",
+  "hasGalarian": false,
+  "BlackEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+  "OmegaRubyEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+  "dfs": 85,
+  "colour": "Blue",
+  "hasAlolan": false,
   "name": "Roggenrola",
-  "Stats": {
-    "dfs": 85,
-    "spatk": 25,
-    "spd": 15,
-    "hp": 55,
-    "atk": 75,
-    "spdfs": 25
-  },
-  "Biology": {
-    "ability1": "Sturdy",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Sand Force",
-    "ability2": "Weak Armor",
-    "type1": "Rock",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+  "SwordEntry": "It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+  "spdfs": 25,
+  "category": "Mantle Pokémon",
+  "Black2Entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from."
 }

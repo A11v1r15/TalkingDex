@@ -1,311 +1,306 @@
 {
+  "YellowEntry": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+  "EmeraldEntry": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+  "ability1": "Rock Head",
+  "AlphaSapphireEntry": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+  "hp": 50,
+  "SilverEntry": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+  "ability2": "Lightning Rod",
+  "eggMoves": [
+    {"move": "Ancient Power"},
+    {"move": "Belly Drum"},
+    {"move": "Detect"},
+    {"move": "Double Kick"},
+    {"move": "Perish Song"},
+    {"move": "Skull Bash"},
+    {"move": "Curse"},
+    {"move": "Leer"}
+  ],
+  "UltraMoonEntry": "It wears its mother's skull on its head, so no one knows what its bare face looks like. However, it's clear that it's always crying.",
   "number": 104,
-  "Entry": {
-    "Shield": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
-    "Moon": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
-    "Black": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "Black2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "FireRed": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
-    "HearthGold": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
-    "Sword": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
-    "Sapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-    "Platinum": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "Emerald": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
-    "X": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
-    "Y": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-    "Ruby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-    "Soulsilver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-    "AlphaSapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-    "Gold": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
-    "UltraMoon": "It wears its mother's skull on its head, so no one knows what its bare face looks like. However, it's clear that it's always crying.",
-    "Blue": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
-    "LetsGoPikachu": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-    "White2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "Diamond": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "UltraSun": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy\u2014Mandibuzz.",
-    "Sun": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
-    "OmegaRuby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
-    "Red": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
-    "Pearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "Silver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
-    "White": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
-    "Yellow": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-    "LeafGreen": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
-    "LetsGoEevee": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
-    "Crystal": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "technical": "TM98"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Tail",
-        "technical": "TR31"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Iron Head",
-        "technical": "TR74"
-      },
-      {
-        "move": "Stealth Rock",
-        "technical": "TR76"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Growl",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "4"
-      },
-      {
-        "move": "False Swipe",
-        "lvl": "8"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "12"
-      },
-      {
-        "move": "Retaliate",
-        "lvl": "16"
-      },
-      {
-        "move": "Fling",
-        "lvl": "20"
-      },
-      {
-        "move": "Stomping Tantrum",
-        "lvl": "24"
-      },
-      {
-        "move": "Bone Rush",
-        "lvl": "29"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "32"
-      },
-      {
-        "move": "Endeavor",
-        "lvl": "36"
-      },
-      {
-        "move": "Bonemerang",
-        "lvl": "40"
-      },
-      {
-        "move": "Thrash",
-        "lvl": "44"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Ancient Power"},
-      {"move": "Belly Drum"},
-      {"move": "Detect"},
-      {"move": "Double Kick"},
-      {"move": "Perish Song"},
-      {"move": "Skull Bash"},
-      {"move": "Curse"},
-      {"move": "Leer"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "6.5kg",
-    "category": "Lonely Pokémon",
-    "height": "0.4m"
-  },
+  "MoonEntry": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+  "spatk": 40,
+  "UltraSunEntry": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy\u2014Mandibuzz.",
+  "atk": 50,
+  "RedEntry": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+  "height": "0.4m",
+  "type2": "",
+  "WhiteEntry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+  "eggGroup2": "",
+  "spd": 35,
+  "CrystalEntry": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face.",
+  "weight": "6.5kg",
+  "eggGroup1": "Monster",
+  "hasMega": false,
+  "type1": "Ground",
+  "hasGalarian": false,
+  "BlueEntry": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+  "dfs": 95,
+  "GoldEntry": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+  "SapphireEntry": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+  "DiamondEntry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
   "name": "Cubone",
-  "Stats": {
-    "dfs": 95,
-    "spatk": 40,
-    "spd": 35,
-    "hp": 50,
-    "atk": 50,
-    "spdfs": 50
-  },
-  "Biology": {
-    "ability1": "Rock Head",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Monster",
-    "abilityHidden": "Battle Armor",
-    "ability2": "Lightning Rod",
-    "type1": "Ground",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 50,
+  "ShieldEntry": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+  "extraMega": false,
+  "HearthGoldEntry": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+  "YEntry": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+  "SunEntry": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "technical": "TM98"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Tail",
+      "technical": "TR31"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Iron Head",
+      "technical": "TR74"
+    },
+    {
+      "move": "Stealth Rock",
+      "technical": "TR76"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+  "PlatinumEntry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+  "abilityHidden": "Battle Armor",
+  "lvlUpMoves": [
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "4"
+    },
+    {
+      "move": "False Swipe",
+      "lvl": "8"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "12"
+    },
+    {
+      "move": "Retaliate",
+      "lvl": "16"
+    },
+    {
+      "move": "Fling",
+      "lvl": "20"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "lvl": "24"
+    },
+    {
+      "move": "Bone Rush",
+      "lvl": "29"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "32"
+    },
+    {
+      "move": "Endeavor",
+      "lvl": "36"
+    },
+    {
+      "move": "Bonemerang",
+      "lvl": "40"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "44"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+  "BlackEntry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+  "OmegaRubyEntry": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+  "LetsGoEeveeEntry": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+  "colour": "Brown",
+  "SoulsilverEntry": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+  "FireRedEntry": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+  "White2Entry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+  "SwordEntry": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+  "PearlEntry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+  "category": "Lonely Pokémon",
+  "LeafGreenEntry": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+  "104Entry": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+  "Black2Entry": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
 }

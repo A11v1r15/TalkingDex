@@ -1,31 +1,28 @@
 {
+  "extraMega": false,
+  "ability1": "Dazzling",
+  "hp": 68,
+  "SunEntry": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+  "ability2": "Strong Jaw",
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "UltraMoonEntry": "Its skin is thick enough to fend off Mareanie's spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
   "number": 779,
-  "Entry": {
-    "UltraMoon": "Its skin is thick enough to fend off Mareanie's spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
-    "Moon": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
-    "UltraSun": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
-    "Sun": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area."
-  },
-  "Moves": {},
-  "Flair": {"category": "Gnash Teeth Pokémon"},
+  "MoonEntry": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
+  "spatk": 70,
+  "UltraSunEntry": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",
+  "atk": 105,
+  "abilityHidden": "Wonder Skin",
+  "type2": "Psychic",
+  "eggGroup2": "",
+  "spd": 92,
+  "eggGroup1": "Water 2",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 70,
+  "hasAlolan": false,
   "name": "Bruxish",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 70,
-    "spd": 92,
-    "hp": 68,
-    "atk": 105,
-    "spdfs": 70
-  },
-  "Biology": {
-    "ability1": "Dazzling",
-    "type2": "Psychic",
-    "eggGroup2": "",
-    "eggGroup1": "Water 2",
-    "abilityHidden": "Wonder Skin",
-    "ability2": "Strong Jaw",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 70,
+  "category": "Gnash Teeth Pokémon"
 }

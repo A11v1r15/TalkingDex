@@ -1,235 +1,229 @@
 {
+  "EmeraldEntry": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.",
+  "ability1": "Oblivious",
+  "AlphaSapphireEntry": "Barboach\u2019s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy\u2019s grip. This Pokémon grows weak if the slimy coating dries up.",
+  "hp": 50,
+  "ability2": "Anticipation",
+  "eggMoves": [
+    {"move": "Thrash"},
+    {"move": "Spark"},
+    {"move": "Flail"},
+    {"move": "Take Down"}
+  ],
+  "UltraMoonEntry": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person's nose or tongue would.",
   "number": 339,
-  "Entry": {
-    "AlphaSapphire": "Barboach\u2019s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy\u2019s grip. This Pokémon grows weak if the slimy coating dries up.",
-    "UltraMoon": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person's nose or tongue would.",
-    "Shield": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-    "Moon": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
-    "White2": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "Diamond": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
-    "UltraSun": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.",
-    "Black": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "Black2": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "FireRed": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-    "Sun": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
-    "HearthGold": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
-    "OmegaRuby": "Barboach\u2019s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
-    "Pearl": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
-    "White": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "Sword": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "Sapphire": "Barboach's body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy's grip. This Pokémon grows weak if the slimy coating dries up.",
-    "LeafGreen": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
-    "Platinum": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
-    "Emerald": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.",
-    "X": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
-    "Y": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
-    "Ruby": "Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
-    "Soulsilver": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Mud Shot",
-        "technical": "TM53"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Bulldoze",
-        "technical": "TM81"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Earthquake",
-        "technical": "TR10"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Muddy Water",
-        "technical": "TR45"
-      },
-      {
-        "move": "Dragon Dance",
-        "technical": "TR51"
-      },
-      {
-        "move": "Earth Power",
-        "technical": "TR67"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Mud-Slap",
-        "lvl": "1"
-      },
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Rest",
-        "lvl": "6"
-      },
-      {
-        "move": "Snore",
-        "lvl": "6"
-      },
-      {
-        "move": "Water Pulse",
-        "lvl": "12"
-      },
-      {
-        "move": "Amnesia",
-        "lvl": "18"
-      },
-      {
-        "move": "Aqua Tail",
-        "lvl": "24"
-      },
-      {
-        "move": "Muddy Water",
-        "lvl": "31"
-      },
-      {
-        "move": "Earthquake",
-        "lvl": "36"
-      },
-      {
-        "move": "Future Sight",
-        "lvl": "42"
-      },
-      {
-        "move": "Fissure",
-        "lvl": "48"
-      }
-    ],
-    "egg": [
-      {"move": "Thrash"},
-      {"move": "Spark"},
-      {"move": "Flail"},
-      {"move": "Take Down"}
-    ]
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "1.9kg",
-    "category": "Whiskers Pokémon",
-    "height": "0.4m"
-  },
+  "MoonEntry": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
+  "spatk": 46,
+  "UltraSunEntry": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.",
+  "atk": 48,
+  "height": "0.4m",
+  "type2": "Ground",
+  "WhiteEntry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+  "eggGroup2": "",
+  "spd": 60,
+  "weight": "1.9kg",
+  "eggGroup1": "Water 2",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 43,
+  "SapphireEntry": "Barboach's body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy's grip. This Pokémon grows weak if the slimy coating dries up.",
+  "hasAlolan": false,
+  "DiamondEntry": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
   "name": "Barboach",
-  "Stats": {
-    "dfs": 43,
-    "spatk": 46,
-    "spd": 60,
-    "hp": 50,
-    "atk": 48,
-    "spdfs": 41
-  },
-  "Biology": {
-    "ability1": "Oblivious",
-    "type2": "Ground",
-    "eggGroup2": "",
-    "eggGroup1": "Water 2",
-    "abilityHidden": "Hydration",
-    "ability2": "Anticipation",
-    "type1": "Water",
-    "xpGroup": "Medium Fast"
-  },
-  "hasGigantamax": false
+  "spdfs": 41,
+  "ShieldEntry": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+  "extraMega": false,
+  "HearthGoldEntry": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+  "YEntry": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+  "SunEntry": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
+  "tmTrMoves": [
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Mud Shot",
+      "technical": "TM53"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Bulldoze",
+      "technical": "TM81"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Earthquake",
+      "technical": "TR10"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Muddy Water",
+      "technical": "TR45"
+    },
+    {
+      "move": "Dragon Dance",
+      "technical": "TR51"
+    },
+    {
+      "move": "Earth Power",
+      "technical": "TR67"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Fast",
+  "XEntry": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+  "PlatinumEntry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+  "abilityHidden": "Hydration",
+  "lvlUpMoves": [
+    {
+      "move": "Mud-Slap",
+      "lvl": "1"
+    },
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Rest",
+      "lvl": "6"
+    },
+    {
+      "move": "Snore",
+      "lvl": "6"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "12"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "18"
+    },
+    {
+      "move": "Aqua Tail",
+      "lvl": "24"
+    },
+    {
+      "move": "Muddy Water",
+      "lvl": "31"
+    },
+    {
+      "move": "Earthquake",
+      "lvl": "36"
+    },
+    {
+      "move": "Future Sight",
+      "lvl": "42"
+    },
+    {
+      "move": "Fissure",
+      "lvl": "48"
+    }
+  ],
+  "RubyEntry": "Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+  "BlackEntry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+  "OmegaRubyEntry": "Barboach\u2019s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+  "colour": "Gray",
+  "SoulsilverEntry": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+  "FireRedEntry": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+  "White2Entry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+  "SwordEntry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+  "PearlEntry": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+  "category": "Whiskers Pokémon",
+  "LeafGreenEntry": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+  "Black2Entry": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
 }

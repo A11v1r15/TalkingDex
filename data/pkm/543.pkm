@@ -1,199 +1,193 @@
 {
+  "ShieldEntry": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.",
+  "extraMega": false,
+  "ability1": "Poison Point",
+  "YEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+  "AlphaSapphireEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+  "hp": 30,
+  "ability2": "Swarm",
+  "tmTrMoves": [
+    {
+      "move": "Pin Missile",
+      "technical": "TM07"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Venoshock",
+      "technical": "TM74"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Sludge Bomb",
+      "technical": "TR22"
+    },
+    {
+      "move": "Spikes",
+      "technical": "TR23"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Toxic Spikes",
+      "technical": "TR54"
+    },
+    {
+      "move": "Poison Jab",
+      "technical": "TR57"
+    },
+    {
+      "move": "Venom Drench",
+      "technical": "TR91"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Bite"},
+    {"move": "Fury Cutter"}
+  ],
+  "XEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
   "number": 543,
-  "Entry": {
-    "AlphaSapphire": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
-    "White": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
-    "Sword": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
-    "Shield": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.",
-    "X": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
-    "White2": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
-    "Y": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
-    "Black": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
-    "Black2": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
-    "OmegaRuby": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Pin Missile",
-        "technical": "TM07"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Venoshock",
-        "technical": "TM74"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Sludge Bomb",
-        "technical": "TR22"
-      },
-      {
-        "move": "Spikes",
-        "technical": "TR23"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Toxic Spikes",
-        "technical": "TR54"
-      },
-      {
-        "move": "Poison Jab",
-        "technical": "TR57"
-      },
-      {
-        "move": "Venom Drench",
-        "technical": "TR91"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Poison Sting",
-        "lvl": "1"
-      },
-      {
-        "move": "Defense Curl",
-        "lvl": "1"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "4"
-      },
-      {
-        "move": "Protect",
-        "lvl": "8"
-      },
-      {
-        "move": "Poison Tail",
-        "lvl": "12"
-      },
-      {
-        "move": "Screech",
-        "lvl": "16"
-      },
-      {
-        "move": "Bug Bite",
-        "lvl": "20"
-      },
-      {
-        "move": "Venoshock",
-        "lvl": "24"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "28"
-      },
-      {
-        "move": "Agility",
-        "lvl": "32"
-      },
-      {
-        "move": "Toxic",
-        "lvl": "36"
-      },
-      {
-        "move": "Venom Drench",
-        "lvl": "40"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Bite"},
-      {"move": "Fury Cutter"}
-    ]
-  },
-  "Flair": {
-    "colour": "Red",
-    "weight": "5.3kg",
-    "category": "Centipede Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 30,
+  "atk": 45,
+  "abilityHidden": "Speed Boost",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "Poison Sting",
+      "lvl": "1"
+    },
+    {
+      "move": "Defense Curl",
+      "lvl": "1"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "4"
+    },
+    {
+      "move": "Protect",
+      "lvl": "8"
+    },
+    {
+      "move": "Poison Tail",
+      "lvl": "12"
+    },
+    {
+      "move": "Screech",
+      "lvl": "16"
+    },
+    {
+      "move": "Bug Bite",
+      "lvl": "20"
+    },
+    {
+      "move": "Venoshock",
+      "lvl": "24"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "28"
+    },
+    {
+      "move": "Agility",
+      "lvl": "32"
+    },
+    {
+      "move": "Toxic",
+      "lvl": "36"
+    },
+    {
+      "move": "Venom Drench",
+      "lvl": "40"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "44"
+    }
+  ],
+  "type2": "Poison",
+  "WhiteEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+  "eggGroup2": "",
+  "spd": 57,
+  "weight": "5.3kg",
+  "eggGroup1": "Bug",
+  "hasMega": false,
+  "type1": "Bug",
+  "hasGalarian": false,
+  "BlackEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+  "OmegaRubyEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+  "dfs": 59,
+  "colour": "Red",
+  "hasAlolan": false,
   "name": "Venipede",
-  "Stats": {
-    "dfs": 59,
-    "spatk": 30,
-    "spd": 57,
-    "hp": 30,
-    "atk": 45,
-    "spdfs": 39
-  },
-  "Biology": {
-    "ability1": "Poison Point",
-    "type2": "Poison",
-    "eggGroup2": "",
-    "eggGroup1": "Bug",
-    "abilityHidden": "Speed Boost",
-    "ability2": "Swarm",
-    "type1": "Bug",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
+  "SwordEntry": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+  "spdfs": 39,
+  "category": "Centipede Pokémon",
+  "Black2Entry": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state."
 }

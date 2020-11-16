@@ -1,184 +1,178 @@
 {
+  "ShieldEntry": "It's suspected that Klink were the inspiration behind ancient people's invention of the first gears.",
+  "extraMega": false,
+  "ability1": "Plus",
+  "YEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+  "AlphaSapphireEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+  "hp": 40,
+  "ability2": "Minus",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sandstorm",
+      "technical": "TM32"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Power Gem",
+      "technical": "TR63"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
   "number": 599,
-  "Entry": {
-    "AlphaSapphire": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-    "White": "Interlocking two bodies and spinning around generates the energy they need to live.",
-    "Sword": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
-    "Shield": "It's suspected that Klink were the inspiration behind ancient people's invention of the first gears.",
-    "X": "Interlocking two bodies and spinning around generates the energy they need to live.",
-    "White2": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
-    "Y": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-    "Black": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-    "Black2": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
-    "OmegaRuby": "Interlocking two bodies and spinning around generates the energy they need to live."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Sandstorm",
-        "technical": "TM32"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Power Gem",
-        "technical": "TR63"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Vise Grip",
-        "lvl": "1"
-      },
-      {
-        "move": "Bind",
-        "lvl": "4"
-      },
-      {
-        "move": "Charge",
-        "lvl": "8"
-      },
-      {
-        "move": "Charge Beam",
-        "lvl": "12"
-      },
-      {
-        "move": "Metal Sound",
-        "lvl": "16"
-      },
-      {
-        "move": "Autotomize",
-        "lvl": "20"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "24"
-      },
-      {
-        "move": "Screech",
-        "lvl": "28"
-      },
-      {
-        "move": "Gear Grind",
-        "lvl": "32"
-      },
-      {
-        "move": "Lock-On",
-        "lvl": "36"
-      },
-      {
-        "move": "Shift Gear",
-        "lvl": "40"
-      },
-      {
-        "move": "Zap Cannon",
-        "lvl": "44"
-      },
-      {
-        "move": "Hyper Beam",
-        "lvl": "48"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "21.0kg",
-    "category": "Gear Pokémon",
-    "height": "0.3m"
-  },
+  "spatk": 45,
+  "atk": 55,
+  "abilityHidden": "Clear Body",
+  "height": "0.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Vise Grip",
+      "lvl": "1"
+    },
+    {
+      "move": "Bind",
+      "lvl": "4"
+    },
+    {
+      "move": "Charge",
+      "lvl": "8"
+    },
+    {
+      "move": "Charge Beam",
+      "lvl": "12"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "16"
+    },
+    {
+      "move": "Autotomize",
+      "lvl": "20"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "24"
+    },
+    {
+      "move": "Screech",
+      "lvl": "28"
+    },
+    {
+      "move": "Gear Grind",
+      "lvl": "32"
+    },
+    {
+      "move": "Lock-On",
+      "lvl": "36"
+    },
+    {
+      "move": "Shift Gear",
+      "lvl": "40"
+    },
+    {
+      "move": "Zap Cannon",
+      "lvl": "44"
+    },
+    {
+      "move": "Hyper Beam",
+      "lvl": "48"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
+  "eggGroup2": "",
+  "spd": 30,
+  "weight": "21.0kg",
+  "eggGroup1": "Mineral",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "BlackEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+  "OmegaRubyEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
+  "dfs": 70,
+  "colour": "Gray",
+  "hasAlolan": false,
   "name": "Klink",
-  "Stats": {
-    "dfs": 70,
-    "spatk": 45,
-    "spd": 30,
-    "hp": 40,
-    "atk": 55,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Plus",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Mineral",
-    "abilityHidden": "Clear Body",
-    "ability2": "Minus",
-    "type1": "Steel",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+  "SwordEntry": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
+  "spdfs": 60,
+  "category": "Gear Pokémon",
+  "Black2Entry": "Two bodies comprise a fixed pair. They spin around each other to generate energy."
 }

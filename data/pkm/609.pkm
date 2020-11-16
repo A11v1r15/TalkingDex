@@ -1,248 +1,242 @@
 {
+  "ShieldEntry": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it's said.",
+  "extraMega": false,
+  "ability1": "Flash Fire",
+  "YEntry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+  "AlphaSapphireEntry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+  "hp": 60,
+  "ability2": "Flame Body",
+  "tmTrMoves": [
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Imprison",
+      "technical": "TM44"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Hex",
+      "technical": "TM77"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Calm Mind",
+      "technical": "TR49"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Ally Switch",
+      "technical": "TR83"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
   "number": 609,
-  "Entry": {
-    "AlphaSapphire": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-    "White": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
-    "Sword": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
-    "Shield": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it's said.",
-    "X": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
-    "White2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-    "Y": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-    "Black": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
-    "Black2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-    "OmegaRuby": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Imprison",
-        "technical": "TM44"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Hex",
-        "technical": "TM77"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Calm Mind",
-        "technical": "TR49"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Ally Switch",
-        "technical": "TR83"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Confuse Ray",
-        "lvl": "1"
-      },
-      {
-        "move": "Hex",
-        "lvl": "1"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "lvl": "1"
-      },
-      {
-        "move": "Fire Spin",
-        "lvl": "1"
-      },
-      {
-        "move": "Night Shade",
-        "lvl": "1"
-      },
-      {
-        "move": "Curse",
-        "lvl": "1"
-      },
-      {
-        "move": "Shadow Ball",
-        "lvl": "1"
-      },
-      {
-        "move": "Inferno",
-        "lvl": "1"
-      },
-      {
-        "move": "Imprison",
-        "lvl": "1"
-      },
-      {
-        "move": "Pain Split",
-        "lvl": "1"
-      },
-      {
-        "move": "Overheat",
-        "lvl": "1"
-      },
-      {
-        "move": "Memento",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      },
-      {
-        "move": "Smog",
-        "lvl": "1"
-      },
-      {
-        "move": "Ember",
-        "lvl": "1"
-      },
-      {
-        "move": "Minimize",
-        "lvl": "1"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Black",
-    "weight": "34.3kg",
-    "category": "Luring Pokémon",
-    "height": "1.0m"
-  },
+  "spatk": 145,
+  "atk": 55,
+  "abilityHidden": "Infiltrator",
+  "height": "1.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Confuse Ray",
+      "lvl": "1"
+    },
+    {
+      "move": "Hex",
+      "lvl": "1"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "lvl": "1"
+    },
+    {
+      "move": "Fire Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Night Shade",
+      "lvl": "1"
+    },
+    {
+      "move": "Curse",
+      "lvl": "1"
+    },
+    {
+      "move": "Shadow Ball",
+      "lvl": "1"
+    },
+    {
+      "move": "Inferno",
+      "lvl": "1"
+    },
+    {
+      "move": "Imprison",
+      "lvl": "1"
+    },
+    {
+      "move": "Pain Split",
+      "lvl": "1"
+    },
+    {
+      "move": "Overheat",
+      "lvl": "1"
+    },
+    {
+      "move": "Memento",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    },
+    {
+      "move": "Smog",
+      "lvl": "1"
+    },
+    {
+      "move": "Ember",
+      "lvl": "1"
+    },
+    {
+      "move": "Minimize",
+      "lvl": "1"
+    }
+  ],
+  "type2": "Fire",
+  "WhiteEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+  "eggGroup2": "",
+  "spd": 80,
+  "weight": "34.3kg",
+  "eggGroup1": "Amorphous",
+  "hasMega": false,
+  "type1": "Ghost",
+  "hasGalarian": false,
+  "BlackEntry": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+  "OmegaRubyEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+  "dfs": 90,
+  "colour": "Black",
+  "hasAlolan": false,
   "name": "Chandelure",
-  "Stats": {
-    "dfs": 90,
-    "spatk": 145,
-    "spd": 80,
-    "hp": 60,
-    "atk": 55,
-    "spdfs": 90
-  },
-  "Biology": {
-    "ability1": "Flash Fire",
-    "type2": "Fire",
-    "eggGroup2": "",
-    "eggGroup1": "Amorphous",
-    "abilityHidden": "Infiltrator",
-    "ability2": "Flame Body",
-    "type1": "Ghost",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+  "SwordEntry": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+  "spdfs": 90,
+  "category": "Luring Pokémon",
+  "Black2Entry": "The spirits burned up in its ominous flame lose their way and wander this world forever."
 }

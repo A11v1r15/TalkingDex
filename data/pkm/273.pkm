@@ -1,237 +1,231 @@
 {
+  "ShieldEntry": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+  "extraMega": false,
+  "HearthGoldEntry": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+  "EmeraldEntry": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+  "ability1": "Chlorophyll",
+  "YEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "AlphaSapphireEntry": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
+  "hp": 40,
+  "ability2": "Early Bird",
+  "tmTrMoves": [
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [
+    {"move": "Leech Seed"},
+    {"move": "Quick Attack"},
+    {"move": "Take Down"},
+    {"move": "Worry Seed"},
+    {"move": "Defog"},
+    {"move": "Night Slash"}
+  ],
+  "XEntry": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
   "number": 273,
-  "Entry": {
-    "AlphaSapphire": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
-    "Shield": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-    "White2": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Diamond": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Black": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Black2": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "FireRed": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey.",
-    "HearthGold": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-    "OmegaRuby": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon\u2019s body becomes.",
-    "Pearl": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "White": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Sword": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
-    "Sapphire": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
-    "LeafGreen": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey.",
-    "Platinum": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Emerald": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
-    "X": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
-    "Y": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
-    "Ruby": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes.",
-    "Soulsilver": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Absorb",
-        "lvl": "3"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "6"
-      },
-      {
-        "move": "Growth",
-        "lvl": "9"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "12"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "15"
-      },
-      {
-        "move": "Payback",
-        "lvl": "18"
-      },
-      {
-        "move": "Nature Power",
-        "lvl": "21"
-      },
-      {
-        "move": "Sunny Day",
-        "lvl": "24"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "27"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "30"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "33"
-      }
-    ],
-    "egg": [
-      {"move": "Leech Seed"},
-      {"move": "Quick Attack"},
-      {"move": "Take Down"},
-      {"move": "Worry Seed"},
-      {"move": "Defog"},
-      {"move": "Night Slash"}
-    ]
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "4.0kg",
-    "category": "Acorn Pokémon",
-    "height": "0.5m"
-  },
+  "spatk": 30,
+  "atk": 40,
+  "PlatinumEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "abilityHidden": "Pickpocket",
+  "height": "0.5m",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Absorb",
+      "lvl": "3"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "6"
+    },
+    {
+      "move": "Growth",
+      "lvl": "9"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "12"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "15"
+    },
+    {
+      "move": "Payback",
+      "lvl": "18"
+    },
+    {
+      "move": "Nature Power",
+      "lvl": "21"
+    },
+    {
+      "move": "Sunny Day",
+      "lvl": "24"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "27"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "30"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "33"
+    }
+  ],
+  "type2": "",
+  "WhiteEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "eggGroup2": "Grass",
+  "spd": 30,
+  "weight": "4.0kg",
+  "eggGroup1": "Field",
+  "RubyEntry": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes.",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "OmegaRubyEntry": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon\u2019s body becomes.",
+  "dfs": 50,
+  "SapphireEntry": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
+  "colour": "Brown",
+  "hasAlolan": false,
+  "DiamondEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "SoulsilverEntry": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
   "name": "Seedot",
-  "Stats": {
-    "dfs": 50,
-    "spatk": 30,
-    "spd": 30,
-    "hp": 40,
-    "atk": 40,
-    "spdfs": 30
-  },
-  "Biology": {
-    "ability1": "Chlorophyll",
-    "type2": "",
-    "eggGroup2": "Grass",
-    "eggGroup1": "Field",
-    "abilityHidden": "Pickpocket",
-    "ability2": "Early Bird",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey.",
+  "White2Entry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "SwordEntry": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
+  "PearlEntry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+  "spdfs": 30,
+  "category": "Acorn Pokémon",
+  "LeafGreenEntry": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey.",
+  "Black2Entry": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon."
 }

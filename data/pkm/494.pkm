@@ -1,358 +1,352 @@
 {
+  "extraMega": false,
+  "ability1": "Victory Star",
+  "YEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+  "AlphaSapphireEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+  "hp": 100,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Mega Punch",
+      "technical": "TM00"
+    },
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Fire Punch",
+      "technical": "TM03"
+    },
+    {
+      "move": "Thunder Punch",
+      "technical": "TM05"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Fire Spin",
+      "technical": "TM13"
+    },
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "technical": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "technical": "TM19"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Will-O-Wisp",
+      "technical": "TM38"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Helping Hand",
+      "technical": "TM41"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "U-turn",
+      "technical": "TM56"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Guard Swap",
+      "technical": "TM61"
+    },
+    {
+      "move": "Speed Swap",
+      "technical": "TM62"
+    },
+    {
+      "move": "Trick Room",
+      "technical": "TM70"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Mystical Fire",
+      "technical": "TM92"
+    },
+    {
+      "move": "Flamethrower",
+      "technical": "TR02"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Psychic",
+      "technical": "TR11"
+    },
+    {
+      "move": "Focus Energy",
+      "technical": "TR13"
+    },
+    {
+      "move": "Fire Blast",
+      "technical": "TR15"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Reversal",
+      "technical": "TR21"
+    },
+    {
+      "move": "Psyshock",
+      "technical": "TR25"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Baton Pass",
+      "technical": "TR29"
+    },
+    {
+      "move": "Encore",
+      "technical": "TR30"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Future Sight",
+      "technical": "TR34"
+    },
+    {
+      "move": "Uproar",
+      "technical": "TR35"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Taunt",
+      "technical": "TR37"
+    },
+    {
+      "move": "Trick",
+      "technical": "TR38"
+    },
+    {
+      "move": "Skill Swap",
+      "technical": "TR40"
+    },
+    {
+      "move": "Blaze Kick",
+      "technical": "TR41"
+    },
+    {
+      "move": "Overheat",
+      "technical": "TR43"
+    },
+    {
+      "move": "Flare Blitz",
+      "technical": "TR55"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Zen Headbutt",
+      "technical": "TR69"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Stored Power",
+      "technical": "TR82"
+    },
+    {
+      "move": "Work Up",
+      "technical": "TR85"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+  "eggMoves": [],
   "number": 494,
-  "Entry": {
-    "AlphaSapphire": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-    "White": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
-    "X": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
-    "White2": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-    "Y": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-    "Black": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
-    "Black2": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-    "OmegaRuby": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Punch",
-        "technical": "TM00"
-      },
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Fire Punch",
-        "technical": "TM03"
-      },
-      {
-        "move": "Thunder Punch",
-        "technical": "TM05"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Fire Spin",
-        "technical": "TM13"
-      },
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Light Screen",
-        "technical": "TM17"
-      },
-      {
-        "move": "Safeguard",
-        "technical": "TM19"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Will-O-Wisp",
-        "technical": "TM38"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Helping Hand",
-        "technical": "TM41"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "U-turn",
-        "technical": "TM56"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Guard Swap",
-        "technical": "TM61"
-      },
-      {
-        "move": "Speed Swap",
-        "technical": "TM62"
-      },
-      {
-        "move": "Trick Room",
-        "technical": "TM70"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Mystical Fire",
-        "technical": "TM92"
-      },
-      {
-        "move": "Flamethrower",
-        "technical": "TR02"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Psychic",
-        "technical": "TR11"
-      },
-      {
-        "move": "Focus Energy",
-        "technical": "TR13"
-      },
-      {
-        "move": "Fire Blast",
-        "technical": "TR15"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Reversal",
-        "technical": "TR21"
-      },
-      {
-        "move": "Psyshock",
-        "technical": "TR25"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Baton Pass",
-        "technical": "TR29"
-      },
-      {
-        "move": "Encore",
-        "technical": "TR30"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Future Sight",
-        "technical": "TR34"
-      },
-      {
-        "move": "Uproar",
-        "technical": "TR35"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Taunt",
-        "technical": "TR37"
-      },
-      {
-        "move": "Trick",
-        "technical": "TR38"
-      },
-      {
-        "move": "Skill Swap",
-        "technical": "TR40"
-      },
-      {
-        "move": "Blaze Kick",
-        "technical": "TR41"
-      },
-      {
-        "move": "Overheat",
-        "technical": "TR43"
-      },
-      {
-        "move": "Flare Blitz",
-        "technical": "TR55"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Zen Headbutt",
-        "technical": "TR69"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Stored Power",
-        "technical": "TR82"
-      },
-      {
-        "move": "Work Up",
-        "technical": "TR85"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "V-create",
-        "lvl": "1"
-      },
-      {
-        "move": "Quick Attack",
-        "lvl": "1"
-      },
-      {
-        "move": "Flame Charge",
-        "lvl": "1"
-      },
-      {
-        "move": "Confusion",
-        "lvl": "1"
-      },
-      {
-        "move": "Focus Energy",
-        "lvl": "1"
-      },
-      {
-        "move": "Work Up",
-        "lvl": "7"
-      },
-      {
-        "move": "Incinerate",
-        "lvl": "14"
-      },
-      {
-        "move": "Stored Power",
-        "lvl": "21"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "28"
-      },
-      {
-        "move": "Endure",
-        "lvl": "35"
-      },
-      {
-        "move": "Zen Headbutt",
-        "lvl": "42"
-      },
-      {
-        "move": "Inferno",
-        "lvl": "49"
-      },
-      {
-        "move": "Reversal",
-        "lvl": "56"
-      },
-      {
-        "move": "Searing Shot",
-        "lvl": "63"
-      },
-      {
-        "move": "Double-Edge",
-        "lvl": "70"
-      },
-      {
-        "move": "Flare Blitz",
-        "lvl": "77"
-      },
-      {
-        "move": "Overheat",
-        "lvl": "84"
-      },
-      {
-        "move": "Final Gambit",
-        "lvl": "91"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Yellow",
-    "weight": "4.0kg",
-    "category": "Victory Pokémon",
-    "height": "0.4m"
-  },
+  "spatk": 100,
+  "atk": 100,
+  "abilityHidden": "",
+  "height": "0.4m",
+  "lvlUpMoves": [
+    {
+      "move": "V-create",
+      "lvl": "1"
+    },
+    {
+      "move": "Quick Attack",
+      "lvl": "1"
+    },
+    {
+      "move": "Flame Charge",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "1"
+    },
+    {
+      "move": "Focus Energy",
+      "lvl": "1"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "7"
+    },
+    {
+      "move": "Incinerate",
+      "lvl": "14"
+    },
+    {
+      "move": "Stored Power",
+      "lvl": "21"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "28"
+    },
+    {
+      "move": "Endure",
+      "lvl": "35"
+    },
+    {
+      "move": "Zen Headbutt",
+      "lvl": "42"
+    },
+    {
+      "move": "Inferno",
+      "lvl": "49"
+    },
+    {
+      "move": "Reversal",
+      "lvl": "56"
+    },
+    {
+      "move": "Searing Shot",
+      "lvl": "63"
+    },
+    {
+      "move": "Double-Edge",
+      "lvl": "70"
+    },
+    {
+      "move": "Flare Blitz",
+      "lvl": "77"
+    },
+    {
+      "move": "Overheat",
+      "lvl": "84"
+    },
+    {
+      "move": "Final Gambit",
+      "lvl": "91"
+    }
+  ],
+  "type2": "Fire",
+  "WhiteEntry": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
+  "eggGroup2": "",
+  "spd": 100,
+  "weight": "4.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Psychic",
+  "hasGalarian": false,
+  "BlackEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+  "OmegaRubyEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+  "dfs": 100,
+  "colour": "Yellow",
+  "hasAlolan": false,
   "name": "Victini",
-  "Stats": {
-    "dfs": 100,
-    "spatk": 100,
-    "spd": 100,
-    "hp": 100,
-    "atk": 100,
-    "spdfs": 100
-  },
-  "Biology": {
-    "ability1": "Victory Star",
-    "type2": "Fire",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Psychic",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "White2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+  "spdfs": 100,
+  "category": "Victory Pokémon",
+  "Black2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power."
 }

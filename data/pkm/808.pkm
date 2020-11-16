@@ -1,122 +1,116 @@
 {
+  "ShieldEntry": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
+  "extraMega": false,
+  "ability1": "Magnet Pull",
+  "hp": 46,
+  "ability2": "",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Iron Defense",
+      "technical": "TR46"
+    },
+    {
+      "move": "Gyro Ball",
+      "technical": "TR52"
+    },
+    {
+      "move": "Flash Cannon",
+      "technical": "TR70"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "eggMoves": [],
   "number": 808,
-  "Entry": {
-    "Sword": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
-    "Shield": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
-    "LetsGoPikachu": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
-    "LetsGoEevee": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Iron Defense",
-        "technical": "TR46"
-      },
-      {
-        "move": "Gyro Ball",
-        "technical": "TR52"
-      },
-      {
-        "move": "Flash Cannon",
-        "technical": "TR70"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Thunder Shock",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Tail Whip",
-        "lvl": "8"
-      },
-      {
-        "move": "Headbutt",
-        "lvl": "16"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "24"
-      },
-      {
-        "move": "Acid Armor",
-        "lvl": "32"
-      },
-      {
-        "move": "Flash Cannon",
-        "lvl": "40"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Gray",
-    "weight": "8.0kg",
-    "category": "Hex Nut Pokémon",
-    "height": "0.2m"
-  },
+  "spatk": 55,
+  "atk": 65,
+  "abilityHidden": "",
+  "height": "0.2m",
+  "lvlUpMoves": [
+    {
+      "move": "Thunder Shock",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "8"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "16"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "24"
+    },
+    {
+      "move": "Acid Armor",
+      "lvl": "32"
+    },
+    {
+      "move": "Flash Cannon",
+      "lvl": "40"
+    }
+  ],
+  "type2": "",
+  "eggGroup2": "",
+  "spd": 34,
+  "weight": "8.0kg",
+  "eggGroup1": "Undiscovered",
+  "hasMega": false,
+  "type1": "Steel",
+  "hasGalarian": false,
+  "dfs": 65,
+  "LetsGoEeveeEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+  "colour": "Gray",
+  "hasAlolan": false,
+  "LetsGoPikachuEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
   "name": "Meltan",
-  "Stats": {
-    "dfs": 65,
-    "spatk": 55,
-    "spd": 34,
-    "hp": 46,
-    "atk": 65,
-    "spdfs": 35
-  },
-  "Biology": {
-    "ability1": "Magnet Pull",
-    "type2": "",
-    "eggGroup2": "",
-    "eggGroup1": "Undiscovered",
-    "abilityHidden": "",
-    "ability2": "",
-    "type1": "Steel",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "SwordEntry": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+  "spdfs": 35,
+  "category": "Hex Nut Pokémon"
 }

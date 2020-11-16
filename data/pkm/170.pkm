@@ -1,250 +1,244 @@
 {
+  "EmeraldEntry": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+  "ability1": "Volt Absorb",
+  "AlphaSapphireEntry": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
+  "hp": 75,
+  "SilverEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "ability2": "Illuminate",
+  "eggMoves": [
+    {"move": "Psybeam"},
+    {"move": "Mist"},
+    {"move": "Water Pulse"},
+    {"move": "Soak"}
+  ],
+  "UltraMoonEntry": "Chinchou blink their shining antennae at one another to claim their respective turf.",
   "number": 170,
-  "Entry": {
-    "Shield": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-    "Moon": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
-    "Black": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "Black2": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "FireRed": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-    "HearthGold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-    "Sword": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
-    "Sapphire": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
-    "Platinum": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "Emerald": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
-    "X": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-    "Y": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-    "Ruby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
-    "Soulsilver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-    "AlphaSapphire": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
-    "Gold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-    "UltraMoon": "Chinchou blink their shining antennae at one another to claim their respective turf.",
-    "White2": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "Diamond": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "UltraSun": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.",
-    "Sun": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
-    "OmegaRuby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
-    "Pearl": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "Silver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-    "White": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-    "LeafGreen": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-    "Crystal": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Thunder Wave",
-        "technical": "TM14"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Rain Dance",
-        "technical": "TM33"
-      },
-      {
-        "move": "Hail",
-        "technical": "TM35"
-      },
-      {
-        "move": "Whirlpool",
-        "technical": "TM36"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Dive",
-        "technical": "TM45"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Brine",
-        "technical": "TM55"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Volt Switch",
-        "technical": "TM80"
-      },
-      {
-        "move": "Hydro Pump",
-        "technical": "TR03"
-      },
-      {
-        "move": "Surf",
-        "technical": "TR04"
-      },
-      {
-        "move": "Ice Beam",
-        "technical": "TR05"
-      },
-      {
-        "move": "Blizzard",
-        "technical": "TR06"
-      },
-      {
-        "move": "Thunderbolt",
-        "technical": "TR08"
-      },
-      {
-        "move": "Thunder",
-        "technical": "TR09"
-      },
-      {
-        "move": "Agility",
-        "technical": "TR12"
-      },
-      {
-        "move": "Waterfall",
-        "technical": "TR16"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Electro Ball",
-        "technical": "TR80"
-      },
-      {
-        "move": "Scald",
-        "technical": "TR84"
-      },
-      {
-        "move": "Wild Charge",
-        "technical": "TR86"
-      },
-      {
-        "move": "Dazzling Gleam",
-        "technical": "TR92"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Water Gun",
-        "lvl": "1"
-      },
-      {
-        "move": "Supersonic",
-        "lvl": "1"
-      },
-      {
-        "move": "Electro Ball",
-        "lvl": "4"
-      },
-      {
-        "move": "Thunder Wave",
-        "lvl": "8"
-      },
-      {
-        "move": "Bubble Beam",
-        "lvl": "12"
-      },
-      {
-        "move": "Confuse Ray",
-        "lvl": "16"
-      },
-      {
-        "move": "Spark",
-        "lvl": "20"
-      },
-      {
-        "move": "Charge",
-        "lvl": "24"
-      },
-      {
-        "move": "Discharge",
-        "lvl": "28"
-      },
-      {
-        "move": "Aqua Ring",
-        "lvl": "32"
-      },
-      {
-        "move": "Flail",
-        "lvl": "36"
-      },
-      {
-        "move": "Take Down",
-        "lvl": "40"
-      },
-      {
-        "move": "Hydro Pump",
-        "lvl": "44"
-      }
-    ],
-    "egg": [
-      {"move": "Psybeam"},
-      {"move": "Mist"},
-      {"move": "Water Pulse"},
-      {"move": "Soak"}
-    ]
-  },
-  "Flair": {
-    "colour": "Blue",
-    "weight": "12.0kg",
-    "category": "Angler Pokémon",
-    "height": "0.5m"
-  },
+  "MoonEntry": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+  "spatk": 56,
+  "UltraSunEntry": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.",
+  "atk": 38,
+  "height": "0.5m",
+  "type2": "Electric",
+  "WhiteEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "eggGroup2": "",
+  "spd": 67,
+  "CrystalEntry": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+  "weight": "12.0kg",
+  "eggGroup1": "Water 2",
+  "hasMega": false,
+  "type1": "Water",
+  "hasGalarian": false,
+  "dfs": 38,
+  "GoldEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+  "SapphireEntry": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
+  "hasAlolan": false,
+  "DiamondEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
   "name": "Chinchou",
-  "Stats": {
-    "dfs": 38,
-    "spatk": 56,
-    "spd": 67,
-    "hp": 75,
-    "atk": 38,
-    "spdfs": 56
-  },
-  "Biology": {
-    "ability1": "Volt Absorb",
-    "type2": "Electric",
-    "eggGroup2": "",
-    "eggGroup1": "Water 2",
-    "abilityHidden": "Water Absorb",
-    "ability2": "Illuminate",
-    "type1": "Water",
-    "xpGroup": "Slow"
-  },
-  "hasGigantamax": false
+  "spdfs": 56,
+  "ShieldEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "extraMega": false,
+  "HearthGoldEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+  "YEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+  "SunEntry": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
+  "tmTrMoves": [
+    {
+      "move": "Thunder Wave",
+      "technical": "TM14"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Rain Dance",
+      "technical": "TM33"
+    },
+    {
+      "move": "Hail",
+      "technical": "TM35"
+    },
+    {
+      "move": "Whirlpool",
+      "technical": "TM36"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Dive",
+      "technical": "TM45"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Brine",
+      "technical": "TM55"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Volt Switch",
+      "technical": "TM80"
+    },
+    {
+      "move": "Hydro Pump",
+      "technical": "TR03"
+    },
+    {
+      "move": "Surf",
+      "technical": "TR04"
+    },
+    {
+      "move": "Ice Beam",
+      "technical": "TR05"
+    },
+    {
+      "move": "Blizzard",
+      "technical": "TR06"
+    },
+    {
+      "move": "Thunderbolt",
+      "technical": "TR08"
+    },
+    {
+      "move": "Thunder",
+      "technical": "TR09"
+    },
+    {
+      "move": "Agility",
+      "technical": "TR12"
+    },
+    {
+      "move": "Waterfall",
+      "technical": "TR16"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Electro Ball",
+      "technical": "TR80"
+    },
+    {
+      "move": "Scald",
+      "technical": "TR84"
+    },
+    {
+      "move": "Wild Charge",
+      "technical": "TR86"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "technical": "TR92"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Slow",
+  "XEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "PlatinumEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "abilityHidden": "Water Absorb",
+  "lvlUpMoves": [
+    {
+      "move": "Water Gun",
+      "lvl": "1"
+    },
+    {
+      "move": "Supersonic",
+      "lvl": "1"
+    },
+    {
+      "move": "Electro Ball",
+      "lvl": "4"
+    },
+    {
+      "move": "Thunder Wave",
+      "lvl": "8"
+    },
+    {
+      "move": "Bubble Beam",
+      "lvl": "12"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "16"
+    },
+    {
+      "move": "Spark",
+      "lvl": "20"
+    },
+    {
+      "move": "Charge",
+      "lvl": "24"
+    },
+    {
+      "move": "Discharge",
+      "lvl": "28"
+    },
+    {
+      "move": "Aqua Ring",
+      "lvl": "32"
+    },
+    {
+      "move": "Flail",
+      "lvl": "36"
+    },
+    {
+      "move": "Take Down",
+      "lvl": "40"
+    },
+    {
+      "move": "Hydro Pump",
+      "lvl": "44"
+    }
+  ],
+  "RubyEntry": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+  "BlackEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "OmegaRubyEntry": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+  "colour": "Blue",
+  "SoulsilverEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "FireRedEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "White2Entry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "SwordEntry": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+  "PearlEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "category": "Angler Pokémon",
+  "LeafGreenEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+  "Black2Entry": "It discharges positive and negative electricity from its antenna tips to shock its foes."
 }

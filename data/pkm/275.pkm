@@ -1,386 +1,380 @@
 {
+  "ShieldEntry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+  "extraMega": false,
+  "HearthGoldEntry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+  "EmeraldEntry": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.",
+  "ability1": "Chlorophyll",
+  "YEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "AlphaSapphireEntry": "Shiftry\u2019s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
+  "hp": 90,
+  "ability2": "Early Bird",
+  "tmTrMoves": [
+    {
+      "move": "Mega Kick",
+      "technical": "TM01"
+    },
+    {
+      "move": "Hyper Beam",
+      "technical": "TM08"
+    },
+    {
+      "move": "Giga Impact",
+      "technical": "TM09"
+    },
+    {
+      "move": "Solar Beam",
+      "technical": "TM11"
+    },
+    {
+      "move": "Solar Blade",
+      "technical": "TM12"
+    },
+    {
+      "move": "Dig",
+      "technical": "TM15"
+    },
+    {
+      "move": "Screech",
+      "technical": "TM16"
+    },
+    {
+      "move": "Self-Destruct",
+      "technical": "TM20"
+    },
+    {
+      "move": "Rest",
+      "technical": "TM21"
+    },
+    {
+      "move": "Rock Slide",
+      "technical": "TM22"
+    },
+    {
+      "move": "Thief",
+      "technical": "TM23"
+    },
+    {
+      "move": "Snore",
+      "technical": "TM24"
+    },
+    {
+      "move": "Protect",
+      "technical": "TM25"
+    },
+    {
+      "move": "Icy Wind",
+      "technical": "TM27"
+    },
+    {
+      "move": "Giga Drain",
+      "technical": "TM28"
+    },
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    },
+    {
+      "move": "Sunny Day",
+      "technical": "TM34"
+    },
+    {
+      "move": "Beat Up",
+      "technical": "TM37"
+    },
+    {
+      "move": "Facade",
+      "technical": "TM39"
+    },
+    {
+      "move": "Swift",
+      "technical": "TM40"
+    },
+    {
+      "move": "Revenge",
+      "technical": "TM42"
+    },
+    {
+      "move": "Brick Break",
+      "technical": "TM43"
+    },
+    {
+      "move": "Rock Tomb",
+      "technical": "TM48"
+    },
+    {
+      "move": "Bullet Seed",
+      "technical": "TM50"
+    },
+    {
+      "move": "Bounce",
+      "technical": "TM52"
+    },
+    {
+      "move": "Payback",
+      "technical": "TM57"
+    },
+    {
+      "move": "Assurance",
+      "technical": "TM58"
+    },
+    {
+      "move": "Fling",
+      "technical": "TM59"
+    },
+    {
+      "move": "Power Swap",
+      "technical": "TM60"
+    },
+    {
+      "move": "Low Sweep",
+      "technical": "TM75"
+    },
+    {
+      "move": "Round",
+      "technical": "TM76"
+    },
+    {
+      "move": "Retaliate",
+      "technical": "TM79"
+    },
+    {
+      "move": "Snarl",
+      "technical": "TM85"
+    },
+    {
+      "move": "Grassy Terrain",
+      "technical": "TM88"
+    },
+    {
+      "move": "False Swipe",
+      "technical": "TM94"
+    },
+    {
+      "move": "Air Slash",
+      "technical": "TM95"
+    },
+    {
+      "move": "Brutal Swing",
+      "technical": "TM97"
+    },
+    {
+      "move": "Swords Dance",
+      "technical": "TR00"
+    },
+    {
+      "move": "Body Slam",
+      "technical": "TR01"
+    },
+    {
+      "move": "Low Kick",
+      "technical": "TR07"
+    },
+    {
+      "move": "Amnesia",
+      "technical": "TR17"
+    },
+    {
+      "move": "Substitute",
+      "technical": "TR20"
+    },
+    {
+      "move": "Endure",
+      "technical": "TR26"
+    },
+    {
+      "move": "Sleep Talk",
+      "technical": "TR27"
+    },
+    {
+      "move": "Shadow Ball",
+      "technical": "TR33"
+    },
+    {
+      "move": "Heat Wave",
+      "technical": "TR36"
+    },
+    {
+      "move": "Leaf Blade",
+      "technical": "TR50"
+    },
+    {
+      "move": "Dark Pulse",
+      "technical": "TR58"
+    },
+    {
+      "move": "Seed Bomb",
+      "technical": "TR59"
+    },
+    {
+      "move": "X-Scissor",
+      "technical": "TR60"
+    },
+    {
+      "move": "Focus Blast",
+      "technical": "TR64"
+    },
+    {
+      "move": "Energy Ball",
+      "technical": "TR65"
+    },
+    {
+      "move": "Nasty Plot",
+      "technical": "TR68"
+    },
+    {
+      "move": "Leaf Storm",
+      "technical": "TR71"
+    },
+    {
+      "move": "Grass Knot",
+      "technical": "TR77"
+    },
+    {
+      "move": "Foul Play",
+      "technical": "TR81"
+    },
+    {
+      "move": "Hurricane",
+      "technical": "TR89"
+    },
+    {
+      "move": "Throat Chop",
+      "technical": "TR95"
+    }
+  ],
+  "hasGigantamax": false,
+  "xpGroup": "Medium Slow",
+  "eggMoves": [],
+  "XEntry": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
   "number": 275,
-  "Entry": {
-    "AlphaSapphire": "Shiftry\u2019s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
-    "Shield": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-    "White2": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Diamond": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Black": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Black2": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "FireRed": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
-    "HearthGold": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
-    "OmegaRuby": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
-    "Pearl": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "White": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Sword": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
-    "Sapphire": "Shiftry's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
-    "LeafGreen": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
-    "Platinum": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Emerald": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.",
-    "X": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
-    "Y": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
-    "Ruby": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
-    "Soulsilver": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds."
-  },
-  "Moves": {
-    "tmTr": [
-      {
-        "move": "Mega Kick",
-        "technical": "TM01"
-      },
-      {
-        "move": "Hyper Beam",
-        "technical": "TM08"
-      },
-      {
-        "move": "Giga Impact",
-        "technical": "TM09"
-      },
-      {
-        "move": "Solar Beam",
-        "technical": "TM11"
-      },
-      {
-        "move": "Solar Blade",
-        "technical": "TM12"
-      },
-      {
-        "move": "Dig",
-        "technical": "TM15"
-      },
-      {
-        "move": "Screech",
-        "technical": "TM16"
-      },
-      {
-        "move": "Self-Destruct",
-        "technical": "TM20"
-      },
-      {
-        "move": "Rest",
-        "technical": "TM21"
-      },
-      {
-        "move": "Rock Slide",
-        "technical": "TM22"
-      },
-      {
-        "move": "Thief",
-        "technical": "TM23"
-      },
-      {
-        "move": "Snore",
-        "technical": "TM24"
-      },
-      {
-        "move": "Protect",
-        "technical": "TM25"
-      },
-      {
-        "move": "Icy Wind",
-        "technical": "TM27"
-      },
-      {
-        "move": "Giga Drain",
-        "technical": "TM28"
-      },
-      {
-        "move": "Attract",
-        "technical": "TM31"
-      },
-      {
-        "move": "Sunny Day",
-        "technical": "TM34"
-      },
-      {
-        "move": "Beat Up",
-        "technical": "TM37"
-      },
-      {
-        "move": "Facade",
-        "technical": "TM39"
-      },
-      {
-        "move": "Swift",
-        "technical": "TM40"
-      },
-      {
-        "move": "Revenge",
-        "technical": "TM42"
-      },
-      {
-        "move": "Brick Break",
-        "technical": "TM43"
-      },
-      {
-        "move": "Rock Tomb",
-        "technical": "TM48"
-      },
-      {
-        "move": "Bullet Seed",
-        "technical": "TM50"
-      },
-      {
-        "move": "Bounce",
-        "technical": "TM52"
-      },
-      {
-        "move": "Payback",
-        "technical": "TM57"
-      },
-      {
-        "move": "Assurance",
-        "technical": "TM58"
-      },
-      {
-        "move": "Fling",
-        "technical": "TM59"
-      },
-      {
-        "move": "Power Swap",
-        "technical": "TM60"
-      },
-      {
-        "move": "Low Sweep",
-        "technical": "TM75"
-      },
-      {
-        "move": "Round",
-        "technical": "TM76"
-      },
-      {
-        "move": "Retaliate",
-        "technical": "TM79"
-      },
-      {
-        "move": "Snarl",
-        "technical": "TM85"
-      },
-      {
-        "move": "Grassy Terrain",
-        "technical": "TM88"
-      },
-      {
-        "move": "False Swipe",
-        "technical": "TM94"
-      },
-      {
-        "move": "Air Slash",
-        "technical": "TM95"
-      },
-      {
-        "move": "Brutal Swing",
-        "technical": "TM97"
-      },
-      {
-        "move": "Swords Dance",
-        "technical": "TR00"
-      },
-      {
-        "move": "Body Slam",
-        "technical": "TR01"
-      },
-      {
-        "move": "Low Kick",
-        "technical": "TR07"
-      },
-      {
-        "move": "Amnesia",
-        "technical": "TR17"
-      },
-      {
-        "move": "Substitute",
-        "technical": "TR20"
-      },
-      {
-        "move": "Endure",
-        "technical": "TR26"
-      },
-      {
-        "move": "Sleep Talk",
-        "technical": "TR27"
-      },
-      {
-        "move": "Shadow Ball",
-        "technical": "TR33"
-      },
-      {
-        "move": "Heat Wave",
-        "technical": "TR36"
-      },
-      {
-        "move": "Leaf Blade",
-        "technical": "TR50"
-      },
-      {
-        "move": "Dark Pulse",
-        "technical": "TR58"
-      },
-      {
-        "move": "Seed Bomb",
-        "technical": "TR59"
-      },
-      {
-        "move": "X-Scissor",
-        "technical": "TR60"
-      },
-      {
-        "move": "Focus Blast",
-        "technical": "TR64"
-      },
-      {
-        "move": "Energy Ball",
-        "technical": "TR65"
-      },
-      {
-        "move": "Nasty Plot",
-        "technical": "TR68"
-      },
-      {
-        "move": "Leaf Storm",
-        "technical": "TR71"
-      },
-      {
-        "move": "Grass Knot",
-        "technical": "TR77"
-      },
-      {
-        "move": "Foul Play",
-        "technical": "TR81"
-      },
-      {
-        "move": "Hurricane",
-        "technical": "TR89"
-      },
-      {
-        "move": "Throat Chop",
-        "technical": "TR95"
-      }
-    ],
-    "lvlUp": [
-      {
-        "move": "Leaf Tornado",
-        "lvl": "0"
-      },
-      {
-        "move": "Leaf Tornado",
-        "lvl": "1"
-      },
-      {
-        "move": "Razor Leaf",
-        "lvl": "1"
-      },
-      {
-        "move": "Air Cutter",
-        "lvl": "1"
-      },
-      {
-        "move": "Torment",
-        "lvl": "1"
-      },
-      {
-        "move": "Fake Out",
-        "lvl": "1"
-      },
-      {
-        "move": "Swagger",
-        "lvl": "1"
-      },
-      {
-        "move": "Whirlwind",
-        "lvl": "1"
-      },
-      {
-        "move": "Hurricane",
-        "lvl": "1"
-      },
-      {
-        "move": "Synthesis",
-        "lvl": "1"
-      },
-      {
-        "move": "Explosion",
-        "lvl": "1"
-      },
-      {
-        "move": "Growth",
-        "lvl": "1"
-      },
-      {
-        "move": "Rollout",
-        "lvl": "1"
-      },
-      {
-        "move": "Mega Drain",
-        "lvl": "1"
-      },
-      {
-        "move": "Payback",
-        "lvl": "1"
-      },
-      {
-        "move": "Nature Power",
-        "lvl": "1"
-      },
-      {
-        "move": "Sunny Day",
-        "lvl": "1"
-      },
-      {
-        "move": "Extrasensory",
-        "lvl": "1"
-      },
-      {
-        "move": "Sucker Punch",
-        "lvl": "1"
-      },
-      {
-        "move": "Leaf Blade",
-        "lvl": "1"
-      },
-      {
-        "move": "Tackle",
-        "lvl": "1"
-      },
-      {
-        "move": "Harden",
-        "lvl": "1"
-      },
-      {
-        "move": "Absorb",
-        "lvl": "1"
-      },
-      {
-        "move": "Astonish",
-        "lvl": "1"
-      }
-    ],
-    "egg": []
-  },
-  "Flair": {
-    "colour": "Brown",
-    "weight": "59.6kg",
-    "category": "Wicked Pokémon",
-    "height": "1.3m"
-  },
+  "spatk": 90,
+  "atk": 100,
+  "PlatinumEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "abilityHidden": "Pickpocket",
+  "height": "1.3m",
+  "lvlUpMoves": [
+    {
+      "move": "Leaf Tornado",
+      "lvl": "0"
+    },
+    {
+      "move": "Leaf Tornado",
+      "lvl": "1"
+    },
+    {
+      "move": "Razor Leaf",
+      "lvl": "1"
+    },
+    {
+      "move": "Air Cutter",
+      "lvl": "1"
+    },
+    {
+      "move": "Torment",
+      "lvl": "1"
+    },
+    {
+      "move": "Fake Out",
+      "lvl": "1"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "1"
+    },
+    {
+      "move": "Whirlwind",
+      "lvl": "1"
+    },
+    {
+      "move": "Hurricane",
+      "lvl": "1"
+    },
+    {
+      "move": "Synthesis",
+      "lvl": "1"
+    },
+    {
+      "move": "Explosion",
+      "lvl": "1"
+    },
+    {
+      "move": "Growth",
+      "lvl": "1"
+    },
+    {
+      "move": "Rollout",
+      "lvl": "1"
+    },
+    {
+      "move": "Mega Drain",
+      "lvl": "1"
+    },
+    {
+      "move": "Payback",
+      "lvl": "1"
+    },
+    {
+      "move": "Nature Power",
+      "lvl": "1"
+    },
+    {
+      "move": "Sunny Day",
+      "lvl": "1"
+    },
+    {
+      "move": "Extrasensory",
+      "lvl": "1"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "1"
+    },
+    {
+      "move": "Leaf Blade",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Absorb",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "1"
+    }
+  ],
+  "type2": "Dark",
+  "WhiteEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "eggGroup2": "Grass",
+  "spd": 80,
+  "weight": "59.6kg",
+  "eggGroup1": "Field",
+  "RubyEntry": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+  "hasMega": false,
+  "type1": "Grass",
+  "hasGalarian": false,
+  "BlackEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "OmegaRubyEntry": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+  "dfs": 60,
+  "SapphireEntry": "Shiftry's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
+  "colour": "Brown",
+  "hasAlolan": false,
+  "DiamondEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "SoulsilverEntry": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
   "name": "Shiftry",
-  "Stats": {
-    "dfs": 60,
-    "spatk": 90,
-    "spd": 80,
-    "hp": 90,
-    "atk": 100,
-    "spdfs": 60
-  },
-  "Biology": {
-    "ability1": "Chlorophyll",
-    "type2": "Dark",
-    "eggGroup2": "Grass",
-    "eggGroup1": "Field",
-    "abilityHidden": "Pickpocket",
-    "ability2": "Early Bird",
-    "type1": "Grass",
-    "xpGroup": "Medium Slow"
-  },
-  "hasGigantamax": false
+  "FireRedEntry": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+  "White2Entry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "SwordEntry": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+  "PearlEntry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "spdfs": 60,
+  "category": "Wicked Pokémon",
+  "LeafGreenEntry": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+  "Black2Entry": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses."
 }
