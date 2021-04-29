@@ -16,6 +16,8 @@ int MaxDex = 898;
 IntList alola;
 IntList alolaUltra;
 IntList galar;
+IntList ioa;
+IntList ct;
 StringList versions;
 
 void setup () {
@@ -23,16 +25,16 @@ void setup () {
   alola = new IntList(loadJSONArray("pkm/Alola.pkm").getIntArray());
   alolaUltra = new IntList(loadJSONArray("pkm/UltraAlola.pkm").getIntArray());
   galar = new IntList(loadJSONArray("pkm/Galar.pkm").getIntArray());
+  ioa = new IntList(loadJSONArray("pkm/IoA.pkm").getIntArray());
+  ct = new IntList(loadJSONArray("pkm/CT.pkm").getIntArray());
   versions = new StringList(loadJSONArray("pkm/Version.pkm").getStringArray());
-  IntList ex = new IntList(loadJSONArray("pkm/IoA.pkm").getIntArray());
-  for (int i : ex) {
+  for (int i : ioa) {
     if (!galar.hasValue(i))
       galar.append(i);
   }
-  ex = new IntList(loadJSONArray("pkm/CT.pkm").getIntArray());
-  for (int i : ex) {
-    if (!galar.hasValue(i))
-      galar.append(i);
+  for (int c : ct) {
+    if (!galar.hasValue(c))
+      galar.append(c);
   }
   alola.sort();
   alolaUltra.sort();
@@ -197,7 +199,7 @@ void checkMaxDex() {
   } else if (versioN < 30) {//LGpe
     MaxDex = 153;
   } else if (versioN < 32) {//SwSh
-    MaxDex = natGalar.size();
+    MaxDex = galar.size();
   }
 }
 
@@ -213,7 +215,7 @@ int index() {
       return pkn;
     return pkn+656;
   } else if (versioN < 32) {//SwSh
-    return natGalar.get(pkn-1);
+    return galar.get(pkn-1);
   }
   return pkn;
 }
@@ -256,7 +258,7 @@ void drawFace() {
 }
 
 @Override
-  public void onDestroy() {
+public void onDestroy() {
   super.onDestroy();
-  if ( t1 != null ) t1.shutdown();
+  if( t1 != null ) t1.shutdown();
 }
