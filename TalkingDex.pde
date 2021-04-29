@@ -24,8 +24,7 @@ IntList galar;
 StringList versions;
 
 void setup () {
-  ct = new IntList(loadJSONArray("pkm/CT.pkm").getIntArray());
-  size(400, 800);
+  //size(400, 800);
   JSONObject pokedex = loadJSONObject("C:/PKM/Pokedex.pkm");
   galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
