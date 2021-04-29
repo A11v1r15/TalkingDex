@@ -65,9 +65,13 @@
       "lvl": "70"
     }
   ],
+  "ability1": "Berserk",
+  "type2": "Flying",
+  "eggGroup2": "",
   "spd": 90,
   "hp": 90,
   "weight": "66.0kg",
+  "eggGroup1": "Undiscovered",
   "tmTrMoves": [
     {
       "move": "Fly",
@@ -194,6 +198,9 @@
       "technical": "TR89"
     }
   ],
+  "ability2": "",
+  "type1": "Dark",
+  "xpGroup": "Slow",
   "eggMoves": [],
   "dfs": 90,
   "number": 146,
@@ -201,14 +208,8 @@
   "spatk": 100,
   "name": "Galarian Moltres",
   "atk": 85,
-  "spdfs": 125,
-  "height": "2.0m",
-  "ability1": "Berserk",
-  "ability2": "",
   "abilityHidden": "",
-  "type1": "Dark",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "eggGroup1": "Undiscovered",
-  "category": "Malevolent Pokémon"
+  "spdfs": 125,
+  "category": "Malevolent Pokémon",
+  "height": "2.0m"
 }

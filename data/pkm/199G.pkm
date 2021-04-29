@@ -89,9 +89,13 @@
       "lvl": "45"
     }
   ],
+  "ability1": "Curious Medicine",
+  "type2": "Psychic",
+  "eggGroup2": "Water 1",
   "spd": 30,
   "hp": 95,
   "weight": "79.5kg",
+  "eggGroup1": "Monster",
   "tmTrMoves": [
     {
       "move": "Mega Punch",
@@ -386,6 +390,9 @@
       "technical": "TR98"
     }
   ],
+  "ability2": "Own Tempo",
+  "type1": "Poison",
+  "xpGroup": "Medium Fast",
   "eggMoves": [],
   "dfs": 80,
   "number": 199,
@@ -393,14 +400,8 @@
   "spatk": 110,
   "name": "Galarian Slowking",
   "atk": 65,
-  "spdfs": 110,
-  "height": "1.8m",
-  "ability1": "Curious Medicine",
-  "ability2": "Own Tempo",
   "abilityHidden": "Regenerator",
-  "type1": "Poison",
-  "type2": "Psychic",
-  "eggGroup2": "Water 1",
-  "eggGroup1": "Monster",
-  "category": "Hexpert Pokémon"
+  "spdfs": 110,
+  "category": "Hexpert Pokémon",
+  "height": "1.8m"
 }
