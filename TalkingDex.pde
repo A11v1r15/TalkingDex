@@ -9,7 +9,6 @@ TextToSpeech t1;
 float diameter;
 ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
-int versioN = 25;
 int pkn = 1;
 JSONObject pkm;
 int MaxDex = 898;
@@ -25,7 +24,7 @@ StringList versions;
 
 void setup () {
   //size(400, 800);
-  JSONObject pokedex = loadJSONObject("C:/PKM/Pokedex.pkm");
+  JSONObject pokedex = loadJSONObject("pkm/Pokedex.pkm");
   galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
   alolaUltra = new IntList(pokedex.getJSONArray("Ultra Alola").getIntArray());
@@ -35,8 +34,7 @@ void setup () {
   galar.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
-  t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() { 
-  /*t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() { 
+  t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
     @Override public void onInit(int status) { 
       if (status != TextToSpeech.ERROR) {
         t1.setLanguage(Locale.UK);
@@ -45,7 +43,6 @@ void setup () {
   }
   );
   t1.setPitch(0.4f);
-  t1.setPitch(0.4f);*/
   diameter = (min(width, height)*0.7);
   for (int i = 1; i < MaxDex+1; i++) {
     list.add(loadImage(String.format("png/%03d.png", i)));
@@ -135,7 +132,7 @@ void touchEnded() {
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
-    println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
+    t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
   } else if (wasChangingVersion) {
   }
 }
@@ -255,8 +252,8 @@ void drawFace() {
   popStyle();
 }
 
-/*@Override
+@Override
 public void onDestroy() {
   super.onDestroy();
   if( t1 != null ) t1.shutdown();
-}*/
+}
