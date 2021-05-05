@@ -2,6 +2,7 @@
   "ShieldEntry": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
   "extraMega": false,
   "ability1": "Water Bubble",
+  "atkYield": 0,
   "hp": 38,
   "SunEntry": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
   "ability2": "",
@@ -111,6 +112,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -125,7 +127,9 @@
   "spatk": 40,
   "UltraSunEntry": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.",
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Water Absorb",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -196,8 +200,10 @@
   "dfs": 52,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Dewpider",
   "SwordEntry": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+  "spdYield": 0,
   "spdfs": 72,
   "category": "Water Bubble Pokémon"
 }

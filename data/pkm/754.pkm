@@ -2,6 +2,7 @@
   "ShieldEntry": "The petals on this Pokémon's arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.",
   "extraMega": false,
   "ability1": "Leaf Guard",
+  "atkYield": 2,
   "hp": 70,
   "SunEntry": "It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.",
   "ability2": "",
@@ -155,6 +156,7 @@
       "technical": "TR77"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -164,7 +166,9 @@
   "spatk": 80,
   "UltraSunEntry": "For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.",
   "atk": 105,
+  "dfsYield": 0,
   "abilityHidden": "Contrary",
+  "hpYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -247,8 +251,10 @@
   "dfs": 90,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Lurantis",
   "SwordEntry": "This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Bloom Sickle Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
   "extraMega": false,
   "ability1": "Lightning Rod",
+  "atkYield": 2,
   "hp": 48,
   "ability2": "",
   "tmTrMoves": [
@@ -134,6 +135,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -143,7 +145,9 @@
   "number": 871,
   "spatk": 91,
   "atk": 101,
+  "dfsYield": 0,
   "abilityHidden": "Electric Surge",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -214,8 +218,10 @@
   "dfs": 95,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pincurchin",
   "SwordEntry": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Sea Urchin Pokémon"
 }

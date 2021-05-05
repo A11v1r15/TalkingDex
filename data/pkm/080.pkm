@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
   "ability1": "Oblivious",
   "AlphaSapphireEntry": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+  "atkYield": 0,
   "hp": 95,
   "SilverEntry": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
   "ability2": "Own Tempo",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
   "DiamondEntry": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
   "name": "Slowbro",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
   "extraMega": false,
@@ -313,11 +315,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
   "PlatinumEntry": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+  "dfsYield": 2,
   "abilityHidden": "Regenerator",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Withdraw",
@@ -397,6 +402,7 @@
   "OmegaRubyEntry": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
   "LetsGoEeveeEntry": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
   "FireRedEntry": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
   "White2Entry": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",

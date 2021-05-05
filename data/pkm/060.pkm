@@ -3,6 +3,7 @@
   "EmeraldEntry": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
   "ability1": "Water Absorb",
   "AlphaSapphireEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+  "atkYield": 0,
   "hp": 40,
   "SilverEntry": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
   "ability2": "Damp",
@@ -40,6 +41,7 @@
   "LetsGoPikachuEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
   "DiamondEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
   "name": "Poliwag",
+  "spdYield": 1,
   "spdfs": 40,
   "ShieldEntry": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
   "extraMega": false,
@@ -168,11 +170,14 @@
       "technical": "TR84"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
   "PlatinumEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+  "dfsYield": 0,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -224,6 +229,7 @@
   "OmegaRubyEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
   "LetsGoEeveeEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
   "FireRedEntry": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
   "White2Entry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",

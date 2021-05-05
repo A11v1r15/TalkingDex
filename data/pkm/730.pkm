@@ -2,6 +2,7 @@
   "ShieldEntry": "For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
   "extraMega": false,
   "ability1": "Torrent",
+  "atkYield": 0,
   "hp": 80,
   "SunEntry": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
   "ability2": "",
@@ -191,6 +192,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -200,7 +202,9 @@
   "spatk": 126,
   "UltraSunEntry": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
   "atk": 74,
+  "dfsYield": 0,
   "abilityHidden": "Liquid Voice",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -279,8 +283,10 @@
   "dfs": 74,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Primarina",
   "SwordEntry": "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.",
+  "spdYield": 0,
   "spdfs": 116,
   "category": "Soloist Pokémon"
 }

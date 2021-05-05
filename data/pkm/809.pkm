@@ -2,6 +2,7 @@
   "ShieldEntry": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
   "extraMega": false,
   "ability1": "Iron Fist",
+  "atkYield": 3,
   "hp": 135,
   "ability2": "",
   "tmTrMoves": [
@@ -150,13 +151,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 809,
   "spatk": 80,
   "atk": 143,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -236,9 +240,11 @@
   "LetsGoEeveeEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "LetsGoPikachuEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
   "name": "Melmetal",
   "SwordEntry": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Hex Nut Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Contrary",
   "YEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
   "AlphaSapphireEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+  "atkYield": 2,
   "hp": 86,
   "ability2": "Suction Cups",
   "tmTrMoves": [
@@ -180,6 +181,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -189,7 +191,9 @@
   "spatk": 68,
   "UltraSunEntry": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
   "atk": 92,
+  "dfsYield": 0,
   "abilityHidden": "Infiltrator",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -269,8 +273,10 @@
   "dfs": 88,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Malamar",
   "SwordEntry": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Overturning Pokémon"
 }

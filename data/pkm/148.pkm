@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
   "ability1": "Inner Focus",
   "AlphaSapphireEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
+  "atkYield": 2,
   "hp": 61,
   "SilverEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
   "DiamondEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
   "name": "Dragonair",
+  "spdYield": 0,
   "spdfs": 70,
   "ShieldEntry": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
   "extraMega": false,
@@ -193,11 +195,14 @@
       "technical": "TR62"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
   "PlatinumEntry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+  "dfsYield": 0,
   "abilityHidden": "Multiscale",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Wrap",
@@ -261,6 +266,7 @@
   "OmegaRubyEntry": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from its crystals on its neck and tail.",
   "LetsGoEeveeEntry": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
   "FireRedEntry": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
   "White2Entry": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",

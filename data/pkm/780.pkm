@@ -2,6 +2,7 @@
   "ShieldEntry": "Drampa is a kind and friendly Pokémon\u2014up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
   "extraMega": false,
   "ability1": "Berserk",
+  "atkYield": 0,
   "hp": 78,
   "SunEntry": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
   "ability2": "Sap Sipper",
@@ -227,6 +228,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -240,7 +242,9 @@
   "spatk": 135,
   "UltraSunEntry": "If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.",
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Cloud Nine",
+  "hpYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -307,8 +311,10 @@
   "dfs": 85,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Drampa",
   "SwordEntry": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+  "spdYield": 0,
   "spdfs": 91,
   "category": "Placid Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water's edge.",
   "ability1": "Oblivious",
   "AlphaSapphireEntry": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
+  "atkYield": 0,
   "hp": 90,
   "SilverEntry": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
   "ability2": "Own Tempo",
@@ -38,6 +39,7 @@
   "LetsGoPikachuEntry": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
   "DiamondEntry": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
   "name": "Slowpoke",
+  "spdYield": 0,
   "spdfs": 40,
   "ShieldEntry": "When this Pokémon's tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
   "extraMega": false,
@@ -254,11 +256,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
   "PlatinumEntry": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+  "dfsYield": 0,
   "abilityHidden": "Regenerator",
+  "hpYield": 1,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -334,6 +339,7 @@
   "OmegaRubyEntry": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
   "LetsGoEeveeEntry": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
   "FireRedEntry": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
   "White2Entry": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",

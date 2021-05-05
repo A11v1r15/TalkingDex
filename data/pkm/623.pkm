@@ -4,6 +4,7 @@
   "ability1": "Iron Fist",
   "YEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
   "AlphaSapphireEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+  "atkYield": 2,
   "hp": 89,
   "ability2": "Klutz",
   "tmTrMoves": [
@@ -244,6 +245,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -253,7 +255,9 @@
   "spatk": 55,
   "UltraSunEntry": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master's orders faithfully.",
   "atk": 124,
+  "dfsYield": 0,
   "abilityHidden": "No Guard",
+  "hpYield": 0,
   "height": "2.8m",
   "lvlUpMoves": [
     {
@@ -343,9 +347,11 @@
   "dfs": 80,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Golurk",
   "White2Entry": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
   "SwordEntry": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Automaton Pokémon",
   "Black2Entry": "Golurk were created to protect people and Pokémon. They run on a mysterious energy."

@@ -2,6 +2,7 @@
   "ShieldEntry": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
   "extraMega": false,
   "ability1": "Magnet Pull",
+  "atkYield": 1,
   "hp": 46,
   "ability2": "",
   "tmTrMoves": [
@@ -58,13 +59,16 @@
       "technical": "TR70"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 808,
   "spatk": 55,
   "atk": 65,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -108,9 +112,11 @@
   "LetsGoEeveeEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "LetsGoPikachuEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
   "name": "Meltan",
   "SwordEntry": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+  "spdYield": 0,
   "spdfs": 35,
   "category": "Hex Nut Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.",
   "extraMega": false,
   "ability1": "Blaze",
+  "atkYield": 0,
   "hp": 50,
   "ability2": "",
   "tmTrMoves": [
@@ -142,6 +143,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -153,7 +155,9 @@
   "number": 813,
   "spatk": 40,
   "atk": 71,
+  "dfsYield": 0,
   "abilityHidden": "Libero",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -212,8 +216,10 @@
   "dfs": 40,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Scorbunny",
   "SwordEntry": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
+  "spdYield": 1,
   "spdfs": 40,
   "category": "Rabbit Pokémon"
 }

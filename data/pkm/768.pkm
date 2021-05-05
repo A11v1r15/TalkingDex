@@ -2,6 +2,7 @@
   "ShieldEntry": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner's meal.",
   "extraMega": false,
   "ability1": "Emergency Exit",
+  "atkYield": 0,
   "hp": 75,
   "SunEntry": "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
   "ability2": "",
@@ -223,6 +224,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -232,7 +234,9 @@
   "spatk": 60,
   "UltraSunEntry": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
   "atk": 125,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -315,8 +319,10 @@
   "dfs": 140,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Golisopod",
   "SwordEntry": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Hard Scale Pokémon"
 }

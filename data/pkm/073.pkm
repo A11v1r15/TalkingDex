@@ -3,6 +3,7 @@
   "EmeraldEntry": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+  "atkYield": 0,
   "hp": 80,
   "SilverEntry": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
   "ability2": "Liquid Ooze",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
   "DiamondEntry": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
   "name": "Tentacruel",
+  "spdYield": 0,
   "spdfs": 120,
   "ShieldEntry": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
   "extraMega": false,
@@ -201,11 +203,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
   "PlatinumEntry": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+  "dfsYield": 0,
   "abilityHidden": "Rain Dish",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Reflect Type",
@@ -273,6 +278,7 @@
   "OmegaRubyEntry": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
   "LetsGoEeveeEntry": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
   "FireRedEntry": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
   "White2Entry": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",

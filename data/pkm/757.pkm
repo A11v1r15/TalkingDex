@@ -2,6 +2,7 @@
   "ShieldEntry": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
   "extraMega": false,
   "ability1": "Corrosion",
+  "atkYield": 0,
   "hp": 48,
   "SunEntry": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
   "ability2": "",
@@ -147,6 +148,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -161,7 +163,9 @@
   "spatk": 71,
   "UltraSunEntry": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can't evolve.",
   "atk": 44,
+  "dfsYield": 0,
   "abilityHidden": "Oblivious",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -232,8 +236,10 @@
   "dfs": 40,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Salandit",
   "SwordEntry": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.",
+  "spdYield": 1,
   "spdfs": 40,
   "category": "Toxic Lizard Pokémon"
 }

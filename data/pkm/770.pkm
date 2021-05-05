@@ -2,6 +2,7 @@
   "ShieldEntry": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
   "extraMega": false,
   "ability1": "Water Compaction",
+  "atkYield": 0,
   "hp": 85,
   "SunEntry": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
   "ability2": "",
@@ -131,6 +132,7 @@
       "technical": "TR76"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -140,7 +142,9 @@
   "spatk": 100,
   "UltraSunEntry": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
   "atk": 75,
+  "dfsYield": 2,
   "abilityHidden": "Sand Veil",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -211,8 +215,10 @@
   "dfs": 110,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Palossand",
   "SwordEntry": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Sand Castle Pokémon"
 }

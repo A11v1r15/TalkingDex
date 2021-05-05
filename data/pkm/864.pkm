@@ -2,6 +2,7 @@
   "ShieldEntry": "Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it.",
   "extraMega": false,
   "ability1": "Weak Armor",
+  "atkYield": 0,
   "hp": 60,
   "ability2": "",
   "tmTrMoves": [
@@ -222,13 +223,16 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [],
   "number": 864,
   "spatk": 145,
   "atk": 95,
+  "dfsYield": 0,
   "abilityHidden": "Perish Body",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -299,8 +303,10 @@
   "dfs": 50,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Cursola",
   "SwordEntry": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.",
+  "spdYield": 0,
   "spdfs": 130,
   "category": "Coral Pokémon"
 }

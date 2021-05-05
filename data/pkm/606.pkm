@@ -4,6 +4,7 @@
   "ability1": "Telepathy",
   "YEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
   "AlphaSapphireEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+  "atkYield": 0,
   "hp": 75,
   "ability2": "Synchronize",
   "tmTrMoves": [
@@ -192,6 +193,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -201,7 +203,9 @@
   "spatk": 125,
   "UltraSunEntry": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Analytic",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -275,9 +279,11 @@
   "dfs": 75,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Beheeyem",
   "White2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
   "SwordEntry": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+  "spdYield": 0,
   "spdfs": 95,
   "category": "Cerebral Pokémon",
   "Black2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."

@@ -4,6 +4,7 @@
   "ability1": "Keen Eye",
   "YEntry": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
   "AlphaSapphireEntry": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+  "atkYield": 2,
   "hp": 100,
   "SunEntry": "With its brave disposition, it fears nothing\u2014not even death. Ancient Alolan people respected it, referring to it as \"the hero of the sky.\"",
   "ability2": "Sheer Force",
@@ -145,6 +146,7 @@
       "technical": "TR89"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -155,7 +157,9 @@
   "spatk": 57,
   "UltraSunEntry": "The more scars it has on its front, the more heroic it's considered to be. Those with many scars on their back are mocked by the flock.",
   "atk": 123,
+  "dfsYield": 0,
   "abilityHidden": "Defiant",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -241,9 +245,11 @@
   "dfs": 75,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Braviary",
   "White2Entry": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
   "SwordEntry": "Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Valiant Pokémon",
   "Black2Entry": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."

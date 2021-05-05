@@ -4,6 +4,7 @@
   "ability1": "Natural Cure",
   "YEntry": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
   "AlphaSapphireEntry": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
+  "atkYield": 2,
   "hp": 85,
   "SunEntry": "This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.",
   "ability2": "Frisk",
@@ -193,6 +194,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -203,7 +205,9 @@
   "spatk": 65,
   "UltraSunEntry": "It's feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.",
   "atk": 110,
+  "dfsYield": 0,
   "abilityHidden": "Harvest",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 76,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Trevenant",
   "SwordEntry": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",
+  "spdYield": 0,
   "spdfs": 82,
   "category": "Elder Tree Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
+  "atkYield": 0,
   "hp": 30,
   "SilverEntry": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
   "ability2": "Sniper",
@@ -38,6 +39,7 @@
   "LetsGoPikachuEntry": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
   "DiamondEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
   "name": "Horsea",
+  "spdYield": 0,
   "spdfs": 25,
   "ShieldEntry": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
   "extraMega": false,
@@ -169,11 +171,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
   "PlatinumEntry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+  "dfsYield": 0,
   "abilityHidden": "Damp",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -233,6 +238,7 @@
   "OmegaRubyEntry": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
   "LetsGoEeveeEntry": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
   "colour": "Blue",
+  "spatkYield": 1,
   "SoulsilverEntry": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
   "FireRedEntry": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
   "White2Entry": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",

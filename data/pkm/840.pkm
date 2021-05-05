@@ -2,12 +2,14 @@
   "ShieldEntry": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
   "extraMega": false,
   "ability1": "Ripen",
+  "atkYield": 0,
   "hp": 40,
   "ability2": "Gluttony",
   "tmTrMoves": [{
     "move": "Attract",
     "technical": "TM31"
   }],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Erratic",
   "eggMoves": [
@@ -19,7 +21,9 @@
   "number": 840,
   "spatk": 40,
   "atk": 40,
+  "dfsYield": 1,
   "abilityHidden": "Bulletproof",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -42,8 +46,10 @@
   "dfs": 80,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Applin",
   "SwordEntry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
+  "spdYield": 0,
   "spdfs": 40,
   "category": "Apple Core Pokémon"
 }

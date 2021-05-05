@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
   "ability1": "Damp",
   "AlphaSapphireEntry": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+  "atkYield": 0,
   "hp": 80,
   "SilverEntry": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
   "ability2": "Cloud Nine",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
   "DiamondEntry": "A Pokémon that lives in lakes. It swims faster than any human swimming champion.",
   "name": "Golduck",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
   "extraMega": false,
@@ -237,11 +239,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
   "PlatinumEntry": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+  "dfsYield": 0,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Aqua Jet",
@@ -313,6 +318,7 @@
   "OmegaRubyEntry": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. The Pokémon is definitely much faster than even the most athletic swimmer.",
   "LetsGoEeveeEntry": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
   "colour": "Blue",
+  "spatkYield": 2,
   "SoulsilverEntry": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
   "FireRedEntry": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
   "White2Entry": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",

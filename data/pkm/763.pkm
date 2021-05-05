@@ -2,6 +2,7 @@
   "ShieldEntry": "A kick from the hardened tips of this Pokémon's legs leaves a wound in the opponent's body and soul that will never heal.",
   "extraMega": false,
   "ability1": "Leaf Guard",
+  "atkYield": 3,
   "hp": 72,
   "SunEntry": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
   "ability2": "Queenly Majesty",
@@ -163,6 +164,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -172,7 +174,9 @@
   "spatk": 50,
   "UltraSunEntry": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
   "atk": 120,
+  "dfsYield": 0,
   "abilityHidden": "Sweet Veil",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -255,8 +259,10 @@
   "dfs": 98,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Tsareena",
   "SwordEntry": "This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",
+  "spdYield": 0,
   "spdfs": 98,
   "category": "Fruit Pokémon"
 }

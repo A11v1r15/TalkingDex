@@ -2,6 +2,7 @@
   "ShieldEntry": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
   "extraMega": false,
   "ability1": "Innards Out",
+  "atkYield": 0,
   "hp": 55,
   "SunEntry": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
   "ability2": "",
@@ -71,6 +72,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -85,7 +87,9 @@
   "spatk": 30,
   "UltraSunEntry": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Unaware",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -156,8 +160,10 @@
   "dfs": 130,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pyukumuku",
   "SwordEntry": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+  "spdYield": 0,
   "spdfs": 130,
   "category": "Sea Cucumber Pokémon"
 }

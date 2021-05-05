@@ -4,6 +4,7 @@
   "ability1": "Shed Skin",
   "YEntry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
   "AlphaSapphireEntry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+  "atkYield": 1,
   "hp": 50,
   "ability2": "Moxie",
   "tmTrMoves": [
@@ -216,6 +217,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -232,7 +234,9 @@
   "spatk": 35,
   "UltraSunEntry": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Intimidate",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -310,9 +314,11 @@
   "dfs": 70,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Scraggy",
   "White2Entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
   "SwordEntry": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+  "spdYield": 0,
   "spdfs": 70,
   "category": "Shedding Pokémon",
   "Black2Entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."

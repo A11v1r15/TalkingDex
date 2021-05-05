@@ -3,6 +3,7 @@
   "EmeraldEntry": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.",
+  "atkYield": 0,
   "hp": 55,
   "SilverEntry": "Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
   "ability2": "Sniper",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
   "DiamondEntry": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
   "name": "Seadra",
+  "spdYield": 0,
   "spdfs": 45,
   "ShieldEntry": "Seadra's mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that's larger than the opening of its mouth.",
   "extraMega": false,
@@ -169,11 +171,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
   "PlatinumEntry": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+  "dfsYield": 1,
   "abilityHidden": "Damp",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -233,6 +238,7 @@
   "OmegaRubyEntry": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
   "LetsGoEeveeEntry": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
   "colour": "Blue",
+  "spatkYield": 1,
   "SoulsilverEntry": "Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
   "FireRedEntry": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
   "White2Entry": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",

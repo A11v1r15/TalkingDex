@@ -3,6 +3,7 @@
   "EmeraldEntry": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
   "ability1": "Chlorophyll",
   "AlphaSapphireEntry": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+  "atkYield": 0,
   "hp": 60,
   "SilverEntry": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
   "ability2": "",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
   "DiamondEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
   "name": "Gloom",
+  "spdYield": 0,
   "spdfs": 75,
   "ShieldEntry": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
   "extraMega": false,
@@ -133,11 +135,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
   "PlatinumEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+  "dfsYield": 0,
   "abilityHidden": "Stench",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -201,6 +206,7 @@
   "OmegaRubyEntry": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
   "LetsGoEeveeEntry": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
   "colour": "Blue",
+  "spatkYield": 2,
   "SoulsilverEntry": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
   "FireRedEntry": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
   "White2Entry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",

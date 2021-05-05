@@ -2,6 +2,7 @@
   "ShieldEntry": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
   "extraMega": false,
   "ability1": "Torrent",
+  "atkYield": 0,
   "hp": 65,
   "ability2": "",
   "tmTrMoves": [
@@ -110,13 +111,16 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 817,
   "spatk": 95,
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Sniper",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -175,8 +179,10 @@
   "dfs": 55,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Drizzile",
   "SwordEntry": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+  "spdYield": 0,
   "spdfs": 55,
   "category": "Water Lizard Pokémon"
 }

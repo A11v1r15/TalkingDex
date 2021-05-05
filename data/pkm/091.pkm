@@ -3,6 +3,7 @@
   "EmeraldEntry": "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
   "ability1": "Shell Armor",
   "AlphaSapphireEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
   "ability2": "Skill Link",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
   "DiamondEntry": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
   "name": "Cloyster",
+  "spdYield": 0,
   "spdfs": 45,
   "ShieldEntry": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
   "extraMega": false,
@@ -201,11 +203,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
   "PlatinumEntry": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+  "dfsYield": 2,
   "abilityHidden": "Overcoat",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Icicle Spear",
@@ -289,6 +294,7 @@
   "OmegaRubyEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
   "LetsGoEeveeEntry": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
   "FireRedEntry": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
   "White2Entry": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",

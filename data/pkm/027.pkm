@@ -3,6 +3,7 @@
   "EmeraldEntry": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
   "ability1": "Sand Veil",
   "AlphaSapphireEntry": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert to sleep.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
   "ability2": "",
@@ -40,6 +41,7 @@
   "LetsGoPikachuEntry": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
   "DiamondEntry": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
   "name": "Sandshrew",
+  "spdYield": 0,
   "spdfs": 30,
   "ShieldEntry": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
   "extraMega": false,
@@ -200,11 +202,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
   "PlatinumEntry": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+  "dfsYield": 1,
   "abilityHidden": "Sand Rush",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -280,6 +285,7 @@
   "OmegaRubyEntry": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
   "LetsGoEeveeEntry": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
   "FireRedEntry": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
   "White2Entry": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",

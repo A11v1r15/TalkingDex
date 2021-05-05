@@ -4,6 +4,7 @@
   "ability1": "Cute Charm",
   "YEntry": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
   "AlphaSapphireEntry": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
+  "atkYield": 0,
   "hp": 95,
   "SunEntry": "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
   "ability2": "",
@@ -173,6 +174,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -183,7 +185,9 @@
   "spatk": 110,
   "UltraSunEntry": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
   "atk": 65,
+  "dfsYield": 0,
   "abilityHidden": "Pixilate",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -295,8 +299,10 @@
   "dfs": 65,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Sylveon",
   "SwordEntry": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
+  "spdYield": 0,
   "spdfs": 130,
   "category": "Intertwining Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
   "extraMega": false,
   "ability1": "Bulletproof",
+  "atkYield": 0,
   "hp": 55,
   "SunEntry": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
   "ability2": "Soundproof",
@@ -179,6 +180,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -188,7 +190,9 @@
   "spatk": 65,
   "UltraSunEntry": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
   "atk": 75,
+  "dfsYield": 2,
   "abilityHidden": "Overcoat",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -263,8 +267,10 @@
   "dfs": 90,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Hakamo-o",
   "SwordEntry": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+  "spdYield": 0,
   "spdfs": 70,
   "category": "Scaly Pokémon"
 }

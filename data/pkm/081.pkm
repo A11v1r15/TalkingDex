@@ -3,6 +3,7 @@
   "EmeraldEntry": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
   "ability1": "Magnet Pull",
   "AlphaSapphireEntry": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted.",
+  "atkYield": 0,
   "hp": 25,
   "SilverEntry": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
   "ability2": "Sturdy",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
   "DiamondEntry": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
   "name": "Magnemite",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
   "extraMega": false,
@@ -137,11 +139,14 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
   "PlatinumEntry": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+  "dfsYield": 0,
   "abilityHidden": "Analytic",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Thunder Shock",
@@ -209,6 +214,7 @@
   "OmegaRubyEntry": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
   "LetsGoEeveeEntry": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
   "colour": "Gray",
+  "spatkYield": 1,
   "SoulsilverEntry": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
   "FireRedEntry": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
   "White2Entry": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",

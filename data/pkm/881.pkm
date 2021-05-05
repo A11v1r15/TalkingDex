@@ -2,6 +2,7 @@
   "ShieldEntry": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
   "extraMega": false,
   "ability1": "Volt Absorb",
+  "atkYield": 2,
   "hp": 90,
   "ability2": "Static",
   "tmTrMoves": [
@@ -170,13 +171,16 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 881,
   "spatk": 90,
   "atk": 100,
+  "dfsYield": 0,
   "abilityHidden": "Slush Rush",
+  "hpYield": 0,
   "height": "2.3m",
   "lvlUpMoves": [
     {
@@ -243,8 +247,10 @@
   "dfs": 90,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Arctozolt",
   "SwordEntry": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Fossil Pokémon"
 }

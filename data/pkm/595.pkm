@@ -4,6 +4,7 @@
   "ability1": "Compound Eyes",
   "YEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "AlphaSapphireEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+  "atkYield": 0,
   "hp": 50,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -132,6 +133,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -145,7 +147,9 @@
   "number": 595,
   "spatk": 57,
   "atk": 47,
+  "dfsYield": 0,
   "abilityHidden": "Swarm",
+  "hpYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -219,9 +223,11 @@
   "dfs": 50,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Joltik",
   "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "SwordEntry": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
+  "spdYield": 1,
   "spdfs": 50,
   "category": "Attaching Pokémon",
   "Black2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."

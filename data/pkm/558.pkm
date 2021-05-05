@@ -4,6 +4,7 @@
   "ability1": "Sturdy",
   "YEntry": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
   "AlphaSapphireEntry": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+  "atkYield": 0,
   "hp": 70,
   "ability2": "Shell Armor",
   "tmTrMoves": [
@@ -136,6 +137,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -143,7 +145,9 @@
   "number": 558,
   "spatk": 65,
   "atk": 105,
+  "dfsYield": 2,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -217,9 +221,11 @@
   "dfs": 125,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Crustle",
   "White2Entry": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
   "SwordEntry": "This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Stone Home Pokémon",
   "Black2Entry": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken."

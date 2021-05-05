@@ -2,6 +2,7 @@
   "EmeraldEntry": "A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
   "ability1": "Hyper Cutter",
   "AlphaSapphireEntry": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
+  "atkYield": 2,
   "hp": 63,
   "ability2": "Shell Armor",
   "eggMoves": [],
@@ -25,6 +26,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
   "name": "Crawdaunt",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
   "extraMega": false,
@@ -236,11 +238,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fluctuating",
   "XEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
   "PlatinumEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+  "dfsYield": 0,
   "abilityHidden": "Adaptability",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Swift",
@@ -315,6 +320,7 @@
   "BlackEntry": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
   "OmegaRubyEntry": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
   "FireRedEntry": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
   "White2Entry": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",

@@ -4,6 +4,7 @@
   "ability1": "Download",
   "YEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
   "AlphaSapphireEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+  "atkYield": 1,
   "hp": 71,
   "ability2": "",
   "tmTrMoves": [
@@ -176,6 +177,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
@@ -183,7 +185,9 @@
   "number": 649,
   "spatk": 120,
   "atk": 120,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -261,9 +265,11 @@
   "dfs": 95,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Genesect",
   "White2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
   "SwordEntry": "",
+  "spdYield": 1,
   "spdfs": 95,
   "category": "Paleozoic Pokémon",
   "Black2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."

@@ -2,6 +2,7 @@
   "ShieldEntry": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
   "extraMega": false,
   "ability1": "Swift Swim",
+  "atkYield": 0,
   "hp": 61,
   "ability2": "",
   "tmTrMoves": [
@@ -138,13 +139,16 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 847,
   "spatk": 60,
   "atk": 123,
+  "dfsYield": 0,
   "abilityHidden": "Propeller Tail",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -203,8 +207,10 @@
   "dfs": 60,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Barraskewda",
   "SwordEntry": "This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
+  "spdYield": 2,
   "spdfs": 50,
   "category": "Skewer Pokémon"
 }

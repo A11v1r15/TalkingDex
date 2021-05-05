@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.",
+  "atkYield": 0,
   "hp": 20,
   "SilverEntry": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
   "DiamondEntry": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
   "name": "Magikarp",
+  "spdYield": 1,
   "spdfs": 20,
   "ShieldEntry": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
   "extraMega": false,
@@ -49,11 +51,14 @@
       "technical": "TR03"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
   "PlatinumEntry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+  "dfsYield": 0,
   "abilityHidden": "Rattled",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Splash",
@@ -73,6 +78,7 @@
   "OmegaRubyEntry": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
   "LetsGoEeveeEntry": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
   "FireRedEntry": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
   "White2Entry": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",

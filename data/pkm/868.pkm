@@ -2,6 +2,7 @@
   "ShieldEntry": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
   "extraMega": false,
   "ability1": "Sweet Veil",
+  "atkYield": 0,
   "hp": 45,
   "ability2": "",
   "tmTrMoves": [
@@ -70,6 +71,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -79,7 +81,9 @@
   "number": 868,
   "spatk": 50,
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Aroma Veil",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -142,8 +146,10 @@
   "dfs": 40,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Milcery",
   "SwordEntry": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+  "spdYield": 0,
   "spdfs": 61,
   "category": "Cream Pokémon"
 }

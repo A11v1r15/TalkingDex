@@ -2,6 +2,7 @@
   "ShieldEntry": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
   "extraMega": false,
   "ability1": "Keen Eye",
+  "atkYield": 0,
   "hp": 38,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -114,6 +115,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -128,7 +130,9 @@
   "number": 821,
   "spatk": 33,
   "atk": 47,
+  "dfsYield": 0,
   "abilityHidden": "Big Pecks",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -187,8 +191,10 @@
   "dfs": 35,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Rookidee",
   "SwordEntry": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle\u2014even a defeat increases its strength a bit.",
+  "spdYield": 1,
   "spdfs": 35,
   "category": "Tiny Bird Pokémon"
 }

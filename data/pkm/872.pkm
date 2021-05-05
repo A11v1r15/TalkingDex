@@ -2,6 +2,7 @@
   "ShieldEntry": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
   "extraMega": false,
   "ability1": "Shield Dust",
+  "atkYield": 0,
   "hp": 30,
   "ability2": "",
   "tmTrMoves": [
@@ -54,6 +55,7 @@
       "technical": "TR61"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -64,7 +66,9 @@
   "number": 872,
   "spatk": 45,
   "atk": 25,
+  "dfsYield": 0,
   "abilityHidden": "Ice Scales",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -87,8 +91,10 @@
   "dfs": 35,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Snom",
   "SwordEntry": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+  "spdYield": 0,
   "spdfs": 30,
   "category": "Worm Pokémon"
 }

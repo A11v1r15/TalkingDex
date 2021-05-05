@@ -2,6 +2,7 @@
   "ShieldEntry": "Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.",
   "extraMega": false,
   "ability1": "Water Compaction",
+  "atkYield": 0,
   "hp": 55,
   "SunEntry": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
   "ability2": "",
@@ -123,6 +124,7 @@
       "technical": "TR76"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -139,7 +141,9 @@
   "spatk": 70,
   "UltraSunEntry": "It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.",
   "atk": 55,
+  "dfsYield": 1,
   "abilityHidden": "Sand Veil",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -210,8 +214,10 @@
   "dfs": 80,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Sandygast",
   "SwordEntry": "Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.",
+  "spdYield": 0,
   "spdfs": 45,
   "category": "Sand Heap Pokémon"
 }

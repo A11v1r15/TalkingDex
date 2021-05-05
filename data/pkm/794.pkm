@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 1,
   "hp": 107,
   "SunEntry": "This Ultra Beast appeared from another world. It shows off its body, but whether that display is a boast or a threat remains unclear.",
   "ability2": "",
@@ -171,6 +172,7 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
@@ -180,7 +182,9 @@
   "spatk": 53,
   "UltraSunEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
   "atk": 139,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.4m",
   "lvlUpMoves": [
     {
@@ -259,8 +263,10 @@
   "dfs": 139,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Buzzwole",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 53,
   "category": "Swollen Pokémon"
 }

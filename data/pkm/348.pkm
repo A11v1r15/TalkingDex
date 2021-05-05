@@ -2,6 +2,7 @@
   "EmeraldEntry": "Armaldo usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
   "ability1": "Battle Armor",
   "AlphaSapphireEntry": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+  "atkYield": 2,
   "hp": 75,
   "ability2": "",
   "UltraMoonEntry": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
@@ -25,6 +26,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
   "name": "Armaldo",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "Though it lives on land, it's also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
   "extraMega": false,
@@ -192,11 +194,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Erratic",
   "XEntry": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
   "PlatinumEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+  "dfsYield": 0,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Fury Cutter",
@@ -255,6 +260,7 @@
   "BlackEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
   "OmegaRubyEntry": "Armaldo\u2019s tough armor makes all attacks bounce off. This Pokémon\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
   "FireRedEntry": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
   "White2Entry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",

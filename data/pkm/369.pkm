@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Pokémon that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon\u2019s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
+  "atkYield": 0,
   "hp": 100,
   "ability2": "Rock Head",
   "UltraMoonEntry": "The reason it hasn't changed at all in a hundred million years is that it's apparently already a perfect life-form.",
@@ -29,6 +30,7 @@
   "hasAlolan": false,
   "DiamondEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
   "name": "Relicanth",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn't changed in 100,000,000 years, so it's called a living fossil.",
   "extraMega": false,
@@ -213,11 +215,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
   "PlatinumEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+  "dfsYield": 1,
   "abilityHidden": "Sturdy",
+  "hpYield": 1,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -276,6 +281,7 @@
   "BlackEntry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
   "OmegaRubyEntry": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
   "FireRedEntry": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
   "White2Entry": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",

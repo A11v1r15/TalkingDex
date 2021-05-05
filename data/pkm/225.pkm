@@ -2,6 +2,7 @@
   "EmeraldEntry": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.",
   "ability1": "Vital Spirit",
   "AlphaSapphireEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
   "ability2": "Hustle",
@@ -41,6 +42,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
   "name": "Delibird",
+  "spdYield": 1,
   "spdfs": 45,
   "ShieldEntry": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
   "extraMega": false,
@@ -205,11 +207,14 @@
       "technical": "TR87"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
   "PlatinumEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+  "dfsYield": 0,
   "abilityHidden": "Insomnia",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Present",
@@ -224,6 +229,7 @@
   "BlackEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
   "OmegaRubyEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
   "FireRedEntry": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
   "White2Entry": "It carries food all day long. When someone is lost in the mountains, it shares that food.",

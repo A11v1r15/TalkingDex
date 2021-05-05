@@ -2,6 +2,7 @@
   "ShieldEntry": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.",
   "extraMega": false,
   "ability1": "Torrent",
+  "atkYield": 0,
   "hp": 60,
   "SunEntry": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
   "ability2": "",
@@ -143,6 +144,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -152,7 +154,9 @@
   "spatk": 91,
   "UltraSunEntry": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
   "atk": 69,
+  "dfsYield": 0,
   "abilityHidden": "Liquid Voice",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -223,8 +227,10 @@
   "dfs": 69,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Brionne",
   "SwordEntry": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.",
+  "spdYield": 0,
   "spdfs": 81,
   "category": "Pop Star Pokémon"
 }

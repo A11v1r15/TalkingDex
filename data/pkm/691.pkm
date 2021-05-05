@@ -4,6 +4,7 @@
   "ability1": "Poison Point",
   "YEntry": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
   "AlphaSapphireEntry": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
+  "atkYield": 0,
   "hp": 65,
   "ability2": "Poison Touch",
   "tmTrMoves": [
@@ -144,6 +145,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -153,7 +155,9 @@
   "spatk": 97,
   "UltraSunEntry": "This vicious Pokémon sprays a poisonous liquid on opponents that come near. For whatever reason, it gets along really well with Dhelmise.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Adaptability",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -225,8 +229,10 @@
   "dfs": 90,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Dragalge",
   "SwordEntry": "Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.",
+  "spdYield": 0,
   "spdfs": 123,
   "category": "Mock Kelp Pokémon"
 }

@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
   "ability1": "Oblivious",
   "AlphaSapphireEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+  "atkYield": 1,
   "hp": 100,
   "SilverEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "ability2": "Snow Cloak",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
   "name": "Piloswine",
+  "spdYield": 0,
   "spdfs": 60,
   "ShieldEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
   "extraMega": false,
@@ -185,11 +187,14 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
   "PlatinumEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+  "dfsYield": 0,
   "abilityHidden": "Thick Fat",
+  "hpYield": 1,
   "lvlUpMoves": [
     {
       "move": "Ice Fang",
@@ -260,6 +265,7 @@
   "BlackEntry": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
   "OmegaRubyEntry": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "FireRedEntry": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
   "White2Entry": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground.",

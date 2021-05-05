@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
   "ability1": "Cute Charm",
   "AlphaSapphireEntry": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step even lets it walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+  "atkYield": 0,
   "hp": 95,
   "SilverEntry": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
   "ability2": "Magic Guard",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
   "DiamondEntry": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
   "name": "Clefable",
+  "spdYield": 0,
   "spdfs": 90,
   "ShieldEntry": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
   "extraMega": false,
@@ -317,11 +319,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
   "PlatinumEntry": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+  "dfsYield": 0,
   "abilityHidden": "Unaware",
+  "hpYield": 3,
   "lvlUpMoves": [
     {
       "move": "Sing",
@@ -417,6 +422,7 @@
   "OmegaRubyEntry": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step even lets it walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
   "LetsGoEeveeEntry": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
   "FireRedEntry": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
   "White2Entry": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",

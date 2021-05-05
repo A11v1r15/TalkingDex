@@ -2,6 +2,7 @@
   "ShieldEntry": "The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.",
   "extraMega": false,
   "ability1": "RKS System",
+  "atkYield": 0,
   "hp": 95,
   "SunEntry": "Its trust in its partner is what awakens it. This Pokémon is capable of changing its type, a flexibility that is well displayed in battle.",
   "ability2": "",
@@ -207,6 +208,7 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -216,7 +218,9 @@
   "spatk": 95,
   "UltraSunEntry": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
   "atk": 95,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 3,
   "height": "2.3m",
   "lvlUpMoves": [
     {
@@ -323,8 +327,10 @@
   "dfs": 95,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Silvally",
   "SwordEntry": "A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",
+  "spdYield": 0,
   "spdfs": 95,
   "category": "Synthetic Pokémon"
 }

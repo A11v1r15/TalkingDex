@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 1,
   "hp": 97,
   "SunEntry": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
   "ability2": "",
@@ -155,6 +156,7 @@
       "technical": "TR79"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
@@ -164,7 +166,9 @@
   "spatk": 107,
   "UltraSunEntry": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
   "atk": 101,
+  "dfsYield": 1,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "9.2m",
   "lvlUpMoves": [
     {
@@ -243,8 +247,10 @@
   "dfs": 103,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Celesteela",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 101,
   "category": "Launch Pokémon"
 }

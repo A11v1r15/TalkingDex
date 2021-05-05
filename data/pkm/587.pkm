@@ -4,6 +4,7 @@
   "ability1": "Static",
   "YEntry": "The energy made in its cheeks' electric pouches is stored inside its membranes and released while it is gliding.",
   "AlphaSapphireEntry": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+  "atkYield": 0,
   "hp": 55,
   "SunEntry": "It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.",
   "ability2": "",
@@ -145,6 +146,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -162,7 +164,9 @@
   "spatk": 75,
   "UltraSunEntry": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Motor Drive",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -232,9 +236,11 @@
   "dfs": 60,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Emolga",
   "White2Entry": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
   "SwordEntry": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+  "spdYield": 2,
   "spdfs": 60,
   "category": "Sky Squirrel Pokémon",
   "Black2Entry": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks."

@@ -4,6 +4,7 @@
   "ability1": "Iron Fist",
   "YEntry": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
   "AlphaSapphireEntry": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+  "atkYield": 2,
   "hp": 95,
   "SunEntry": "It boasts superb physical strength. Those who wish to become Pangoro's Trainer have no choice but to converse with their fists.",
   "ability2": "Mold Breaker",
@@ -277,6 +278,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -287,7 +289,9 @@
   "spatk": 69,
   "UltraSunEntry": "This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character.",
   "atk": 124,
+  "dfsYield": 0,
   "abilityHidden": "Scrappy",
+  "hpYield": 0,
   "height": "2.1m",
   "lvlUpMoves": [
     {
@@ -371,8 +375,10 @@
   "dfs": 78,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pangoro",
   "SwordEntry": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
+  "spdYield": 0,
   "spdfs": 71,
   "category": "Daunting Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.",
   "ability1": "Flash Fire",
   "AlphaSapphireEntry": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+  "atkYield": 0,
   "hp": 65,
   "SilverEntry": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.",
   "DiamondEntry": "It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles.",
   "name": "Jolteon",
+  "spdYield": 2,
   "spdfs": 95,
   "ShieldEntry": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
   "extraMega": false,
@@ -197,11 +199,14 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
   "PlatinumEntry": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
+  "dfsYield": 0,
   "abilityHidden": "Guts",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Thunder Shock",
@@ -309,6 +314,7 @@
   "OmegaRubyEntry": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
   "LetsGoEeveeEntry": "A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity.",
   "FireRedEntry": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
   "White2Entry": "By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",

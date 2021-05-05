@@ -4,6 +4,7 @@
   "ability1": "Plus",
   "YEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
   "AlphaSapphireEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+  "atkYield": 0,
   "hp": 60,
   "ability2": "Minus",
   "tmTrMoves": [
@@ -92,6 +93,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -99,7 +101,9 @@
   "number": 600,
   "spatk": 70,
   "atk": 80,
+  "dfsYield": 2,
   "abilityHidden": "Clear Body",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -173,9 +177,11 @@
   "dfs": 95,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Klang",
   "White2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
   "SwordEntry": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Gear Pokémon",
   "Black2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."

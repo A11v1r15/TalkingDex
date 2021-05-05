@@ -2,6 +2,7 @@
   "ShieldEntry": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.",
   "extraMega": false,
   "ability1": "Blaze",
+  "atkYield": 0,
   "hp": 45,
   "SunEntry": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
   "ability2": "",
@@ -139,6 +140,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -152,7 +154,9 @@
   "spatk": 60,
   "UltraSunEntry": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
   "atk": 65,
+  "dfsYield": 0,
   "abilityHidden": "Intimidate",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -223,8 +227,10 @@
   "dfs": 40,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Litten",
   "SwordEntry": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.",
+  "spdYield": 1,
   "spdfs": 40,
   "category": "Fire Cat Pokémon"
 }

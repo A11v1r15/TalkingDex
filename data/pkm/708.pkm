@@ -4,6 +4,7 @@
   "ability1": "Natural Cure",
   "YEntry": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
   "AlphaSapphireEntry": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
+  "atkYield": 1,
   "hp": 43,
   "SunEntry": "These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
   "ability2": "Frisk",
@@ -157,6 +158,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -171,7 +173,9 @@
   "spatk": 50,
   "UltraSunEntry": "By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It's trying to make friends with them.",
   "atk": 70,
+  "dfsYield": 0,
   "abilityHidden": "Harvest",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -247,8 +251,10 @@
   "dfs": 48,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Phantump",
   "SwordEntry": "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Stump Pokémon"
 }

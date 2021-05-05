@@ -2,6 +2,7 @@
   "ShieldEntry": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
   "extraMega": false,
   "ability1": "Ripen",
+  "atkYield": 0,
   "hp": 110,
   "ability2": "Gluttony",
   "tmTrMoves": [
@@ -142,13 +143,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Erratic",
   "eggMoves": [],
   "number": 842,
   "spatk": 100,
   "atk": 85,
+  "dfsYield": 0,
   "abilityHidden": "Thick Fat",
+  "hpYield": 2,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -235,8 +239,10 @@
   "dfs": 80,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Appletun",
   "SwordEntry": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Apple Nectar Pokémon"
 }

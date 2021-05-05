@@ -2,6 +2,7 @@
   "EmeraldEntry": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
   "ability1": "Synchronize",
   "AlphaSapphireEntry": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
+  "atkYield": 0,
   "hp": 65,
   "SilverEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
   "ability2": "",
@@ -29,6 +30,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power.",
   "name": "Espeon",
+  "spdYield": 0,
   "spdfs": 95,
   "ShieldEntry": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
   "extraMega": false,
@@ -217,11 +219,14 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
   "PlatinumEntry": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+  "dfsYield": 0,
   "abilityHidden": "Magic Bounce",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Confusion",
@@ -324,6 +329,7 @@
   "BlackEntry": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
   "OmegaRubyEntry": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.",
   "colour": "Purple",
+  "spatkYield": 2,
   "SoulsilverEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
   "FireRedEntry": "By reading air currents, it can predict things such as the weather or its foe's next move.",
   "White2Entry": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather... and its foes' thoughts.",

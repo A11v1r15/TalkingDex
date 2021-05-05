@@ -4,6 +4,7 @@
   "ability1": "Clear Body",
   "YEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
   "AlphaSapphireEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
+  "atkYield": 0,
   "hp": 50,
   "SunEntry": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
   "ability2": "",
@@ -145,6 +146,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
@@ -155,7 +157,9 @@
   "spatk": 50,
   "UltraSunEntry": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
   "atk": 50,
+  "dfsYield": 1,
   "abilityHidden": "Sturdy",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -227,8 +231,10 @@
   "dfs": 150,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Carbink",
   "SwordEntry": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+  "spdYield": 0,
   "spdfs": 150,
   "category": "Jewel Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Overcoat",
   "YEntry": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
   "AlphaSapphireEntry": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+  "atkYield": 0,
   "hp": 45,
   "ability2": "Magic Guard",
   "tmTrMoves": [
@@ -168,6 +169,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -179,7 +181,9 @@
   "number": 577,
   "spatk": 105,
   "atk": 30,
+  "dfsYield": 0,
   "abilityHidden": "Regenerator",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -257,9 +261,11 @@
   "dfs": 40,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Solosis",
   "White2Entry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
   "SwordEntry": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+  "spdYield": 0,
   "spdfs": 50,
   "category": "Cell Pokémon",
   "Black2Entry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe."

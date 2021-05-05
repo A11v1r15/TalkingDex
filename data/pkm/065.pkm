@@ -3,6 +3,7 @@
   "EmeraldEntry": "While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.",
   "ability1": "Synchronize",
   "AlphaSapphireEntry": "Alakazam's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+  "atkYield": 0,
   "hp": 55,
   "SilverEntry": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
   "ability2": "Inner Focus",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "A Pokémon that can memorize anything. It never forgets what it learns\u2014that's why this Pokémon is smart.",
   "DiamondEntry": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
   "name": "Alakazam",
+  "spdYield": 0,
   "spdfs": 95,
   "ShieldEntry": "Alakazam wields potent psychic powers. It's said that this Pokémon used these powers to create the spoons it holds.",
   "extraMega": false,
@@ -269,11 +271,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
   "PlatinumEntry": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+  "dfsYield": 0,
   "abilityHidden": "Magic Guard",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Confusion",
@@ -337,6 +342,7 @@
   "OmegaRubyEntry": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
   "LetsGoEeveeEntry": "A Pokémon that can memorize anything. It never forgets what it learns\u2014that's why this Pokémon is smart.",
   "colour": "Brown",
+  "spatkYield": 3,
   "SoulsilverEntry": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
   "FireRedEntry": "It does not like physical attacks very much. Instead, it freely uses extra-sensory powers to defeat foes.",
   "White2Entry": "The spoons clutched in its hands are said to have been created by its psychic powers.",

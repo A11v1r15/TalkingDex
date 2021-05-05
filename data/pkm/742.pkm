@@ -2,6 +2,7 @@
   "ShieldEntry": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
   "extraMega": false,
   "ability1": "Honey Gather",
+  "atkYield": 0,
   "hp": 40,
   "SunEntry": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
   "ability2": "Shield Dust",
@@ -151,6 +152,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -164,7 +166,9 @@
   "spatk": 55,
   "UltraSunEntry": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
   "atk": 45,
+  "dfsYield": 0,
   "abilityHidden": "Sweet Veil",
+  "hpYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -223,8 +227,10 @@
   "dfs": 40,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Cutiefly",
   "SwordEntry": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
+  "spdYield": 1,
   "spdfs": 40,
   "category": "Bee Fly Pokémon"
 }

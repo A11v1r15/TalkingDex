@@ -2,6 +2,7 @@
   "ShieldEntry": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
   "extraMega": false,
   "ability1": "Volt Absorb",
+  "atkYield": 2,
   "hp": 90,
   "ability2": "Hustle",
   "tmTrMoves": [
@@ -178,13 +179,16 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 880,
   "spatk": 80,
   "atk": 100,
+  "dfsYield": 0,
   "abilityHidden": "Sand Rush",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -251,8 +255,10 @@
   "dfs": 90,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Dracozolt",
   "SwordEntry": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+  "spdYield": 0,
   "spdfs": 70,
   "category": "Fossil Pokémon"
 }

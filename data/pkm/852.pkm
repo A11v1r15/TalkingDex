@@ -2,6 +2,7 @@
   "ShieldEntry": "Its tentacles tear off easily, but it isn't alarmed when that happens\u2014it knows they'll grow back. It's about as smart as a three-year-old.",
   "extraMega": false,
   "ability1": "Limber",
+  "atkYield": 1,
   "hp": 50,
   "ability2": "",
   "tmTrMoves": [
@@ -122,6 +123,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -135,7 +137,9 @@
   "number": 852,
   "spatk": 50,
   "atk": 68,
+  "dfsYield": 0,
   "abilityHidden": "Technician",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -194,8 +198,10 @@
   "dfs": 60,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Clobbopus",
   "SwordEntry": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+  "spdYield": 0,
   "spdfs": 50,
   "category": "Tantrum Pokémon"
 }

@@ -2,6 +2,7 @@
   "EmeraldEntry": "It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
   "ability1": "Suction Cups",
   "AlphaSapphireEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+  "atkYield": 1,
   "hp": 75,
   "SilverEntry": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.",
   "ability2": "Sniper",
@@ -28,6 +29,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
   "name": "Octillery",
+  "spdYield": 0,
   "spdfs": 75,
   "ShieldEntry": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
   "extraMega": false,
@@ -215,11 +217,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
   "PlatinumEntry": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+  "dfsYield": 0,
   "abilityHidden": "Moody",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Octazooka",
@@ -298,6 +303,7 @@
   "BlackEntry": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
   "OmegaRubyEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
   "colour": "Red",
+  "spatkYield": 1,
   "SoulsilverEntry": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.",
   "FireRedEntry": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.",
   "White2Entry": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",

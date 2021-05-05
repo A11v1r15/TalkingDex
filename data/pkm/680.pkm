@@ -4,6 +4,7 @@
   "ability1": "No Guard",
   "YEntry": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
   "AlphaSapphireEntry": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+  "atkYield": 0,
   "hp": 59,
   "ability2": "",
   "tmTrMoves": [
@@ -116,6 +117,7 @@
       "technical": "TR74"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -123,7 +125,9 @@
   "number": 680,
   "spatk": 45,
   "atk": 110,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -195,8 +199,10 @@
   "dfs": 150,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Doublade",
   "SwordEntry": "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
+  "spdYield": 0,
   "spdfs": 49,
   "category": "Sword Pokémon"
 }

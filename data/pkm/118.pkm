@@ -3,6 +3,7 @@
   "EmeraldEntry": "In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
+  "atkYield": 1,
   "hp": 45,
   "SilverEntry": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",
   "ability2": "Water Veil",
@@ -39,6 +40,7 @@
   "LetsGoPikachuEntry": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
   "DiamondEntry": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
   "name": "Goldeen",
+  "spdYield": 0,
   "spdfs": 50,
   "ShieldEntry": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
   "extraMega": false,
@@ -175,11 +177,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
   "PlatinumEntry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+  "dfsYield": 0,
   "abilityHidden": "Lightning Rod",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Peck",
@@ -235,6 +240,7 @@
   "OmegaRubyEntry": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon\u2014it could ram you powerfully with its horn.",
   "LetsGoEeveeEntry": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.",
   "FireRedEntry": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
   "White2Entry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",

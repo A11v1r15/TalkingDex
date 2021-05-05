@@ -3,6 +3,7 @@
   "EmeraldEntry": "There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
   "ability1": "Rock Head",
   "AlphaSapphireEntry": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+  "atkYield": 0,
   "hp": 35,
   "SilverEntry": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
   "ability2": "Sturdy",
@@ -38,6 +39,7 @@
   "LetsGoPikachuEntry": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
   "DiamondEntry": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
   "name": "Onix",
+  "spdYield": 0,
   "spdfs": 45,
   "ShieldEntry": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
   "extraMega": false,
@@ -205,11 +207,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
   "PlatinumEntry": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+  "dfsYield": 1,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -289,6 +294,7 @@
   "OmegaRubyEntry": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
   "LetsGoEeveeEntry": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
   "FireRedEntry": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
   "White2Entry": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",

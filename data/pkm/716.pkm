@@ -4,6 +4,7 @@
   "ability1": "Fairy Aura",
   "YEntry": "When the horns on its head shine in seven different colors, it is said to be sharing everlasting life.",
   "AlphaSapphireEntry": "When the horns on its head shine in seven different colors, it is said to be sharing everlasting life.",
+  "atkYield": 0,
   "hp": 126,
   "ability2": "",
   "tmTrMoves": [
@@ -160,6 +161,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
@@ -167,7 +169,9 @@
   "number": 716,
   "spatk": 131,
   "atk": 131,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 3,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -259,8 +263,10 @@
   "dfs": 95,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Xerneas",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 98,
   "category": "Life Pokémon"
 }

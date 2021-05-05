@@ -3,6 +3,7 @@
   "EmeraldEntry": "People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.",
   "ability1": "Illuminate",
   "AlphaSapphireEntry": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors.",
+  "atkYield": 0,
   "hp": 60,
   "SilverEntry": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
   "ability2": "Natural Cure",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "The center section is named the core. People think it is communicating when it glows in seven colors.",
   "DiamondEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
   "name": "Starmie",
+  "spdYield": 2,
   "spdfs": 85,
   "ShieldEntry": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
   "extraMega": false,
@@ -221,11 +223,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
   "PlatinumEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+  "dfsYield": 0,
   "abilityHidden": "Analytic",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Rapid Spin",
@@ -297,6 +302,7 @@
   "OmegaRubyEntry": "Starmie's center section-the core-glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\"",
   "LetsGoEeveeEntry": "The center section is named the core. People think it is communicating when it glows in seven colors.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
   "FireRedEntry": "This Pokémon has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
   "White2Entry": "Its core shines in many colors and sends radio signals into space to communicate with something.",

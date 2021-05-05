@@ -4,6 +4,7 @@
   "ability1": "Ice Body",
   "YEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
   "AlphaSapphireEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+  "atkYield": 0,
   "hp": 36,
   "SunEntry": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
   "ability2": "Snow Cloak",
@@ -109,6 +110,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -126,7 +128,9 @@
   "spatk": 65,
   "UltraSunEntry": "It exhales cold air that is at \u201358 degrees Fahrenheit. When it's in a warm place, it shrinks little by little.",
   "atk": 50,
+  "dfsYield": 0,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -200,9 +204,11 @@
   "dfs": 50,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Vanillite",
   "White2Entry": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
   "SwordEntry": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Fresh Snow Pokémon",
   "Black2Entry": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F."

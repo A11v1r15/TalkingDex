@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Psychic Surge",
+  "atkYield": 0,
   "hp": 70,
   "SunEntry": "This guardian deity of Akala is guilelessly cruel. The fragrant aroma of flowers is the source of its energy.",
   "ability2": "",
@@ -175,6 +176,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
@@ -184,7 +186,9 @@
   "spatk": 130,
   "UltraSunEntry": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
   "atk": 85,
+  "dfsYield": 0,
   "abilityHidden": "Telepathy",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -267,8 +271,10 @@
   "dfs": 75,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Tapu Lele",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 115,
   "category": "Land Spirit Pokémon"
 }

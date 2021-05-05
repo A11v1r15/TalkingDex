@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
   "ability1": "Swarm",
   "AlphaSapphireEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+  "atkYield": 1,
   "hp": 70,
   "SilverEntry": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
   "ability2": "Technician",
@@ -39,6 +40,7 @@
   "LetsGoPikachuEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
   "DiamondEntry": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
   "name": "Scyther",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.",
   "extraMega": false,
@@ -183,11 +185,14 @@
       "technical": "TR61"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
   "PlatinumEntry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+  "dfsYield": 0,
   "abilityHidden": "Steadfast",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Quick Attack",
@@ -251,6 +256,7 @@
   "OmegaRubyEntry": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
   "LetsGoEeveeEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible.",
   "FireRedEntry": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
   "White2Entry": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",

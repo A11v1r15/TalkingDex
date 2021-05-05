@@ -2,6 +2,7 @@
   "EmeraldEntry": "It looses ultrasonic waves by rubbing its wings together. Since a Vibrava's wings are still in the process of growing, it can only fly short distances.",
   "ability1": "Levitate",
   "AlphaSapphireEntry": "Vibrava\u2019s wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.",
+  "atkYield": 1,
   "hp": 50,
   "ability2": "",
   "eggMoves": [],
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
   "name": "Vibrava",
+  "spdYield": 1,
   "spdfs": 50,
   "ShieldEntry": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
   "extraMega": false,
@@ -186,11 +188,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
   "PlatinumEntry": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Dragon Breath",
@@ -289,6 +294,7 @@
   "BlackEntry": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
   "OmegaRubyEntry": "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pokémon\u2019s ultrasonic waves are so powerful, they can bring on headaches in people.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches.",
   "FireRedEntry": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
   "White2Entry": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",

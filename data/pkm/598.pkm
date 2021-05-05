@@ -4,6 +4,7 @@
   "ability1": "Iron Barbs",
   "YEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "AlphaSapphireEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+  "atkYield": 0,
   "hp": 74,
   "ability2": "",
   "tmTrMoves": [
@@ -172,6 +173,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -179,7 +181,9 @@
   "number": 598,
   "spatk": 54,
   "atk": 94,
+  "dfsYield": 2,
   "abilityHidden": "Anticipation",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -253,9 +257,11 @@
   "dfs": 131,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Ferrothorn",
   "White2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",
   "SwordEntry": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+  "spdYield": 0,
   "spdfs": 116,
   "category": "Thorn Pod Pokémon",
   "Black2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent."

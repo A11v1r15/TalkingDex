@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.",
   "ability1": "Water Absorb",
   "AlphaSapphireEntry": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
+  "atkYield": 0,
   "hp": 90,
   "SilverEntry": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
   "ability2": "Damp",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
   "DiamondEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
   "name": "Poliwrath",
+  "spdYield": 0,
   "spdfs": 90,
   "ShieldEntry": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
   "extraMega": false,
@@ -261,11 +263,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
   "PlatinumEntry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+  "dfsYield": 3,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Submission",
@@ -337,6 +342,7 @@
   "OmegaRubyEntry": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
   "LetsGoEeveeEntry": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
   "FireRedEntry": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",
   "White2Entry": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",

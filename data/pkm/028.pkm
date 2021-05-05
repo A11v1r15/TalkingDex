@@ -3,6 +3,7 @@
   "EmeraldEntry": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
   "ability1": "Sand Veil",
   "AlphaSapphireEntry": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
+  "atkYield": 0,
   "hp": 75,
   "SilverEntry": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
   "DiamondEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
   "name": "Sandslash",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
   "extraMega": false,
@@ -221,11 +223,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
   "PlatinumEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+  "dfsYield": 2,
   "abilityHidden": "Sand Rush",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Crush Claw",
@@ -305,6 +310,7 @@
   "OmegaRubyEntry": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
   "LetsGoEeveeEntry": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "If it digs at an incredible pace, it may snap off its spike and claws. They grow back in a day.",
   "FireRedEntry": "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
   "White2Entry": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",

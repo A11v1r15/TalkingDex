@@ -4,6 +4,7 @@
   "ability1": "Water Absorb",
   "YEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
   "AlphaSapphireEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+  "atkYield": 0,
   "hp": 55,
   "ability2": "Cursed Body",
   "tmTrMoves": [
@@ -152,6 +153,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -168,7 +170,9 @@
   "spatk": 65,
   "UltraSunEntry": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Damp",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -242,9 +246,11 @@
   "dfs": 50,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Frillish",
   "White2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
   "SwordEntry": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Floating Pokémon",
   "Black2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."

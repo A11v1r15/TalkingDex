@@ -3,6 +3,7 @@
   "EmeraldEntry": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
   "ability1": "Sand Veil",
   "AlphaSapphireEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+  "atkYield": 0,
   "hp": 35,
   "SilverEntry": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
   "ability2": "Arena Trap",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "A team of triplets that can burrow to a depth of 60 miles. It's reported that this triggers an earthquake.",
   "DiamondEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
   "name": "Dugtrio",
+  "spdYield": 2,
   "spdfs": 70,
   "ShieldEntry": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
   "extraMega": false,
@@ -193,11 +195,14 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
   "PlatinumEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+  "dfsYield": 0,
   "abilityHidden": "Sand Force",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Sand Tomb",
@@ -273,6 +278,7 @@
   "OmegaRubyEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
   "LetsGoEeveeEntry": "A team of triplets that can burrow to a depth of 60 miles. It's reported that this triggers an earthquake.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
   "FireRedEntry": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
   "White2Entry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",

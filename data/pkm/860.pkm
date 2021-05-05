@@ -2,6 +2,7 @@
   "ShieldEntry": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
   "extraMega": false,
   "ability1": "Prankster",
+  "atkYield": 0,
   "hp": 65,
   "ability2": "Frisk",
   "tmTrMoves": [
@@ -142,13 +143,16 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 860,
   "spatk": 75,
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Pickpocket",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -223,8 +227,10 @@
   "dfs": 45,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Morgrem",
   "SwordEntry": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.",
+  "spdYield": 0,
   "spdfs": 55,
   "category": "Devious Pokémon"
 }

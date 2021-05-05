@@ -4,6 +4,7 @@
   "ability1": "Sap Sipper",
   "YEntry": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
   "AlphaSapphireEntry": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+  "atkYield": 0,
   "hp": 68,
   "SunEntry": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
   "ability2": "Hydration",
@@ -101,6 +102,7 @@
       "technical": "TR78"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -111,7 +113,9 @@
   "spatk": 83,
   "UltraSunEntry": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Gooey",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -183,8 +187,10 @@
   "dfs": 53,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Sliggoo",
   "SwordEntry": "Although this Pokémon isn't very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
+  "spdYield": 0,
   "spdfs": 113,
   "category": "Soft Tissue Pokémon"
 }

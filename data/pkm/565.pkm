@@ -4,6 +4,7 @@
   "ability1": "Solid Rock",
   "YEntry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
   "AlphaSapphireEntry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
+  "atkYield": 0,
   "hp": 74,
   "SunEntry": "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey.",
   "ability2": "Sturdy",
@@ -193,6 +194,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "They can live in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
@@ -203,7 +205,9 @@
   "spatk": 83,
   "UltraSunEntry": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
   "atk": 108,
+  "dfsYield": 2,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -289,9 +293,11 @@
   "dfs": 133,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Carracosta",
   "White2Entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
   "SwordEntry": "Carracosta completely devours its prey\u2014bones, shells, and all. Because of this, Carracosta's own shell grows thick and sturdy.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Prototurtle Pokémon",
   "Black2Entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."

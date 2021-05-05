@@ -3,6 +3,7 @@
   "EmeraldEntry": "If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
   "ability1": "Early Bird",
   "AlphaSapphireEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+  "atkYield": 0,
   "hp": 105,
   "SilverEntry": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
   "ability2": "Scrappy",
@@ -40,6 +41,7 @@
   "LetsGoPikachuEntry": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
   "DiamondEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
   "name": "Kangaskhan",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "There are records of a lost human child being raised by a childless Kangaskhan.",
   "extraMega": false,
@@ -280,11 +282,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
   "PlatinumEntry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+  "dfsYield": 0,
   "abilityHidden": "Inner Focus",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Pound",
@@ -352,6 +357,7 @@
   "OmegaRubyEntry": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
   "LetsGoEeveeEntry": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
   "FireRedEntry": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using Comet Punch.",
   "White2Entry": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",

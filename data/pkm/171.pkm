@@ -2,6 +2,7 @@
   "EmeraldEntry": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.",
   "ability1": "Static",
   "AlphaSapphireEntry": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+  "atkYield": 0,
   "hp": 125,
   "SilverEntry": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
   "ability2": "",
@@ -29,6 +30,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
   "name": "Lanturn",
+  "spdYield": 0,
   "spdfs": 76,
   "ShieldEntry": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
   "extraMega": false,
@@ -177,11 +179,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
   "PlatinumEntry": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+  "dfsYield": 0,
   "abilityHidden": "Lightning Rod",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Stockpile",
@@ -268,6 +273,7 @@
   "BlackEntry": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
   "OmegaRubyEntry": "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
   "FireRedEntry": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
   "White2Entry": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",

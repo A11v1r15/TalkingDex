@@ -2,6 +2,7 @@
   "ShieldEntry": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
   "extraMega": false,
   "ability1": "Leaf Guard",
+  "atkYield": 1,
   "hp": 40,
   "SunEntry": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
   "ability2": "",
@@ -119,6 +120,7 @@
       "technical": "TR77"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -132,7 +134,9 @@
   "spatk": 50,
   "UltraSunEntry": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
   "atk": 55,
+  "dfsYield": 0,
   "abilityHidden": "Contrary",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -195,8 +199,10 @@
   "dfs": 35,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Fomantis",
   "SwordEntry": "When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it.",
+  "spdYield": 0,
   "spdfs": 35,
   "category": "Sickle Grass Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
   "extraMega": false,
   "ability1": "Steelworker",
+  "atkYield": 2,
   "hp": 70,
   "SunEntry": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
   "ability2": "",
@@ -191,6 +192,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -200,7 +202,9 @@
   "spatk": 86,
   "UltraSunEntry": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
   "atk": 131,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "3.9m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 100,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Dhelmise",
   "SwordEntry": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Sea Creeper Pokémon"
 }

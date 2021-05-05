@@ -2,6 +2,7 @@
   "ShieldEntry": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
   "extraMega": false,
   "ability1": "Run Away",
+  "atkYield": 0,
   "hp": 70,
   "ability2": "Unburden",
   "tmTrMoves": [
@@ -158,13 +159,16 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [],
   "number": 828,
   "spatk": 87,
   "atk": 58,
+  "dfsYield": 0,
   "abilityHidden": "Stakeout",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -235,8 +239,10 @@
   "dfs": 58,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Thievul",
   "SwordEntry": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+  "spdYield": 0,
   "spdfs": 92,
   "category": "Fox Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Sturdy",
   "YEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
   "AlphaSapphireEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+  "atkYield": 3,
   "hp": 85,
   "SunEntry": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
   "ability2": "Sand Stream",
@@ -141,6 +142,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -151,7 +153,9 @@
   "spatk": 60,
   "UltraSunEntry": "When it fires off energy with all its might, the power creates countless fissures on its body.",
   "atk": 135,
+  "dfsYield": 0,
   "abilityHidden": "Sand Force",
+  "hpYield": 0,
   "height": "1.7m",
   "lvlUpMoves": [
     {
@@ -225,9 +229,11 @@
   "dfs": 130,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Gigalith",
   "White2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
   "SwordEntry": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Compressed Pokémon",
   "Black2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."

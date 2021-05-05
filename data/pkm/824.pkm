@@ -2,9 +2,11 @@
   "ShieldEntry": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
   "extraMega": false,
   "ability1": "Swarm",
+  "atkYield": 0,
   "hp": 25,
   "ability2": "Compound Eyes",
   "tmTrMoves": [],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -16,7 +18,9 @@
   "number": 824,
   "spatk": 25,
   "atk": 20,
+  "dfsYield": 0,
   "abilityHidden": "Telepathy",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [{
     "move": "Struggle Bug",
@@ -33,8 +37,10 @@
   "dfs": 20,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Blipbug",
   "SwordEntry": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",
+  "spdYield": 0,
   "spdfs": 45,
   "category": "Larva Pokémon"
 }

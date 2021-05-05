@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+  "atkYield": 3,
   "hp": 81,
   "SilverEntry": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
   "ability2": "Rivalry",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
   "DiamondEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
   "name": "Nidoking",
+  "spdYield": 0,
   "spdfs": 75,
   "ShieldEntry": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
   "extraMega": false,
@@ -325,11 +327,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
   "PlatinumEntry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+  "dfsYield": 0,
   "abilityHidden": "Sheer Force",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Megahorn",
@@ -397,6 +402,7 @@
   "OmegaRubyEntry": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
   "LetsGoEeveeEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
   "FireRedEntry": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
   "White2Entry": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",

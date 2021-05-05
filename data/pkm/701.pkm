@@ -4,6 +4,7 @@
   "ability1": "Limber",
   "YEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
   "AlphaSapphireEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+  "atkYield": 2,
   "hp": 78,
   "ability2": "Unburden",
   "tmTrMoves": [
@@ -236,6 +237,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -252,7 +254,9 @@
   "spatk": 74,
   "UltraSunEntry": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
   "atk": 92,
+  "dfsYield": 0,
   "abilityHidden": "Mold Breaker",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -332,8 +336,10 @@
   "dfs": 75,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Hawlucha",
   "SwordEntry": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
+  "spdYield": 0,
   "spdfs": 63,
   "category": "Wrestling Pokémon"
 }

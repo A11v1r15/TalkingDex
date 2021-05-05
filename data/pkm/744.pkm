@@ -2,6 +2,7 @@
   "ShieldEntry": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
   "extraMega": false,
   "ability1": "Keen Eye",
+  "atkYield": 1,
   "hp": 45,
   "SunEntry": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
   "ability2": "Vital Spirit",
@@ -119,6 +120,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -132,7 +134,9 @@
   "spatk": 30,
   "UltraSunEntry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
   "atk": 65,
+  "dfsYield": 0,
   "abilityHidden": "Steadfast",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -203,8 +207,10 @@
   "dfs": 40,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Rockruff",
   "SwordEntry": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
+  "spdYield": 0,
   "spdfs": 40,
   "category": "Puppy Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
   "ability1": "Torrent",
   "AlphaSapphireEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+  "atkYield": 0,
   "hp": 44,
   "SilverEntry": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
   "ability2": "",
@@ -41,6 +42,7 @@
   "LetsGoPikachuEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
   "DiamondEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
   "name": "Squirtle",
+  "spdYield": 0,
   "spdfs": 64,
   "ShieldEntry": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
   "extraMega": false,
@@ -208,11 +210,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
   "PlatinumEntry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+  "dfsYield": 1,
   "abilityHidden": "Rain Dish",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -276,6 +281,7 @@
   "OmegaRubyEntry": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
   "LetsGoEeveeEntry": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
   "FireRedEntry": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
   "White2Entry": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",

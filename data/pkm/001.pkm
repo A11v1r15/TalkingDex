@@ -3,6 +3,7 @@
   "EmeraldEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
   "ability1": "Overgrow",
   "AlphaSapphireEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
   "ability2": "",
@@ -37,6 +38,7 @@
   "LetsGoPikachuEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
   "DiamondEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
   "name": "Bulbasaur",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
   "extraMega": false,
@@ -172,11 +174,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
   "PlatinumEntry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+  "dfsYield": 0,
   "abilityHidden": "Chlorophyll",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -244,6 +249,7 @@
   "OmegaRubyEntry": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
   "LetsGoEeveeEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
   "colour": "Green",
+  "spatkYield": 1,
   "SoulsilverEntry": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
   "FireRedEntry": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
   "White2Entry": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",

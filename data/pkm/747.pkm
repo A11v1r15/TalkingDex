@@ -2,6 +2,7 @@
   "ShieldEntry": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
   "extraMega": false,
   "ability1": "Merciless",
+  "atkYield": 0,
   "hp": 50,
   "SunEntry": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
   "ability2": "Limber",
@@ -135,6 +136,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -150,7 +152,9 @@
   "spatk": 43,
   "UltraSunEntry": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
   "atk": 53,
+  "dfsYield": 1,
   "abilityHidden": "Regenerator",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -213,8 +217,10 @@
   "dfs": 62,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Mareanie",
   "SwordEntry": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",
+  "spdYield": 0,
   "spdfs": 52,
   "category": "Brutal Star Pokémon"
 }

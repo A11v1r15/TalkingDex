@@ -2,6 +2,7 @@
   "EmeraldEntry": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
   "ability1": "Static",
   "AlphaSapphireEntry": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.",
+  "atkYield": 0,
   "hp": 20,
   "SilverEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
   "ability2": "",
@@ -37,6 +38,7 @@
   "hasAlolan": false,
   "DiamondEntry": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
   "name": "Pichu",
+  "spdYield": 1,
   "spdfs": 35,
   "ShieldEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
   "extraMega": false,
@@ -185,11 +187,14 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
   "PlatinumEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Thunder Shock",
@@ -224,6 +229,7 @@
   "BlackEntry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
   "OmegaRubyEntry": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
   "FireRedEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
   "White2Entry": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",

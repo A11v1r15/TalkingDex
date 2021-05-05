@@ -4,6 +4,7 @@
   "ability1": "Tough Claws",
   "YEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
   "AlphaSapphireEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+  "atkYield": 1,
   "hp": 42,
   "ability2": "Sniper",
   "tmTrMoves": [
@@ -196,6 +197,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -207,7 +209,9 @@
   "number": 688,
   "spatk": 39,
   "atk": 52,
+  "dfsYield": 0,
   "abilityHidden": "Pickpocket",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -275,8 +279,10 @@
   "dfs": 67,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Binacle",
   "SwordEntry": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
+  "spdYield": 0,
   "spdfs": 56,
   "category": "Two-Handed Pokémon"
 }

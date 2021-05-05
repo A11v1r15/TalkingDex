@@ -4,6 +4,7 @@
   "ability1": "Stench",
   "YEntry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
   "AlphaSapphireEntry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+  "atkYield": 2,
   "hp": 80,
   "SunEntry": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
   "ability2": "Weak Armor",
@@ -165,6 +166,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -175,7 +177,9 @@
   "spatk": 60,
   "UltraSunEntry": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
   "atk": 95,
+  "dfsYield": 0,
   "abilityHidden": "Aftermath",
+  "hpYield": 0,
   "height": "1.9m",
   "lvlUpMoves": [
     {
@@ -269,9 +273,11 @@
   "dfs": 82,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Garbodor",
   "White2Entry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
   "SwordEntry": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+  "spdYield": 0,
   "spdfs": 82,
   "category": "Trash Heap Pokémon",
   "Black2Entry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies."

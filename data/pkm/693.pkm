@@ -4,6 +4,7 @@
   "ability1": "Mega Launcher",
   "YEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
   "AlphaSapphireEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+  "atkYield": 0,
   "hp": 71,
   "ability2": "",
   "tmTrMoves": [
@@ -148,6 +149,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -157,7 +159,9 @@
   "spatk": 120,
   "UltraSunEntry": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
   "atk": 73,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -237,8 +241,10 @@
   "dfs": 88,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Clawitzer",
   "SwordEntry": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
+  "spdYield": 0,
   "spdfs": 89,
   "category": "Howitzer Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Hydration",
   "YEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "AlphaSapphireEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+  "atkYield": 0,
   "hp": 80,
   "ability2": "Sticky Hold",
   "tmTrMoves": [
@@ -144,6 +145,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -151,7 +153,9 @@
   "number": 617,
   "spatk": 100,
   "atk": 70,
+  "dfsYield": 0,
   "abilityHidden": "Unburden",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -257,9 +261,11 @@
   "dfs": 40,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Accelgor",
   "White2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
   "SwordEntry": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+  "spdYield": 2,
   "spdfs": 60,
   "category": "Shell Out Pokémon",
   "Black2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."

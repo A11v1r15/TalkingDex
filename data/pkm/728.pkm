@@ -2,6 +2,7 @@
   "ShieldEntry": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
   "extraMega": false,
   "ability1": "Torrent",
+  "atkYield": 0,
   "hp": 50,
   "SunEntry": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
   "ability2": "",
@@ -143,6 +144,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -156,7 +158,9 @@
   "spatk": 66,
   "UltraSunEntry": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
   "atk": 54,
+  "dfsYield": 0,
   "abilityHidden": "Liquid Voice",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -227,8 +231,10 @@
   "dfs": 54,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Popplio",
   "SwordEntry": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
+  "spdYield": 0,
   "spdfs": 56,
   "category": "Sea Lion Pokémon"
 }

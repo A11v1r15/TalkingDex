@@ -4,6 +4,7 @@
   "ability1": "Swarm",
   "YEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
   "AlphaSapphireEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+  "atkYield": 1,
   "hp": 50,
   "ability2": "Shed Skin",
   "tmTrMoves": [
@@ -100,6 +101,7 @@
       "technical": "TR87"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -113,7 +115,9 @@
   "number": 588,
   "spatk": 40,
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "No Guard",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -187,9 +191,11 @@
   "dfs": 45,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Karrablast",
   "White2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
   "SwordEntry": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+  "spdYield": 0,
   "spdfs": 45,
   "category": "Clamping Pokémon",
   "Black2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet."

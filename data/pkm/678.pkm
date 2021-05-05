@@ -4,6 +4,7 @@
   "ability1": "Keen Eye",
   "YEntry": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
   "AlphaSapphireEntry": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
+  "atkYield": 0,
   "hp": 74,
   "ability2": "Infiltrator",
   "tmTrMoves": [
@@ -192,6 +193,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -199,7 +201,9 @@
   "number": 678,
   "spatk": 83,
   "atk": 48,
+  "dfsYield": 0,
   "abilityHidden": "Prankster",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -291,8 +295,10 @@
   "dfs": 76,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Meowstic",
   "SwordEntry": "Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.",
+  "spdYield": 2,
   "spdfs": 81,
   "category": "Constraint Pokémon"
 }

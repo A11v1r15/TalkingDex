@@ -4,6 +4,7 @@
   "ability1": "Dry Skin",
   "YEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
   "AlphaSapphireEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+  "atkYield": 0,
   "hp": 44,
   "ability2": "Sand Veil",
   "tmTrMoves": [
@@ -140,6 +141,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -151,7 +153,9 @@
   "number": 694,
   "spatk": 61,
   "atk": 38,
+  "dfsYield": 0,
   "abilityHidden": "Solar Power",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -219,8 +223,10 @@
   "dfs": 33,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Helioptile",
   "SwordEntry": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+  "spdYield": 1,
   "spdfs": 43,
   "category": "Generator Pokémon"
 }

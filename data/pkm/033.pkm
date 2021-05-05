@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+  "atkYield": 2,
   "hp": 61,
   "SilverEntry": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
   "ability2": "Rivalry",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
   "DiamondEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
   "name": "Nidorino",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "It's nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
   "extraMega": false,
@@ -169,11 +171,14 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
   "PlatinumEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+  "dfsYield": 0,
   "abilityHidden": "Hustle",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Leer",
@@ -233,6 +238,7 @@
   "OmegaRubyEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
   "LetsGoEeveeEntry": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
   "FireRedEntry": "It is easily angered. By swinging its well-developed horn wildly, it can even punch through diamond.",
   "White2Entry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",

@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
   "ability1": "Keen Eye",
   "AlphaSapphireEntry": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+  "atkYield": 0,
   "hp": 65,
   "SilverEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
   "ability2": "Sturdy",
@@ -37,6 +38,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
   "name": "Skarmory",
+  "spdYield": 0,
   "spdfs": 70,
   "ShieldEntry": "People fashion swords from Skarmory's shed feathers, so this Pokémon is a popular element in heraldic designs.",
   "extraMega": false,
@@ -185,11 +187,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
   "PlatinumEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
+  "dfsYield": 2,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Peck",
@@ -256,6 +261,7 @@
   "BlackEntry": "Despite being clad entirely in iron-hard armor, it flies at speed of over 180 mph.",
   "OmegaRubyEntry": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
   "FireRedEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
   "White2Entry": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",

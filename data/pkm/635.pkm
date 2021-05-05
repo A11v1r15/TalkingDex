@@ -4,6 +4,7 @@
   "ability1": "Levitate",
   "YEntry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "AlphaSapphireEntry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+  "atkYield": 0,
   "hp": 92,
   "ability2": "",
   "tmTrMoves": [
@@ -260,6 +261,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -267,7 +269,9 @@
   "number": 635,
   "spatk": 125,
   "atk": 105,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -365,9 +369,11 @@
   "dfs": 90,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Hydreigon",
   "White2Entry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "SwordEntry": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Brutal Pokémon",
   "Black2Entry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"

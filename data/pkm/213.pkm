@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
   "ability1": "Sturdy",
   "AlphaSapphireEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+  "atkYield": 0,
   "hp": 20,
   "SilverEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
   "ability2": "Gluttony",
@@ -36,6 +37,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
   "name": "Shuckle",
+  "spdYield": 0,
   "spdfs": 230,
   "ShieldEntry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
   "extraMega": false,
@@ -171,11 +173,14 @@
       "technical": "TR78"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
   "PlatinumEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+  "dfsYield": 1,
   "abilityHidden": "Contrary",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Withdraw",
@@ -246,6 +251,7 @@
   "BlackEntry": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
   "OmegaRubyEntry": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
   "FireRedEntry": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
   "White2Entry": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",

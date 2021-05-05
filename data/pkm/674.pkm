@@ -4,6 +4,7 @@
   "ability1": "Iron Fist",
   "YEntry": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
   "AlphaSapphireEntry": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
+  "atkYield": 1,
   "hp": 67,
   "SunEntry": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
   "ability2": "Mold Breaker",
@@ -201,6 +202,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -217,7 +219,9 @@
   "spatk": 46,
   "UltraSunEntry": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
   "atk": 82,
+  "dfsYield": 0,
   "abilityHidden": "Scrappy",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -285,8 +289,10 @@
   "dfs": 62,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pancham",
   "SwordEntry": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",
+  "spdYield": 0,
   "spdfs": 48,
   "category": "Playful Pokémon"
 }

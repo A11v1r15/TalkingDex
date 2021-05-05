@@ -4,6 +4,7 @@
   "ability1": "Rivalry",
   "YEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
   "AlphaSapphireEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+  "atkYield": 1,
   "hp": 46,
   "ability2": "Mold Breaker",
   "tmTrMoves": [
@@ -144,6 +145,7 @@
       "technical": "TR62"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -158,7 +160,9 @@
   "number": 610,
   "spatk": 30,
   "atk": 87,
+  "dfsYield": 0,
   "abilityHidden": "Unnerve",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -248,9 +252,11 @@
   "dfs": 60,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Axew",
   "White2Entry": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
   "SwordEntry": "These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other's strength.",
+  "spdYield": 0,
   "spdfs": 40,
   "category": "Tusk Pokémon",
   "Black2Entry": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier."

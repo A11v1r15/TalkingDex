@@ -2,6 +2,7 @@
   "EmeraldEntry": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
   "ability1": "Volt Absorb",
   "AlphaSapphireEntry": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
+  "atkYield": 0,
   "hp": 85,
   "SilverEntry": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
   "ability2": "Illuminate",
@@ -29,6 +30,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
   "name": "Crobat",
+  "spdYield": 3,
   "spdfs": 80,
   "ShieldEntry": "This Pokémon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.",
   "extraMega": false,
@@ -205,11 +207,14 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
   "PlatinumEntry": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+  "dfsYield": 0,
   "abilityHidden": "Water Absorb",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Cross Poison",
@@ -288,6 +293,7 @@
   "BlackEntry": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
   "OmegaRubyEntry": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
   "FireRedEntry": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
   "White2Entry": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",

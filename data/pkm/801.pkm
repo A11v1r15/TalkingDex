@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Soul-Heart",
+  "atkYield": 0,
   "hp": 80,
   "SunEntry": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
   "ability2": "",
@@ -191,6 +192,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -200,7 +202,9 @@
   "spatk": 130,
   "UltraSunEntry": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
   "atk": 95,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -283,8 +287,10 @@
   "dfs": 115,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Magearna",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 115,
   "category": "Artificial Pokémon"
 }

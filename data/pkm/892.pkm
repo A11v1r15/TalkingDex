@@ -2,6 +2,7 @@
   "ShieldEntry": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
   "extraMega": false,
   "ability1": "Unseen Fist",
+  "atkYield": 3,
   "hp": 100,
   "ability2": "",
   "title": "Rapid Strike Style",
@@ -231,13 +232,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 892,
   "spatk": 63,
   "atk": 130,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.9m",
   "lvlUpMoves": [
     {
@@ -324,8 +328,10 @@
   "dfs": 100,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Urshifu",
   "SwordEntry": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Wushu Pokémon"
 }

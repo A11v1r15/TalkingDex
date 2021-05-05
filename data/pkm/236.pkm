@@ -2,6 +2,7 @@
   "EmeraldEntry": "Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the Trainer must establish a regular training schedule.",
   "ability1": "Guts",
   "AlphaSapphireEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+  "atkYield": 1,
   "hp": 35,
   "SilverEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
   "ability2": "Steadfast",
@@ -35,6 +36,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
   "name": "Tyrogue",
+  "spdYield": 0,
   "spdfs": 35,
   "ShieldEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
   "extraMega": false,
@@ -154,11 +156,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
   "PlatinumEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+  "dfsYield": 0,
   "abilityHidden": "Vital Spirit",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -181,6 +186,7 @@
   "BlackEntry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
   "OmegaRubyEntry": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
   "FireRedEntry": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
   "White2Entry": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",

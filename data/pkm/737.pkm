@@ -2,6 +2,7 @@
   "ShieldEntry": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
   "extraMega": false,
   "ability1": "Battery",
+  "atkYield": 0,
   "hp": 57,
   "SunEntry": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
   "ability2": "",
@@ -111,6 +112,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -120,7 +122,9 @@
   "spatk": 55,
   "UltraSunEntry": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
   "atk": 82,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -191,8 +195,10 @@
   "dfs": 95,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Charjabug",
   "SwordEntry": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Battery Pokémon"
 }

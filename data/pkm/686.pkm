@@ -4,6 +4,7 @@
   "ability1": "Contrary",
   "YEntry": "It flashes the light-emitting spots on its body, which drains its opponent's will to fight. It takes the opportunity to scuttle away and hide.",
   "AlphaSapphireEntry": "It flashes the light-emitting spots on its body, which drains its opponent's will to fight. It takes the opportunity to scuttle away and hide.",
+  "atkYield": 1,
   "hp": 53,
   "ability2": "Suction Cups",
   "tmTrMoves": [
@@ -152,6 +153,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -165,7 +167,9 @@
   "spatk": 37,
   "UltraSunEntry": "It draws prey near with its blinking lights and then wraps them up in its long tentacles and holds them in place.",
   "atk": 54,
+  "dfsYield": 0,
   "abilityHidden": "Infiltrator",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -241,8 +245,10 @@
   "dfs": 53,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Inkay",
   "SwordEntry": "It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.",
+  "spdYield": 0,
   "spdfs": 46,
   "category": "Revolving Pokémon"
 }

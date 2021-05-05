@@ -2,6 +2,7 @@
   "ShieldEntry": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.",
   "extraMega": false,
   "ability1": "Pressure",
+  "atkYield": 0,
   "hp": 98,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -170,13 +171,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 823,
   "spatk": 53,
   "atk": 87,
+  "dfsYield": 3,
   "abilityHidden": "Mirror Armor",
+  "hpYield": 0,
   "height": "2.2m",
   "lvlUpMoves": [
     {
@@ -251,8 +255,10 @@
   "dfs": 105,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Corviknight",
   "SwordEntry": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Raven Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Misty Surge",
+  "atkYield": 0,
   "hp": 70,
   "SunEntry": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
   "ability2": "",
@@ -175,6 +176,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 3,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.",
@@ -184,7 +186,9 @@
   "spatk": 95,
   "UltraSunEntry": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
   "atk": 75,
+  "dfsYield": 0,
   "abilityHidden": "Telepathy",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -271,8 +275,10 @@
   "dfs": 115,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Tapu Fini",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 130,
   "category": "Land Spirit Pokémon"
 }

@@ -2,6 +2,7 @@
   "EmeraldEntry": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
   "ability1": "Synchronize",
   "AlphaSapphireEntry": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+  "atkYield": 0,
   "hp": 95,
   "SilverEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "ability2": "",
@@ -29,6 +30,7 @@
   "hasAlolan": false,
   "DiamondEntry": "The light of the moon changed Eevee's genetic structure. It lurks in darkness for prey.",
   "name": "Umbreon",
+  "spdYield": 0,
   "spdfs": 130,
   "ShieldEntry": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
   "extraMega": false,
@@ -205,11 +207,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "The light of the moon changed Eevee's genetic structure. It lurks in darkness for prey.",
   "PlatinumEntry": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+  "dfsYield": 0,
   "abilityHidden": "Inner Focus",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Snarl",
@@ -316,6 +321,7 @@
   "BlackEntry": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
   "OmegaRubyEntry": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
   "colour": "Black",
+  "spatkYield": 0,
   "SoulsilverEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "FireRedEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
   "White2Entry": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",

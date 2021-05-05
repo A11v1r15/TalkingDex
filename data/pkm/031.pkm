@@ -3,6 +3,7 @@
   "EmeraldEntry": "It is adept at sending foes flying with harsh tackles using its tough, scaly body. This Pokémon is at its strongest when it is defending its young.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+  "atkYield": 0,
   "hp": 90,
   "SilverEntry": "It uses its scaly rugged body to seal the entrance of its nest and protect its young from predators.",
   "ability2": "Rivalry",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
   "DiamondEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
   "name": "Nidoqueen",
+  "spdYield": 0,
   "spdfs": 85,
   "ShieldEntry": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
   "extraMega": false,
@@ -321,11 +323,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
   "PlatinumEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+  "dfsYield": 0,
   "abilityHidden": "Sheer Force",
+  "hpYield": 3,
   "lvlUpMoves": [
     {
       "move": "Superpower",
@@ -393,6 +398,7 @@
   "OmegaRubyEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
   "LetsGoEeveeEntry": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "It uses its scaly rugged body to seal the entrance of its nest and protect its young from predators.",
   "FireRedEntry": "The body is covered by stiff, needle-like scales. If it becomes excited, the needles bristle outwards.",
   "White2Entry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",

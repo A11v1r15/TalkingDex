@@ -2,6 +2,7 @@
   "ShieldEntry": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
   "extraMega": false,
   "ability1": "Levitate",
+  "atkYield": 0,
   "hp": 77,
   "SunEntry": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
   "ability2": "",
@@ -151,6 +152,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -160,7 +162,9 @@
   "spatk": 145,
   "UltraSunEntry": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
   "atk": 70,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -255,8 +259,10 @@
   "dfs": 90,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Vikavolt",
   "SwordEntry": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Stag Beetle Pokémon"
 }

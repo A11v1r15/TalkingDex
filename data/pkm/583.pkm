@@ -4,6 +4,7 @@
   "ability1": "Ice Body",
   "YEntry": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
   "AlphaSapphireEntry": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+  "atkYield": 0,
   "hp": 51,
   "SunEntry": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
   "ability2": "Snow Cloak",
@@ -109,6 +110,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -119,7 +121,9 @@
   "spatk": 80,
   "UltraSunEntry": "It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average.",
   "atk": 65,
+  "dfsYield": 0,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -193,9 +197,11 @@
   "dfs": 65,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Vanillish",
   "White2Entry": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
   "SwordEntry": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Icy Snow Pokémon",
   "Black2Entry": "They cool down the surrounding air and create ice particles, which they use to freeze their foes."

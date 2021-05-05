@@ -4,6 +4,7 @@
   "ability1": "Flash Fire",
   "YEntry": "It arrives near the moment of death and steals spirit from the body.",
   "AlphaSapphireEntry": "It arrives near the moment of death and steals spirit from the body.",
+  "atkYield": 0,
   "hp": 60,
   "ability2": "Flame Body",
   "tmTrMoves": [
@@ -136,6 +137,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -143,7 +145,9 @@
   "number": 608,
   "spatk": 95,
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Infiltrator",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -225,9 +229,11 @@
   "dfs": 60,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Lampent",
   "White2Entry": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
   "SwordEntry": "This Pokémon appears just before someone passes away, so it's feared as an emissary of death.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Lamp Pokémon",
   "Black2Entry": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on."

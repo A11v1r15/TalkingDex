@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
   "ability1": "Shed Skin",
   "AlphaSapphireEntry": "The shell covering this Pokémon\u2019s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
   "DiamondEntry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
   "name": "Metapod",
+  "spdYield": 0,
   "spdfs": 25,
   "ShieldEntry": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
   "extraMega": false,
@@ -49,11 +51,14 @@
       "technical": "TR46"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
   "PlatinumEntry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Harden",
@@ -69,6 +74,7 @@
   "OmegaRubyEntry": "The shell covering this Pokémon\u2019s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
   "LetsGoEeveeEntry": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
   "FireRedEntry": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
   "White2Entry": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",

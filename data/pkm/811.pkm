@@ -2,6 +2,7 @@
   "ShieldEntry": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.",
   "extraMega": false,
   "ability1": "Overgrow",
+  "atkYield": 2,
   "hp": 70,
   "ability2": "",
   "tmTrMoves": [
@@ -134,13 +135,16 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 811,
   "spatk": 55,
   "atk": 85,
+  "dfsYield": 0,
   "abilityHidden": "Grassy Surge",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -207,8 +211,10 @@
   "dfs": 70,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Thwackey",
   "SwordEntry": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Beat Pokémon"
 }

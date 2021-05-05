@@ -4,6 +4,7 @@
   "ability1": "Flame Body",
   "YEntry": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
   "AlphaSapphireEntry": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+  "atkYield": 0,
   "hp": 62,
   "SunEntry": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
   "ability2": "",
@@ -113,6 +114,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -123,7 +125,9 @@
   "spatk": 56,
   "UltraSunEntry": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
   "atk": 73,
+  "dfsYield": 0,
   "abilityHidden": "Gale Wings",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -199,8 +203,10 @@
   "dfs": 55,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Fletchinder",
   "SwordEntry": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder's sharp talons finish it off.",
+  "spdYield": 2,
   "spdfs": 52,
   "category": "Ember Pokémon"
 }

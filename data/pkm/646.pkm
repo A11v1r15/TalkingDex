@@ -4,6 +4,7 @@
   "ability1": "Pressure",
   "YEntry": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
   "AlphaSapphireEntry": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+  "atkYield": 1,
   "hp": 125,
   "ability2": "",
   "title": "Normal Kyurem",
@@ -201,6 +202,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -208,7 +210,9 @@
   "number": 646,
   "spatk": 130,
   "atk": 130,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 1,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -286,9 +290,11 @@
   "dfs": 90,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Kyurem",
   "White2Entry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "SwordEntry": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Boundary Pokémon",
   "Black2Entry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals."

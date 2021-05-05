@@ -2,6 +2,7 @@
   "ShieldEntry": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
   "extraMega": false,
   "ability1": "Sweet Veil",
+  "atkYield": 0,
   "hp": 65,
   "ability2": "",
   "tmTrMoves": [
@@ -154,13 +155,16 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 869,
   "spatk": 110,
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Aroma Veil",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -231,8 +235,10 @@
   "dfs": 75,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Alcremie",
   "SwordEntry": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+  "spdYield": 0,
   "spdfs": 121,
   "category": "Cream Pokémon"
 }

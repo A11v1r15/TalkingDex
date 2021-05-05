@@ -4,6 +4,7 @@
   "ability1": "Shed Skin",
   "YEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "AlphaSapphireEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+  "atkYield": 0,
   "hp": 65,
   "ability2": "Moxie",
   "tmTrMoves": [
@@ -236,6 +237,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -245,7 +247,9 @@
   "spatk": 45,
   "UltraSunEntry": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
   "atk": 90,
+  "dfsYield": 1,
   "abilityHidden": "Intimidate",
+  "hpYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -323,9 +327,11 @@
   "dfs": 115,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Scrafty",
   "White2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
   "SwordEntry": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+  "spdYield": 0,
   "spdfs": 115,
   "category": "Hoodlum Pokémon",
   "Black2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."

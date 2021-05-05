@@ -4,6 +4,7 @@
   "ability1": "Solid Rock",
   "YEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
   "AlphaSapphireEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+  "atkYield": 0,
   "hp": 54,
   "SunEntry": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
   "ability2": "Sturdy",
@@ -165,6 +166,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
@@ -182,7 +184,9 @@
   "spatk": 53,
   "UltraSunEntry": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
   "atk": 78,
+  "dfsYield": 1,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -268,9 +272,11 @@
   "dfs": 103,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Tirtouga",
   "White2Entry": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
   "SwordEntry": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
+  "spdYield": 0,
   "spdfs": 45,
   "category": "Prototurtle Pokémon",
   "Black2Entry": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile."

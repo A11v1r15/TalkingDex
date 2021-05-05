@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 0,
   "hp": 71,
   "SunEntry": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
   "ability2": "",
@@ -143,6 +144,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
@@ -152,7 +154,9 @@
   "spatk": 137,
   "UltraSunEntry": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
   "atk": 137,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -231,8 +235,10 @@
   "dfs": 37,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pheromosa",
   "SwordEntry": "",
+  "spdYield": 3,
   "spdfs": 37,
   "category": "Lissome Pokémon"
 }

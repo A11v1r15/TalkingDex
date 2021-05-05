@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
   "ability1": "Poison Point",
   "AlphaSapphireEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+  "atkYield": 1,
   "hp": 65,
   "SilverEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
   "ability2": "Swift Swim",
@@ -35,6 +36,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
   "name": "Qwilfish",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
   "extraMega": false,
@@ -222,11 +224,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water at once.",
   "PlatinumEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+  "dfsYield": 0,
   "abilityHidden": "Intimidate",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Poison Sting",
@@ -309,6 +314,7 @@
   "BlackEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
   "OmegaRubyEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
   "FireRedEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
   "White2Entry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",

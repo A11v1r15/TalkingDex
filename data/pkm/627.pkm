@@ -4,6 +4,7 @@
   "ability1": "Keen Eye",
   "YEntry": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
   "AlphaSapphireEntry": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+  "atkYield": 1,
   "hp": 70,
   "SunEntry": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
   "ability2": "Sheer Force",
@@ -133,6 +134,7 @@
       "technical": "TR89"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -143,7 +145,9 @@
   "spatk": 37,
   "UltraSunEntry": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
   "atk": 83,
+  "dfsYield": 0,
   "abilityHidden": "Hustle",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -217,9 +221,11 @@
   "dfs": 50,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Rufflet",
   "White2Entry": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
   "SwordEntry": "If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+  "spdYield": 0,
   "spdfs": 50,
   "category": "Eaglet Pokémon",
   "Black2Entry": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger."

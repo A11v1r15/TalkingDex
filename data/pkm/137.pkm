@@ -3,6 +3,7 @@
   "EmeraldEntry": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.",
+  "atkYield": 0,
   "hp": 65,
   "SilverEntry": "A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.",
   "ability2": "Shell Armor",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
   "DiamondEntry": "The world's first artificially created Pokémon. It can travel through electronic space.",
   "name": "Porygon",
+  "spdYield": 0,
   "spdfs": 75,
   "ShieldEntry": "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.",
   "extraMega": false,
@@ -193,11 +195,14 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "A man-made Pokémon that came about as a result of research. It is programmed with only basic motions.",
   "PlatinumEntry": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.",
+  "dfsYield": 0,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -261,6 +266,7 @@
   "OmegaRubyEntry": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.",
   "LetsGoEeveeEntry": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
   "colour": "Pink",
+  "spatkYield": 1,
   "SoulsilverEntry": "A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.",
   "FireRedEntry": "Using the most advanced technologies, scientists finally succeeded in making the first artificial Pokémon.",
   "White2Entry": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.",

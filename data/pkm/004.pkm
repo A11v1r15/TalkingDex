@@ -3,6 +3,7 @@
   "EmeraldEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
   "ability1": "Blaze",
   "AlphaSapphireEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+  "atkYield": 0,
   "hp": 39,
   "SilverEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
   "ability2": "",
@@ -39,6 +40,7 @@
   "LetsGoPikachuEntry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
   "DiamondEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
   "name": "Charmander",
+  "spdYield": 1,
   "spdfs": 50,
   "ShieldEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
   "extraMega": false,
@@ -222,11 +224,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
   "PlatinumEntry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+  "dfsYield": 0,
   "abilityHidden": "Solar Power",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -282,6 +287,7 @@
   "OmegaRubyEntry": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
   "LetsGoEeveeEntry": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
   "FireRedEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
   "White2Entry": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",

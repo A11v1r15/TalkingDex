@@ -2,6 +2,7 @@
   "EmeraldEntry": "Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.",
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+  "atkYield": 0,
   "hp": 80,
   "ability2": "",
   "UltraMoonEntry": "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "name": "Metagross",
+  "spdYield": 0,
   "spdfs": 90,
   "ShieldEntry": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.",
   "extraMega": false,
@@ -218,11 +220,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
   "PlatinumEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+  "dfsYield": 3,
   "abilityHidden": "Light Metal",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Hammer Arm",
@@ -293,6 +298,7 @@
   "BlackEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "OmegaRubyEntry": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
   "FireRedEntry": "It is formed by two Metang fusing. Its four brains are said to be superior to a supercomputer.",
   "White2Entry": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",

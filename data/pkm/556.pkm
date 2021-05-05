@@ -4,6 +4,7 @@
   "ability1": "Water Absorb",
   "YEntry": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
   "AlphaSapphireEntry": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+  "atkYield": 0,
   "hp": 75,
   "ability2": "Chlorophyll",
   "tmTrMoves": [
@@ -136,6 +137,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -146,7 +148,9 @@
   "number": 556,
   "spatk": 106,
   "atk": 86,
+  "dfsYield": 0,
   "abilityHidden": "Storm Drain",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -244,9 +248,11 @@
   "dfs": 67,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Maractus",
   "White2Entry": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
   "SwordEntry": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+  "spdYield": 0,
   "spdfs": 67,
   "category": "Cactus Pokémon",
   "Black2Entry": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee."

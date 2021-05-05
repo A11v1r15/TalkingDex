@@ -3,6 +3,7 @@
   "EmeraldEntry": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
   "ability1": "Levitate",
   "AlphaSapphireEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
   "DiamondEntry": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
   "name": "Haunter",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
   "extraMega": false,
@@ -213,11 +215,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
   "PlatinumEntry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Shadow Punch",
@@ -289,6 +294,7 @@
   "OmegaRubyEntry": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
   "LetsGoEeveeEntry": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
   "colour": "Purple",
+  "spatkYield": 2,
   "SoulsilverEntry": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
   "FireRedEntry": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
   "White2Entry": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",

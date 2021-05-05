@@ -4,6 +4,7 @@
   "ability1": "Hustle",
   "YEntry": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
   "AlphaSapphireEntry": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+  "atkYield": 2,
   "hp": 72,
   "ability2": "",
   "tmTrMoves": [
@@ -148,6 +149,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -155,7 +157,9 @@
   "number": 634,
   "spatk": 65,
   "atk": 85,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -245,9 +249,11 @@
   "dfs": 70,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Zweilous",
   "White2Entry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
   "SwordEntry": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
+  "spdYield": 0,
   "spdfs": 70,
   "category": "Hostile Pokémon",
   "Black2Entry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader."

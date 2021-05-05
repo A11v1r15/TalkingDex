@@ -4,6 +4,7 @@
   "ability1": "Swift Swim",
   "YEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
   "AlphaSapphireEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+  "atkYield": 0,
   "hp": 105,
   "ability2": "Poison Touch",
   "tmTrMoves": [
@@ -208,6 +209,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -215,7 +217,9 @@
   "number": 537,
   "spatk": 85,
   "atk": 95,
+  "dfsYield": 0,
   "abilityHidden": "Water Absorb",
+  "hpYield": 3,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -301,9 +305,11 @@
   "dfs": 75,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Seismitoad",
   "White2Entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
   "SwordEntry": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Vibration Pokémon",
   "Black2Entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches."

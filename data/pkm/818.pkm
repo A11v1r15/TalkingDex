@@ -2,6 +2,7 @@
   "ShieldEntry": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
   "extraMega": false,
   "ability1": "Torrent",
+  "atkYield": 0,
   "hp": 70,
   "ability2": "",
   "tmTrMoves": [
@@ -182,13 +183,16 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 818,
   "spatk": 125,
   "atk": 85,
+  "dfsYield": 0,
   "abilityHidden": "Sniper",
+  "hpYield": 0,
   "height": "1.9m",
   "lvlUpMoves": [
     {
@@ -263,8 +267,10 @@
   "dfs": 65,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Inteleon",
   "SwordEntry": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+  "spdYield": 3,
   "spdfs": 65,
   "category": "Secret Agent Pokémon"
 }

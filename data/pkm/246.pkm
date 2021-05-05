@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.",
   "ability1": "Guts",
   "AlphaSapphireEntry": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+  "atkYield": 1,
   "hp": 50,
   "SilverEntry": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
   "ability2": "",
@@ -32,6 +33,7 @@
   "hasAlolan": false,
   "DiamondEntry": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
   "name": "Larvitar",
+  "spdYield": 0,
   "spdfs": 50,
   "ShieldEntry": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
   "extraMega": false,
@@ -211,11 +213,14 @@
       "technical": "TR76"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
   "PlatinumEntry": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+  "dfsYield": 0,
   "abilityHidden": "Sand Veil",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -286,6 +291,7 @@
   "BlackEntry": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
   "OmegaRubyEntry": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
   "FireRedEntry": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
   "White2Entry": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",

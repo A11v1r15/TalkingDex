@@ -2,6 +2,7 @@
   "ShieldEntry": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
   "extraMega": false,
   "ability1": "Inner Focus",
+  "atkYield": 1,
   "hp": 60,
   "ability2": "",
   "tmTrMoves": [
@@ -138,13 +139,16 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 891,
   "spatk": 53,
   "atk": 90,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -219,8 +223,10 @@
   "dfs": 60,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Kubfu",
   "SwordEntry": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+  "spdYield": 0,
   "spdfs": 50,
   "category": "Wushu Pokémon"
 }

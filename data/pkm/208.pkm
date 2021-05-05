@@ -2,6 +2,7 @@
   "EmeraldEntry": "Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.",
   "ability1": "Rock Head",
   "AlphaSapphireEntry": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
+  "atkYield": 0,
   "hp": 75,
   "SilverEntry": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
   "ability2": "Sturdy",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Tempered underground under high pressure and heat, its body is harder than any metal.",
   "name": "Steelix",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
   "extraMega": false,
@@ -229,11 +231,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Tempered underground under high pressure and heat, its body is harder than any metal.",
   "PlatinumEntry": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+  "dfsYield": 2,
   "abilityHidden": "Sheer Force",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Crunch",
@@ -336,6 +341,7 @@
   "BlackEntry": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
   "OmegaRubyEntry": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "It is said that if an Onix lives for 100 years, its composition becomes diamondlike as it evolves into a Steelix.",
   "FireRedEntry": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
   "White2Entry": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",

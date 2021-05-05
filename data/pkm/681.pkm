@@ -4,6 +4,7 @@
   "ability1": "Stance Change",
   "YEntry": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
   "AlphaSapphireEntry": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
+  "atkYield": 0,
   "hp": 60,
   "ability2": "",
   "title": "Shield Forme",
@@ -137,6 +138,7 @@
       "technical": "TR74"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -144,7 +146,9 @@
   "number": 681,
   "spatk": 50,
   "atk": 50,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.7m",
   "lvlUpMoves": [
     {
@@ -228,8 +232,10 @@
   "dfs": 140,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Aegislash",
   "SwordEntry": "In this defensive stance, Aegislash uses its steel body and a force field of spectral power to reduce the damage of any attack.",
+  "spdYield": 0,
   "spdfs": 140,
   "category": "Royal Sword Pokémon"
 }

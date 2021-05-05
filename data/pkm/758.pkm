@@ -2,6 +2,7 @@
   "ShieldEntry": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
   "extraMega": false,
   "ability1": "Corrosion",
+  "atkYield": 0,
   "hp": 68,
   "SunEntry": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
   "ability2": "",
@@ -175,6 +176,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -184,7 +186,9 @@
   "spatk": 111,
   "UltraSunEntry": "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it.",
   "atk": 64,
+  "dfsYield": 0,
   "abilityHidden": "Oblivious",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 60,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Salazzle",
   "SwordEntry": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",
+  "spdYield": 2,
   "spdfs": 60,
   "category": "Toxic Lizard Pokémon"
 }

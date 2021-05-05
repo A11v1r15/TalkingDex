@@ -2,6 +2,7 @@
   "ShieldEntry": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
   "extraMega": false,
   "ability1": "Flower Veil",
+  "atkYield": 0,
   "hp": 51,
   "SunEntry": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
   "ability2": "Triage",
@@ -163,6 +164,7 @@
       "technical": "TR96"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -176,7 +178,9 @@
   "spatk": 82,
   "UltraSunEntry": "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn't have any flowers, it feels uneasy.",
   "atk": 52,
+  "dfsYield": 0,
   "abilityHidden": "Natural Cure",
+  "hpYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -263,8 +267,10 @@
   "dfs": 90,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Comfey",
   "SwordEntry": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+  "spdYield": 0,
   "spdfs": 110,
   "category": "Posy Picker Pokémon"
 }

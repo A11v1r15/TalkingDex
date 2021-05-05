@@ -4,6 +4,7 @@
   "ability1": "Sheer Force",
   "YEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
   "AlphaSapphireEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+  "atkYield": 2,
   "hp": 105,
   "ability2": "",
   "title": "Standard Mode",
@@ -237,6 +238,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -244,7 +246,9 @@
   "number": 555,
   "spatk": 30,
   "atk": 140,
+  "dfsYield": 0,
   "abilityHidden": "Zen Mode",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -326,9 +330,11 @@
   "dfs": 55,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Darmanitan",
   "White2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
   "SwordEntry": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
+  "spdYield": 0,
   "spdfs": 55,
   "category": "Blazing Pokémon",
   "Black2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."

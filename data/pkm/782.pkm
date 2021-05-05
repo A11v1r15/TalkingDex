@@ -2,6 +2,7 @@
   "ShieldEntry": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that's become as hard as metal.",
   "extraMega": false,
   "ability1": "Bulletproof",
+  "atkYield": 0,
   "hp": 45,
   "SunEntry": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
   "ability2": "Soundproof",
@@ -159,6 +160,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -172,7 +174,9 @@
   "spatk": 45,
   "UltraSunEntry": "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
   "atk": 55,
+  "dfsYield": 1,
   "abilityHidden": "Overcoat",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -239,8 +243,10 @@
   "dfs": 65,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Jangmo-o",
   "SwordEntry": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+  "spdYield": 0,
   "spdfs": 45,
   "category": "Scaly Pokémon"
 }

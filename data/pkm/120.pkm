@@ -3,6 +3,7 @@
   "EmeraldEntry": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
   "ability1": "Illuminate",
   "AlphaSapphireEntry": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+  "atkYield": 0,
   "hp": 30,
   "SilverEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
   "ability2": "Natural Cure",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
   "DiamondEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
   "name": "Staryu",
+  "spdYield": 1,
   "spdfs": 55,
   "ShieldEntry": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
   "extraMega": false,
@@ -173,11 +175,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
   "PlatinumEntry": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+  "dfsYield": 0,
   "abilityHidden": "Analytic",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -249,6 +254,7 @@
   "OmegaRubyEntry": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
   "LetsGoEeveeEntry": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
   "FireRedEntry": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
   "White2Entry": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",

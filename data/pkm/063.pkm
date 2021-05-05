@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.",
   "ability1": "Synchronize",
   "AlphaSapphireEntry": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
+  "atkYield": 0,
   "hp": 25,
   "SilverEntry": "If it decides to teleport randomly, it creates the illusion that it has created copies of itself.",
   "ability2": "Inner Focus",
@@ -37,6 +38,7 @@
   "LetsGoPikachuEntry": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
   "DiamondEntry": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
   "name": "Abra",
+  "spdYield": 0,
   "spdfs": 55,
   "ShieldEntry": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
   "extraMega": false,
@@ -241,11 +243,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
   "PlatinumEntry": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+  "dfsYield": 0,
   "abilityHidden": "Magic Guard",
+  "hpYield": 0,
   "lvlUpMoves": [{
     "move": "Teleport",
     "lvl": "1"
@@ -255,6 +260,7 @@
   "OmegaRubyEntry": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
   "LetsGoEeveeEntry": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
   "colour": "Brown",
+  "spatkYield": 1,
   "SoulsilverEntry": "If it decides to teleport randomly, it evokes the illusion that it has created copies of itself.",
   "FireRedEntry": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
   "White2Entry": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",

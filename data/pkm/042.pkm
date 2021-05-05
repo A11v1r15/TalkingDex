@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.",
   "ability1": "Inner Focus",
   "AlphaSapphireEntry": "Golbat bites down on prey with its four fangs and drinks the victim's blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.",
+  "atkYield": 0,
   "hp": 75,
   "SilverEntry": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
   "DiamondEntry": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
   "name": "Golbat",
+  "spdYield": 2,
   "spdfs": 75,
   "ShieldEntry": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
   "extraMega": false,
@@ -189,11 +191,14 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
   "PlatinumEntry": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+  "dfsYield": 0,
   "abilityHidden": "Infiltrator",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Screech",
@@ -257,6 +262,7 @@
   "OmegaRubyEntry": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
   "LetsGoEeveeEntry": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
   "colour": "Purple",
+  "spatkYield": 0,
   "SoulsilverEntry": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
   "FireRedEntry": "It clamps down on its prey with needle-sharp fangs and drains over 10 ounces of blood in one gulp.",
   "White2Entry": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",

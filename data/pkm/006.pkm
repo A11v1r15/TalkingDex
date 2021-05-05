@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
   "ability1": "Blaze",
   "AlphaSapphireEntry": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+  "atkYield": 0,
   "hp": 78,
   "SilverEntry": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
   "ability2": "",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tails burns more intensely.",
   "DiamondEntry": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
   "name": "Charizard",
+  "spdYield": 0,
   "spdfs": 85,
   "ShieldEntry": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
   "extraMega": true,
@@ -273,11 +275,14 @@
       "technical": "TR89"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "XEntry": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
   "PlatinumEntry": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+  "dfsYield": 0,
   "abilityHidden": "Solar Power",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Air Slash",
@@ -349,6 +354,7 @@
   "OmegaRubyEntry": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
   "LetsGoEeveeEntry": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tails burns more intensely.",
   "colour": "Red",
+  "spatkYield": 3,
   "SoulsilverEntry": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
   "FireRedEntry": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
   "White2Entry": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",

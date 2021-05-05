@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 0,
   "hp": 61,
   "ability2": "",
   "tmTrMoves": [
@@ -162,6 +163,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
@@ -170,7 +172,9 @@
   "spatk": 53,
   "UltraSunEntry": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
   "atk": 131,
+  "dfsYield": 3,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "5.5m",
   "lvlUpMoves": [
     {
@@ -249,8 +253,10 @@
   "dfs": 211,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Stakataka",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 101,
   "category": "Rampart Pokémon"
 }

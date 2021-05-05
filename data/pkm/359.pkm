@@ -2,6 +2,7 @@
   "EmeraldEntry": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pokémon that has a life-span of 100 years.",
   "ability1": "Pressure",
   "AlphaSapphireEntry": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
+  "atkYield": 2,
   "hp": 65,
   "ability2": "Super Luck",
   "UltraMoonEntry": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
@@ -33,6 +34,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
   "name": "Absol",
+  "spdYield": 0,
   "spdfs": 60,
   "ShieldEntry": "Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer of doom.",
   "extraMega": false,
@@ -273,11 +275,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
   "PlatinumEntry": "Rumored to sense danger with its horn, it became a target. It fled deep into the mountains.",
+  "dfsYield": 0,
   "abilityHidden": "Justified",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Quick Attack",
@@ -336,6 +341,7 @@
   "BlackEntry": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
   "OmegaRubyEntry": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
   "colour": "White",
+  "spatkYield": 0,
   "SoulsilverEntry": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
   "FireRedEntry": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
   "White2Entry": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",

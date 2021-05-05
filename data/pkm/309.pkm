@@ -2,6 +2,7 @@
   "EmeraldEntry": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
   "ability1": "Static",
   "AlphaSapphireEntry": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon\u2019s fur.",
+  "atkYield": 0,
   "hp": 40,
   "ability2": "Lightning Rod",
   "eggMoves": [
@@ -30,6 +31,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
   "name": "Electrike",
+  "spdYield": 1,
   "spdfs": 40,
   "ShieldEntry": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
   "extraMega": false,
@@ -161,11 +163,14 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
   "PlatinumEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+  "dfsYield": 0,
   "abilityHidden": "Minus",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -224,6 +229,7 @@
   "BlackEntry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
   "OmegaRubyEntry": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
   "FireRedEntry": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
   "White2Entry": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",

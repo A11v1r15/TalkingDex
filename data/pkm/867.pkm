@@ -2,6 +2,7 @@
   "ShieldEntry": "Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.",
   "extraMega": false,
   "ability1": "Wandering Spirit",
+  "atkYield": 0,
   "hp": 58,
   "ability2": "",
   "tmTrMoves": [
@@ -226,13 +227,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 867,
   "spatk": 50,
   "atk": 95,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -323,8 +327,10 @@
   "dfs": 145,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Runerigus",
   "SwordEntry": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+  "spdYield": 0,
   "spdfs": 105,
   "category": "Grudge Pokémon"
 }

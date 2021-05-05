@@ -4,6 +4,7 @@
   "ability1": "Sturdy",
   "YEntry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
   "AlphaSapphireEntry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+  "atkYield": 1,
   "hp": 70,
   "SunEntry": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
   "ability2": "Weak Armor",
@@ -109,6 +110,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -119,7 +121,9 @@
   "spatk": 50,
   "UltraSunEntry": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
   "atk": 105,
+  "dfsYield": 1,
   "abilityHidden": "Sand Force",
+  "hpYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -197,9 +201,11 @@
   "dfs": 105,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Boldore",
   "White2Entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
   "SwordEntry": "If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.",
+  "spdYield": 0,
   "spdfs": 40,
   "category": "Ore Pokémon",
   "Black2Entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."

@@ -2,6 +2,7 @@
   "ShieldEntry": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
   "extraMega": false,
   "ability1": "Ice Face",
+  "atkYield": 0,
   "hp": 75,
   "ability2": "",
   "title": "Ice Face",
@@ -131,6 +132,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -144,7 +146,9 @@
   "number": 875,
   "spatk": 65,
   "atk": 80,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -207,8 +211,10 @@
   "dfs": 110,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Eiscue",
   "SwordEntry": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Penguin Pokémon"
 }

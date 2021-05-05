@@ -4,6 +4,7 @@
   "ability1": "Hydration",
   "YEntry": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
   "AlphaSapphireEntry": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+  "atkYield": 0,
   "hp": 50,
   "ability2": "Shell Armor",
   "tmTrMoves": [
@@ -100,6 +101,7 @@
       "technical": "TR65"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -112,7 +114,9 @@
   "number": 616,
   "spatk": 40,
   "atk": 40,
+  "dfsYield": 1,
   "abilityHidden": "Overcoat",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -186,9 +190,11 @@
   "dfs": 85,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Shelmet",
   "White2Entry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
   "SwordEntry": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Snail Pokémon",
   "Black2Entry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."

@@ -2,6 +2,7 @@
   "ShieldEntry": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
   "extraMega": false,
   "ability1": "Reckless",
+  "atkYield": 0,
   "hp": 93,
   "ability2": "Guts",
   "tmTrMoves": [
@@ -262,13 +263,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 862,
   "spatk": 60,
   "atk": 90,
+  "dfsYield": 3,
   "abilityHidden": "Defiant",
+  "hpYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -371,8 +375,10 @@
   "dfs": 101,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Obstagoon",
   "SwordEntry": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout\u2014this move is known as Obstruct.",
+  "spdYield": 0,
   "spdfs": 81,
   "category": "Blocking Pokémon"
 }

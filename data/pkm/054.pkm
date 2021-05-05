@@ -3,6 +3,7 @@
   "EmeraldEntry": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
   "ability1": "Damp",
   "AlphaSapphireEntry": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
   "ability2": "Cloud Nine",
@@ -41,6 +42,7 @@
   "LetsGoPikachuEntry": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
   "DiamondEntry": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
   "name": "Psyduck",
+  "spdYield": 0,
   "spdfs": 50,
   "ShieldEntry": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
   "extraMega": false,
@@ -217,11 +219,14 @@
       "technical": "TR84"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
   "PlatinumEntry": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+  "dfsYield": 0,
   "abilityHidden": "Swift Swim",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -289,6 +294,7 @@
   "OmegaRubyEntry": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
   "LetsGoEeveeEntry": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
   "colour": "Yellow",
+  "spatkYield": 1,
   "SoulsilverEntry": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
   "FireRedEntry": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
   "White2Entry": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",

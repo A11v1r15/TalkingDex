@@ -4,6 +4,7 @@
   "ability1": "Big Pecks",
   "YEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
   "AlphaSapphireEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
+  "atkYield": 0,
   "hp": 45,
   "SunEntry": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
   "ability2": "",
@@ -101,6 +102,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -115,7 +117,9 @@
   "spatk": 40,
   "UltraSunEntry": "While it's an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you'll be burned.",
   "atk": 50,
+  "dfsYield": 0,
   "abilityHidden": "Gale Wings",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -179,8 +183,10 @@
   "dfs": 43,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Fletchling",
   "SwordEntry": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+  "spdYield": 1,
   "spdfs": 38,
   "category": "Tiny Robin Pokémon"
 }

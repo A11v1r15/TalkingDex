@@ -2,6 +2,7 @@
   "ShieldEntry": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.",
   "extraMega": false,
   "ability1": "Leaf Guard",
+  "atkYield": 0,
   "hp": 52,
   "SunEntry": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
   "ability2": "Oblivious",
@@ -127,6 +128,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -136,7 +138,9 @@
   "spatk": 40,
   "UltraSunEntry": "It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.",
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Sweet Veil",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -199,8 +203,10 @@
   "dfs": 48,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Steenee",
   "SwordEntry": "As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.",
+  "spdYield": 2,
   "spdfs": 48,
   "category": "Fruit Pokémon"
 }

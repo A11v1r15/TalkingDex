@@ -2,6 +2,7 @@
   "ShieldEntry": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
   "extraMega": false,
   "ability1": "Healer",
+  "atkYield": 0,
   "hp": 42,
   "ability2": "Anticipation",
   "tmTrMoves": [
@@ -118,6 +119,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -129,7 +131,9 @@
   "number": 856,
   "spatk": 56,
   "atk": 30,
+  "dfsYield": 0,
   "abilityHidden": "Magic Bounce",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -188,8 +192,10 @@
   "dfs": 45,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Hatenna",
   "SwordEntry": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+  "spdYield": 0,
   "spdfs": 53,
   "category": "Calm Pokémon"
 }

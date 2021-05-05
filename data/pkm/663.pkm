@@ -4,6 +4,7 @@
   "ability1": "Flame Body",
   "YEntry": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
   "AlphaSapphireEntry": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+  "atkYield": 0,
   "hp": 78,
   "SunEntry": "Its favorite foods are Wingull and Pikipek. It attacks with a powerful kick and grasps them firmly in its talons.",
   "ability2": "",
@@ -141,6 +142,7 @@
       "technical": "TR89"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -151,7 +153,9 @@
   "spatk": 74,
   "UltraSunEntry": "Its tough wings don't allow fire to pass through them. A long time ago, firefighters' outfits were made from Talonflame wings.",
   "atk": 81,
+  "dfsYield": 0,
   "abilityHidden": "Gale Wings",
+  "hpYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -231,8 +235,10 @@
   "dfs": 71,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Talonflame",
   "SwordEntry": "Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",
+  "spdYield": 3,
   "spdfs": 69,
   "category": "Scorching Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
   "ability1": "Overgrow",
   "AlphaSapphireEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
+  "atkYield": 0,
   "hp": 80,
   "SilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
   "ability2": "",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
   "DiamondEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "name": "Venusaur",
+  "spdYield": 0,
   "spdfs": 100,
   "ShieldEntry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
   "extraMega": false,
@@ -193,11 +195,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "XEntry": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
   "PlatinumEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+  "dfsYield": 0,
   "abilityHidden": "Chlorophyll",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Petal Blizzard",
@@ -277,6 +282,7 @@
   "OmegaRubyEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
   "LetsGoEeveeEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
   "colour": "Green",
+  "spatkYield": 2,
   "SoulsilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
   "FireRedEntry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
   "White2Entry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",

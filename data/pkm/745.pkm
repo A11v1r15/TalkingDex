@@ -2,6 +2,7 @@
   "ShieldEntry": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc's fangs are always aimed toward opponents' weak spots.",
   "extraMega": false,
   "ability1": "Own Tempo",
+  "atkYield": 2,
   "hp": 75,
   "SunEntry": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
   "ability2": "",
@@ -168,6 +169,7 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -177,7 +179,9 @@
   "spatk": 55,
   "UltraSunEntry": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
   "atk": 115,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -268,8 +272,10 @@
   "dfs": 65,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Lycanroc",
   "SwordEntry": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Wolf Pokémon"
 }

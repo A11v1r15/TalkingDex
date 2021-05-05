@@ -4,6 +4,7 @@
   "ability1": "Dry Skin",
   "YEntry": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
   "AlphaSapphireEntry": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
+  "atkYield": 0,
   "hp": 62,
   "ability2": "Sand Veil",
   "tmTrMoves": [
@@ -204,6 +205,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -211,7 +213,9 @@
   "number": 695,
   "spatk": 109,
   "atk": 55,
+  "dfsYield": 0,
   "abilityHidden": "Solar Power",
+  "hpYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 52,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Heliolisk",
   "SwordEntry": "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",
+  "spdYield": 1,
   "spdfs": 94,
   "category": "Generator Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 0,
   "hp": 53,
   "ability2": "",
   "tmTrMoves": [
@@ -158,6 +159,7 @@
       "technical": "TR82"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality.",
@@ -166,7 +168,9 @@
   "spatk": 151,
   "UltraSunEntry": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.",
   "atk": 127,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -245,8 +249,10 @@
   "dfs": 53,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Blacephalon",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 79,
   "category": "Fireworks Pokémon"
 }

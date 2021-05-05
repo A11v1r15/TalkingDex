@@ -2,6 +2,7 @@
   "ShieldEntry": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
   "extraMega": false,
   "ability1": "Tough Claws",
+  "atkYield": 0,
   "hp": 45,
   "SunEntry": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
   "ability2": "",
@@ -124,6 +125,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -137,7 +139,9 @@
   "spatk": 25,
   "UltraSunEntry": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
   "atk": 20,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 1,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -208,8 +212,10 @@
   "dfs": 20,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Wishiwashi",
   "SwordEntry": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
+  "spdYield": 0,
   "spdfs": 25,
   "category": "Small Fry Pokémon"
 }

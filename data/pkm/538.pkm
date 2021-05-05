@@ -4,6 +4,7 @@
   "ability1": "Guts",
   "YEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "AlphaSapphireEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+  "atkYield": 0,
   "hp": 120,
   "ability2": "Inner Focus",
   "tmTrMoves": [
@@ -184,6 +185,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -191,7 +193,9 @@
   "number": 538,
   "spatk": 30,
   "atk": 100,
+  "dfsYield": 0,
   "abilityHidden": "Mold Breaker",
+  "hpYield": 2,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -261,9 +265,11 @@
   "dfs": 85,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Throh",
   "White2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "SwordEntry": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Judo Pokémon",
   "Black2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."

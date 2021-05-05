@@ -4,6 +4,7 @@
   "ability1": "Sweet Veil",
   "YEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
   "AlphaSapphireEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+  "atkYield": 0,
   "hp": 62,
   "ability2": "",
   "tmTrMoves": [
@@ -116,6 +117,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -128,7 +130,9 @@
   "number": 684,
   "spatk": 59,
   "atk": 48,
+  "dfsYield": 1,
   "abilityHidden": "Unburden",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -204,8 +208,10 @@
   "dfs": 66,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Swirlix",
   "SwordEntry": "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
+  "spdYield": 0,
   "spdfs": 57,
   "category": "Cotton Candy Pokémon"
 }

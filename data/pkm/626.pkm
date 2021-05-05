@@ -4,6 +4,7 @@
   "ability1": "Reckless",
   "YEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
   "AlphaSapphireEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+  "atkYield": 2,
   "hp": 95,
   "ability2": "Sap Sipper",
   "tmTrMoves": [
@@ -184,6 +185,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -199,7 +201,9 @@
   "number": 626,
   "spatk": 40,
   "atk": 110,
+  "dfsYield": 0,
   "abilityHidden": "Soundproof",
+  "hpYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -269,9 +273,11 @@
   "dfs": 95,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Bouffalant",
   "White2Entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
   "SwordEntry": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+  "spdYield": 0,
   "spdfs": 95,
   "category": "Bash Buffalo Pokémon",
   "Black2Entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying."

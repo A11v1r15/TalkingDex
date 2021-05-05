@@ -4,6 +4,7 @@
   "ability1": "Water Absorb",
   "YEntry": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
   "AlphaSapphireEntry": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+  "atkYield": 0,
   "hp": 100,
   "ability2": "Cursed Body",
   "tmTrMoves": [
@@ -164,6 +165,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -173,7 +175,9 @@
   "spatk": 85,
   "UltraSunEntry": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Damp",
+  "hpYield": 0,
   "height": "2.2m",
   "lvlUpMoves": [
     {
@@ -251,9 +255,11 @@
   "dfs": 70,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Jellicent",
   "White2Entry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
   "SwordEntry": "Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.",
+  "spdYield": 0,
   "spdfs": 105,
   "category": "Floating Pokémon",
   "Black2Entry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor."

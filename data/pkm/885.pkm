@@ -2,6 +2,7 @@
   "ShieldEntry": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
   "extraMega": false,
   "ability1": "Clear Body",
+  "atkYield": 0,
   "hp": 28,
   "ability2": "Infiltrator",
   "tmTrMoves": [
@@ -58,6 +59,7 @@
       "technical": "TR29"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -72,7 +74,9 @@
   "number": 885,
   "spatk": 40,
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Cursed Body",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -103,8 +107,10 @@
   "dfs": 30,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Dreepy",
   "SwordEntry": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+  "spdYield": 1,
   "spdfs": 30,
   "category": "Lingering Pokémon"
 }

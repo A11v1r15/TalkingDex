@@ -2,6 +2,7 @@
   "ShieldEntry": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
   "extraMega": false,
   "ability1": "Leaf Guard",
+  "atkYield": 0,
   "hp": 42,
   "SunEntry": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
   "ability2": "Oblivious",
@@ -111,6 +112,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -124,7 +126,9 @@
   "spatk": 30,
   "UltraSunEntry": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
   "atk": 30,
+  "dfsYield": 0,
   "abilityHidden": "Sweet Veil",
+  "hpYield": 1,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -179,8 +183,10 @@
   "dfs": 38,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Bounsweet",
   "SwordEntry": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
+  "spdYield": 0,
   "spdfs": 38,
   "category": "Fruit Pokémon"
 }

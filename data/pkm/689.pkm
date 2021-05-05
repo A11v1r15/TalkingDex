@@ -4,6 +4,7 @@
   "ability1": "Tough Claws",
   "YEntry": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
   "AlphaSapphireEntry": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
+  "atkYield": 2,
   "hp": 72,
   "ability2": "Sniper",
   "tmTrMoves": [
@@ -244,6 +245,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -251,7 +253,9 @@
   "number": 689,
   "spatk": 54,
   "atk": 105,
+  "dfsYield": 0,
   "abilityHidden": "Pickpocket",
+  "hpYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -327,8 +331,10 @@
   "dfs": 115,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Barbaracle",
   "SwordEntry": "Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.",
+  "spdYield": 0,
   "spdfs": 86,
   "category": "Collective Pokémon"
 }

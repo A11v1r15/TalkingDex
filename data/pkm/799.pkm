@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 0,
   "hp": 223,
   "SunEntry": "It has gobbled mountains and swallowed whole buildings, according to reports. It's one of the Ultra Beasts.",
   "ability2": "",
@@ -195,6 +196,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "An unknown life-form called a UB. It may be constantly hungry\u2014it is certainly always devouring something.",
@@ -204,7 +206,9 @@
   "spatk": 97,
   "UltraSunEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
   "atk": 101,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 3,
   "height": "5.5m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 53,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Guzzlord",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 53,
   "category": "Junkivore Pokémon"
 }

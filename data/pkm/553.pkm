@@ -4,6 +4,7 @@
   "ability1": "Intimidate",
   "YEntry": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
   "AlphaSapphireEntry": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+  "atkYield": 3,
   "hp": 95,
   "SunEntry": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.",
   "ability2": "Moxie",
@@ -249,6 +250,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -259,7 +261,9 @@
   "spatk": 65,
   "UltraSunEntry": "When it spots prey, even at a distance of over 30 miles, it swims through the desert as if it were water, then jumps out and chomps them.",
   "atk": 117,
+  "dfsYield": 0,
   "abilityHidden": "Anger Point",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -341,9 +345,11 @@
   "dfs": 80,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Krookodile",
   "White2Entry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
   "SwordEntry": "This Pokémon is known as the Bully of the Sands. Krookodile's mighty jaws can bite through heavy plates of iron with almost no effort at all.",
+  "spdYield": 0,
   "spdfs": 70,
   "category": "Intimidation Pokémon",
   "Black2Entry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes."

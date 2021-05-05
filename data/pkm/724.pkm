@@ -2,6 +2,7 @@
   "ShieldEntry": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening.",
   "extraMega": false,
   "ability1": "Overgrow",
+  "atkYield": 3,
   "hp": 78,
   "SunEntry": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
   "ability2": "",
@@ -171,6 +172,7 @@
       "technical": "TR89"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -180,7 +182,9 @@
   "spatk": 100,
   "UltraSunEntry": "It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.",
   "atk": 107,
+  "dfsYield": 0,
   "abilityHidden": "Long Reach",
+  "hpYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -275,8 +279,10 @@
   "dfs": 75,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Decidueye",
   "SwordEntry": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
+  "spdYield": 0,
   "spdfs": 100,
   "category": "Arrow Quill Pokémon"
 }

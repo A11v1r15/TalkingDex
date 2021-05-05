@@ -2,6 +2,7 @@
   "ShieldEntry": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
   "extraMega": false,
   "ability1": "Cotton Down",
+  "atkYield": 0,
   "hp": 40,
   "ability2": "Regenerator",
   "tmTrMoves": [
@@ -98,6 +99,7 @@
       "technical": "TR96"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -111,7 +113,9 @@
   "number": 829,
   "spatk": 40,
   "atk": 40,
+  "dfsYield": 0,
   "abilityHidden": "Effect Spore",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -170,8 +174,10 @@
   "dfs": 60,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Gossifleur",
   "SwordEntry": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Flowering Pokémon"
 }

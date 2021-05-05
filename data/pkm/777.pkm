@@ -2,6 +2,7 @@
   "ShieldEntry": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
   "extraMega": false,
   "ability1": "Iron Barbs",
+  "atkYield": 2,
   "hp": 65,
   "SunEntry": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
   "ability2": "Lightning Rod",
@@ -167,6 +168,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -183,7 +185,9 @@
   "spatk": 40,
   "UltraSunEntry": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
   "atk": 98,
+  "dfsYield": 0,
   "abilityHidden": "Sturdy",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -254,8 +258,10 @@
   "dfs": 63,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Togedemaru",
   "SwordEntry": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+  "spdYield": 0,
   "spdfs": 73,
   "category": "Roly-Poly Pokémon"
 }

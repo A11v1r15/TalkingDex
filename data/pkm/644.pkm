@@ -4,6 +4,7 @@
   "ability1": "Teravolt",
   "YEntry": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
   "AlphaSapphireEntry": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+  "atkYield": 3,
   "hp": 100,
   "ability2": "",
   "tmTrMoves": [
@@ -204,6 +205,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -211,7 +213,9 @@
   "number": 644,
   "spatk": 120,
   "atk": 150,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.9m",
   "lvlUpMoves": [
     {
@@ -289,9 +293,11 @@
   "dfs": 120,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Zekrom",
   "White2Entry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
   "SwordEntry": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
+  "spdYield": 0,
   "spdfs": 100,
   "category": "Deep Black Pokémon",
   "Black2Entry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."

@@ -4,6 +4,7 @@
   "ability1": "Water Absorb",
   "YEntry": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
   "AlphaSapphireEntry": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+  "atkYield": 0,
   "hp": 80,
   "ability2": "",
   "tmTrMoves": [
@@ -204,6 +205,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
@@ -211,7 +213,9 @@
   "number": 721,
   "spatk": 130,
   "atk": 110,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.7m",
   "lvlUpMoves": [
     {
@@ -299,8 +303,10 @@
   "dfs": 120,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Volcanion",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Steam Pokémon"
 }

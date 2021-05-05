@@ -3,6 +3,7 @@
   "EmeraldEntry": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
   "ability1": "Magnet Pull",
   "AlphaSapphireEntry": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinities.",
   "ability2": "Sturdy",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
   "DiamondEntry": "It is actually three Magnemite linked by magnetism. A group can set off a magnetic storm.",
   "name": "Magneton",
+  "spdYield": 0,
   "spdfs": 70,
   "ShieldEntry": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
   "extraMega": false,
@@ -153,11 +155,14 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "A link cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
   "PlatinumEntry": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+  "dfsYield": 0,
   "abilityHidden": "Analytic",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tri Attack",
@@ -237,6 +242,7 @@
   "OmegaRubyEntry": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
   "LetsGoEeveeEntry": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
   "colour": "Gray",
+  "spatkYield": 2,
   "SoulsilverEntry": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinity.",
   "FireRedEntry": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
   "White2Entry": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",

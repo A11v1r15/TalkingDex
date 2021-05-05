@@ -3,6 +3,7 @@
   "EmeraldEntry": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
   "ability1": "Own Tempo",
   "AlphaSapphireEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+  "atkYield": 0,
   "hp": 90,
   "SilverEntry": "Its long tongue, slathered with a thick gooey saliva, sticks to anything, so it is very useful.",
   "ability2": "Oblivious",
@@ -37,6 +38,7 @@
   "LetsGoPikachuEntry": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
   "DiamondEntry": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
   "name": "Lickitung",
+  "spdYield": 0,
   "spdfs": 75,
   "ShieldEntry": "Bug Pokémon are Lickitung's main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
   "extraMega": false,
@@ -256,11 +258,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Its long tongue, slathered in a gooey saliva, sticks to anything, so it is very useful.",
   "PlatinumEntry": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+  "dfsYield": 0,
   "abilityHidden": "Cloud Nine",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Lick",
@@ -316,6 +321,7 @@
   "OmegaRubyEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
   "LetsGoEeveeEntry": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
   "FireRedEntry": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
   "White2Entry": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",

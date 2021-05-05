@@ -3,6 +3,7 @@
   "EmeraldEntry": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
   "ability1": "Chlorophyll",
   "AlphaSapphireEntry": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+  "atkYield": 0,
   "hp": 60,
   "SilverEntry": "Using telepathy only they can receive, they always form a cluster of six Exeggcute.",
   "ability2": "",
@@ -42,6 +43,7 @@
   "LetsGoPikachuEntry": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
   "DiamondEntry": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
   "name": "Exeggcute",
+  "spdYield": 0,
   "spdfs": 45,
   "ShieldEntry": "These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
   "extraMega": false,
@@ -166,11 +168,14 @@
       "technical": "TR77"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
   "PlatinumEntry": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+  "dfsYield": 1,
   "abilityHidden": "Harvest",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -230,6 +235,7 @@
   "OmegaRubyEntry": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
   "LetsGoEeveeEntry": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Using telepathy only they can employ, they always form a cluster of six Exeggcute.",
   "FireRedEntry": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
   "White2Entry": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",

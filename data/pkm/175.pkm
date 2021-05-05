@@ -2,6 +2,7 @@
   "EmeraldEntry": "As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.",
   "ability1": "Hustle",
   "AlphaSapphireEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon then stores up feelings of happiness inside its shell, then shares them with others.",
+  "atkYield": 0,
   "hp": 35,
   "SilverEntry": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
   "ability2": "Serene Grace",
@@ -33,6 +34,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
   "name": "Togepi",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
   "extraMega": false,
@@ -220,11 +222,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
   "PlatinumEntry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+  "dfsYield": 0,
   "abilityHidden": "Super Luck",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Growl",
@@ -291,6 +296,7 @@
   "BlackEntry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
   "OmegaRubyEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon then stores up feelings of happiness inside its shell, then shares them with others.",
   "colour": "White",
+  "spatkYield": 0,
   "SoulsilverEntry": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
   "FireRedEntry": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
   "White2Entry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",

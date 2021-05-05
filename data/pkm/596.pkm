@@ -4,6 +4,7 @@
   "ability1": "Compound Eyes",
   "YEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
   "AlphaSapphireEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+  "atkYield": 0,
   "hp": 70,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -148,6 +149,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -155,7 +157,9 @@
   "number": 596,
   "spatk": 97,
   "atk": 77,
+  "dfsYield": 0,
   "abilityHidden": "Swarm",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -237,9 +241,11 @@
   "dfs": 60,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Galvantula",
   "White2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
   "SwordEntry": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+  "spdYield": 2,
   "spdfs": 60,
   "category": "EleSpider Pokémon",
   "Black2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."

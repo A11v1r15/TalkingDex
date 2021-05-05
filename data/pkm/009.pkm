@@ -3,6 +3,7 @@
   "EmeraldEntry": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
   "ability1": "Torrent",
   "AlphaSapphireEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+  "atkYield": 0,
   "hp": 79,
   "SilverEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
   "ability2": "",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
   "DiamondEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
   "name": "Blastoise",
+  "spdYield": 0,
   "spdfs": 105,
   "ShieldEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
   "extraMega": false,
@@ -249,11 +251,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 3,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "XEntry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
   "PlatinumEntry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+  "dfsYield": 0,
   "abilityHidden": "Rain Dish",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Flash Cannon",
@@ -325,6 +330,7 @@
   "OmegaRubyEntry": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
   "LetsGoEeveeEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
   "FireRedEntry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
   "White2Entry": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",

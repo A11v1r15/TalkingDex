@@ -3,6 +3,7 @@
   "EmeraldEntry": "A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
   "ability1": "Guts",
   "AlphaSapphireEntry": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.",
+  "atkYield": 2,
   "hp": 80,
   "SilverEntry": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
   "ability2": "No Guard",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
   "DiamondEntry": "Machoke's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
   "name": "Machoke",
+  "spdYield": 0,
   "spdfs": 60,
   "ShieldEntry": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
   "extraMega": false,
@@ -229,11 +231,14 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
   "PlatinumEntry": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+  "dfsYield": 0,
   "abilityHidden": "Steadfast",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Low Kick",
@@ -301,6 +306,7 @@
   "OmegaRubyEntry": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
   "LetsGoEeveeEntry": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
   "colour": "Gray",
+  "spatkYield": 0,
   "SoulsilverEntry": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
   "FireRedEntry": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
   "White2Entry": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",

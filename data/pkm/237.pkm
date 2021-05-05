@@ -2,6 +2,7 @@
   "EmeraldEntry": "Its technique of kicking while spinning is a remarkable mix of both offense and defense. Hitmontop travel faster spinning than they do walking.",
   "ability1": "Intimidate",
   "AlphaSapphireEntry": "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
   "ability2": "Technician",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.",
   "name": "Hitmontop",
+  "spdYield": 0,
   "spdfs": 110,
   "ShieldEntry": "After doing a handstand to throw off the opponent's timing, it presents its fancy kick moves.",
   "extraMega": false,
@@ -185,11 +187,14 @@
       "technical": "TR87"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It fights while spinning like a top. The centrifugal force boosts its destructive power by 10.",
   "PlatinumEntry": "It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.",
+  "dfsYield": 0,
   "abilityHidden": "Steadfast",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Triple Kick",
@@ -276,6 +281,7 @@
   "BlackEntry": "It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.",
   "OmegaRubyEntry": "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
   "FireRedEntry": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
   "White2Entry": "It fights while spinning like a top. The centrifugal force boosts its destructive power by 10.",

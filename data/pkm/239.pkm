@@ -2,6 +2,7 @@
   "EmeraldEntry": "If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.",
   "ability1": "Static",
   "AlphaSapphireEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.",
   "ability2": "",
@@ -35,6 +36,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
   "name": "Elekid",
+  "spdYield": 1,
   "spdfs": 55,
   "ShieldEntry": "It's not good at storing electricity yet. This Pokémon sneaks into people's homes, looking for electrical outlets to eat electricity from.",
   "extraMega": false,
@@ -175,11 +177,14 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
   "PlatinumEntry": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
+  "dfsYield": 0,
   "abilityHidden": "Vital Spirit",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Quick Attack",
@@ -242,6 +247,7 @@
   "BlackEntry": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
   "OmegaRubyEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.",
   "FireRedEntry": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.",
   "White2Entry": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",

@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
   "ability1": "Inner Focus",
   "AlphaSapphireEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+  "atkYield": 0,
   "hp": 55,
   "SilverEntry": "Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind.",
   "ability2": "Keen Eye",
@@ -38,6 +39,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It feeds on Eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
   "name": "Sneasel",
+  "spdYield": 1,
   "spdfs": 75,
   "ShieldEntry": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
   "extraMega": false,
@@ -242,11 +244,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
   "PlatinumEntry": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
+  "dfsYield": 0,
   "abilityHidden": "Pickpocket",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -301,6 +306,7 @@
   "BlackEntry": "A smart and sneaky Pokémon. A pair may work together to steal Eggs by having one lure the parents away.",
   "OmegaRubyEntry": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
   "colour": "Black",
+  "spatkYield": 0,
   "SoulsilverEntry": "Vicious in nature, it drives Pidgey from their nests and scavenges any leftovers it can find.",
   "FireRedEntry": "Vicious in nature, it drives Pidgey from their nests and feasts on the Eggs that are left behind.",
   "White2Entry": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",

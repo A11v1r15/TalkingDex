@@ -4,6 +4,7 @@
   "ability1": "Mega Launcher",
   "YEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
   "AlphaSapphireEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
+  "atkYield": 0,
   "hp": 50,
   "ability2": "",
   "tmTrMoves": [
@@ -124,6 +125,7 @@
       "technical": "TR84"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -137,7 +139,9 @@
   "spatk": 58,
   "UltraSunEntry": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
   "atk": 53,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -205,8 +209,10 @@
   "dfs": 62,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 1,
   "name": "Clauncher",
   "SwordEntry": "Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
+  "spdYield": 0,
   "spdfs": 63,
   "category": "Water Gun Pokémon"
 }

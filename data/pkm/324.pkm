@@ -2,6 +2,7 @@
   "EmeraldEntry": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.",
   "ability1": "White Smoke",
   "AlphaSapphireEntry": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pokémon burns more coal.",
+  "atkYield": 0,
   "hp": 70,
   "ability2": "Drought",
   "eggMoves": [
@@ -32,6 +33,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
   "name": "Torkoal",
+  "spdYield": 0,
   "spdfs": 70,
   "ShieldEntry": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
   "extraMega": false,
@@ -192,11 +194,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
   "PlatinumEntry": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+  "dfsYield": 2,
   "abilityHidden": "Shell Armor",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Smog",
@@ -275,6 +280,7 @@
   "BlackEntry": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
   "OmegaRubyEntry": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
   "FireRedEntry": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
   "White2Entry": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",

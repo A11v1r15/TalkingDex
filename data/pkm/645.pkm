@@ -4,6 +4,7 @@
   "ability1": "Sand Force",
   "YEntry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
   "AlphaSapphireEntry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+  "atkYield": 0,
   "hp": 89,
   "ability2": "",
   "title": "Incarnate Forme",
@@ -185,6 +186,7 @@
       "technical": "TR78"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
@@ -192,7 +194,9 @@
   "number": 645,
   "spatk": 115,
   "atk": 125,
+  "dfsYield": 0,
   "abilityHidden": "Sheer Force",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -278,9 +282,11 @@
   "dfs": 90,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 3,
   "name": "Landorus",
   "White2Entry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Abundance Pokémon",
   "Black2Entry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."

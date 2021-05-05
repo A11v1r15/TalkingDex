@@ -2,6 +2,7 @@
   "EmeraldEntry": "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
   "ability1": "Damp",
   "AlphaSapphireEntry": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+  "atkYield": 0,
   "hp": 95,
   "SilverEntry": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
   "ability2": "Water Absorb",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
   "name": "Quagsire",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
   "extraMega": false,
@@ -237,11 +239,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
   "PlatinumEntry": "It has an easygoing nature. It doesn't care if it bumps its head on boats and rocks while swimming.",
+  "dfsYield": 0,
   "abilityHidden": "Unaware",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -300,6 +305,7 @@
   "BlackEntry": "It has an easygoing nature. It doesn't care if it bumps its head on boats and rocks while swimming.",
   "OmegaRubyEntry": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
   "FireRedEntry": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
   "White2Entry": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",

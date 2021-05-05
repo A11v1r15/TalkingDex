@@ -2,6 +2,7 @@
   "EmeraldEntry": "It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
   "ability1": "Hustle",
   "AlphaSapphireEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+  "atkYield": 0,
   "hp": 55,
   "SilverEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "ability2": "Serene Grace",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
   "name": "Togetic",
+  "spdYield": 0,
   "spdfs": 105,
   "ShieldEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "extraMega": false,
@@ -257,11 +259,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "PlatinumEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
+  "dfsYield": 0,
   "abilityHidden": "Super Luck",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Fairy Wind",
@@ -336,6 +341,7 @@
   "BlackEntry": "To share its happiness, it flies around the world seeking kind-hearted people.",
   "OmegaRubyEntry": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
   "colour": "White",
+  "spatkYield": 0,
   "SoulsilverEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "FireRedEntry": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
   "White2Entry": "To share its happiness, it flies around the world seeking kind-hearted people.",

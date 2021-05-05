@@ -3,6 +3,7 @@
   "EmeraldEntry": "A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.",
   "ability1": "Run Away",
   "AlphaSapphireEntry": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+  "atkYield": 0,
   "hp": 50,
   "SilverEntry": "Its hind legs, which have harder-than-diamond hooves, kick back at any presence it senses behind it.",
   "ability2": "Flash Fire",
@@ -37,6 +38,7 @@
   "LetsGoPikachuEntry": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.",
   "DiamondEntry": "About an hour after birth, its fiery mane and tail grow out, giving it an impressive appearance.",
   "name": "Ponyta",
+  "spdYield": 1,
   "spdfs": 65,
   "ShieldEntry": "If you've been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
   "extraMega": false,
@@ -168,11 +170,14 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
   "PlatinumEntry": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+  "dfsYield": 0,
   "abilityHidden": "Flame Body",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -232,6 +237,7 @@
   "OmegaRubyEntry": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
   "LetsGoEeveeEntry": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its hind legs, which have hooves that are harder than diamond, kick back at any presence it senses behind it.",
   "FireRedEntry": "Its body is light, and its legs are incredibly powerful. It can clear Ayers Rock in one leap.",
   "White2Entry": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",

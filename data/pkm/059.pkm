@@ -3,6 +3,7 @@
   "EmeraldEntry": "This fleet-footed Pokémon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
   "ability1": "Intimidate",
   "AlphaSapphireEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
+  "atkYield": 2,
   "hp": 90,
   "SilverEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
   "ability2": "Flash Fire",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
   "DiamondEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "name": "Arcanine",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
   "extraMega": false,
@@ -217,11 +219,14 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
   "PlatinumEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
+  "dfsYield": 0,
   "abilityHidden": "Justified",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Extreme Speed",
@@ -305,6 +310,7 @@
   "OmegaRubyEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
   "LetsGoEeveeEntry": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
   "FireRedEntry": "A Pokémon that is described in Chinese legends. It is said to race at an unbelievable speed.",
   "White2Entry": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",

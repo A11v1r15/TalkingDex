@@ -3,6 +3,7 @@
   "EmeraldEntry": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
   "ability1": "Static",
   "AlphaSapphireEntry": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
+  "atkYield": 0,
   "hp": 35,
   "SilverEntry": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
   "DiamondEntry": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
   "name": "Pikachu",
+  "spdYield": 2,
   "spdfs": 50,
   "ShieldEntry": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
   "extraMega": false,
@@ -209,11 +211,14 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "XEntry": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
   "PlatinumEntry": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+  "dfsYield": 0,
   "abilityHidden": "Lightning Rod",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Play Nice",
@@ -301,6 +306,7 @@
   "OmegaRubyEntry": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
   "LetsGoEeveeEntry": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
   "FireRedEntry": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
   "White2Entry": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",

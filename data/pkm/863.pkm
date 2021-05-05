@@ -2,6 +2,7 @@
   "ShieldEntry": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
   "extraMega": false,
   "ability1": "Battle Armor",
+  "atkYield": 2,
   "hp": 70,
   "ability2": "Tough Claws",
   "tmTrMoves": [
@@ -198,13 +199,16 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 863,
   "spatk": 50,
   "atk": 110,
+  "dfsYield": 0,
   "abilityHidden": "Steely Spirit",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -287,8 +291,10 @@
   "dfs": 100,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Perrserker",
   "SwordEntry": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Viking Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Inner Focus",
   "YEntry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
   "AlphaSapphireEntry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+  "atkYield": 2,
   "hp": 65,
   "ability2": "Regenerator",
   "tmTrMoves": [
@@ -212,6 +213,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -221,7 +223,9 @@
   "spatk": 95,
   "UltraSunEntry": "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
   "atk": 125,
+  "dfsYield": 0,
   "abilityHidden": "Reckless",
+  "hpYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -299,9 +303,11 @@
   "dfs": 60,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Mienshao",
   "White2Entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
   "SwordEntry": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Martial Arts Pokémon",
   "Black2Entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."

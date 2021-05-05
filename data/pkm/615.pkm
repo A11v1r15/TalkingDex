@@ -4,6 +4,7 @@
   "ability1": "Levitate",
   "YEntry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
   "AlphaSapphireEntry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
+  "atkYield": 0,
   "hp": 80,
   "ability2": "",
   "tmTrMoves": [
@@ -104,6 +105,7 @@
       "technical": "TR70"
     }
   ],
+  "spdfsYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
@@ -111,7 +113,9 @@
   "number": 615,
   "spatk": 95,
   "atk": 50,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -209,9 +213,11 @@
   "dfs": 50,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Cryogonal",
   "White2Entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
   "SwordEntry": "With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.",
+  "spdYield": 0,
   "spdfs": 135,
   "category": "Crystallizing Pokémon",
   "Black2Entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F."

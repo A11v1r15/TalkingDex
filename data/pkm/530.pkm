@@ -4,6 +4,7 @@
   "ability1": "Sand Rush",
   "YEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
   "AlphaSapphireEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+  "atkYield": 2,
   "hp": 110,
   "ability2": "Sand Force",
   "tmTrMoves": [
@@ -156,6 +157,7 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -163,7 +165,9 @@
   "number": 530,
   "spatk": 50,
   "atk": 135,
+  "dfsYield": 0,
   "abilityHidden": "Mold Breaker",
+  "hpYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -245,9 +249,11 @@
   "dfs": 60,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Excadrill",
   "White2Entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
   "SwordEntry": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Subterrene Pokémon",
   "Black2Entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is."

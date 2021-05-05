@@ -2,6 +2,7 @@
   "ShieldEntry": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
   "extraMega": false,
   "ability1": "Receiver",
+  "atkYield": 2,
   "hp": 100,
   "SunEntry": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
   "ability2": "",
@@ -211,6 +212,7 @@
       "technical": "TR85"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -228,7 +230,9 @@
   "spatk": 40,
   "UltraSunEntry": "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves.",
   "atk": 120,
+  "dfsYield": 0,
   "abilityHidden": "Defiant",
+  "hpYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -299,8 +303,10 @@
   "dfs": 90,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Passimian",
   "SwordEntry": "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Teamwork Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
   "ability1": "Limber",
   "AlphaSapphireEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+  "atkYield": 2,
   "hp": 50,
   "SilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
   "ability2": "Reckless",
@@ -30,6 +31,7 @@
   "LetsGoPikachuEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
   "DiamondEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
   "name": "Hitmonlee",
+  "spdYield": 0,
   "spdfs": 110,
   "ShieldEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
   "extraMega": false,
@@ -209,11 +211,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
   "PlatinumEntry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+  "dfsYield": 0,
   "abilityHidden": "Unburden",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Brick Break",
@@ -297,6 +302,7 @@
   "OmegaRubyEntry": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
   "LetsGoEeveeEntry": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
   "FireRedEntry": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
   "White2Entry": "Its legs can stretch double. First-time foes are startled by its extensible reach.",

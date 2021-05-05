@@ -4,6 +4,7 @@
   "ability1": "Poison Point",
   "YEntry": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
   "AlphaSapphireEntry": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
+  "atkYield": 0,
   "hp": 50,
   "ability2": "Poison Touch",
   "tmTrMoves": [
@@ -128,6 +129,7 @@
       "technical": "TR91"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -142,7 +144,9 @@
   "spatk": 60,
   "UltraSunEntry": "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pokémon. Rotten seaweed is its main food source.",
   "atk": 60,
+  "dfsYield": 0,
   "abilityHidden": "Adaptability",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -210,8 +214,10 @@
   "dfs": 60,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Skrelp",
   "SwordEntry": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Mock Kelp Pokémon"
 }

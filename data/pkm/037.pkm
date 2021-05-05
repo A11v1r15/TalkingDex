@@ -3,6 +3,7 @@
   "EmeraldEntry": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
   "ability1": "Flash Fire",
   "AlphaSapphireEntry": "Inside Vulpix's body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.",
+  "atkYield": 0,
   "hp": 38,
   "SilverEntry": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
   "ability2": "",
@@ -41,6 +42,7 @@
   "LetsGoPikachuEntry": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
   "DiamondEntry": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
   "name": "Vulpix",
+  "spdYield": 1,
   "spdfs": 65,
   "ShieldEntry": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
   "extraMega": false,
@@ -189,11 +191,14 @@
       "technical": "TR81"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
   "PlatinumEntry": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+  "dfsYield": 0,
   "abilityHidden": "Drought",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Ember",
@@ -265,6 +270,7 @@
   "OmegaRubyEntry": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its trainer. The six tails become magnificently curled.",
   "LetsGoEeveeEntry": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
   "FireRedEntry": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
   "White2Entry": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",

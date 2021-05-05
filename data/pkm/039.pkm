@@ -3,6 +3,7 @@
   "EmeraldEntry": "Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
   "ability1": "Cute Charm",
   "AlphaSapphireEntry": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+  "atkYield": 0,
   "hp": 115,
   "SilverEntry": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
   "ability2": "Competitive",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
   "DiamondEntry": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
   "name": "Jigglypuff",
+  "spdYield": 0,
   "spdfs": 25,
   "ShieldEntry": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
   "extraMega": false,
@@ -265,11 +267,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
   "PlatinumEntry": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+  "dfsYield": 0,
   "abilityHidden": "Friend Guard",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Sweet Kiss",
@@ -361,6 +366,7 @@
   "OmegaRubyEntry": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
   "LetsGoEeveeEntry": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
   "FireRedEntry": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
   "White2Entry": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep.",

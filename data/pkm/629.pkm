@@ -4,6 +4,7 @@
   "ability1": "Big Pecks",
   "YEntry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
   "AlphaSapphireEntry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+  "atkYield": 0,
   "hp": 70,
   "SunEntry": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
   "ability2": "Overcoat",
@@ -137,6 +138,7 @@
       "technical": "TR81"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -151,7 +153,9 @@
   "spatk": 45,
   "UltraSunEntry": "Mandibuzz gives it the bones it wears. Vullaby's wings are short, so it can't fly yet, but it jumps around, dreaming of wide open skies.",
   "atk": 55,
+  "dfsYield": 1,
   "abilityHidden": "Weak Armor",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -225,9 +229,11 @@
   "dfs": 75,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Vullaby",
   "White2Entry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
   "SwordEntry": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Diapered Pokémon",
   "Black2Entry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."

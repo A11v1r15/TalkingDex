@@ -4,6 +4,7 @@
   "ability1": "Pickup",
   "YEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
   "AlphaSapphireEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+  "atkYield": 0,
   "hp": 38,
   "ability2": "Cheek Pouch",
   "tmTrMoves": [
@@ -144,6 +145,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -154,7 +156,9 @@
   "number": 659,
   "spatk": 32,
   "atk": 36,
+  "dfsYield": 0,
   "abilityHidden": "Huge Power",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -230,8 +234,10 @@
   "dfs": 38,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Bunnelby",
   "SwordEntry": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+  "spdYield": 1,
   "spdfs": 36,
   "category": "Digging Pokémon"
 }

@@ -4,6 +4,7 @@
   "ability1": "Guts",
   "YEntry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
   "AlphaSapphireEntry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+  "atkYield": 3,
   "hp": 105,
   "ability2": "Sheer Force",
   "tmTrMoves": [
@@ -200,6 +201,7 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -207,7 +209,9 @@
   "number": 534,
   "spatk": 55,
   "atk": 140,
+  "dfsYield": 0,
   "abilityHidden": "Iron Fist",
+  "hpYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -281,9 +285,11 @@
   "dfs": 95,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Conkeldurr",
   "White2Entry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
   "SwordEntry": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Muscular Pokémon",
   "Black2Entry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.",
   "ability1": "Pickup",
   "AlphaSapphireEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+  "atkYield": 0,
   "hp": 40,
   "SilverEntry": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
   "ability2": "Technician",
@@ -40,6 +41,7 @@
   "LetsGoPikachuEntry": "Appears to be more active at night. It loves round and shiny things. It can't stop itself from picking them up.",
   "DiamondEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "name": "Meowth",
+  "spdYield": 1,
   "spdfs": 40,
   "ShieldEntry": "It washes its face regularly to keep the coin on its forehead spotless. It doesn't get along with Galarian Meowth.",
   "extraMega": false,
@@ -208,11 +210,14 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "XEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "PlatinumEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+  "dfsYield": 0,
   "abilityHidden": "Unnerve",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Fake Out",
@@ -272,6 +277,7 @@
   "OmegaRubyEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
   "LetsGoEeveeEntry": "Appears to be more active at night. It loves round and shiny things. It can't stop itself from picking them up.",
   "colour": "Yellow",
+  "spatkYield": 0,
   "SoulsilverEntry": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
   "FireRedEntry": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
   "White2Entry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",

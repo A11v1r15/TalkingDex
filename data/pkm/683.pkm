@@ -4,6 +4,7 @@
   "ability1": "Healer",
   "YEntry": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
   "AlphaSapphireEntry": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
+  "atkYield": 0,
   "hp": 101,
   "ability2": "",
   "tmTrMoves": [
@@ -152,6 +153,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -159,7 +161,9 @@
   "number": 683,
   "spatk": 99,
   "atk": 72,
+  "dfsYield": 0,
   "abilityHidden": "Aroma Veil",
+  "hpYield": 2,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -247,8 +251,10 @@
   "dfs": 72,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Aromatisse",
   "SwordEntry": "The scent that constantly emits from its fur is so powerful that this Pokémon's companions will eventually lose their sense of smell.",
+  "spdYield": 0,
   "spdfs": 89,
   "category": "Fragrance Pokémon"
 }

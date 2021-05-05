@@ -2,6 +2,7 @@
   "EmeraldEntry": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 mph per hour.",
   "ability1": "Rough Skin",
   "AlphaSapphireEntry": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon\u2019s drawback is its inability to swim long distances.",
+  "atkYield": 2,
   "hp": 70,
   "ability2": "",
   "eggMoves": [],
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "name": "Sharpedo",
+  "spdYield": 0,
   "spdfs": 40,
   "ShieldEntry": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked\u2014no exceptions.",
   "extraMega": false,
@@ -226,11 +228,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "PlatinumEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+  "dfsYield": 0,
   "abilityHidden": "Speed Boost",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Slash",
@@ -301,6 +306,7 @@
   "BlackEntry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
   "OmegaRubyEntry": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
   "FireRedEntry": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
   "White2Entry": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",

@@ -2,6 +2,7 @@
   "EmeraldEntry": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few Trainers raise it.",
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "While Feebas\u2019s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+  "atkYield": 0,
   "hp": 20,
   "ability2": "Oblivious",
   "eggMoves": [
@@ -34,6 +35,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
   "name": "Feebas",
+  "spdYield": 1,
   "spdfs": 55,
   "ShieldEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
   "extraMega": false,
@@ -146,11 +148,14 @@
       "technical": "TR84"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Erratic",
   "XEntry": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
   "PlatinumEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "dfsYield": 0,
   "abilityHidden": "Adaptability",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Splash",
@@ -169,6 +174,7 @@
   "BlackEntry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
   "OmegaRubyEntry": "Feebas\u2019s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
   "colour": "Brown",
+  "spatkYield": 0,
   "SoulsilverEntry": "It is the shabbiest Pokémon of all. It forms in schools and live at the bottom of rivers.",
   "FireRedEntry": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
   "White2Entry": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",

@@ -2,6 +2,7 @@
   "ShieldEntry": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
   "extraMega": false,
   "ability1": "Honey Gather",
+  "atkYield": 0,
   "hp": 60,
   "SunEntry": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
   "ability2": "Shield Dust",
@@ -171,6 +172,7 @@
       "technical": "TR96"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -180,7 +182,9 @@
   "spatk": 95,
   "UltraSunEntry": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
   "atk": 55,
+  "dfsYield": 0,
   "abilityHidden": "Sweet Veil",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -251,8 +255,10 @@
   "dfs": 60,
   "colour": "Yellow",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Ribombee",
   "SwordEntry": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+  "spdYield": 2,
   "spdfs": 70,
   "category": "Bee Fly Pokémon"
 }

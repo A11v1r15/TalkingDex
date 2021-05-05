@@ -4,6 +4,7 @@
   "ability1": "Prankster",
   "YEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
   "AlphaSapphireEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+  "atkYield": 0,
   "hp": 57,
   "SunEntry": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people's homes to steal their keys.",
   "ability2": "",
@@ -137,6 +138,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -150,7 +152,9 @@
   "spatk": 80,
   "UltraSunEntry": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
   "atk": 80,
+  "dfsYield": 1,
   "abilityHidden": "Magician",
+  "hpYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -226,8 +230,10 @@
   "dfs": 91,
   "colour": "Gray",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Klefki",
   "SwordEntry": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
+  "spdYield": 0,
   "spdfs": 87,
   "category": "Key Ring Pokémon"
 }

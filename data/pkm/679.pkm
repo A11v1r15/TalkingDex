@@ -4,6 +4,7 @@
   "ability1": "No Guard",
   "YEntry": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
   "AlphaSapphireEntry": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+  "atkYield": 0,
   "hp": 45,
   "ability2": "",
   "tmTrMoves": [
@@ -116,6 +117,7 @@
       "technical": "TR74"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -127,7 +129,9 @@
   "number": 679,
   "spatk": 35,
   "atk": 80,
+  "dfsYield": 1,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -199,8 +203,10 @@
   "dfs": 100,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Honedge",
   "SwordEntry": "Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.",
+  "spdYield": 0,
   "spdfs": 37,
   "category": "Sword Pokémon"
 }

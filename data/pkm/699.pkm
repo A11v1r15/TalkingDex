@@ -4,6 +4,7 @@
   "ability1": "Refrigerate",
   "YEntry": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
   "AlphaSapphireEntry": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
+  "atkYield": 0,
   "hp": 123,
   "ability2": "",
   "tmTrMoves": [
@@ -196,6 +197,7 @@
       "technical": "TR76"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.",
@@ -205,7 +207,9 @@
   "spatk": 99,
   "UltraSunEntry": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
   "atk": 77,
+  "dfsYield": 0,
   "abilityHidden": "Snow Warning",
+  "hpYield": 2,
   "height": "2.7m",
   "lvlUpMoves": [
     {
@@ -285,8 +289,10 @@
   "dfs": 72,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Aurorus",
   "SwordEntry": "Aurorus was restored from a fossil. It's said that when this Pokémon howls, auroras appear in the night sky.",
+  "spdYield": 0,
   "spdfs": 92,
   "category": "Tundra Pokémon"
 }

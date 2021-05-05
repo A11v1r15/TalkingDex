@@ -3,6 +3,7 @@
   "EmeraldEntry": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
   "ability1": "Hyper Cutter",
   "AlphaSapphireEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+  "atkYield": 1,
   "hp": 30,
   "SilverEntry": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
   "ability2": "Shell Armor",
@@ -36,6 +37,7 @@
   "LetsGoPikachuEntry": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
   "DiamondEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
   "name": "Krabby",
+  "spdYield": 0,
   "spdfs": 25,
   "ShieldEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
   "extraMega": false,
@@ -191,11 +193,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
   "PlatinumEntry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+  "dfsYield": 0,
   "abilityHidden": "Sheer Force",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Water Gun",
@@ -259,6 +264,7 @@
   "OmegaRubyEntry": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
   "LetsGoEeveeEntry": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
   "colour": "Red",
+  "spatkYield": 0,
   "SoulsilverEntry": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
   "FireRedEntry": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
   "White2Entry": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",

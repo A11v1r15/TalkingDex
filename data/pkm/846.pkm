@@ -2,6 +2,7 @@
   "ShieldEntry": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.",
   "extraMega": false,
   "ability1": "Swift Swim",
+  "atkYield": 0,
   "hp": 41,
   "ability2": "",
   "tmTrMoves": [
@@ -118,6 +119,7 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -129,7 +131,9 @@
   "number": 846,
   "spatk": 40,
   "atk": 63,
+  "dfsYield": 0,
   "abilityHidden": "Propeller Tail",
+  "hpYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -184,8 +188,10 @@
   "dfs": 40,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Arrokuda",
   "SwordEntry": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
+  "spdYield": 1,
   "spdfs": 30,
   "category": "Rush Pokémon"
 }

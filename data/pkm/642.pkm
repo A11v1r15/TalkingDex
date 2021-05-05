@@ -4,6 +4,7 @@
   "ability1": "Prankster",
   "YEntry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
   "AlphaSapphireEntry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+  "atkYield": 3,
   "hp": 79,
   "ability2": "",
   "title": "Incarnate Forme",
@@ -209,6 +210,7 @@
       "technical": "TR86"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
@@ -216,7 +218,9 @@
   "number": 642,
   "spatk": 125,
   "atk": 115,
+  "dfsYield": 0,
   "abilityHidden": "Defiant",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -298,9 +302,11 @@
   "dfs": 70,
   "colour": "Blue",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Thundurus",
   "White2Entry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 80,
   "category": "Bolt Strike Pokémon",
   "Black2Entry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."

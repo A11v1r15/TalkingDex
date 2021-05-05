@@ -4,6 +4,7 @@
   "ability1": "Aura Break",
   "YEntry": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
   "AlphaSapphireEntry": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
+  "atkYield": 0,
   "hp": 108,
   "SunEntry": "This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
   "ability2": "Power Construct",
@@ -166,6 +167,7 @@
       "technical": "TR94"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
@@ -176,7 +178,9 @@
   "spatk": 81,
   "UltraSunEntry": "This is Zygarde's form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
   "atk": 100,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 3,
   "height": "5.0m",
   "lvlUpMoves": [
     {
@@ -264,8 +268,10 @@
   "dfs": 121,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Zygarde",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 95,
   "category": "Order Pokémon"
 }

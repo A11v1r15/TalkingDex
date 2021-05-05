@@ -3,6 +3,7 @@
   "EmeraldEntry": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.",
   "ability1": "Flame Body",
   "AlphaSapphireEntry": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+  "atkYield": 0,
   "hp": 65,
   "SilverEntry": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
   "DiamondEntry": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
   "name": "Magmar",
+  "spdYield": 0,
   "spdfs": 85,
   "ShieldEntry": "These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
   "extraMega": false,
@@ -193,11 +195,14 @@
       "technical": "TR64"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit.",
   "PlatinumEntry": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+  "dfsYield": 0,
   "abilityHidden": "Vital Spirit",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Smog",
@@ -265,6 +270,7 @@
   "OmegaRubyEntry": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
   "LetsGoEeveeEntry": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
   "colour": "Red",
+  "spatkYield": 2,
   "SoulsilverEntry": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
   "FireRedEntry": "Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit.",
   "White2Entry": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.",

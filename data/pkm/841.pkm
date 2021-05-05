@@ -2,6 +2,7 @@
   "ShieldEntry": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
   "extraMega": false,
   "ability1": "Ripen",
+  "atkYield": 2,
   "hp": 70,
   "ability2": "Gluttony",
   "tmTrMoves": [
@@ -122,13 +123,16 @@
       "technical": "TR79"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Erratic",
   "eggMoves": [],
   "number": 841,
   "spatk": 95,
   "atk": 110,
+  "dfsYield": 0,
   "abilityHidden": "Hustle",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -215,8 +219,10 @@
   "dfs": 80,
   "colour": "Green",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Flapple",
   "SwordEntry": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+  "spdYield": 0,
   "spdfs": 60,
   "category": "Apple Wing Pokémon"
 }

@@ -2,6 +2,7 @@
   "ShieldEntry": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
   "extraMega": false,
   "ability1": "Run Away",
+  "atkYield": 0,
   "hp": 40,
   "ability2": "Unburden",
   "tmTrMoves": [
@@ -106,6 +107,7 @@
       "technical": "TR90"
     }
   ],
+  "spdfsYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -117,7 +119,9 @@
   "number": 827,
   "spatk": 47,
   "atk": 28,
+  "dfsYield": 0,
   "abilityHidden": "Stakeout",
+  "hpYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -176,8 +180,10 @@
   "dfs": 28,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Nickit",
   "SwordEntry": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+  "spdYield": 0,
   "spdfs": 52,
   "category": "Fox Pokémon"
 }

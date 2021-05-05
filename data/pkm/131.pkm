@@ -3,6 +3,7 @@
   "EmeraldEntry": "People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
   "ability1": "Water Absorb",
   "AlphaSapphireEntry": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+  "atkYield": 0,
   "hp": 130,
   "SilverEntry": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
   "ability2": "Shell Armor",
@@ -41,6 +42,7 @@
   "LetsGoPikachuEntry": "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
   "DiamondEntry": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
   "name": "Lapras",
+  "spdYield": 0,
   "spdfs": 95,
   "ShieldEntry": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
   "extraMega": false,
@@ -229,11 +231,14 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Slow",
   "XEntry": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
   "PlatinumEntry": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+  "dfsYield": 0,
   "abilityHidden": "Hydration",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Growl",
@@ -301,6 +306,7 @@
   "OmegaRubyEntry": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
   "LetsGoEeveeEntry": "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
   "FireRedEntry": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
   "White2Entry": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",

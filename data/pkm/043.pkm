@@ -3,6 +3,7 @@
   "EmeraldEntry": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
   "ability1": "Chlorophyll",
   "AlphaSapphireEntry": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees..",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
   "ability2": "",
@@ -41,6 +42,7 @@
   "LetsGoPikachuEntry": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
   "DiamondEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
   "name": "Oddish",
+  "spdYield": 0,
   "spdfs": 65,
   "ShieldEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
   "extraMega": false,
@@ -136,11 +138,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
   "PlatinumEntry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+  "dfsYield": 0,
   "abilityHidden": "Run Away",
+  "hpYield": 0,
   "lvlUpMoves": [
     {
       "move": "Absorb",
@@ -204,6 +209,7 @@
   "OmegaRubyEntry": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
   "LetsGoEeveeEntry": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
   "colour": "Blue",
+  "spatkYield": 1,
   "SoulsilverEntry": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
   "FireRedEntry": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
   "White2Entry": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",

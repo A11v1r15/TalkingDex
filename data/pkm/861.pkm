@@ -2,6 +2,7 @@
   "ShieldEntry": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
   "extraMega": false,
   "ability1": "Prankster",
+  "atkYield": 3,
   "hp": 95,
   "ability2": "Frisk",
   "tmTrMoves": [
@@ -222,13 +223,16 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 861,
   "spatk": 95,
   "atk": 120,
+  "dfsYield": 0,
   "abilityHidden": "Pickpocket",
+  "hpYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -319,8 +323,10 @@
   "dfs": 65,
   "colour": "Purple",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Grimmsnarl",
   "SwordEntry": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
+  "spdYield": 0,
   "spdfs": 75,
   "category": "Bulk Up Pokémon"
 }

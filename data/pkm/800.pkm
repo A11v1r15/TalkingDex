@@ -2,6 +2,7 @@
   "ShieldEntry": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
   "extraMega": false,
   "ability1": "Prism Armor",
+  "atkYield": 1,
   "hp": 97,
   "SunEntry": "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
   "ability2": "",
@@ -223,6 +224,7 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -232,7 +234,9 @@
   "spatk": 127,
   "UltraSunEntry": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
   "atk": 107,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.4m",
   "lvlUpMoves": [
     {
@@ -315,8 +319,10 @@
   "dfs": 101,
   "colour": "Black",
   "hasAlolan": false,
+  "spatkYield": 2,
   "name": "Necrozma",
   "SwordEntry": "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
+  "spdYield": 0,
   "spdfs": 89,
   "category": "Prism Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
   "ability1": "Shield Dust",
   "AlphaSapphireEntry": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+  "atkYield": 0,
   "hp": 45,
   "SilverEntry": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
   "ability2": "",
@@ -33,6 +34,7 @@
   "LetsGoPikachuEntry": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
   "DiamondEntry": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
   "name": "Caterpie",
+  "spdYield": 0,
   "spdfs": 20,
   "ShieldEntry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
   "extraMega": false,
@@ -43,11 +45,14 @@
     "move": "Electroweb",
     "technical": "TM82"
   }],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
   "PlatinumEntry": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+  "dfsYield": 0,
   "abilityHidden": "Run Away",
+  "hpYield": 1,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -67,6 +72,7 @@
   "OmegaRubyEntry": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
   "LetsGoEeveeEntry": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
   "colour": "Green",
+  "spatkYield": 0,
   "SoulsilverEntry": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
   "FireRedEntry": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.",
   "White2Entry": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",

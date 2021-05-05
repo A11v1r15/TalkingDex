@@ -4,6 +4,7 @@
   "ability1": "Pickup",
   "YEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "AlphaSapphireEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
+  "atkYield": 0,
   "hp": 49,
   "ability2": "Frisk",
   "title": "Super Size",
@@ -157,6 +158,7 @@
       "technical": "TR83"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -168,7 +170,9 @@
   "number": 710,
   "spatk": 44,
   "atk": 66,
+  "dfsYield": 1,
   "abilityHidden": "Insomnia",
+  "hpYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -248,8 +252,10 @@
   "dfs": 70,
   "colour": "Brown",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Pumpkaboo",
   "SwordEntry": "Spirits that wander this world are placed into Pumpkaboo's body. They're then moved on to the afterlife.",
+  "spdYield": 0,
   "spdfs": 55,
   "category": "Pumpkin Pokémon"
 }

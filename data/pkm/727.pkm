@@ -2,6 +2,7 @@
   "ShieldEntry": "Incineroar's rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.",
   "extraMega": false,
   "ability1": "Blaze",
+  "atkYield": 3,
   "hp": 95,
   "SunEntry": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
   "ability2": "",
@@ -247,6 +248,7 @@
       "technical": "TR95"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
@@ -256,7 +258,9 @@
   "spatk": 80,
   "UltraSunEntry": "Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
   "atk": 115,
+  "dfsYield": 0,
   "abilityHidden": "Intimidate",
+  "hpYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -347,8 +351,10 @@
   "dfs": 90,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Incineroar",
   "SwordEntry": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",
+  "spdYield": 0,
   "spdfs": 90,
   "category": "Heel Pokémon"
 }

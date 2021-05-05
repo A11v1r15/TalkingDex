@@ -2,6 +2,7 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
+  "atkYield": 3,
   "hp": 59,
   "SunEntry": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
   "ability2": "",
@@ -91,6 +92,7 @@
       "technical": "TR60"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
@@ -100,7 +102,9 @@
   "spatk": 59,
   "UltraSunEntry": "This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.",
   "atk": 181,
+  "dfsYield": 0,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -179,8 +183,10 @@
   "dfs": 131,
   "colour": "White",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Kartana",
   "SwordEntry": "",
+  "spdYield": 0,
   "spdfs": 31,
   "category": "Drawn Sword Pokémon"
 }

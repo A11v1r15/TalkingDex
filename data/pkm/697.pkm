@@ -4,6 +4,7 @@
   "ability1": "Strong Jaw",
   "YEntry": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
   "AlphaSapphireEntry": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
+  "atkYield": 2,
   "hp": 82,
   "ability2": "",
   "tmTrMoves": [
@@ -204,6 +205,7 @@
       "technical": "TR97"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
@@ -213,7 +215,9 @@
   "spatk": 69,
   "UltraSunEntry": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
   "atk": 121,
+  "dfsYield": 0,
   "abilityHidden": "Rock Head",
+  "hpYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -293,8 +297,10 @@
   "dfs": 119,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Tyrantrum",
   "SwordEntry": "This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
+  "spdYield": 0,
   "spdfs": 59,
   "category": "Despot Pokémon"
 }

@@ -3,6 +3,7 @@
   "EmeraldEntry": "Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those people who have lost their appetite.",
   "ability1": "Natural Cure",
   "AlphaSapphireEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+  "atkYield": 0,
   "hp": 250,
   "SilverEntry": "Few in numbers and difficult to capture, it is said to bring happiness to the trainer who catches it.",
   "ability2": "Serene Grace",
@@ -38,6 +39,7 @@
   "LetsGoPikachuEntry": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
   "DiamondEntry": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
   "name": "Chansey",
+  "spdYield": 0,
   "spdfs": 105,
   "ShieldEntry": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
   "extraMega": false,
@@ -286,11 +288,14 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
   "PlatinumEntry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+  "dfsYield": 0,
   "abilityHidden": "Healer",
+  "hpYield": 2,
   "lvlUpMoves": [
     {
       "move": "Sweet Kiss",
@@ -382,6 +387,7 @@
   "OmegaRubyEntry": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
   "LetsGoEeveeEntry": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
   "colour": "Pink",
+  "spatkYield": 0,
   "SoulsilverEntry": "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it.",
   "FireRedEntry": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
   "White2Entry": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",

@@ -4,6 +4,7 @@
   "ability1": "Healer",
   "YEntry": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
   "AlphaSapphireEntry": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+  "atkYield": 0,
   "hp": 78,
   "ability2": "",
   "tmTrMoves": [
@@ -128,6 +129,7 @@
       "technical": "TR92"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -139,7 +141,9 @@
   "number": 682,
   "spatk": 63,
   "atk": 52,
+  "dfsYield": 0,
   "abilityHidden": "Aroma Veil",
+  "hpYield": 1,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -215,8 +219,10 @@
   "dfs": 60,
   "colour": "Pink",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Spritzee",
   "SwordEntry": "A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+  "spdYield": 0,
   "spdfs": 65,
   "category": "Perfume Pokémon"
 }

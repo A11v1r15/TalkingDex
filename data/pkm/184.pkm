@@ -2,6 +2,7 @@
   "EmeraldEntry": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
   "ability1": "Thick Fat",
   "AlphaSapphireEntry": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
+  "atkYield": 0,
   "hp": 100,
   "SilverEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
   "ability2": "Huge Power",
@@ -26,6 +27,7 @@
   "hasAlolan": false,
   "DiamondEntry": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
   "name": "Azumarill",
+  "spdYield": 0,
   "spdfs": 80,
   "ShieldEntry": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
   "extraMega": false,
@@ -245,11 +247,14 @@
       "technical": "TR98"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
   "PlatinumEntry": "It can spend all day in water, since it can inhale and store a large volume of air.",
+  "dfsYield": 0,
   "abilityHidden": "Sap Sipper",
+  "hpYield": 3,
   "lvlUpMoves": [
     {
       "move": "Rollout",
@@ -324,6 +329,7 @@
   "BlackEntry": "It can spend all day in water, since it can inhale and store a large volume of air.",
   "OmegaRubyEntry": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
   "colour": "Blue",
+  "spatkYield": 0,
   "SoulsilverEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
   "FireRedEntry": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
   "White2Entry": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",

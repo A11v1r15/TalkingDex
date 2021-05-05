@@ -2,6 +2,7 @@
   "ShieldEntry": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
   "extraMega": false,
   "ability1": "Shell Armor",
+  "atkYield": 0,
   "hp": 60,
   "SunEntry": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
   "ability2": "",
@@ -199,6 +200,7 @@
       "technical": "TR99"
     }
   ],
+  "spdfsYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -213,7 +215,9 @@
   "spatk": 91,
   "UltraSunEntry": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
   "atk": 78,
+  "dfsYield": 2,
   "abilityHidden": "",
+  "hpYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -288,8 +292,10 @@
   "dfs": 135,
   "colour": "Red",
   "hasAlolan": false,
+  "spatkYield": 0,
   "name": "Turtonator",
   "SwordEntry": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+  "spdYield": 0,
   "spdfs": 85,
   "category": "Blast Turtle Pokémon"
 }
