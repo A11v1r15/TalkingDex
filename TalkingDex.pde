@@ -195,6 +195,8 @@ void checkMaxDex() {
     MaxDex = 153;
   } else if (versioN < 32) {//SwSh
     MaxDex = galar.size();
+  } else if (versioN < 34) {//BdSp
+    MaxDex = 493;
   }
 }
 
@@ -211,6 +213,8 @@ int index() {
     return pkn+656;
   } else if (versioN < 32) {//SwSh
     return galar.get(pkn-1);
+  } else if (versioN < 34) {//BdSp
+    return pkn;
   }
   return pkn;
 }
