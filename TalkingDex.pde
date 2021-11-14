@@ -21,10 +21,12 @@ IntList alola;
 IntList alolaUltra;
 IntList galar;
 StringList versions;
+JSONObject colours;
 
 void setup () {
   //size(400, 800);
   JSONObject pokedex = loadJSONObject("pkm/Pokedex.pkm");
+  colours = loadJSONObject("pkm/Colour.pkm");
   galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
   alolaUltra = new IntList(pokedex.getJSONArray("Ultra Alola").getIntArray());
@@ -76,6 +78,16 @@ void dial(float x, float y, float r) {
     image(list.get(index()-1), iX, iY, r/2, r/2);
   } else {
     stats(x, y-r*2, r/2);
+    pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
+    if(pkm.getString("type2") == ""){
+      fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
+      ellipse(x, y, r*2, r*2);
+    }else{
+      fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
+      arc(x, y, 0, PI, r*2, r*2);
+      fill(unhex("FF" + colours.getString(pkm.getString("type2"))));
+      arc(x, y, PI, TAU, r*2, r*2);
+    }
     image(list.get(index()-1), x, y, r*2, r*2);
   }
   popStyle();
@@ -87,7 +99,7 @@ PVector touchStart = new PVector();
 
 /*
 
-void mousePressed() {
+ void mousePressed() {
  touchStarted();
  }
  void mouseReleased() {
@@ -223,7 +235,7 @@ void drawFace() {
   pushMatrix();
   pushStyle();
   background (235, 107, 78);
-  fill(185, 57, 28);
+  fill(unhex("FF" + colours.getString(versions.get(versioN))));
   noStroke();
   rect(0, height*0.8, width, height);
   noFill();
@@ -257,7 +269,7 @@ void drawFace() {
 }
 
 @Override
-public void onDestroy() {
+  public void onDestroy() {
   super.onDestroy();
-  if( t1 != null ) t1.shutdown();
+  if ( t1 != null ) t1.shutdown();
 }
