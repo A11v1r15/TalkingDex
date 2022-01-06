@@ -79,15 +79,18 @@ void dial(float x, float y, float r) {
   } else {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
+    noStroke();
     if(pkm.getString("type2") == ""){
       fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
-      ellipse(x, y, r*2, r*2);
+      rect(x-r/2, y-.1*r, r, r, r/4, r/4, r/4, r/4);
     }else{
       fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
-      arc(x, y, 0, PI, r*2, r*2);
+      rect(x-r/2, y-.1*r, r/2, r, r, 0, 0, r);
       fill(unhex("FF" + colours.getString(pkm.getString("type2"))));
-      arc(x, y, PI, TAU, r*2, r*2);
+      rect(x, y-.1*r, r/2, r, 0, r, r, 0);
     }
+    fill(0);
+    text(pkn, x-15, y-r/2);
     image(list.get(index()-1), x, y, r*2, r*2);
   }
   popStyle();
