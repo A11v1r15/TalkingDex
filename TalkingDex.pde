@@ -1,25 +1,31 @@
 import android.app.Activity; 
 import android.os.Bundle; 
 import android.speech.tts.TextToSpeech;
+import android.speech.tts.Voice;
 import java.util.Locale;
+import java.util.Set;
 
 //.getString("name").replace("'", "").replace(":", "").replace(".", "").replace(" ", "-").replace("é", "e")
 
 TextToSpeech t1;
+Voice vF;
+Voice vM;
 float diameter;
 ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
 JSONObject pkm;
-int MaxDex = 898;
+int MaxDex = 905;
 
 IntList alolan;
 IntList galarian;
+IntList hissuian;
 IntList mega;
 IntList gigantamax;
 IntList alola;
 IntList alolaUltra;
 IntList galar;
+IntList hissui;
 StringList versions;
 JSONObject colours;
 
@@ -28,25 +34,34 @@ void setup () {
   JSONObject pokedex = loadJSONObject("pkm/Pokedex.pkm");
   colours = loadJSONObject("pkm/Colour.pkm");
   galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
+  hissui     = new IntList(pokedex.getJSONArray("Hissui").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
   alolaUltra = new IntList(pokedex.getJSONArray("Ultra Alola").getIntArray());
   versions = new StringList(loadJSONArray("pkm/Version.pkm").getStringArray());
   alola.sort();
   alolaUltra.sort();
   galar.sort();
+  hissui.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
     @Override public void onInit(int status) { 
       if (status != TextToSpeech.ERROR) {
         t1.setLanguage(Locale.UK);
+        vF = t1.getVoice();
+        for (Voice tmpVoice : t1.getVoices()) {
+          if(tmpVoice.getName().equals("en-gb-x-rjs-local")){
+           vM = tmpVoice;
+           break;
+          }
+        }
       }
     }
-  }
+  }, "com.google.android.tts"
   );
   t1.setPitch(0.4f);
   diameter = (min(width, height)*0.7);
-  for (int i = 1; i < MaxDex+1; i++) {
+  for (int i = 1; i <= MaxDex; i++) {
     list.add(loadImage(String.format("png/%03d.png", i)));
   }
   pkm = loadJSONObject(String.format("pkm/%03d.pkm", pkn));
@@ -76,6 +91,7 @@ void dial(float x, float y, float r) {
   if (dialing) {
     ellipse(iX, iY, r/2, r/2);
     image(list.get(index()-1), iX, iY, r/2, r/2);
+    text(index(), x-15, y-r/2);
   } else {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
@@ -90,7 +106,7 @@ void dial(float x, float y, float r) {
       rect(x, y-.1*r, r/2, r, 0, r, r, 0);
     }
     fill(0);
-    text(pkn, x-15, y-r/2);
+    text(index(), x-15, y-r/2);
     image(list.get(index()-1), x, y, r*2, r*2);
   }
   popStyle();
@@ -147,6 +163,7 @@ void touchEnded() {
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
+    if (versioN == 34) {t1.setPitch(1f); t1.setVoice(vM);} else {t1.setPitch(0.4f); t1.setVoice(vF);}
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
   } else if (wasChangingVersion) {
   }
@@ -212,6 +229,8 @@ void checkMaxDex() {
     MaxDex = galar.size();
   } else if (versioN < 34) {//BdSp
     MaxDex = 493;
+  } else if (versioN < 35) {//La
+    MaxDex = hissui.size();
   }
 }
 
@@ -230,6 +249,8 @@ int index() {
     return galar.get(pkn-1);
   } else if (versioN < 34) {//BdSp
     return pkn;
+  } else if (versioN < 35) {//La
+    return hissui.get(pkn-1);
   }
   return pkn;
 }
