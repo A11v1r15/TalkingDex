@@ -19,13 +19,13 @@ int MaxDex = 905;
 
 IntList alolan;
 IntList galarian;
-IntList hissuian;
+IntList hisuian;
 IntList mega;
 IntList gigantamax;
 IntList alola;
 IntList alolaUltra;
 IntList galar;
-IntList hissui;
+IntList hisui;
 StringList versions;
 JSONObject colours;
 
@@ -34,14 +34,14 @@ void setup () {
   JSONObject pokedex = loadJSONObject("pkm/Pokedex.pkm");
   colours = loadJSONObject("pkm/Colour.pkm");
   galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
-  hissui     = new IntList(pokedex.getJSONArray("Hissui").getIntArray());
+  hisui     = new IntList(pokedex.getJSONArray("Hisui").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
   alolaUltra = new IntList(pokedex.getJSONArray("Ultra Alola").getIntArray());
   versions = new StringList(loadJSONArray("pkm/Version.pkm").getStringArray());
   alola.sort();
   alolaUltra.sort();
   galar.sort();
-  hissui.sort();
+  hisui.sort();
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
@@ -230,7 +230,7 @@ void checkMaxDex() {
   } else if (versioN < 34) {//BdSp
     MaxDex = 493;
   } else if (versioN < 35) {//La
-    MaxDex = hissui.size();
+    MaxDex = hisui.size();
   }
 }
 
@@ -250,7 +250,7 @@ int index() {
   } else if (versioN < 34) {//BdSp
     return pkn;
   } else if (versioN < 35) {//La
-    return hissui.get(pkn-1);
+    return hisui.get(pkn-1);
   }
   return pkn;
 }
