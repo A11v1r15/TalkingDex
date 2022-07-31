@@ -4,8 +4,8 @@
   "ability1": "Healer",
   "YEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
   "AlphaSapphireEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
-  "atkYield": 0,
-  "hp": 103,
+  "AtkYield": 0,
+  "HP": 103,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -245,7 +245,7 @@
       "technical": "TR95"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
@@ -256,11 +256,11 @@
     {"move": "Sweet Kiss"}
   ],
   "number": 531,
-  "spatk": 60,
-  "atk": 60,
-  "dfsYield": 0,
+  "SpA": 60,
+  "Atk": 60,
+  "DefYield": 0,
   "abilityHidden": "Klutz",
-  "hpYield": 2,
+  "HPYield": 2,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -335,7 +335,7 @@
   "type2": "",
   "WhiteEntry": "Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.",
   "eggGroup2": "",
-  "spd": 50,
+  "Spe": 50,
   "weight": "31.0kg",
   "eggGroup1": "Fairy",
   "hasMega": true,
@@ -343,15 +343,15 @@
   "hasGalarian": false,
   "BlackEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
   "OmegaRubyEntry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
-  "dfs": 86,
+  "Def": 86,
   "colour": "Pink",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Audino",
   "White2Entry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
   "SwordEntry": "Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.",
-  "spdYield": 0,
-  "spdfs": 86,
+  "SpeYield": 0,
+  "SpD": 86,
   "category": "Hearing Pokémon",
   "Black2Entry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch."
 }

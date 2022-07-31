@@ -4,8 +4,8 @@
   "ability1": "Poison Point",
   "YEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "AlphaSapphireEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
-  "atkYield": 0,
-  "hp": 40,
+  "AtkYield": 0,
+  "HP": 40,
   "ability2": "Swarm",
   "tmTrMoves": [
     {
@@ -105,17 +105,17 @@
       "technical": "TR91"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "number": 544,
-  "spatk": 40,
-  "atk": 55,
-  "dfsYield": 2,
+  "SpA": 40,
+  "Atk": 55,
+  "DefYield": 2,
   "abilityHidden": "Speed Boost",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -182,7 +182,7 @@
   "type2": "Poison",
   "WhiteEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "eggGroup2": "",
-  "spd": 47,
+  "Spe": 47,
   "weight": "58.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -190,15 +190,15 @@
   "hasGalarian": false,
   "BlackEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "OmegaRubyEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
-  "dfs": 99,
+  "Def": 99,
   "colour": "Gray",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Whirlipede",
   "White2Entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
   "SwordEntry": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
-  "spdYield": 0,
-  "spdfs": 79,
+  "SpeYield": 0,
+  "SpD": 79,
   "category": "Curlipede Pokémon",
   "Black2Entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes."
 }

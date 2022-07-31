@@ -4,8 +4,8 @@
   "ability1": "Poison Point",
   "YEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "AlphaSapphireEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-  "atkYield": 0,
-  "hp": 60,
+  "AtkYield": 0,
+  "HP": 60,
   "ability2": "Swarm",
   "tmTrMoves": [
     {
@@ -177,17 +177,17 @@
       "technical": "TR95"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
   "number": 545,
-  "spatk": 55,
-  "atk": 100,
-  "dfsYield": 0,
+  "SpA": 55,
+  "Atk": 100,
+  "DefYield": 0,
   "abilityHidden": "Speed Boost",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -258,7 +258,7 @@
   "type2": "Poison",
   "WhiteEntry": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
   "eggGroup2": "",
-  "spd": 112,
+  "Spe": 112,
   "weight": "200.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -266,15 +266,15 @@
   "hasGalarian": false,
   "BlackEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "OmegaRubyEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
-  "dfs": 89,
+  "Def": 89,
   "colour": "Red",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Scolipede",
   "White2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
   "SwordEntry": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",
-  "spdYield": 3,
-  "spdfs": 69,
+  "SpeYield": 3,
+  "SpD": 69,
   "category": "Megapede Pokémon",
   "Black2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
 }

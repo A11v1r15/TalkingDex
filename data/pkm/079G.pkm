@@ -73,8 +73,8 @@
   "ability1": "Gluttony",
   "type2": "",
   "eggGroup2": "Water 1",
-  "spd": 15,
-  "hp": 90,
+  "Spe": 15,
+  "HP": 90,
   "eggGroup1": "Monster",
   "ability2": "Own Tempo",
   "tmTrMoves": [
@@ -293,7 +293,7 @@
   ],
   "type1": "Psychic",
   "xpGroup": "Medium Fast",
-  "dfs": 65,
+  "Def": 65,
   "eggMoves": [
     {"move": "Belch"},
     {"move": "Belly Drum"},
@@ -301,10 +301,10 @@
     {"move": "Stomp"}
   ],
   "number": 79,
-  "spatk": 40,
+  "SpA": 40,
   "name": "Galarian Slowpoke",
-  "atk": 65,
+  "Atk": 65,
   "SwordEntry": "Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke's diet.",
   "abilityHidden": "Regenerator",
-  "spdfs": 40
+  "SpD": 40
 }

@@ -101,8 +101,8 @@
   "ability1": "Levitate",
   "type2": "Fairy",
   "eggGroup2": "",
-  "spd": 60,
-  "hp": 65,
+  "Spe": 60,
+  "HP": 65,
   "eggGroup1": "Amorphous",
   "ability2": "Neutralizing Gas",
   "tmTrMoves": [
@@ -269,7 +269,7 @@
   ],
   "type1": "Poison",
   "xpGroup": "Medium Fast",
-  "dfs": 120,
+  "Def": 120,
   "eggMoves": [
     {"move": "Curse"},
     {"move": "Grudge"},
@@ -281,10 +281,10 @@
     {"move": "Swallow"}
   ],
   "number": 110,
-  "spatk": 85,
+  "SpA": 85,
   "name": "Galarian Weezing",
-  "atk": 90,
+  "Atk": 90,
   "SwordEntry": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
   "abilityHidden": "Misty Surge",
-  "spdfs": 70
+  "SpD": 70
 }

@@ -4,8 +4,8 @@
   "ability1": "Poison Point",
   "YEntry": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
   "AlphaSapphireEntry": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
-  "atkYield": 0,
-  "hp": 50,
+  "AtkYield": 0,
+  "HP": 50,
   "ability2": "Poison Touch",
   "tmTrMoves": [
     {
@@ -129,7 +129,7 @@
       "technical": "TR91"
     }
   ],
-  "spdfsYield": 1,
+  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -141,12 +141,12 @@
   "XEntry": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
   "UltraMoonEntry": "It's not good at swimming, so it clings to the seaweed. In the Alola region, it's often found near Dhelmise.",
   "number": 690,
-  "spatk": 60,
+  "SpA": 60,
   "UltraSunEntry": "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pokémon. Rotten seaweed is its main food source.",
-  "atk": 60,
-  "dfsYield": 0,
+  "Atk": 60,
+  "DefYield": 0,
   "abilityHidden": "Adaptability",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -204,20 +204,20 @@
   ],
   "type2": "Water",
   "eggGroup2": "Dragon",
-  "spd": 30,
+  "Spe": 30,
   "weight": "7.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
   "OmegaRubyEntry": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
-  "dfs": 60,
+  "Def": 60,
   "colour": "Brown",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Skrelp",
   "SwordEntry": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",
-  "spdYield": 0,
-  "spdfs": 60,
+  "SpeYield": 0,
+  "SpD": 60,
   "category": "Mock Kelp Pokémon"
 }

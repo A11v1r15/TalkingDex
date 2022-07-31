@@ -2,14 +2,14 @@
   "ShieldEntry": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
   "extraMega": false,
   "ability1": "Ripen",
-  "atkYield": 0,
-  "hp": 40,
+  "AtkYield": 0,
+  "HP": 40,
   "ability2": "Gluttony",
   "tmTrMoves": [{
     "move": "Attract",
     "technical": "TM31"
   }],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Erratic",
   "eggMoves": [
@@ -19,11 +19,11 @@
     {"move": "Recycle"}
   ],
   "number": 840,
-  "spatk": 40,
-  "atk": 40,
-  "dfsYield": 1,
+  "SpA": 40,
+  "Atk": 40,
+  "DefYield": 1,
   "abilityHidden": "Bulletproof",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -37,19 +37,19 @@
   ],
   "type2": "Dragon",
   "eggGroup2": "Dragon",
-  "spd": 20,
+  "Spe": 20,
   "weight": "0.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "dfs": 80,
+  "Def": 80,
   "colour": "Green",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Applin",
   "SwordEntry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
-  "spdYield": 0,
-  "spdfs": 40,
+  "SpeYield": 0,
+  "SpD": 40,
   "category": "Apple Core Pokémon"
 }

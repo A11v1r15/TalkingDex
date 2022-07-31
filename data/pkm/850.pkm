@@ -2,8 +2,8 @@
   "ShieldEntry": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.",
   "extraMega": false,
   "ability1": "Flash Fire",
-  "atkYield": 1,
-  "hp": 50,
+  "AtkYield": 1,
+  "HP": 50,
   "ability2": "White Smoke",
   "tmTrMoves": [
     {
@@ -87,7 +87,7 @@
       "technical": "TR88"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -97,11 +97,11 @@
     {"move": "Defense Curl"}
   ],
   "number": 850,
-  "spatk": 50,
-  "atk": 65,
-  "dfsYield": 0,
+  "SpA": 50,
+  "Atk": 65,
+  "DefYield": 0,
   "abilityHidden": "Flame Body",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -159,19 +159,19 @@
   ],
   "type2": "Bug",
   "eggGroup2": "",
-  "spd": 45,
+  "Spe": 45,
   "weight": "1.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "dfs": 45,
+  "Def": 45,
   "colour": "Red",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Sizzlipede",
   "SwordEntry": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
-  "spdYield": 0,
-  "spdfs": 50,
+  "SpeYield": 0,
+  "SpD": 50,
   "category": "Radiator Pokémon"
 }

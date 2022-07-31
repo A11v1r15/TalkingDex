@@ -4,8 +4,8 @@
   "ability1": "Plus",
   "YEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
   "AlphaSapphireEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-  "atkYield": 0,
-  "hp": 40,
+  "AtkYield": 0,
+  "HP": 40,
   "ability2": "Minus",
   "tmTrMoves": [
     {
@@ -89,17 +89,17 @@
       "technical": "TR86"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
   "number": 599,
-  "spatk": 45,
-  "atk": 55,
-  "dfsYield": 1,
+  "SpA": 45,
+  "Atk": 55,
+  "DefYield": 1,
   "abilityHidden": "Clear Body",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -162,7 +162,7 @@
   "type2": "",
   "WhiteEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
   "eggGroup2": "",
-  "spd": 30,
+  "Spe": 30,
   "weight": "21.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -170,15 +170,15 @@
   "hasGalarian": false,
   "BlackEntry": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
   "OmegaRubyEntry": "Interlocking two bodies and spinning around generates the energy they need to live.",
-  "dfs": 70,
+  "Def": 70,
   "colour": "Gray",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Klink",
   "White2Entry": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
   "SwordEntry": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
-  "spdYield": 0,
-  "spdfs": 60,
+  "SpeYield": 0,
+  "SpD": 60,
   "category": "Gear Pokémon",
   "Black2Entry": "Two bodies comprise a fixed pair. They spin around each other to generate energy."
 }

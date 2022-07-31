@@ -116,7 +116,8 @@ void dial(float x, float y, float r) {
       fill(unhex("FF" + colours.getString(pkm.getString("type2"))));
       rect(x, y-.1*r, r/2, r, 0, r, r, 0);
     }
-    fill(0);
+    fill(255, 100);
+    textAlign(CENTER);
     text(index(), x, y-r/2);
     image(list.get(index()-1), x, y, r*2, r*2);
   }
@@ -175,17 +176,17 @@ void touchEnded() {
 void stats(float x, float y, float r) {
   float map;
   beginShape();
-  map = (float)pkm.getInt("hp"   )/255 * r;
+  map = (float)pkm.getInt("HP" )/255 * r;
   vertex(x + cos(TAU/12* 9) * map, y + sin(TAU/12* 9) * map);
-  map = (float)pkm.getInt("atk"  )/255 * r;
+  map = (float)pkm.getInt("Atk")/255 * r;
   vertex(x + cos(TAU/12*11) * map, y + sin(TAU/12*11) * map);
-  map = (float)pkm.getInt("dfs"  )/255 * r;
+  map = (float)pkm.getInt("Def")/255 * r;
   vertex(x + cos(TAU/12* 1) * map, y + sin(TAU/12* 1) * map);
-  map = (float)pkm.getInt("spatk")/255 * r;
+  map = (float)pkm.getInt("SpA")/255 * r;
   vertex(x + cos(TAU/12* 3) * map, y + sin(TAU/12* 3) * map);
-  map = (float)pkm.getInt("spdfs")/255 * r;
+  map = (float)pkm.getInt("SpD")/255 * r;
   vertex(x + cos(TAU/12* 5) * map, y + sin(TAU/12* 5) * map);
-  map = (float)pkm.getInt("spd"  )/255 * r;
+  map = (float)pkm.getInt("Spe")/255 * r;
   vertex(x + cos(TAU/12* 7) * map, y + sin(TAU/12* 7) * map);
   endShape();
   strokeWeight(1);

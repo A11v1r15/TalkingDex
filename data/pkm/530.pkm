@@ -4,8 +4,8 @@
   "ability1": "Sand Rush",
   "YEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
   "AlphaSapphireEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-  "atkYield": 2,
-  "hp": 110,
+  "AtkYield": 2,
+  "HP": 110,
   "ability2": "Sand Force",
   "tmTrMoves": [
     {
@@ -157,17 +157,17 @@
       "technical": "TR94"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
   "number": 530,
-  "spatk": 50,
-  "atk": 135,
-  "dfsYield": 0,
+  "SpA": 50,
+  "Atk": 135,
+  "DefYield": 0,
   "abilityHidden": "Mold Breaker",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -238,7 +238,7 @@
   "type2": "Steel",
   "WhiteEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
   "eggGroup2": "",
-  "spd": 88,
+  "Spe": 88,
   "weight": "40.4kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -246,15 +246,15 @@
   "hasGalarian": false,
   "BlackEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
   "OmegaRubyEntry": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
-  "dfs": 60,
+  "Def": 60,
   "colour": "Gray",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Excadrill",
   "White2Entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
   "SwordEntry": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
-  "spdYield": 0,
-  "spdfs": 65,
+  "SpeYield": 0,
+  "SpD": 65,
   "category": "Subterrene Pokémon",
   "Black2Entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is."
 }

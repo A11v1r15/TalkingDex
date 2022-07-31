@@ -4,8 +4,8 @@
   "ability1": "Poison Point",
   "YEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
   "AlphaSapphireEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
-  "atkYield": 0,
-  "hp": 30,
+  "AtkYield": 0,
+  "HP": 30,
   "ability2": "Swarm",
   "tmTrMoves": [
     {
@@ -105,7 +105,7 @@
       "technical": "TR91"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -114,11 +114,11 @@
   ],
   "XEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
   "number": 543,
-  "spatk": 30,
-  "atk": 45,
-  "dfsYield": 1,
+  "SpA": 30,
+  "Atk": 45,
+  "DefYield": 1,
   "abilityHidden": "Speed Boost",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -177,7 +177,7 @@
   "type2": "Poison",
   "WhiteEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
   "eggGroup2": "",
-  "spd": 57,
+  "Spe": 57,
   "weight": "5.3kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -185,15 +185,15 @@
   "hasGalarian": false,
   "BlackEntry": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
   "OmegaRubyEntry": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
-  "dfs": 59,
+  "Def": 59,
   "colour": "Red",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Venipede",
   "White2Entry": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
   "SwordEntry": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
-  "spdYield": 0,
-  "spdfs": 39,
+  "SpeYield": 0,
+  "SpD": 39,
   "category": "Centipede Pokémon",
   "Black2Entry": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state."
 }

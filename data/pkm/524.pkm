@@ -4,8 +4,8 @@
   "ability1": "Sturdy",
   "YEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
   "AlphaSapphireEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
-  "atkYield": 0,
-  "hp": 55,
+  "AtkYield": 0,
+  "HP": 55,
   "SunEntry": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
   "ability2": "Weak Armor",
   "tmTrMoves": [
@@ -102,7 +102,7 @@
       "technical": "TR99"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -116,12 +116,12 @@
   "UltraMoonEntry": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
   "number": 524,
   "MoonEntry": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
-  "spatk": 25,
+  "SpA": 25,
   "UltraSunEntry": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
-  "atk": 75,
-  "dfsYield": 1,
+  "Atk": 75,
+  "DefYield": 1,
   "abilityHidden": "Sand Force",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -180,7 +180,7 @@
   "type2": "",
   "WhiteEntry": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
   "eggGroup2": "",
-  "spd": 15,
+  "Spe": 15,
   "weight": "18.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -188,15 +188,15 @@
   "hasGalarian": false,
   "BlackEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
   "OmegaRubyEntry": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
-  "dfs": 85,
+  "Def": 85,
   "colour": "Blue",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Roggenrola",
   "White2Entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
   "SwordEntry": "It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
-  "spdYield": 0,
-  "spdfs": 25,
+  "SpeYield": 0,
+  "SpD": 25,
   "category": "Mantle Pokémon",
   "Black2Entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from."
 }

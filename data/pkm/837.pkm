@@ -2,8 +2,8 @@
   "ShieldEntry": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
   "extraMega": false,
   "ability1": "Steam Engine",
-  "atkYield": 0,
-  "hp": 30,
+  "AtkYield": 0,
+  "HP": 30,
   "ability2": "Heatproof",
   "tmTrMoves": [
     {
@@ -107,7 +107,7 @@
       "technical": "TR88"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -116,11 +116,11 @@
     {"move": "Block"}
   ],
   "number": 837,
-  "spatk": 40,
-  "atk": 40,
-  "dfsYield": 1,
+  "SpA": 40,
+  "Atk": 40,
+  "DefYield": 1,
   "abilityHidden": "Flash Fire",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -166,19 +166,19 @@
   ],
   "type2": "",
   "eggGroup2": "",
-  "spd": 30,
+  "Spe": 30,
   "weight": "12.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "dfs": 50,
+  "Def": 50,
   "colour": "Black",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Rolycoly",
   "SwordEntry": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
-  "spdYield": 0,
-  "spdfs": 50,
+  "SpeYield": 0,
+  "SpD": 50,
   "category": "Coal Pokémon"
 }

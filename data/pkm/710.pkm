@@ -4,8 +4,8 @@
   "ability1": "Pickup",
   "YEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "AlphaSapphireEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
-  "atkYield": 0,
-  "hp": 49,
+  "AtkYield": 0,
+  "HP": 49,
   "ability2": "Frisk",
   "title": "Super Size",
   "tmTrMoves": [
@@ -158,7 +158,7 @@
       "technical": "TR83"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -168,11 +168,11 @@
   ],
   "XEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
   "number": 710,
-  "spatk": 44,
-  "atk": 66,
-  "dfsYield": 1,
+  "SpA": 44,
+  "Atk": 66,
+  "DefYield": 1,
   "abilityHidden": "Insomnia",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -242,20 +242,20 @@
   ],
   "type2": "Grass",
   "eggGroup2": "",
-  "spd": 51,
+  "Spe": 51,
   "weight": "5.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
-  "dfs": 70,
+  "Def": 70,
   "colour": "Brown",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Pumpkaboo",
   "SwordEntry": "Spirits that wander this world are placed into Pumpkaboo's body. They're then moved on to the afterlife.",
-  "spdYield": 0,
-  "spdfs": 55,
+  "SpeYield": 0,
+  "SpD": 55,
   "category": "Pumpkin Pokémon"
 }

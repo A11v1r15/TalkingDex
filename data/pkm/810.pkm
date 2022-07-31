@@ -2,8 +2,8 @@
   "ShieldEntry": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
   "extraMega": false,
   "ability1": "Overgrow",
-  "atkYield": 1,
-  "hp": 50,
+  "AtkYield": 1,
+  "HP": 50,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -135,7 +135,7 @@
       "technical": "TR85"
     }
   ],
-  "spdfsYield": 0,
+  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -148,11 +148,11 @@
     {"move": "Leech Seed"}
   ],
   "number": 810,
-  "spatk": 40,
-  "atk": 65,
-  "dfsYield": 0,
+  "SpA": 40,
+  "Atk": 65,
+  "DefYield": 0,
   "abilityHidden": "Grassy Surge",
-  "hpYield": 0,
+  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -202,19 +202,19 @@
   ],
   "type2": "",
   "eggGroup2": "Grass",
-  "spd": 65,
+  "Spe": 65,
   "weight": "5.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "dfs": 50,
+  "Def": 50,
   "colour": "Green",
   "hasAlolan": false,
-  "spatkYield": 0,
+  "SpAYield": 0,
   "name": "Grookey",
   "SwordEntry": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
-  "spdYield": 0,
-  "spdfs": 40,
+  "SpeYield": 0,
+  "SpD": 40,
   "category": "Chimp Pokémon"
 }
