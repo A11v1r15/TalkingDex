@@ -73,7 +73,7 @@ void draw() {
   drawFace();
   if (!changingVersion) dial(width/2, height/2, diameter/2);
   textSize(50);
-  text(versions.get(versioN), width/3, height*0.9);
+  text(versions.get(versioN), width/3, height*0.95);
 }
 
 void dial(float x, float y, float r) {
@@ -96,10 +96,10 @@ void dial(float x, float y, float r) {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
     noStroke();
-    if(pkm.getString("type2") == ""){
+    if (pkm.getString("type2") == "") {
       fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
       rect(x-r/2, y-.1*r, r, r, r/4, r/4, r/4, r/4);
-    }else{
+    } else {
       fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
       rect(x-r/2, y-.1*r, r/2, r, r, 0, 0, r);
       fill(unhex("FF" + colours.getString(pkm.getString("type2"))));
@@ -127,36 +127,27 @@ PVector touchStart = new PVector();
  */
 
 void touchStarted() {
-  if (mouseY > height*0.8) {
-    changingVersion = true;
-    touchStart = new PVector(mouseX, mouseY);
+  if (mouseY > height*0.9) {
+    if ((mouseX < width*0.2)||(mouseX > width*0.8)) {
+      pkn = 1;
+      if (mouseX < width*0.2) {
+        versioN = loopInArrayBounds(versioN - 1, versions.size());
+      } else if (mouseX > width*0.8) {
+        versioN = loopInArrayBounds(versioN + 1, versions.size());
+      }
+    }
   } else {
     dialing = true;
   }
 }
 
 void touchMoved() {
-  if (changingVersion) {
-    pkn = 1;
-    int test = 0;
-    if (touchStart.dist(new PVector(mouseX, mouseY)) > width/10) {
-      test = (touchStart.x < mouseX)? 1 : -1;
-      touchStart = new PVector(mouseX, mouseY);
-    }
-    test += versioN;
-    if (test < 0)
-      test += versions.size();
-    if (test > versions.size()-1)
-      test -= versions.size();
-    versioN = test;
-  }
 }
 
 int versioN;
 
 void touchEnded() {
   boolean wasDialing = dialing;
-  boolean wasChangingVersion = dialing;
   dialing = false;
   changingVersion = false;
   if (wasDialing) {
@@ -165,7 +156,6 @@ void touchEnded() {
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
     if (versioN == 34) {t1.setPitch(1f); t1.setVoice(vM);} else {t1.setPitch(0.4f); t1.setVoice(vF);}
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
-  } else if (wasChangingVersion) {
   }
 }
 
@@ -198,15 +188,16 @@ void stats(float x, float y, float r) {
     vertex(x + cos(TAU/12* 7) * r*i, y + sin(TAU/12* 7) * r*i);
     endShape(CLOSE);
   }
-  text("HP", x-10 + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
-  text("ATK", x-15 + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r);
-  text("DFS", x-15 + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r);
-  text("SPATK", x-25 + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r);
-  text("SPDFS", x-25 + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r);
-  text("SPD", x-15 + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r);
+  textAlign(CENTER);
+  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
+  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r);
+  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r);
+  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r);
+  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r);
+  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r);
 }
 
-void checkMaxDex() {  
+void checkMaxDex() {
   if (versioN < 3) {//RBY
     MaxDex = 151;
   } else if (versioN < 6) {//GSC
@@ -261,7 +252,12 @@ void drawFace() {
   background (235, 107, 78);
   fill(unhex("FF" + colours.getString(versions.get(versioN))));
   noStroke();
-  rect(0, height*0.8, width, height);
+  rect(0, height*0.9, width, height);
+  textAlign(CENTER);
+  fill(unhex("FF" + colours.getString(versions.get(loopInArrayBounds(versioN + 1, versions.size())))));
+  text(">", width*0.9, height*0.95);
+  fill(unhex("FF" + colours.getString(versions.get(loopInArrayBounds(versioN - 1, versions.size())))));
+  text("<", width*0.1, height*0.95);
   noFill();
   strokeWeight(3);
   stroke(157, 29, 0);
@@ -290,6 +286,14 @@ void drawFace() {
   ellipse(0, 0, diameter/8, diameter * 0.35);
   popMatrix();
   popStyle();
+}
+
+int loopInArrayBounds(int n, int max) {
+  if (n >= max)
+    return n - max;
+  if (n < 0)
+    return max - n - 2;
+  return n;
 }
 
 @Override
