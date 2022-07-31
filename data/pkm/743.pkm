@@ -2,9 +2,11 @@
   "ShieldEntry": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
   "extraMega": false,
   "ability1": "Honey Gather",
-  "AtkYield": 0,
   "HP": 60,
   "SunEntry": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+  "Spe": 124,
+  "SpeYield": 2,
+  "XPYield": 162,
   "ability2": "Shield Dust",
   "tmTrMoves": [
     {
@@ -172,19 +174,15 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
   "number": 743,
   "MoonEntry": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
-  "SpA": 95,
   "UltraSunEntry": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Sweet Veil",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -244,21 +242,24 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 60,
+  "SpA": 95,
   "eggGroup2": "Fairy",
-  "Spe": 124,
+  "SpD": 70,
   "weight": "0.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Ribombee",
+  "Atk": 55,
   "SwordEntry": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
-  "SpeYield": 2,
-  "SpD": 70,
-  "category": "Bee Fly Pokémon"
+  "SpDYield": 0,
+  "category": "Bee Fly Pokémon",
+  "HPYield": 0
 }

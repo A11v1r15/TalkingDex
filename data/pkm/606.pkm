@@ -4,8 +4,10 @@
   "ability1": "Telepathy",
   "YEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
   "AlphaSapphireEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
-  "AtkYield": 0,
   "HP": 75,
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Synchronize",
   "tmTrMoves": [
     {
@@ -193,19 +195,15 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
   "UltraMoonEntry": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
   "number": 606,
-  "SpA": 125,
   "UltraSunEntry": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
-  "Atk": 75,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Analytic",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -265,10 +263,13 @@
       "lvl": "68"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+  "Def": 75,
+  "SpA": 125,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 95,
   "weight": "34.5kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -276,15 +277,15 @@
   "hasGalarian": false,
   "BlackEntry": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.",
   "OmegaRubyEntry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
-  "Def": 75,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Beheeyem",
+  "Atk": 75,
   "White2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
   "SwordEntry": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
-  "SpeYield": 0,
-  "SpD": 95,
+  "SpDYield": 0,
   "category": "Cerebral Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."
 }

@@ -1,8 +1,8 @@
 {
   "ability1": "Chlorophyll",
   "AlphaSapphireEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
-  "AtkYield": 0,
   "HP": 45,
+  "Spe": 35,
   "ability2": "",
   "eggMoves": [
     {"move": "Razor Leaf"},
@@ -17,29 +17,28 @@
     {"move": "Rollout"}
   ],
   "number": 420,
-  "SpA": 62,
-  "Atk": 35,
   "LegendsArceusEntry": "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures.",
   "height": "0.4m",
   "type2": "",
   "WhiteEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
   "eggGroup2": "Grass",
-  "Spe": 35,
   "weight": "3.3kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 45,
   "hasAlolan": false,
+  "SpAYield": 1,
   "DiamondEntry": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
   "name": "Cherubi",
-  "SpeYield": 0,
-  "SpD": 53,
+  "SpDYield": 0,
+  "HPYield": 0,
   "ShieldEntry": "The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
   "extraMega": false,
   "HearthGoldEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
   "YEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "SpeYield": 0,
+  "XPYield": 55,
   "tmTrMoves": [
     {
       "move": "Magical Leaf",
@@ -142,15 +141,13 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
   "BrilliantDiamondEntry": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+  "AtkYield": 0,
   "PlatinumEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
-  "DefYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "lvlUpMoves": [
     {
       "move": "Morning Sun",
@@ -197,11 +194,15 @@
       "lvl": "45"
     }
   ],
+  "DefYield": 0,
+  "Def": 45,
+  "SpA": 62,
+  "SpD": 53,
   "BlackEntry": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
   "OmegaRubyEntry": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
   "colour": "Pink",
-  "SpAYield": 1,
   "SoulsilverEntry": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "Atk": 35,
   "White2Entry": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
   "SwordEntry": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
   "ShiningPearlEntry": "Sunlight colors it red. When the small ball is drained of nutrients and shriveled, evolution is near.",

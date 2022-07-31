@@ -4,8 +4,10 @@
   "ability1": "Snow Cloak",
   "YEntry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
   "AlphaSapphireEntry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-  "AtkYield": 1,
   "HP": 55,
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 61,
   "ability2": "Slush Rush",
   "tmTrMoves": [
     {
@@ -137,7 +139,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -147,11 +148,8 @@
   ],
   "XEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
   "number": 613,
-  "SpA": 60,
-  "Atk": 70,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Rattled",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -219,10 +217,13 @@
       "lvl": "42"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+  "Def": 40,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 40,
   "weight": "8.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -230,15 +231,15 @@
   "hasGalarian": false,
   "BlackEntry": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
   "OmegaRubyEntry": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
-  "Def": 40,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cubchoo",
+  "Atk": 70,
   "White2Entry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
   "SwordEntry": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
-  "SpeYield": 0,
-  "SpD": 40,
+  "SpDYield": 0,
   "category": "Chill Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.",
   "extraMega": false,
   "ability1": "Fluffy",
-  "AtkYield": 0,
   "HP": 42,
+  "Spe": 48,
+  "SpeYield": 0,
+  "XPYield": 122,
   "ability2": "Run Away",
   "tmTrMoves": [
     {
@@ -71,7 +73,6 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -80,11 +81,8 @@
     {"move": "Counter"}
   ],
   "number": 831,
-  "SpA": 40,
-  "Atk": 40,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Bulletproof",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -136,21 +134,24 @@
       "lvl": "40"
     }
   ],
+  "DefYield": 1,
   "type2": "",
+  "Def": 55,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 48,
+  "SpD": 45,
   "weight": "6.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 55,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Wooloo",
+  "Atk": 40,
   "SwordEntry": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
-  "SpeYield": 0,
-  "SpD": 45,
-  "category": "Sheep Pokémon"
+  "SpDYield": 0,
+  "category": "Sheep Pokémon",
+  "HPYield": 0
 }

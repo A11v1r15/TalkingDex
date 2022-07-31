@@ -2,9 +2,11 @@
   "ShieldEntry": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
   "extraMega": false,
   "ability1": "Merciless",
-  "AtkYield": 0,
   "HP": 50,
   "SunEntry": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+  "Spe": 45,
+  "SpeYield": 0,
+  "XPYield": 61,
   "ability2": "Limber",
   "tmTrMoves": [
     {
@@ -136,7 +138,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -149,12 +150,9 @@
   "UltraMoonEntry": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.",
   "number": 747,
   "MoonEntry": "It's found crawling on beaches and seafloors. The coral that grows on Corsola's head is as good as a five-star banquet to this Pokémon.",
-  "SpA": 43,
   "UltraSunEntry": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
-  "Atk": 53,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Regenerator",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -206,21 +204,24 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 1,
   "type2": "Water",
+  "Def": 62,
+  "SpA": 43,
   "eggGroup2": "",
-  "Spe": 45,
+  "SpD": 52,
   "weight": "8.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 62,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Mareanie",
+  "Atk": 53,
   "SwordEntry": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",
-  "SpeYield": 0,
-  "SpD": 52,
-  "category": "Brutal Star Pokémon"
+  "SpDYield": 0,
+  "category": "Brutal Star Pokémon",
+  "HPYield": 0
 }

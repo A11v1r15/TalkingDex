@@ -4,8 +4,10 @@
   "ability1": "Swarm",
   "YEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
   "AlphaSapphireEntry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-  "AtkYield": 1,
   "HP": 50,
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 63,
   "ability2": "Shed Skin",
   "tmTrMoves": [
     {
@@ -101,7 +103,6 @@
       "technical": "TR87"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -113,11 +114,8 @@
   ],
   "XEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
   "number": 588,
-  "SpA": 40,
-  "Atk": 75,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "No Guard",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -177,10 +175,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+  "Def": 45,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 45,
   "weight": "5.9kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -188,15 +189,15 @@
   "hasGalarian": false,
   "BlackEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
   "OmegaRubyEntry": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
-  "Def": 45,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Karrablast",
+  "Atk": 75,
   "White2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
   "SwordEntry": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
-  "SpeYield": 0,
-  "SpD": 45,
+  "SpDYield": 0,
   "category": "Clamping Pokémon",
+  "HPYield": 0,
   "Black2Entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet."
 }

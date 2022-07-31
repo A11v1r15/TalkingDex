@@ -4,8 +4,10 @@
   "ability1": "Compound Eyes",
   "YEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "AlphaSapphireEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 65,
+  "SpeYield": 1,
+  "XPYield": 64,
   "ability2": "Unnerve",
   "tmTrMoves": [
     {
@@ -133,7 +135,6 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -145,11 +146,8 @@
   ],
   "XEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "number": 595,
-  "SpA": 57,
-  "Atk": 47,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Swarm",
-  "HPYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -209,10 +207,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "Electric",
   "WhiteEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+  "Def": 50,
+  "SpA": 57,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 50,
   "weight": "0.6kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -220,15 +221,15 @@
   "hasGalarian": false,
   "BlackEntry": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
   "OmegaRubyEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
-  "Def": 50,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Joltik",
+  "Atk": 47,
   "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "SwordEntry": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
-  "SpeYield": 1,
-  "SpD": 50,
+  "SpDYield": 0,
   "category": "Attaching Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
 }

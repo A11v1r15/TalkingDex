@@ -4,8 +4,10 @@
   "ability1": "Sturdy",
   "YEntry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
   "AlphaSapphireEntry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 55,
+  "SpeYield": 0,
+  "XPYield": 65,
   "ability2": "Shell Armor",
   "tmTrMoves": [
     {
@@ -113,7 +115,6 @@
       "technical": "TR76"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -126,11 +127,8 @@
   ],
   "XEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
   "number": 557,
-  "SpA": 35,
-  "Atk": 65,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Weak Armor",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -190,10 +188,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 1,
   "type2": "Rock",
   "WhiteEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+  "Def": 85,
+  "SpA": 35,
   "eggGroup2": "Mineral",
-  "Spe": 55,
+  "SpD": 35,
   "weight": "14.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -201,15 +202,15 @@
   "hasGalarian": false,
   "BlackEntry": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
   "OmegaRubyEntry": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
-  "Def": 85,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dwebble",
+  "Atk": 65,
   "White2Entry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
   "SwordEntry": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
-  "SpeYield": 0,
-  "SpD": 35,
+  "SpDYield": 0,
   "category": "Rock Inn Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
 }

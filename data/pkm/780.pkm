@@ -2,9 +2,11 @@
   "ShieldEntry": "Drampa is a kind and friendly Pokémon\u2014up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
   "extraMega": false,
   "ability1": "Berserk",
-  "AtkYield": 0,
   "HP": 78,
   "SunEntry": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+  "Spe": 36,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Sap Sipper",
   "tmTrMoves": [
     {
@@ -228,7 +230,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -239,12 +240,9 @@
   "UltraMoonEntry": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.",
   "number": 780,
   "MoonEntry": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
-  "SpA": 135,
   "UltraSunEntry": "If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.",
-  "Atk": 60,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Cloud Nine",
-  "HPYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -300,21 +298,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 85,
+  "SpA": 135,
   "eggGroup2": "Dragon",
-  "Spe": 36,
+  "SpD": 91,
   "weight": "185.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 85,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Drampa",
+  "Atk": 60,
   "SwordEntry": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
-  "SpeYield": 0,
-  "SpD": 91,
-  "category": "Placid Pokémon"
+  "SpDYield": 0,
+  "category": "Placid Pokémon",
+  "HPYield": 0
 }

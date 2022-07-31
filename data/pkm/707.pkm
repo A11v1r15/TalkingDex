@@ -4,9 +4,11 @@
   "ability1": "Prankster",
   "YEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
   "AlphaSapphireEntry": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
-  "AtkYield": 0,
   "HP": 57,
   "SunEntry": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people's homes to steal their keys.",
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 165,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -138,7 +140,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -149,12 +150,9 @@
   "UltraMoonEntry": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
   "number": 707,
   "MoonEntry": "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
-  "SpA": 80,
   "UltraSunEntry": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
-  "Atk": 80,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Magician",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -218,22 +216,25 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 1,
   "type2": "Fairy",
+  "Def": 91,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 75,
+  "SpD": 87,
   "weight": "3.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "OmegaRubyEntry": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
-  "Def": 91,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Klefki",
+  "Atk": 80,
   "SwordEntry": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
-  "SpeYield": 0,
-  "SpD": 87,
-  "category": "Key Ring Pokémon"
+  "SpDYield": 0,
+  "category": "Key Ring Pokémon",
+  "HPYield": 0
 }

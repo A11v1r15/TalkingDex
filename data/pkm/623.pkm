@@ -4,8 +4,10 @@
   "ability1": "Iron Fist",
   "YEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
   "AlphaSapphireEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
-  "AtkYield": 2,
   "HP": 89,
+  "Spe": 55,
+  "SpeYield": 0,
+  "XPYield": 169,
   "ability2": "Klutz",
   "tmTrMoves": [
     {
@@ -245,19 +247,15 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
   "UltraMoonEntry": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
   "number": 623,
-  "SpA": 55,
   "UltraSunEntry": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master's orders faithfully.",
-  "Atk": 124,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "No Guard",
-  "HPYield": 0,
   "height": "2.8m",
   "lvlUpMoves": [
     {
@@ -333,10 +331,13 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
   "WhiteEntry": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+  "Def": 80,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 55,
+  "SpD": 80,
   "weight": "330.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -344,15 +345,15 @@
   "hasGalarian": false,
   "BlackEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
   "OmegaRubyEntry": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
-  "Def": 80,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Golurk",
+  "Atk": 124,
   "White2Entry": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
   "SwordEntry": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
-  "SpeYield": 0,
-  "SpD": 80,
+  "SpDYield": 0,
   "category": "Automaton Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Golurk were created to protect people and Pokémon. They run on a mysterious energy."
 }

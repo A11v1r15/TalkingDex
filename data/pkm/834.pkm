@@ -2,8 +2,10 @@
   "ShieldEntry": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
   "extraMega": false,
   "ability1": "Strong Jaw",
-  "AtkYield": 2,
   "HP": 90,
+  "Spe": 74,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Shell Armor",
   "tmTrMoves": [
     {
@@ -223,16 +225,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 834,
-  "SpA": 48,
-  "Atk": 115,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Swift Swim",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -296,21 +294,24 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "Rock",
+  "Def": 90,
+  "SpA": 48,
   "eggGroup2": "Water 1",
-  "Spe": 74,
+  "SpD": 68,
   "weight": "115.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Drednaw",
+  "Atk": 115,
   "SwordEntry": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
-  "SpeYield": 0,
-  "SpD": 68,
-  "category": "Bite Pokémon"
+  "SpDYield": 0,
+  "category": "Bite Pokémon",
+  "HPYield": 0
 }

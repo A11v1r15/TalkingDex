@@ -2,9 +2,11 @@
   "ShieldEntry": "There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.",
   "extraMega": false,
   "ability1": "Disguise",
-  "AtkYield": 0,
   "HP": 55,
   "SunEntry": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by terror and died from the shock.",
+  "Spe": 96,
+  "SpeYield": 0,
+  "XPYield": 167,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -180,7 +182,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -191,12 +192,9 @@
   "UltraMoonEntry": "A gust of wind revealed what hides under this Pokémon's rag to a passing Trainer, who went home and died painfully that very night.",
   "number": 778,
   "MoonEntry": "A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.",
-  "SpA": 50,
   "UltraSunEntry": "Although it's a quiet, lonely Pokémon, if you try to look at what's under its rag, it will become agitated and resist violently.",
-  "Atk": 90,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -260,21 +258,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 80,
+  "SpA": 50,
   "eggGroup2": "",
-  "Spe": 96,
+  "SpD": 105,
   "weight": "0.7kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Mimikyu",
+  "Atk": 90,
   "SwordEntry": "It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",
-  "SpeYield": 0,
-  "SpD": 105,
-  "category": "Disguise Pokémon"
+  "SpDYield": 2,
+  "category": "Disguise Pokémon",
+  "HPYield": 0
 }

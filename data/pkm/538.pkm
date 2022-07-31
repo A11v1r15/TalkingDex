@@ -4,8 +4,10 @@
   "ability1": "Guts",
   "YEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "AlphaSapphireEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
-  "AtkYield": 0,
   "HP": 120,
+  "Spe": 45,
+  "SpeYield": 0,
+  "XPYield": 163,
   "ability2": "Inner Focus",
   "tmTrMoves": [
     {
@@ -185,17 +187,13 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
   "number": 538,
-  "SpA": 30,
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Mold Breaker",
-  "HPYield": 2,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -251,10 +249,13 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+  "Def": 85,
+  "SpA": 30,
   "eggGroup2": "",
-  "Spe": 45,
+  "SpD": 85,
   "weight": "55.5kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -262,15 +263,15 @@
   "hasGalarian": false,
   "BlackEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
   "OmegaRubyEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
-  "Def": 85,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Throh",
+  "Atk": 100,
   "White2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "SwordEntry": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.",
-  "SpeYield": 0,
-  "SpD": 85,
+  "SpDYield": 0,
   "category": "Judo Pokémon",
+  "HPYield": 2,
   "Black2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
 }

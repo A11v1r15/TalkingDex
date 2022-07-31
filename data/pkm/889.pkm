@@ -2,8 +2,10 @@
   "ShieldEntry": "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
   "extraMega": false,
   "ability1": "Dauntless Shield",
-  "AtkYield": 0,
   "HP": 92,
+  "Spe": 138,
+  "SpeYield": 3,
+  "XPYield": 335,
   "ability2": "",
   "title": "Hero of Many Battles",
   "tmTrMoves": [
@@ -188,16 +190,12 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 889,
-  "SpA": 80,
-  "Atk": 130,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.9m",
   "lvlUpMoves": [
     {
@@ -257,21 +255,24 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
+  "Def": 115,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 138,
+  "SpD": 115,
   "weight": "210.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 115,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Zamazenta",
+  "Atk": 130,
   "SwordEntry": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",
-  "SpeYield": 3,
-  "SpD": 115,
-  "category": "Warrior Pokémon"
+  "SpDYield": 0,
+  "category": "Warrior Pokémon",
+  "HPYield": 0
 }

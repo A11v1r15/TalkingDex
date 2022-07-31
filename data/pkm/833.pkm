@@ -2,8 +2,10 @@
   "ShieldEntry": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
   "extraMega": false,
   "ability1": "Strong Jaw",
-  "AtkYield": 1,
   "HP": 50,
+  "Spe": 44,
+  "SpeYield": 0,
+  "XPYield": 57,
   "ability2": "Shell Armor",
   "tmTrMoves": [
     {
@@ -91,7 +93,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -100,11 +101,8 @@
     {"move": "Dragon Tail"}
   ],
   "number": 833,
-  "SpA": 38,
-  "Atk": 64,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Swift Swim",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -144,21 +142,24 @@
       "lvl": "49"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 50,
+  "SpA": 38,
   "eggGroup2": "Water 1",
-  "Spe": 44,
+  "SpD": 38,
   "weight": "8.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 50,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Chewtle",
+  "Atk": 64,
   "SwordEntry": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
-  "SpeYield": 0,
-  "SpD": 38,
-  "category": "Snapping Pokémon"
+  "SpDYield": 0,
+  "category": "Snapping Pokémon",
+  "HPYield": 0
 }

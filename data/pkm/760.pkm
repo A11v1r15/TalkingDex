@@ -2,9 +2,11 @@
   "ShieldEntry": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
   "extraMega": false,
   "ability1": "Fluffy",
-  "AtkYield": 2,
   "HP": 120,
   "SunEntry": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 175,
   "ability2": "Klutz",
   "tmTrMoves": [
     {
@@ -188,19 +190,15 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
   "number": 760,
   "MoonEntry": "This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug.",
-  "SpA": 55,
   "UltraSunEntry": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn't run away as fast as possible.",
-  "Atk": 125,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Unnerve",
-  "HPYield": 0,
   "height": "2.1m",
   "lvlUpMoves": [
     {
@@ -268,21 +266,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Fighting",
+  "Def": 80,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 60,
   "weight": "135.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Bewear",
+  "Atk": 125,
   "SwordEntry": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous\u2014it could easily shatter your bones.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Strong Arm Pokémon"
+  "SpDYield": 0,
+  "category": "Strong Arm Pokémon",
+  "HPYield": 0
 }

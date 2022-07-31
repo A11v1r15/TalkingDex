@@ -4,9 +4,11 @@
   "ability1": "Natural Cure",
   "YEntry": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
   "AlphaSapphireEntry": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
-  "AtkYield": 2,
   "HP": 85,
   "SunEntry": "This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.",
+  "Spe": 56,
+  "SpeYield": 0,
+  "XPYield": 166,
   "ability2": "Frisk",
   "tmTrMoves": [
     {
@@ -194,7 +196,6 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
@@ -202,12 +203,9 @@
   "UltraMoonEntry": "This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.",
   "number": 709,
   "MoonEntry": "Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.",
-  "SpA": 65,
   "UltraSunEntry": "It's feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.",
-  "Atk": 110,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Harvest",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -279,22 +277,25 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Grass",
+  "Def": 76,
+  "SpA": 65,
   "eggGroup2": "Amorphous",
-  "Spe": 56,
+  "SpD": 82,
   "weight": "71.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
-  "Def": 76,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Trevenant",
+  "Atk": 110,
   "SwordEntry": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",
-  "SpeYield": 0,
-  "SpD": 82,
-  "category": "Elder Tree Pokémon"
+  "SpDYield": 0,
+  "category": "Elder Tree Pokémon",
+  "HPYield": 0
 }

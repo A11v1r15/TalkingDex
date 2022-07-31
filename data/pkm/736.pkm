@@ -2,9 +2,11 @@
   "ShieldEntry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
   "extraMega": false,
   "ability1": "Swarm",
-  "AtkYield": 1,
   "HP": 47,
   "SunEntry": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+  "Spe": 46,
+  "SpeYield": 0,
+  "XPYield": 60,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -100,7 +102,6 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -110,12 +111,9 @@
   "UltraMoonEntry": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
   "number": 736,
   "MoonEntry": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
-  "SpA": 55,
   "UltraSunEntry": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
-  "Atk": 62,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -159,21 +157,24 @@
       "lvl": "40"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 45,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 46,
+  "SpD": 45,
   "weight": "4.4kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 45,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Grubbin",
+  "Atk": 62,
   "SwordEntry": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
-  "SpeYield": 0,
-  "SpD": 45,
-  "category": "Larva Pokémon"
+  "SpDYield": 0,
+  "category": "Larva Pokémon",
+  "HPYield": 0
 }

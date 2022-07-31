@@ -2,8 +2,10 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 61,
+  "Spe": 13,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -163,18 +165,14 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
   "eggMoves": [],
   "number": 805,
-  "SpA": 53,
   "UltraSunEntry": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
-  "Atk": 131,
-  "DefYield": 3,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "5.5m",
   "lvlUpMoves": [
     {
@@ -242,21 +240,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 3,
   "type2": "Steel",
+  "Def": 211,
+  "SpA": 53,
   "eggGroup2": "",
-  "Spe": 13,
+  "SpD": 101,
   "weight": "820.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 211,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Stakataka",
+  "Atk": 131,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 101,
-  "category": "Rampart Pokémon"
+  "SpDYield": 0,
+  "category": "Rampart Pokémon",
+  "HPYield": 0
 }

@@ -4,8 +4,10 @@
   "ability1": "Dark Aura",
   "YEntry": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
   "AlphaSapphireEntry": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
-  "AtkYield": 0,
   "HP": 126,
+  "Spe": 99,
+  "SpeYield": 0,
+  "XPYield": 340,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -153,17 +155,13 @@
       "technical": "TR89"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
   "eggMoves": [],
   "number": 717,
-  "SpA": 131,
-  "Atk": 131,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "5.8m",
   "lvlUpMoves": [
     {
@@ -243,22 +241,25 @@
       "lvl": "85"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
+  "Def": 95,
+  "SpA": 131,
   "eggGroup2": "",
-  "Spe": 99,
+  "SpD": 98,
   "weight": "203.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "OmegaRubyEntry": "When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
-  "Def": 95,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Yveltal",
+  "Atk": 131,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 98,
-  "category": "Destruction Pokémon"
+  "SpDYield": 0,
+  "category": "Destruction Pokémon",
+  "HPYield": 3
 }

@@ -2,9 +2,11 @@
   "ShieldEntry": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
   "extraMega": false,
   "ability1": "Battery",
-  "AtkYield": 0,
   "HP": 57,
   "SunEntry": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
+  "Spe": 36,
+  "SpeYield": 0,
+  "XPYield": 140,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -112,19 +114,15 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
   "number": 737,
   "MoonEntry": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
-  "SpA": 55,
   "UltraSunEntry": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
-  "Atk": 82,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -184,21 +182,24 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 2,
   "type2": "Electric",
+  "Def": 95,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 36,
+  "SpD": 75,
   "weight": "10.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Charjabug",
+  "Atk": 82,
   "SwordEntry": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Battery Pokémon"
+  "SpDYield": 0,
+  "category": "Battery Pokémon",
+  "HPYield": 0
 }

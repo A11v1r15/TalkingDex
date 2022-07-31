@@ -2,8 +2,10 @@
   "ShieldEntry": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
   "extraMega": false,
   "ability1": "Iron Fist",
-  "AtkYield": 3,
   "HP": 135,
+  "Spe": 34,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -151,16 +153,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 809,
-  "SpA": 80,
-  "Atk": 143,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -228,23 +226,26 @@
       "lvl": "96"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 143,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 34,
+  "SpD": 65,
   "weight": "800.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 143,
   "LetsGoEeveeEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "LetsGoPikachuEntry": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
   "name": "Melmetal",
+  "Atk": 143,
   "SwordEntry": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
-  "SpeYield": 0,
-  "SpD": 65,
-  "category": "Hex Nut Pokémon"
+  "SpDYield": 0,
+  "category": "Hex Nut Pokémon",
+  "HPYield": 0
 }

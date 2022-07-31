@@ -4,8 +4,10 @@
   "ability1": "Inner Focus",
   "YEntry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
   "AlphaSapphireEntry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
-  "AtkYield": 2,
   "HP": 65,
+  "Spe": 105,
+  "SpeYield": 0,
+  "XPYield": 179,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -213,19 +215,15 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "It wields the fur on its arm like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
   "UltraMoonEntry": "When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
   "number": 620,
-  "SpA": 95,
   "UltraSunEntry": "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
-  "Atk": 125,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Reckless",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -289,10 +287,13 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They use the long fur on their arms as a whip to strike their opponents.",
+  "Def": 60,
+  "SpA": 95,
   "eggGroup2": "Human-Like",
-  "Spe": 105,
+  "SpD": 60,
   "weight": "35.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -300,15 +301,15 @@
   "hasGalarian": false,
   "BlackEntry": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
   "OmegaRubyEntry": "It wields the fur on its arm like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
-  "Def": 60,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Mienshao",
+  "Atk": 125,
   "White2Entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
   "SwordEntry": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
-  "SpeYield": 0,
-  "SpD": 60,
+  "SpDYield": 0,
   "category": "Martial Arts Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
 }

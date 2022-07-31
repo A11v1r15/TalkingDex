@@ -2,8 +2,10 @@
   "ShieldEntry": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
   "extraMega": false,
   "ability1": "Sheer Force",
-  "AtkYield": 2,
   "HP": 122,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 175,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -191,16 +193,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 879,
-  "SpA": 80,
-  "Atk": 130,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Heavy Metal",
-  "HPYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -264,21 +262,24 @@
       "lvl": "65"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 69,
+  "SpA": 80,
   "eggGroup2": "Mineral",
-  "Spe": 30,
+  "SpD": 69,
   "weight": "650.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 69,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Copperajah",
+  "Atk": 130,
   "SwordEntry": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
-  "SpeYield": 0,
-  "SpD": 69,
-  "category": "Copperderm Pokémon"
+  "SpDYield": 0,
+  "category": "Copperderm Pokémon",
+  "HPYield": 0
 }

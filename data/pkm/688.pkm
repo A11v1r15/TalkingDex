@@ -4,8 +4,10 @@
   "ability1": "Tough Claws",
   "YEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
   "AlphaSapphireEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
-  "AtkYield": 1,
   "HP": 42,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 61,
   "ability2": "Sniper",
   "tmTrMoves": [
     {
@@ -197,7 +199,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -207,11 +208,8 @@
   ],
   "XEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
   "number": 688,
-  "SpA": 39,
-  "Atk": 52,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Pickpocket",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -267,22 +265,25 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "Water",
+  "Def": 67,
+  "SpA": 39,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 56,
   "weight": "31.0kg",
   "eggGroup1": "Water 3",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
-  "Def": 67,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Binacle",
+  "Atk": 52,
   "SwordEntry": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
-  "SpeYield": 0,
-  "SpD": 56,
-  "category": "Two-Handed Pokémon"
+  "SpDYield": 0,
+  "category": "Two-Handed Pokémon",
+  "HPYield": 0
 }

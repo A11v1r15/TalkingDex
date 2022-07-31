@@ -4,9 +4,11 @@
   "ability1": "Big Pecks",
   "YEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
   "AlphaSapphireEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
-  "AtkYield": 0,
   "HP": 45,
   "SunEntry": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+  "Spe": 62,
+  "SpeYield": 1,
+  "XPYield": 56,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -102,7 +104,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -114,12 +115,9 @@
   "UltraMoonEntry": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
   "number": 661,
   "MoonEntry": "When it's excited, its temperature can double, spiking hormone production in its body.",
-  "SpA": 40,
   "UltraSunEntry": "While it's an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you'll be burned.",
-  "Atk": 50,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Gale Wings",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -171,22 +169,25 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
+  "Def": 43,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 62,
+  "SpD": 38,
   "weight": "1.7kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
   "OmegaRubyEntry": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
-  "Def": 43,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Fletchling",
+  "Atk": 50,
   "SwordEntry": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
-  "SpeYield": 1,
-  "SpD": 38,
-  "category": "Tiny Robin Pokémon"
+  "SpDYield": 0,
+  "category": "Tiny Robin Pokémon",
+  "HPYield": 0
 }

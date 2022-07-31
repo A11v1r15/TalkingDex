@@ -4,8 +4,10 @@
   "ability1": "Frisk",
   "YEntry": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something only Gothita can see.",
   "AlphaSapphireEntry": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something only Gothita can see.",
-  "AtkYield": 0,
   "HP": 45,
+  "Spe": 45,
+  "SpeYield": 0,
+  "XPYield": 58,
   "ability2": "Competitive",
   "tmTrMoves": [
     {
@@ -181,7 +183,6 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -193,11 +194,8 @@
   ],
   "XEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
   "number": 574,
-  "SpA": 55,
-  "Atk": 30,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Shadow Tag",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -257,10 +255,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+  "Def": 50,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 45,
+  "SpD": 65,
   "weight": "5.8kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -268,15 +269,15 @@
   "hasGalarian": false,
   "BlackEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
   "OmegaRubyEntry": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
-  "Def": 50,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Gothita",
+  "Atk": 30,
   "White2Entry": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",
   "SwordEntry": "Though they're still only babies, there's psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",
-  "SpeYield": 0,
-  "SpD": 65,
+  "SpDYield": 1,
   "category": "Fixation Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks."
 }

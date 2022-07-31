@@ -4,8 +4,10 @@
   "ability1": "Forewarn",
   "YEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
   "AlphaSapphireEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-  "AtkYield": 0,
   "HP": 76,
+  "Spe": 24,
+  "SpeYield": 0,
+  "XPYield": 58,
   "ability2": "Synchronize",
   "tmTrMoves": [
     {
@@ -157,7 +159,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -166,11 +167,8 @@
   ],
   "XEntry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
   "number": 517,
-  "SpA": 67,
-  "Atk": 25,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "HPYield": 1,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -234,10 +232,13 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+  "Def": 45,
+  "SpA": 67,
   "eggGroup2": "",
-  "Spe": 24,
+  "SpD": 55,
   "weight": "23.3kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -245,15 +246,15 @@
   "hasGalarian": false,
   "BlackEntry": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
   "OmegaRubyEntry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
-  "Def": 45,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Munna",
+  "Atk": 25,
   "White2Entry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
   "SwordEntry": "Late at night, it appears beside people's pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Dream Eater Pokémon",
+  "HPYield": 1,
   "Black2Entry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams."
 }

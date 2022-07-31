@@ -2,8 +2,10 @@
   "ShieldEntry": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
   "extraMega": false,
   "ability1": "Punk Rock",
-  "AtkYield": 0,
   "HP": 75,
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 176,
   "ability2": "Plus",
   "title": "Amped Form",
   "tmTrMoves": [
@@ -172,16 +174,12 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 849,
-  "SpA": 114,
-  "Atk": 98,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Technician",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -289,21 +287,24 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Poison",
+  "Def": 70,
+  "SpA": 114,
   "eggGroup2": "",
-  "Spe": 75,
+  "SpD": 70,
   "weight": "40.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 70,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Toxtricity",
+  "Atk": 98,
   "SwordEntry": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Punk Pokémon"
+  "SpDYield": 0,
+  "category": "Punk Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
   "extraMega": false,
   "ability1": "Rattled",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 48,
   "ability2": "Static",
   "tmTrMoves": [
     {
@@ -47,7 +49,6 @@
       "technical": "TR30"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -56,11 +57,8 @@
     {"move": "Power"}
   ],
   "number": 848,
-  "SpA": 54,
-  "Atk": 38,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Klutz",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -88,21 +86,24 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "Poison",
+  "Def": 35,
+  "SpA": 54,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 35,
   "weight": "11.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 35,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Toxel",
+  "Atk": 38,
   "SwordEntry": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
-  "SpeYield": 0,
-  "SpD": 35,
-  "category": "Baby Pokémon"
+  "SpDYield": 0,
+  "category": "Baby Pokémon",
+  "HPYield": 0
 }

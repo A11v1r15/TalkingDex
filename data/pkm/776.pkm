@@ -2,9 +2,11 @@
   "ShieldEntry": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
   "extraMega": false,
   "ability1": "Shell Armor",
-  "AtkYield": 0,
   "HP": 60,
   "SunEntry": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+  "Spe": 36,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -200,7 +202,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -212,12 +213,9 @@
   "UltraMoonEntry": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
   "number": 776,
   "MoonEntry": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses.",
-  "SpA": 91,
   "UltraSunEntry": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
-  "Atk": 78,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -281,21 +279,24 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 2,
   "type2": "Dragon",
+  "Def": 135,
+  "SpA": 91,
   "eggGroup2": "Dragon",
-  "Spe": 36,
+  "SpD": 85,
   "weight": "212.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 135,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Turtonator",
+  "Atk": 78,
   "SwordEntry": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
-  "SpeYield": 0,
-  "SpD": 85,
-  "category": "Blast Turtle Pokémon"
+  "SpDYield": 0,
+  "category": "Blast Turtle Pokémon",
+  "HPYield": 0
 }

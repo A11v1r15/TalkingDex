@@ -4,8 +4,10 @@
   "ability1": "Clear Body",
   "YEntry": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
   "AlphaSapphireEntry": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -193,17 +195,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
   "eggMoves": [],
   "number": 719,
-  "SpA": 100,
-  "Atk": 100,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -267,22 +265,25 @@
       "lvl": "91"
     }
   ],
+  "DefYield": 1,
   "type2": "Fairy",
+  "Def": 150,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 150,
   "weight": "8.8kg",
   "eggGroup1": "Undiscovered",
   "hasMega": true,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
-  "Def": 150,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Diancie",
+  "Atk": 100,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 150,
-  "category": "Jewel Pokémon"
+  "SpDYield": 2,
+  "category": "Jewel Pokémon",
+  "HPYield": 0
 }

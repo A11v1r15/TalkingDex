@@ -4,8 +4,10 @@
   "ability1": "Pickup",
   "YEntry": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
   "AlphaSapphireEntry": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
-  "AtkYield": 0,
   "HP": 65,
+  "Spe": 84,
+  "SpeYield": 0,
+  "XPYield": 173,
   "ability2": "Frisk",
   "title": "Super Size",
   "tmTrMoves": [
@@ -186,17 +188,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
   "number": 711,
-  "SpA": 58,
-  "Atk": 90,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Insomnia",
-  "HPYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -276,22 +274,25 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 2,
   "type2": "Grass",
+  "Def": 122,
+  "SpA": 58,
   "eggGroup2": "",
-  "Spe": 84,
+  "SpD": 75,
   "weight": "12.5kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
-  "Def": 122,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Gourgeist",
+  "Atk": 90,
   "SwordEntry": "Eerie cries emanate from its body in the dead of night. The sounds are said to be the wails of spirits who are suffering in the afterlife.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Pumpkin Pokémon"
+  "SpDYield": 0,
+  "category": "Pumpkin Pokémon",
+  "HPYield": 0
 }

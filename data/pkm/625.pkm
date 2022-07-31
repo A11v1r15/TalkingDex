@@ -4,8 +4,10 @@
   "ability1": "Defiant",
   "YEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
   "AlphaSapphireEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
-  "AtkYield": 2,
   "HP": 65,
+  "Spe": 70,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "Inner Focus",
   "tmTrMoves": [
     {
@@ -193,19 +195,15 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
   "UltraMoonEntry": "It leads a group of Pawniard. Bisharp doesn't even change its expression when it deals the finishing blow to an opponent.",
   "number": 625,
-  "SpA": 60,
   "UltraSunEntry": "No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
-  "Atk": 125,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Pressure",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -273,10 +271,13 @@
       "lvl": "71"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
   "WhiteEntry": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+  "Def": 100,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 70,
+  "SpD": 70,
   "weight": "70.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -284,15 +285,15 @@
   "hasGalarian": false,
   "BlackEntry": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
   "OmegaRubyEntry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
-  "Def": 100,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Bisharp",
+  "Atk": 125,
   "White2Entry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
   "SwordEntry": "It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
-  "SpeYield": 0,
-  "SpD": 70,
+  "SpDYield": 0,
   "category": "Sword Blade Pokémon",
+  "HPYield": 0,
   "Black2Entry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
 }

@@ -4,8 +4,10 @@
   "ability1": "Swarm",
   "YEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "AlphaSapphireEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
-  "AtkYield": 0,
   "HP": 58,
+  "Spe": 109,
+  "SpeYield": 0,
+  "XPYield": 169,
   "ability2": "Hustle",
   "tmTrMoves": [
     {
@@ -137,7 +139,6 @@
       "technical": "TR75"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -149,11 +150,8 @@
   ],
   "XEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "number": 632,
-  "SpA": 48,
-  "Atk": 109,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Truant",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -221,10 +219,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Steel",
   "WhiteEntry": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
+  "Def": 112,
+  "SpA": 48,
   "eggGroup2": "",
-  "Spe": 109,
+  "SpD": 48,
   "weight": "33.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -232,15 +233,15 @@
   "hasGalarian": false,
   "BlackEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "OmegaRubyEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
-  "Def": 112,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Durant",
+  "Atk": 109,
   "White2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "SwordEntry": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
-  "SpeYield": 0,
-  "SpD": 48,
+  "SpDYield": 0,
   "category": "Iron Ant Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
 }

@@ -4,8 +4,10 @@
   "ability1": "Rough Skin",
   "YEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "AlphaSapphireEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
-  "AtkYield": 2,
   "HP": 77,
+  "Spe": 48,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Sheer Force",
   "tmTrMoves": [
     {
@@ -205,7 +207,6 @@
       "technical": "TR76"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -217,12 +218,9 @@
   "XEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "UltraMoonEntry": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
   "number": 621,
-  "SpA": 60,
   "UltraSunEntry": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Mold Breaker",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -278,10 +276,13 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+  "Def": 90,
+  "SpA": 60,
   "eggGroup2": "Monster",
-  "Spe": 48,
+  "SpD": 90,
   "weight": "139.0kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
@@ -289,15 +290,15 @@
   "hasGalarian": false,
   "BlackEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "OmegaRubyEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
-  "Def": 90,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Druddigon",
+  "Atk": 120,
   "White2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
   "SwordEntry": "Druddigon lives in caves, but it never skips sunbathing\u2014it won't be able to move if its body gets too cold.",
-  "SpeYield": 0,
-  "SpD": 90,
+  "SpDYield": 0,
   "category": "Cave Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey."
 }

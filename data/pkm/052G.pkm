@@ -1,65 +1,10 @@
 {
   "ShieldEntry": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
-  "lvlUpMoves": [
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "4"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "8"
-    },
-    {
-      "move": "Pay Day",
-      "lvl": "12"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "29"
-    },
-    {
-      "move": "Screech",
-      "lvl": "32"
-    },
-    {
-      "move": "Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "44"
-    }
-  ],
   "ability1": "Pickup",
-  "type2": "",
-  "eggGroup2": "",
-  "Spe": 40,
   "HP": 50,
-  "eggGroup1": "Field",
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 58,
   "ability2": "Tough Claws",
   "tmTrMoves": [
     {
@@ -231,9 +176,7 @@
       "technical": "TR95"
     }
   ],
-  "type1": "Steel",
   "xpGroup": "Medium Fast",
-  "Def": 55,
   "eggMoves": [
     {"move": "Covet"},
     {"move": "Curse"},
@@ -243,10 +186,74 @@
     {"move": "Spite"}
   ],
   "number": 52,
+  "AtkYield": 1,
+  "abilityHidden": "Unnerve",
+  "lvlUpMoves": [
+    {
+      "move": "Fake Out",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Hone Claws",
+      "lvl": "4"
+    },
+    {
+      "move": "Scratch",
+      "lvl": "8"
+    },
+    {
+      "move": "Pay Day",
+      "lvl": "12"
+    },
+    {
+      "move": "Metal Claw",
+      "lvl": "16"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "20"
+    },
+    {
+      "move": "Swagger",
+      "lvl": "24"
+    },
+    {
+      "move": "Fury Swipes",
+      "lvl": "29"
+    },
+    {
+      "move": "Screech",
+      "lvl": "32"
+    },
+    {
+      "move": "Slash",
+      "lvl": "36"
+    },
+    {
+      "move": "Metal Sound",
+      "lvl": "40"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "44"
+    }
+  ],
+  "type2": "",
+  "DefYield": 0,
+  "Def": 55,
+  "eggGroup2": "",
   "SpA": 40,
+  "SpD": 40,
+  "eggGroup1": "Field",
+  "type1": "Steel",
+  "SpAYield": 0,
   "name": "Galarian Meowth",
   "Atk": 65,
   "SwordEntry": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
-  "abilityHidden": "Unnerve",
-  "SpD": 40
+  "SpDYield": 0,
+  "HPYield": 0
 }

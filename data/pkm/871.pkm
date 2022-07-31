@@ -2,8 +2,10 @@
   "ShieldEntry": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
   "extraMega": false,
   "ability1": "Lightning Rod",
-  "AtkYield": 2,
   "HP": 48,
+  "Spe": 15,
+  "SpeYield": 0,
+  "XPYield": 152,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -135,7 +137,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -143,11 +144,8 @@
     {"move": "Sucker Punch"}
   ],
   "number": 871,
-  "SpA": 91,
-  "Atk": 101,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Electric Surge",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -207,21 +205,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 95,
+  "SpA": 91,
   "eggGroup2": "Amorphous",
-  "Spe": 15,
+  "SpD": 85,
   "weight": "1.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Pincurchin",
+  "Atk": 101,
   "SwordEntry": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
-  "SpeYield": 0,
-  "SpD": 85,
-  "category": "Sea Urchin Pokémon"
+  "SpDYield": 0,
+  "category": "Sea Urchin Pokémon",
+  "HPYield": 0
 }

@@ -4,8 +4,10 @@
   "ability1": "Defiant",
   "YEntry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
   "AlphaSapphireEntry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
-  "AtkYield": 1,
   "HP": 45,
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 68,
   "ability2": "Inner Focus",
   "tmTrMoves": [
     {
@@ -169,7 +171,6 @@
       "technical": "TR81"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -181,12 +182,9 @@
   "XEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
   "UltraMoonEntry": "It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
   "number": 624,
-  "SpA": 40,
   "UltraSunEntry": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Pressure",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -250,10 +248,13 @@
       "lvl": "65"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
   "WhiteEntry": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+  "Def": 70,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 40,
   "weight": "10.2kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -261,15 +262,15 @@
   "hasGalarian": false,
   "BlackEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
   "OmegaRubyEntry": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
-  "Def": 70,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Pawniard",
+  "Atk": 85,
   "White2Entry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
   "SwordEntry": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
-  "SpeYield": 0,
-  "SpD": 40,
+  "SpDYield": 0,
   "category": "Sharp Blade Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
 }

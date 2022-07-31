@@ -4,8 +4,10 @@
   "ability1": "Healer",
   "YEntry": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
   "AlphaSapphireEntry": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
-  "AtkYield": 0,
   "HP": 78,
+  "Spe": 23,
+  "SpeYield": 0,
+  "XPYield": 68,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -129,7 +131,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -139,11 +140,8 @@
   ],
   "XEntry": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
   "number": 682,
-  "SpA": 63,
-  "Atk": 52,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Aroma Veil",
-  "HPYield": 1,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -207,22 +205,25 @@
       "lvl": "39"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 63,
   "eggGroup2": "",
-  "Spe": 23,
+  "SpD": 65,
   "weight": "0.5kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
   "OmegaRubyEntry": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
-  "Def": 60,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Spritzee",
+  "Atk": 52,
   "SwordEntry": "A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
-  "SpeYield": 0,
-  "SpD": 65,
-  "category": "Perfume Pokémon"
+  "SpDYield": 0,
+  "category": "Perfume Pokémon",
+  "HPYield": 1
 }

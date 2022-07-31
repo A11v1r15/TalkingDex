@@ -2,8 +2,10 @@
   "ShieldEntry": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
   "extraMega": false,
   "ability1": "Blaze",
-  "AtkYield": 0,
   "HP": 65,
+  "Spe": 94,
+  "SpeYield": 2,
+  "XPYield": 147,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -151,16 +153,12 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 814,
-  "SpA": 55,
-  "Atk": 86,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Libero",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -208,21 +206,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 55,
   "eggGroup2": "Human-Like",
-  "Spe": 94,
+  "SpD": 60,
   "weight": "9.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Raboot",
+  "Atk": 86,
   "SwordEntry": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
-  "SpeYield": 2,
-  "SpD": 60,
-  "category": "Rabbit Pokémon"
+  "SpDYield": 0,
+  "category": "Rabbit Pokémon",
+  "HPYield": 0
 }

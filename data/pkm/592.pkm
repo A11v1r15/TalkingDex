@@ -4,8 +4,10 @@
   "ability1": "Water Absorb",
   "YEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
   "AlphaSapphireEntry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
-  "AtkYield": 0,
   "HP": 55,
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 67,
   "ability2": "Cursed Body",
   "tmTrMoves": [
     {
@@ -153,7 +155,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -167,12 +168,9 @@
   "XEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
   "UltraMoonEntry": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
   "number": 592,
-  "SpA": 65,
   "UltraSunEntry": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
-  "Atk": 40,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Damp",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -232,10 +230,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
   "WhiteEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+  "Def": 50,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 85,
   "weight": "33.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
@@ -243,15 +244,15 @@
   "hasGalarian": false,
   "BlackEntry": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
   "OmegaRubyEntry": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-  "Def": 50,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Frillish",
+  "Atk": 40,
   "White2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
   "SwordEntry": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
-  "SpeYield": 0,
-  "SpD": 85,
+  "SpDYield": 1,
   "category": "Floating Pokémon",
+  "HPYield": 0,
   "Black2Entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
 }

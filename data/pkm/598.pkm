@@ -4,8 +4,10 @@
   "ability1": "Iron Barbs",
   "YEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "AlphaSapphireEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
-  "AtkYield": 0,
   "HP": 74,
+  "Spe": 20,
+  "SpeYield": 0,
+  "XPYield": 171,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -173,17 +175,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
   "number": 598,
-  "SpA": 54,
-  "Atk": 94,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Anticipation",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -243,10 +241,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Steel",
   "WhiteEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+  "Def": 131,
+  "SpA": 54,
   "eggGroup2": "Mineral",
-  "Spe": 20,
+  "SpD": 116,
   "weight": "110.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
@@ -254,15 +255,15 @@
   "hasGalarian": false,
   "BlackEntry": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
   "OmegaRubyEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
-  "Def": 131,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Ferrothorn",
+  "Atk": 94,
   "White2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",
   "SwordEntry": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
-  "SpeYield": 0,
-  "SpD": 116,
+  "SpDYield": 0,
   "category": "Thorn Pod Pokémon",
+  "HPYield": 0,
   "Black2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent."
 }

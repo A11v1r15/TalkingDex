@@ -2,9 +2,11 @@
   "ShieldEntry": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
   "extraMega": false,
   "ability1": "Honey Gather",
-  "AtkYield": 0,
   "HP": 40,
   "SunEntry": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
+  "Spe": 84,
+  "SpeYield": 1,
+  "XPYield": 61,
   "ability2": "Shield Dust",
   "tmTrMoves": [
     {
@@ -152,7 +154,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -163,12 +164,9 @@
   "UltraMoonEntry": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.",
   "number": 742,
   "MoonEntry": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
-  "SpA": 55,
   "UltraSunEntry": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Sweet Veil",
-  "HPYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -216,21 +214,24 @@
       "lvl": "54"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 40,
+  "SpA": 55,
   "eggGroup2": "Fairy",
-  "Spe": 84,
+  "SpD": 40,
   "weight": "0.2kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 40,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cutiefly",
+  "Atk": 45,
   "SwordEntry": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
-  "SpeYield": 1,
-  "SpD": 40,
-  "category": "Bee Fly Pokémon"
+  "SpDYield": 0,
+  "category": "Bee Fly Pokémon",
+  "HPYield": 0
 }

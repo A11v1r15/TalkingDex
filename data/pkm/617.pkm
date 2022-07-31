@@ -4,8 +4,10 @@
   "ability1": "Hydration",
   "YEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "AlphaSapphireEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
-  "AtkYield": 0,
   "HP": 80,
+  "Spe": 145,
+  "SpeYield": 2,
+  "XPYield": 173,
   "ability2": "Sticky Hold",
   "tmTrMoves": [
     {
@@ -145,17 +147,13 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
   "number": 617,
-  "SpA": 100,
-  "Atk": 70,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Unburden",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -247,10 +245,13 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+  "Def": 40,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 145,
+  "SpD": 60,
   "weight": "25.3kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -258,15 +259,15 @@
   "hasGalarian": false,
   "BlackEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "OmegaRubyEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
-  "Def": 40,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Accelgor",
+  "Atk": 70,
   "White2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
   "SwordEntry": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
-  "SpeYield": 2,
-  "SpD": 60,
+  "SpDYield": 0,
   "category": "Shell Out Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."
 }

@@ -4,8 +4,10 @@
   "ability1": "Download",
   "YEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
   "AlphaSapphireEntry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
-  "AtkYield": 1,
   "HP": 71,
+  "Spe": 99,
+  "SpeYield": 1,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -177,17 +179,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
   "eggMoves": [],
   "number": 649,
-  "SpA": 120,
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -251,10 +249,13 @@
       "lvl": "91"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
   "WhiteEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+  "Def": 95,
+  "SpA": 120,
   "eggGroup2": "",
-  "Spe": 99,
+  "SpD": 95,
   "weight": "82.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -262,15 +263,15 @@
   "hasGalarian": false,
   "BlackEntry": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
   "OmegaRubyEntry": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
-  "Def": 95,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Genesect",
+  "Atk": 120,
   "White2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
   "SwordEntry": "",
-  "SpeYield": 1,
-  "SpD": 95,
+  "SpDYield": 0,
   "category": "Paleozoic Pokémon",
+  "HPYield": 0,
   "Black2Entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
 }

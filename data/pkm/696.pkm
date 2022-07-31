@@ -4,8 +4,10 @@
   "ability1": "Strong Jaw",
   "YEntry": "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.",
   "AlphaSapphireEntry": "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.",
-  "AtkYield": 1,
   "HP": 58,
+  "Spe": 48,
+  "SpeYield": 0,
+  "XPYield": 72,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -185,7 +187,6 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.",
@@ -197,12 +198,9 @@
     {"move": "Rock Polish"}
   ],
   "number": 696,
-  "SpA": 45,
   "UltraSunEntry": "Its large jaw has incredible destructive power. Some theories suggest that its restored form is different from its form of long ago.",
-  "Atk": 89,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Sturdy",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -262,22 +260,25 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 77,
+  "SpA": 45,
   "eggGroup2": "Dragon",
-  "Spe": 48,
+  "SpD": 45,
   "weight": "26.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.",
-  "Def": 77,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Tyrunt",
+  "Atk": 89,
   "SwordEntry": "This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it'll tear apart anything it gets between its hefty jaws.",
-  "SpeYield": 0,
-  "SpD": 45,
-  "category": "Royal Heir Pokémon"
+  "SpDYield": 0,
+  "category": "Royal Heir Pokémon",
+  "HPYield": 0
 }

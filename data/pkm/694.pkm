@@ -4,8 +4,10 @@
   "ability1": "Dry Skin",
   "YEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
   "AlphaSapphireEntry": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-  "AtkYield": 0,
   "HP": 44,
+  "Spe": 70,
+  "SpeYield": 1,
+  "XPYield": 58,
   "ability2": "Sand Veil",
   "tmTrMoves": [
     {
@@ -141,7 +143,6 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -151,11 +152,8 @@
   ],
   "XEntry": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
   "number": 694,
-  "SpA": 61,
-  "Atk": 38,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Solar Power",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -211,22 +209,25 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "Normal",
+  "Def": 33,
+  "SpA": 61,
   "eggGroup2": "Dragon",
-  "Spe": 70,
+  "SpD": 43,
   "weight": "6.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
   "OmegaRubyEntry": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
-  "Def": 33,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Helioptile",
+  "Atk": 38,
   "SwordEntry": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
-  "SpeYield": 1,
-  "SpD": 43,
-  "category": "Generator Pokémon"
+  "SpDYield": 0,
+  "category": "Generator Pokémon",
+  "HPYield": 0
 }

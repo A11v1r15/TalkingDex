@@ -2,8 +2,10 @@
   "ShieldEntry": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
   "extraMega": false,
   "ability1": "Inner Focus",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 166,
   "ability2": "Synchronize",
   "title": "Male",
   "tmTrMoves": [
@@ -160,7 +162,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -169,11 +170,8 @@
     {"move": "Extrasensory"}
   ],
   "number": 876,
-  "SpA": 105,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Psychic Surge",
-  "HPYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -229,21 +227,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "Normal",
+  "Def": 55,
+  "SpA": 105,
   "eggGroup2": "",
-  "Spe": 95,
+  "SpD": 95,
   "weight": "28.0kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 55,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Indeedee",
+  "Atk": 65,
   "SwordEntry": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Emotion Pokémon"
+  "SpDYield": 0,
+  "category": "Emotion Pokémon",
+  "HPYield": 0
 }

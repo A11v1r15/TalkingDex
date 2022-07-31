@@ -2,8 +2,10 @@
   "ShieldEntry": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.",
   "extraMega": false,
   "ability1": "Overgrow",
-  "AtkYield": 2,
   "HP": 70,
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 147,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -135,16 +137,12 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 811,
-  "SpA": 55,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Grassy Surge",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -200,21 +198,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 70,
+  "SpA": 55,
   "eggGroup2": "Grass",
-  "Spe": 80,
+  "SpD": 60,
   "weight": "14.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 70,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Thwackey",
+  "Atk": 85,
   "SwordEntry": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Beat Pokémon"
+  "SpDYield": 0,
+  "category": "Beat Pokémon",
+  "HPYield": 0
 }

@@ -2,9 +2,11 @@
   "ShieldEntry": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
   "extraMega": false,
   "ability1": "Water Compaction",
-  "AtkYield": 0,
   "HP": 85,
   "SunEntry": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+  "Spe": 35,
+  "SpeYield": 0,
+  "XPYield": 168,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -132,19 +134,15 @@
       "technical": "TR76"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
   "number": 770,
   "MoonEntry": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
-  "SpA": 100,
   "UltraSunEntry": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
-  "Atk": 75,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Sand Veil",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -204,21 +202,24 @@
       "lvl": "68"
     }
   ],
+  "DefYield": 2,
   "type2": "Ground",
+  "Def": 110,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 35,
+  "SpD": 75,
   "weight": "250.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 110,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Palossand",
+  "Atk": 75,
   "SwordEntry": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Sand Castle Pokémon"
+  "SpDYield": 0,
+  "category": "Sand Castle Pokémon",
+  "HPYield": 0
 }

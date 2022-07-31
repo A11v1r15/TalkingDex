@@ -4,9 +4,11 @@
   "ability1": "Natural Cure",
   "YEntry": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
   "AlphaSapphireEntry": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
-  "AtkYield": 1,
   "HP": 43,
   "SunEntry": "These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
+  "Spe": 38,
+  "SpeYield": 0,
+  "XPYield": 62,
   "ability2": "Frisk",
   "tmTrMoves": [
     {
@@ -158,7 +160,6 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -170,12 +171,9 @@
   "UltraMoonEntry": "An unknown spirit came to lodge in a tree stump, creating this Pokémon. A cure-all can be made from an infusion of its green leaves.",
   "number": 708,
   "MoonEntry": "According to legend, medicine to cure any illness can be made by plucking the green leaves on its head, brewing them, and boiling down the liquid.",
-  "SpA": 50,
   "UltraSunEntry": "By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It's trying to make friends with them.",
-  "Atk": 70,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Harvest",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -239,22 +237,25 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Grass",
+  "Def": 48,
+  "SpA": 50,
   "eggGroup2": "Amorphous",
-  "Spe": 38,
+  "SpD": 60,
   "weight": "7.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
   "OmegaRubyEntry": "These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.",
-  "Def": 48,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Phantump",
+  "Atk": 70,
   "SwordEntry": "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Stump Pokémon"
+  "SpDYield": 0,
+  "category": "Stump Pokémon",
+  "HPYield": 0
 }

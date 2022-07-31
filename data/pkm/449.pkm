@@ -1,8 +1,8 @@
 {
   "ability1": "Sand Stream",
   "AlphaSapphireEntry": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
-  "AtkYield": 0,
   "HP": 68,
+  "Spe": 32,
   "ability2": "",
   "eggMoves": [
     {"move": "Stockpile"},
@@ -12,29 +12,28 @@
     {"move": "Whirlwind"}
   ],
   "number": 449,
-  "SpA": 38,
-  "Atk": 72,
   "LegendsArceusEntry": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils.",
   "height": "0.8m",
   "type2": "",
   "WhiteEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
   "eggGroup2": "",
-  "Spe": 32,
   "weight": "49.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
-  "Def": 78,
   "hasAlolan": false,
+  "SpAYield": 0,
   "DiamondEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
   "name": "Hippopotas",
-  "SpeYield": 0,
-  "SpD": 42,
+  "SpDYield": 0,
+  "HPYield": 0,
   "ShieldEntry": "This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
   "extraMega": false,
   "HearthGoldEntry": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",
   "YEntry": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+  "SpeYield": 0,
+  "XPYield": 66,
   "tmTrMoves": [
     {
       "move": "Dig",
@@ -157,15 +156,13 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
   "BrilliantDiamondEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+  "AtkYield": 0,
   "PlatinumEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
-  "DefYield": 1,
   "abilityHidden": "Sand Force",
-  "HPYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -228,11 +225,15 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 1,
+  "Def": 78,
+  "SpA": 38,
+  "SpD": 42,
   "BlackEntry": "It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.",
   "OmegaRubyEntry": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
   "colour": "Brown",
-  "SpAYield": 0,
   "SoulsilverEntry": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",
+  "Atk": 72,
   "White2Entry": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.",
   "SwordEntry": "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",
   "ShiningPearlEntry": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",

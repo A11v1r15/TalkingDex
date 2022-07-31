@@ -4,8 +4,10 @@
   "ability1": "Swift Swim",
   "YEntry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
   "AlphaSapphireEntry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-  "AtkYield": 0,
   "HP": 75,
+  "Spe": 69,
+  "SpeYield": 0,
+  "XPYield": 134,
   "ability2": "Hydration",
   "tmTrMoves": [
     {
@@ -125,17 +127,13 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
   "number": 536,
-  "SpA": 65,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Water Absorb",
-  "HPYield": 2,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -195,10 +193,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Ground",
   "WhiteEntry": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+  "Def": 55,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 69,
+  "SpD": 55,
   "weight": "17.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
@@ -206,15 +207,15 @@
   "hasGalarian": false,
   "BlackEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
   "OmegaRubyEntry": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
-  "Def": 55,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Palpitoad",
+  "Atk": 65,
   "White2Entry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
   "SwordEntry": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Vibration Pokémon",
+  "HPYield": 2,
   "Black2Entry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
 }

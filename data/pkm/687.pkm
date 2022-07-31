@@ -4,8 +4,10 @@
   "ability1": "Contrary",
   "YEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
   "AlphaSapphireEntry": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
-  "AtkYield": 2,
   "HP": 86,
+  "Spe": 73,
+  "SpeYield": 0,
+  "XPYield": 169,
   "ability2": "Suction Cups",
   "tmTrMoves": [
     {
@@ -181,19 +183,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
   "UltraMoonEntry": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
   "number": 687,
-  "SpA": 68,
   "UltraSunEntry": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
-  "Atk": 92,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Infiltrator",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -261,22 +259,25 @@
       "lvl": "47"
     }
   ],
+  "DefYield": 0,
   "type2": "Psychic",
+  "Def": 88,
+  "SpA": 68,
   "eggGroup2": "Water 2",
-  "Spe": 73,
+  "SpD": 75,
   "weight": "47.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
   "OmegaRubyEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
-  "Def": 88,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Malamar",
+  "Atk": 92,
   "SwordEntry": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Overturning Pokémon"
+  "SpDYield": 0,
+  "category": "Overturning Pokémon",
+  "HPYield": 0
 }

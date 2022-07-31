@@ -2,8 +2,10 @@
   "ShieldEntry": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
   "extraMega": false,
   "ability1": "Blaze",
-  "AtkYield": 0,
   "HP": 80,
+  "Spe": 119,
+  "SpeYield": 3,
+  "XPYield": 265,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -195,16 +197,12 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 815,
-  "SpA": 65,
-  "Atk": 116,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Libero",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -268,21 +266,24 @@
       "lvl": "62"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 75,
+  "SpA": 65,
   "eggGroup2": "Human-Like",
-  "Spe": 119,
+  "SpD": 75,
   "weight": "33.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 75,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cinderace",
+  "Atk": 116,
   "SwordEntry": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",
-  "SpeYield": 3,
-  "SpD": 75,
-  "category": "Striker Pokémon"
+  "SpDYield": 0,
+  "category": "Striker Pokémon",
+  "HPYield": 0
 }

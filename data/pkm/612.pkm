@@ -4,8 +4,10 @@
   "ability1": "Rivalry",
   "YEntry": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
   "AlphaSapphireEntry": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
-  "AtkYield": 3,
   "HP": 76,
+  "Spe": 97,
+  "SpeYield": 0,
+  "XPYield": 270,
   "ability2": "Mold Breaker",
   "tmTrMoves": [
     {
@@ -205,17 +207,13 @@
       "technical": "TR77"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
   "number": 612,
-  "SpA": 60,
-  "Atk": 147,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Unnerve",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -291,10 +289,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+  "Def": 90,
+  "SpA": 60,
   "eggGroup2": "Dragon",
-  "Spe": 97,
+  "SpD": 70,
   "weight": "105.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
@@ -302,15 +303,15 @@
   "hasGalarian": false,
   "BlackEntry": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
   "OmegaRubyEntry": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
-  "Def": 90,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Haxorus",
+  "Atk": 147,
   "White2Entry": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
   "SwordEntry": "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
-  "SpeYield": 0,
-  "SpD": 70,
+  "SpDYield": 0,
   "category": "Axe Jaw Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time."
 }

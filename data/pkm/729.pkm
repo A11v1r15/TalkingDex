@@ -2,9 +2,11 @@
   "ShieldEntry": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.",
   "extraMega": false,
   "ability1": "Torrent",
-  "AtkYield": 0,
   "HP": 60,
   "SunEntry": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 147,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -144,19 +146,15 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "UltraMoonEntry": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
   "number": 729,
   "MoonEntry": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
-  "SpA": 91,
   "UltraSunEntry": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
-  "Atk": 69,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Liquid Voice",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -216,21 +214,24 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 69,
+  "SpA": 91,
   "eggGroup2": "Field",
-  "Spe": 50,
+  "SpD": 81,
   "weight": "17.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 69,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Brionne",
+  "Atk": 69,
   "SwordEntry": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.",
-  "SpeYield": 0,
-  "SpD": 81,
-  "category": "Pop Star Pokémon"
+  "SpDYield": 0,
+  "category": "Pop Star Pokémon",
+  "HPYield": 0
 }

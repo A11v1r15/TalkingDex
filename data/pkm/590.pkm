@@ -4,8 +4,10 @@
   "ability1": "Effect Spore",
   "YEntry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
   "AlphaSapphireEntry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
-  "AtkYield": 0,
   "HP": 69,
+  "Spe": 15,
+  "SpeYield": 0,
+  "XPYield": 59,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -97,7 +99,6 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -108,11 +109,8 @@
   ],
   "XEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
   "number": 590,
-  "SpA": 55,
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Regenerator",
-  "HPYield": 1,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -172,10 +170,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "Poison",
   "WhiteEntry": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+  "Def": 45,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 15,
+  "SpD": 55,
   "weight": "1.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
@@ -183,15 +184,15 @@
   "hasGalarian": false,
   "BlackEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
   "OmegaRubyEntry": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
-  "Def": 45,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Foongus",
+  "Atk": 55,
   "White2Entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
   "SwordEntry": "No one knows what the Poké Ball\u2013like pattern on Foongus means or why Foongus has it.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Mushroom Pokémon",
+  "HPYield": 1,
   "Black2Entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores."
 }

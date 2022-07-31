@@ -2,9 +2,11 @@
   "ShieldEntry": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
   "extraMega": false,
   "ability1": "Steelworker",
-  "AtkYield": 2,
   "HP": 70,
   "SunEntry": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 181,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -192,19 +194,15 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
   "number": 781,
   "MoonEntry": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
-  "SpA": 86,
   "UltraSunEntry": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord.",
-  "Atk": 131,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "3.9m",
   "lvlUpMoves": [
     {
@@ -280,21 +278,24 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "Grass",
+  "Def": 100,
+  "SpA": 86,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 90,
   "weight": "210.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 100,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dhelmise",
+  "Atk": 131,
   "SwordEntry": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Sea Creeper Pokémon"
+  "SpDYield": 0,
+  "category": "Sea Creeper Pokémon",
+  "HPYield": 0
 }

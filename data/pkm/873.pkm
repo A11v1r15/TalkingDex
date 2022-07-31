@@ -2,8 +2,10 @@
   "ShieldEntry": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
   "extraMega": false,
   "ability1": "Shield Dust",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 166,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -139,16 +141,12 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 873,
-  "SpA": 125,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Ice Scales",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -228,21 +226,24 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Bug",
+  "Def": 60,
+  "SpA": 125,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 90,
   "weight": "42.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Frosmoth",
+  "Atk": 65,
   "SwordEntry": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Frost Moth Pokémon"
+  "SpDYield": 0,
+  "category": "Frost Moth Pokémon",
+  "HPYield": 0
 }

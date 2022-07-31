@@ -4,8 +4,10 @@
   "ability1": "Shed Skin",
   "YEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "AlphaSapphireEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
-  "AtkYield": 0,
   "HP": 65,
+  "Spe": 58,
+  "SpeYield": 0,
+  "XPYield": 171,
   "ability2": "Moxie",
   "tmTrMoves": [
     {
@@ -237,19 +239,15 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
   "UltraMoonEntry": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
   "number": 560,
-  "SpA": 45,
   "UltraSunEntry": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
-  "Atk": 90,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Intimidate",
-  "HPYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -313,10 +311,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 1,
   "type2": "Fighting",
   "WhiteEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+  "Def": 115,
+  "SpA": 45,
   "eggGroup2": "Dragon",
-  "Spe": 58,
+  "SpD": 115,
   "weight": "30.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -324,15 +325,15 @@
   "hasGalarian": false,
   "BlackEntry": "Groups of them beat up anything that enter their territory. Each can spit acidic liquid from its mouth.",
   "OmegaRubyEntry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
-  "Def": 115,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Scrafty",
+  "Atk": 90,
   "White2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
   "SwordEntry": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
-  "SpeYield": 0,
-  "SpD": 115,
+  "SpDYield": 1,
   "category": "Hoodlum Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."
 }

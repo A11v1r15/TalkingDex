@@ -2,8 +2,10 @@
   "ShieldEntry": "Apparently the Dreepy inside Dragapult's horns eagerly look forward to being launched out at Mach speeds.",
   "extraMega": false,
   "ability1": "Clear Body",
-  "AtkYield": 0,
   "HP": 88,
+  "Spe": 142,
+  "SpeYield": 3,
+  "XPYield": 300,
   "ability2": "Infiltrator",
   "tmTrMoves": [
     {
@@ -199,16 +201,12 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 887,
-  "SpA": 100,
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Cursed Body",
-  "HPYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -292,21 +290,24 @@
       "lvl": "78"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
+  "Def": 75,
+  "SpA": 100,
   "eggGroup2": "Dragon",
-  "Spe": 142,
+  "SpD": 75,
   "weight": "50.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "Def": 75,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dragapult",
+  "Atk": 120,
   "SwordEntry": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
-  "SpeYield": 3,
-  "SpD": 75,
-  "category": "Stealth Pokémon"
+  "SpDYield": 0,
+  "category": "Stealth Pokémon",
+  "HPYield": 0
 }

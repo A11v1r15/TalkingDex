@@ -2,9 +2,11 @@
   "ShieldEntry": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc's fangs are always aimed toward opponents' weak spots.",
   "extraMega": false,
   "ability1": "Own Tempo",
-  "AtkYield": 2,
   "HP": 75,
   "SunEntry": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+  "Spe": 112,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "",
   "title": "Midday Form",
   "tmTrMoves": [
@@ -169,19 +171,15 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
   "number": 745,
   "MoonEntry": "When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.",
-  "SpA": 55,
   "UltraSunEntry": "The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.",
-  "Atk": 115,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -261,21 +259,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 65,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 112,
+  "SpD": 65,
   "weight": "25.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 65,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Lycanroc",
+  "Atk": 115,
   "SwordEntry": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.",
-  "SpeYield": 0,
-  "SpD": 65,
-  "category": "Wolf Pokémon"
+  "SpDYield": 0,
+  "category": "Wolf Pokémon",
+  "HPYield": 0
 }

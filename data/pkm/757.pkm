@@ -2,9 +2,11 @@
   "ShieldEntry": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
   "extraMega": false,
   "ability1": "Corrosion",
-  "AtkYield": 0,
   "HP": 48,
   "SunEntry": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+  "Spe": 77,
+  "SpeYield": 1,
+  "XPYield": 64,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -148,7 +150,6 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -160,12 +161,9 @@
   "UltraMoonEntry": "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn't deal well with Spinda, since it's always reeling.",
   "number": 757,
   "MoonEntry": "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.",
-  "SpA": 71,
   "UltraSunEntry": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can't evolve.",
-  "Atk": 44,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Oblivious",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -225,21 +223,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
+  "Def": 40,
+  "SpA": 71,
   "eggGroup2": "Dragon",
-  "Spe": 77,
+  "SpD": 40,
   "weight": "4.8kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 40,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Salandit",
+  "Atk": 44,
   "SwordEntry": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.",
-  "SpeYield": 1,
-  "SpD": 40,
-  "category": "Toxic Lizard Pokémon"
+  "SpDYield": 0,
+  "category": "Toxic Lizard Pokémon",
+  "HPYield": 0
 }

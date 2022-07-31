@@ -2,8 +2,10 @@
   "ShieldEntry": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
   "extraMega": false,
   "ability1": "Flash Fire",
-  "AtkYield": 2,
   "HP": 100,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 184,
   "ability2": "White Smoke",
   "tmTrMoves": [
     {
@@ -135,16 +137,12 @@
       "technical": "TR88"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 851,
-  "SpA": 90,
-  "Atk": 115,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Flame Body",
-  "HPYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -204,21 +202,24 @@
       "lvl": "67"
     }
   ],
+  "DefYield": 0,
   "type2": "Bug",
+  "Def": 65,
+  "SpA": 90,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 90,
   "weight": "120.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 65,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Centiskorch",
+  "Atk": 115,
   "SwordEntry": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Radiator Pokémon"
+  "SpDYield": 0,
+  "category": "Radiator Pokémon",
+  "HPYield": 0
 }

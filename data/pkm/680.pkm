@@ -4,8 +4,10 @@
   "ability1": "No Guard",
   "YEntry": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
   "AlphaSapphireEntry": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
-  "AtkYield": 0,
   "HP": 59,
+  "Spe": 35,
+  "SpeYield": 0,
+  "XPYield": 157,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -117,17 +119,13 @@
       "technical": "TR74"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
   "number": 680,
-  "SpA": 45,
-  "Atk": 110,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -187,22 +185,25 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Ghost",
+  "Def": 150,
+  "SpA": 45,
   "eggGroup2": "",
-  "Spe": 35,
+  "SpD": 49,
   "weight": "4.5kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
   "OmegaRubyEntry": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.",
-  "Def": 150,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Doublade",
+  "Atk": 110,
   "SwordEntry": "Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.",
-  "SpeYield": 0,
-  "SpD": 49,
-  "category": "Sword Pokémon"
+  "SpDYield": 0,
+  "category": "Sword Pokémon",
+  "HPYield": 0
 }

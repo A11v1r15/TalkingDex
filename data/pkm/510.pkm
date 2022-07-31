@@ -4,8 +4,10 @@
   "ability1": "Limber",
   "YEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
   "AlphaSapphireEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-  "AtkYield": 0,
   "HP": 64,
+  "Spe": 106,
+  "SpeYield": 2,
+  "XPYield": 156,
   "ability2": "Unburden",
   "tmTrMoves": [
     {
@@ -173,17 +175,13 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
   "number": 510,
-  "SpA": 88,
-  "Atk": 88,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Prankster",
-  "HPYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -235,10 +233,13 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+  "Def": 50,
+  "SpA": 88,
   "eggGroup2": "",
-  "Spe": 106,
+  "SpD": 50,
   "weight": "37.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -246,15 +247,15 @@
   "hasGalarian": false,
   "BlackEntry": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
   "OmegaRubyEntry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
-  "Def": 50,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Liepard",
+  "Atk": 88,
   "White2Entry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
   "SwordEntry": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
-  "SpeYield": 2,
-  "SpD": 50,
+  "SpDYield": 0,
   "category": "Cruel Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
 }

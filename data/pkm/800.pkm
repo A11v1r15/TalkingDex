@@ -2,9 +2,11 @@
   "ShieldEntry": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
   "extraMega": false,
   "ability1": "Prism Armor",
-  "AtkYield": 1,
   "HP": 97,
   "SunEntry": "Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
+  "Spe": 79,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -224,19 +226,15 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "Light is the source of its energy. If it isn't devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
   "number": 800,
   "MoonEntry": "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.",
-  "SpA": 127,
   "UltraSunEntry": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
-  "Atk": 107,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.4m",
   "lvlUpMoves": [
     {
@@ -308,21 +306,24 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 101,
+  "SpA": 127,
   "eggGroup2": "",
-  "Spe": 79,
+  "SpD": 89,
   "weight": "230.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 101,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Necrozma",
+  "Atk": 107,
   "SwordEntry": "It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.",
-  "SpeYield": 0,
-  "SpD": 89,
-  "category": "Prism Pokémon"
+  "SpDYield": 0,
+  "category": "Prism Pokémon",
+  "HPYield": 0
 }

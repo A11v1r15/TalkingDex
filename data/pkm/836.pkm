@@ -2,8 +2,10 @@
   "ShieldEntry": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
   "extraMega": false,
   "ability1": "Strong Jaw",
-  "AtkYield": 0,
   "HP": 69,
+  "Spe": 121,
+  "SpeYield": 2,
+  "XPYield": 172,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -143,16 +145,12 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [],
   "number": 836,
-  "SpA": 90,
-  "Atk": 90,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Competitive",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -208,21 +206,24 @@
       "lvl": "62"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 90,
   "eggGroup2": "",
-  "Spe": 121,
+  "SpD": 60,
   "weight": "34.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Boltund",
+  "Atk": 90,
   "SwordEntry": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
-  "SpeYield": 2,
-  "SpD": 60,
-  "category": "Dog Pokémon"
+  "SpDYield": 0,
+  "category": "Dog Pokémon",
+  "HPYield": 0
 }

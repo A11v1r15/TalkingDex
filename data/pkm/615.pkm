@@ -4,8 +4,10 @@
   "ability1": "Levitate",
   "YEntry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
   "AlphaSapphireEntry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
-  "AtkYield": 0,
   "HP": 80,
+  "Spe": 105,
+  "SpeYield": 0,
+  "XPYield": 180,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -105,17 +107,13 @@
       "technical": "TR70"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
   "eggMoves": [],
   "number": 615,
-  "SpA": 95,
-  "Atk": 50,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -199,10 +197,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+  "Def": 50,
+  "SpA": 95,
   "eggGroup2": "",
-  "Spe": 105,
+  "SpD": 135,
   "weight": "148.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -210,15 +211,15 @@
   "hasGalarian": false,
   "BlackEntry": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
   "OmegaRubyEntry": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
-  "Def": 50,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cryogonal",
+  "Atk": 50,
   "White2Entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
   "SwordEntry": "With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.",
-  "SpeYield": 0,
-  "SpD": 135,
+  "SpDYield": 2,
   "category": "Crystallizing Pokémon",
+  "HPYield": 0,
   "Black2Entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F."
 }

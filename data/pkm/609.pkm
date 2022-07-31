@@ -4,8 +4,10 @@
   "ability1": "Flash Fire",
   "YEntry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
   "AlphaSapphireEntry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 260,
   "ability2": "Flame Body",
   "tmTrMoves": [
     {
@@ -145,17 +147,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
   "number": 609,
-  "SpA": 145,
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Infiltrator",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -223,10 +221,13 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
   "WhiteEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+  "Def": 90,
+  "SpA": 145,
   "eggGroup2": "",
-  "Spe": 80,
+  "SpD": 90,
   "weight": "34.3kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
@@ -234,15 +235,15 @@
   "hasGalarian": false,
   "BlackEntry": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
   "OmegaRubyEntry": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
-  "Def": 90,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Chandelure",
+  "Atk": 55,
   "White2Entry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
   "SwordEntry": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
-  "SpeYield": 0,
-  "SpD": 90,
+  "SpDYield": 0,
   "category": "Luring Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The spirits burned up in its ominous flame lose their way and wander this world forever."
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
   "extraMega": false,
   "ability1": "Healer",
-  "AtkYield": 0,
   "HP": 57,
+  "Spe": 49,
+  "SpeYield": 0,
+  "XPYield": 130,
   "ability2": "Anticipation",
   "tmTrMoves": [
     {
@@ -123,16 +125,12 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 857,
-  "SpA": 86,
-  "Atk": 40,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Magic Bounce",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -188,21 +186,24 @@
       "lvl": "51"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 65,
+  "SpA": 86,
   "eggGroup2": "",
-  "Spe": 49,
+  "SpD": 73,
   "weight": "4.8kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 65,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Hattrem",
+  "Atk": 40,
   "SwordEntry": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
-  "SpeYield": 0,
-  "SpD": 73,
-  "category": "Serene Pokémon"
+  "SpDYield": 0,
+  "category": "Serene Pokémon",
+  "HPYield": 0
 }

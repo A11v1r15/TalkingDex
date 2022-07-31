@@ -4,9 +4,11 @@
   "ability1": "Aura Break",
   "YEntry": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
   "AlphaSapphireEntry": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
-  "AtkYield": 0,
   "HP": 108,
   "SunEntry": "This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.",
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "Power Construct",
   "title": "50% Forme",
   "tmTrMoves": [
@@ -167,7 +169,6 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
@@ -175,12 +176,9 @@
   "eggMoves": [],
   "number": 718,
   "MoonEntry": "It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.",
-  "SpA": 81,
   "UltraSunEntry": "This is Zygarde's form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "5.0m",
   "lvlUpMoves": [
     {
@@ -256,22 +254,25 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "Ground",
+  "Def": 121,
+  "SpA": 81,
   "eggGroup2": "",
-  "Spe": 95,
+  "SpD": 95,
   "weight": "305.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "OmegaRubyEntry": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
-  "Def": 121,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Zygarde",
+  "Atk": 100,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Order Pokémon"
+  "SpDYield": 0,
+  "category": "Order Pokémon",
+  "HPYield": 3
 }

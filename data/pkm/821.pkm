@@ -2,8 +2,10 @@
   "ShieldEntry": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
   "extraMega": false,
   "ability1": "Keen Eye",
-  "AtkYield": 0,
   "HP": 38,
+  "Spe": 57,
+  "SpeYield": 1,
+  "XPYield": 49,
   "ability2": "Unnerve",
   "tmTrMoves": [
     {
@@ -115,7 +117,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -128,11 +129,8 @@
     {"move": "Roost"}
   ],
   "number": 821,
-  "SpA": 33,
-  "Atk": 47,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Big Pecks",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -180,21 +178,24 @@
       "lvl": "36"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 35,
+  "SpA": 33,
   "eggGroup2": "",
-  "Spe": 57,
+  "SpD": 35,
   "weight": "1.8kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
-  "Def": 35,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Rookidee",
+  "Atk": 47,
   "SwordEntry": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle\u2014even a defeat increases its strength a bit.",
-  "SpeYield": 1,
-  "SpD": 35,
-  "category": "Tiny Bird Pokémon"
+  "SpDYield": 0,
+  "category": "Tiny Bird Pokémon",
+  "HPYield": 0
 }

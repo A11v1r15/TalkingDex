@@ -4,8 +4,10 @@
   "ability1": "Telepathy",
   "YEntry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "AlphaSapphireEntry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
-  "AtkYield": 0,
   "HP": 55,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 67,
   "ability2": "Synchronize",
   "tmTrMoves": [
     {
@@ -169,7 +171,6 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -181,12 +182,9 @@
   "XEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "UltraMoonEntry": "This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.",
   "number": 605,
-  "SpA": 85,
   "UltraSunEntry": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Analytic",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -242,10 +240,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
+  "Def": 55,
+  "SpA": 85,
   "eggGroup2": "",
-  "Spe": 30,
+  "SpD": 55,
   "weight": "9.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -253,15 +254,15 @@
   "hasGalarian": false,
   "BlackEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "OmegaRubyEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
-  "Def": 55,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Elgyem",
+  "Atk": 55,
   "White2Entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "SwordEntry": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Cerebral Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago."
 }

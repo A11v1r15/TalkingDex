@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 223,
   "SunEntry": "It has gobbled mountains and swallowed whole buildings, according to reports. It's one of the Ultra Beasts.",
+  "Spe": 43,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -196,19 +198,15 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "An unknown life-form called a UB. It may be constantly hungry\u2014it is certainly always devouring something.",
   "eggMoves": [],
   "number": 799,
   "MoonEntry": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
-  "SpA": 97,
   "UltraSunEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
-  "Atk": 101,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "5.5m",
   "lvlUpMoves": [
     {
@@ -280,21 +278,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 53,
+  "SpA": 97,
   "eggGroup2": "",
-  "Spe": 43,
+  "SpD": 53,
   "weight": "888.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
-  "Def": 53,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Guzzlord",
+  "Atk": 101,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 53,
-  "category": "Junkivore Pokémon"
+  "SpDYield": 0,
+  "category": "Junkivore Pokémon",
+  "HPYield": 3
 }

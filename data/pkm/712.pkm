@@ -4,8 +4,10 @@
   "ability1": "Own Tempo",
   "YEntry": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
   "AlphaSapphireEntry": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
-  "AtkYield": 0,
   "HP": 55,
+  "Spe": 28,
+  "SpeYield": 0,
+  "XPYield": 61,
   "ability2": "Ice Body",
   "tmTrMoves": [
     {
@@ -113,7 +115,6 @@
       "technical": "TR75"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -123,11 +124,8 @@
   ],
   "XEntry": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
   "number": 712,
-  "SpA": 32,
-  "Atk": 69,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Sturdy",
-  "HPYield": 0,
   "LegendsArceusEntry": "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense.",
   "height": "1.0m",
   "lvlUpMoves": [
@@ -196,22 +194,25 @@
       "lvl": "42"
     }
   ],
+  "DefYield": 1,
   "type2": "",
+  "Def": 85,
+  "SpA": 32,
   "eggGroup2": "Mineral",
-  "Spe": 28,
+  "SpD": 35,
   "weight": "99.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
   "OmegaRubyEntry": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
-  "Def": 85,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Bergmite",
+  "Atk": 69,
   "SwordEntry": "They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",
-  "SpeYield": 0,
-  "SpD": 35,
-  "category": "Ice Chunk Pokémon"
+  "SpDYield": 0,
+  "category": "Ice Chunk Pokémon",
+  "HPYield": 0
 }

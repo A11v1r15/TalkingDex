@@ -2,9 +2,11 @@
   "ShieldEntry": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
   "extraMega": false,
   "ability1": "Full Metal Body",
-  "AtkYield": 3,
   "HP": 137,
   "SunEntry": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+  "Spe": 97,
+  "SpeYield": 0,
+  "XPYield": 340,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -232,19 +234,15 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "In writings from the distant past, it's called by the name \u201cthe beast that devours the sun.\u201d",
   "number": 791,
   "MoonEntry": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world.",
-  "SpA": 113,
   "UltraSunEntry": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
-  "Atk": 137,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "3.4m",
   "lvlUpMoves": [
     {
@@ -320,21 +318,24 @@
       "lvl": "84"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
+  "Def": 107,
+  "SpA": 113,
   "eggGroup2": "",
-  "Spe": 97,
+  "SpD": 89,
   "weight": "230.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 107,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Solgaleo",
+  "Atk": 137,
   "SwordEntry": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
-  "SpeYield": 0,
-  "SpD": 89,
-  "category": "Sunne Pokémon"
+  "SpDYield": 0,
+  "category": "Sunne Pokémon",
+  "HPYield": 0
 }

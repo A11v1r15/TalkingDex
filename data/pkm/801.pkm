@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Soul-Heart",
-  "AtkYield": 0,
   "HP": 80,
   "SunEntry": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -192,19 +194,15 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
   "number": 801,
   "MoonEntry": "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
-  "SpA": 130,
   "UltraSunEntry": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
-  "Atk": 95,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -276,21 +274,24 @@
       "lvl": "90"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 115,
+  "SpA": 130,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 115,
   "weight": "80.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 115,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Magearna",
+  "Atk": 95,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 115,
-  "category": "Artificial Pokémon"
+  "SpDYield": 0,
+  "category": "Artificial Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
   "extraMega": false,
   "ability1": "Swarm",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 117,
   "ability2": "Compound Eyes",
   "tmTrMoves": [
     {
@@ -155,16 +157,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 825,
-  "SpA": 50,
-  "Atk": 35,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -196,21 +194,24 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "Psychic",
+  "Def": 80,
+  "SpA": 50,
   "eggGroup2": "",
-  "Spe": 30,
+  "SpD": 90,
   "weight": "19.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dottler",
+  "Atk": 35,
   "SwordEntry": "It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Radome Pokémon"
+  "SpDYield": 2,
+  "category": "Radome Pokémon",
+  "HPYield": 0
 }

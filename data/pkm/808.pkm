@@ -2,8 +2,10 @@
   "ShieldEntry": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
   "extraMega": false,
   "ability1": "Magnet Pull",
-  "AtkYield": 1,
   "HP": 46,
+  "Spe": 34,
+  "SpeYield": 0,
+  "XPYield": 150,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -59,16 +61,12 @@
       "technical": "TR70"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 808,
-  "SpA": 55,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -100,23 +98,26 @@
       "lvl": "40"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 65,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 34,
+  "SpD": 35,
   "weight": "8.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 65,
   "LetsGoEeveeEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "LetsGoPikachuEntry": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
   "name": "Meltan",
+  "Atk": 65,
   "SwordEntry": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
-  "SpeYield": 0,
-  "SpD": 35,
-  "category": "Hex Nut Pokémon"
+  "SpDYield": 0,
+  "category": "Hex Nut Pokémon",
+  "HPYield": 0
 }

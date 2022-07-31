@@ -2,9 +2,11 @@
   "ShieldEntry": "This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time.",
   "extraMega": false,
   "ability1": "Technician",
-  "AtkYield": 2,
   "HP": 90,
   "SunEntry": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
+  "Spe": 125,
+  "SpeYield": 1,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -220,19 +222,15 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "It sinks into the shadows of people and Pokémon, where it can understand their feelings and copy their capabilities.",
   "number": 802,
   "MoonEntry": "It lurks in the shadows of others, copying their movements and powers. This Pokémon is craven and cowering.",
-  "SpA": 90,
   "UltraSunEntry": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it's imitating.",
-  "Atk": 125,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -308,21 +306,24 @@
       "lvl": "99"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
+  "Def": 80,
+  "SpA": 90,
   "eggGroup2": "",
-  "Spe": 125,
+  "SpD": 90,
   "weight": "22.2kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Marshadow",
+  "Atk": 125,
   "SwordEntry": "By slipping into the shadow of a martial arts master and copying their movements, this Pokémon learned the ultimate techniques.",
-  "SpeYield": 1,
-  "SpD": 90,
-  "category": "Gloomdweller Pokémon"
+  "SpDYield": 0,
+  "category": "Gloomdweller Pokémon",
+  "HPYield": 0
 }

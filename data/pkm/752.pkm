@@ -2,9 +2,11 @@
   "ShieldEntry": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.",
   "extraMega": false,
   "ability1": "Water Bubble",
-  "AtkYield": 0,
   "HP": 68,
   "SunEntry": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+  "Spe": 42,
+  "SpeYield": 0,
+  "XPYield": 159,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -128,19 +130,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!",
   "number": 752,
   "MoonEntry": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.",
-  "SpA": 50,
   "UltraSunEntry": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
-  "Atk": 70,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Water Absorb",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -204,21 +202,24 @@
       "lvl": "62"
     }
   ],
+  "DefYield": 0,
   "type2": "Bug",
+  "Def": 92,
+  "SpA": 50,
   "eggGroup2": "Bug",
-  "Spe": 42,
+  "SpD": 132,
   "weight": "82.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 92,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Araquanid",
+  "Atk": 70,
   "SwordEntry": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
-  "SpeYield": 0,
-  "SpD": 132,
-  "category": "Water Bubble Pokémon"
+  "SpDYield": 2,
+  "category": "Water Bubble Pokémon",
+  "HPYield": 0
 }

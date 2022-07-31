@@ -2,8 +2,10 @@
   "ShieldEntry": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
   "extraMega": false,
   "ability1": "Volt Absorb",
-  "AtkYield": 2,
   "HP": 90,
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 177,
   "ability2": "Hustle",
   "tmTrMoves": [
     {
@@ -179,16 +181,12 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 880,
-  "SpA": 80,
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Sand Rush",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -244,21 +242,24 @@
       "lvl": "77"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 90,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 75,
+  "SpD": 70,
   "weight": "190.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dracozolt",
+  "Atk": 100,
   "SwordEntry": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Fossil Pokémon"
+  "SpDYield": 0,
+  "category": "Fossil Pokémon",
+  "HPYield": 0
 }

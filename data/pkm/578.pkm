@@ -4,8 +4,10 @@
   "ability1": "Overcoat",
   "YEntry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
   "AlphaSapphireEntry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
-  "AtkYield": 0,
   "HP": 65,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 130,
   "ability2": "Magic Guard",
   "tmTrMoves": [
     {
@@ -169,17 +171,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
   "number": 578,
-  "SpA": 125,
-  "Atk": 40,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Regenerator",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -243,10 +241,13 @@
       "lvl": "58"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+  "Def": 50,
+  "SpA": 125,
   "eggGroup2": "",
-  "Spe": 30,
+  "SpD": 60,
   "weight": "8.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
@@ -254,15 +255,15 @@
   "hasGalarian": false,
   "BlackEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
   "OmegaRubyEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
-  "Def": 50,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Duosion",
+  "Atk": 40,
   "White2Entry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
   "SwordEntry": "Its psychic power can supposedly cover a range of more than half a mile\u2014but only if its two brains can agree with each other.",
-  "SpeYield": 0,
-  "SpD": 60,
+  "SpDYield": 0,
   "category": "Mitosis Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When their two divided brains think the same thoughts, their psychic power is maximized."
 }

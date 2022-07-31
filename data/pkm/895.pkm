@@ -2,8 +2,10 @@
   "ShieldEntry": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
   "extraMega": false,
   "ability1": "Dragon's Maw",
-  "AtkYield": 0,
   "HP": 200,
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 290,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -103,16 +105,12 @@
       "technical": "TR62"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 895,
-  "SpA": 100,
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "2.1m",
   "lvlUpMoves": [
     {
@@ -176,21 +174,24 @@
       "lvl": "78"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 50,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 80,
+  "SpD": 50,
   "weight": "200.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "Def": 50,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Regidrago",
+  "Atk": 100,
   "SwordEntry": "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
-  "SpeYield": 0,
-  "SpD": 50,
-  "category": "Dragon Orb Pokémon"
+  "SpDYield": 0,
+  "category": "Dragon Orb Pokémon",
+  "HPYield": 3
 }

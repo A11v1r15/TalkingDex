@@ -2,8 +2,10 @@
   "ShieldEntry": "Its tentacles tear off easily, but it isn't alarmed when that happens\u2014it knows they'll grow back. It's about as smart as a three-year-old.",
   "extraMega": false,
   "ability1": "Limber",
-  "AtkYield": 1,
   "HP": 50,
+  "Spe": 32,
+  "SpeYield": 0,
+  "XPYield": 62,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -123,7 +125,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -135,11 +136,8 @@
     {"move": "Power"}
   ],
   "number": 852,
-  "SpA": 50,
-  "Atk": 68,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Technician",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -187,21 +185,24 @@
       "lvl": "45"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 50,
   "eggGroup2": "Human-Like",
-  "Spe": 32,
+  "SpD": 50,
   "weight": "4.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Clobbopus",
+  "Atk": 68,
   "SwordEntry": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
-  "SpeYield": 0,
-  "SpD": 50,
-  "category": "Tantrum Pokémon"
+  "SpDYield": 0,
+  "category": "Tantrum Pokémon",
+  "HPYield": 0
 }

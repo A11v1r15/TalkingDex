@@ -4,8 +4,10 @@
   "ability1": "Frisk",
   "YEntry": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
   "AlphaSapphireEntry": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 55,
+  "SpeYield": 1,
+  "XPYield": 49,
   "ability2": "Infiltrator",
   "tmTrMoves": [
     {
@@ -153,7 +155,6 @@
       "technical": "TR89"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -163,12 +164,9 @@
   "XEntry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
   "UltraMoonEntry": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.",
   "number": 714,
-  "SpA": 45,
   "UltraSunEntry": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.",
-  "Atk": 30,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -232,22 +230,25 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 35,
+  "SpA": 45,
   "eggGroup2": "Dragon",
-  "Spe": 55,
+  "SpD": 40,
   "weight": "8.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
   "OmegaRubyEntry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
-  "Def": 35,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Noibat",
+  "Atk": 30,
   "SwordEntry": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",
-  "SpeYield": 1,
-  "SpD": 40,
-  "category": "Sound Wave Pokémon"
+  "SpDYield": 0,
+  "category": "Sound Wave Pokémon",
+  "HPYield": 0
 }

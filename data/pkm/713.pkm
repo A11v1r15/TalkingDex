@@ -4,8 +4,10 @@
   "ability1": "Own Tempo",
   "YEntry": "The way several Bergmite huddle on its back make it look like an aircraft carrier made of ice.",
   "AlphaSapphireEntry": "The way several Bergmite huddle on its back make it look like an aircraft carrier made of ice.",
-  "AtkYield": 0,
   "HP": 95,
+  "Spe": 28,
+  "SpeYield": 0,
+  "XPYield": 180,
   "ability2": "Ice Body",
   "tmTrMoves": [
     {
@@ -161,17 +163,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
   "number": 713,
-  "SpA": 44,
-  "Atk": 117,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Sturdy",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -255,22 +253,25 @@
       "lvl": "51"
     }
   ],
+  "DefYield": 2,
   "type2": "",
+  "Def": 184,
+  "SpA": 44,
   "eggGroup2": "Mineral",
-  "Spe": 28,
+  "SpD": 46,
   "weight": "505.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
   "OmegaRubyEntry": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
-  "Def": 184,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Avalugg",
+  "Atk": 117,
   "SwordEntry": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",
-  "SpeYield": 0,
-  "SpD": 46,
-  "category": "Iceberg Pokémon"
+  "SpDYield": 0,
+  "category": "Iceberg Pokémon",
+  "HPYield": 0
 }

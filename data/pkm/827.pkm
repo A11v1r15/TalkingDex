@@ -2,8 +2,10 @@
   "ShieldEntry": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
   "extraMega": false,
   "ability1": "Run Away",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 49,
   "ability2": "Unburden",
   "tmTrMoves": [
     {
@@ -107,7 +109,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -117,11 +118,8 @@
     {"move": "Torment"}
   ],
   "number": 827,
-  "SpA": 47,
-  "Atk": 28,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Stakeout",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -169,21 +167,24 @@
       "lvl": "36"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 28,
+  "SpA": 47,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 52,
   "weight": "8.9kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
-  "Def": 28,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Nickit",
+  "Atk": 28,
   "SwordEntry": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
-  "SpeYield": 0,
-  "SpD": 52,
-  "category": "Fox Pokémon"
+  "SpDYield": 1,
+  "category": "Fox Pokémon",
+  "HPYield": 0
 }

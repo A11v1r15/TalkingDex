@@ -4,8 +4,10 @@
   "ability1": "Illusion",
   "YEntry": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
   "AlphaSapphireEntry": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 66,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -165,7 +167,6 @@
       "technical": "TR81"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -179,12 +180,9 @@
   "XEntry": "It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.",
   "UltraMoonEntry": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
   "number": 570,
-  "SpA": 80,
   "UltraSunEntry": "This Pokémon has a cowardly disposition, so when it's not around friends, it basically always stays transformed as something else.",
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -244,10 +242,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+  "Def": 40,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 40,
   "weight": "12.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -255,15 +256,15 @@
   "hasGalarian": false,
   "BlackEntry": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
   "OmegaRubyEntry": "It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.",
-  "Def": 40,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Zorua",
+  "Atk": 65,
   "White2Entry": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
   "SwordEntry": "Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.",
-  "SpeYield": 0,
-  "SpD": 40,
+  "SpDYield": 0,
   "category": "Tricky Fox Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee."
 }

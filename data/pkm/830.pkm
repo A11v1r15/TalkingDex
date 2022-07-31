@@ -2,8 +2,10 @@
   "ShieldEntry": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
   "extraMega": false,
   "ability1": "Cotton Down",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 161,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -115,16 +117,12 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 830,
-  "SpA": 80,
-  "Atk": 50,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Effect Spore",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -184,21 +182,24 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 90,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 120,
   "weight": "2.5kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Eldegoss",
+  "Atk": 50,
   "SwordEntry": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
-  "SpeYield": 0,
-  "SpD": 120,
-  "category": "Cotton Bloom Pokémon"
+  "SpDYield": 2,
+  "category": "Cotton Bloom Pokémon",
+  "HPYield": 0
 }

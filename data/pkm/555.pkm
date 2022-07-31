@@ -4,8 +4,10 @@
   "ability1": "Sheer Force",
   "YEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
   "AlphaSapphireEntry": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
-  "AtkYield": 2,
   "HP": 105,
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 189,
   "ability2": "",
   "title": "Standard Mode",
   "tmTrMoves": [
@@ -238,17 +240,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
   "number": 555,
-  "SpA": 30,
-  "Atk": 140,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Zen Mode",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -316,10 +314,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+  "Def": 55,
+  "SpA": 30,
   "eggGroup2": "",
-  "Spe": 95,
+  "SpD": 55,
   "weight": "92.9kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -327,15 +328,15 @@
   "hasGalarian": true,
   "BlackEntry": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
   "OmegaRubyEntry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
-  "Def": 55,
   "colour": "Red",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAYield": 2,
   "name": "Darmanitan",
+  "Atk": 140,
   "White2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
   "SwordEntry": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Blazing Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
 }

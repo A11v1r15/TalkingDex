@@ -2,9 +2,11 @@
   "ShieldEntry": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
   "extraMega": false,
   "ability1": "Wimp Out",
-  "AtkYield": 0,
   "HP": 25,
   "SunEntry": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+  "Spe": 80,
+  "SpeYield": 1,
+  "XPYield": 46,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -96,7 +98,6 @@
       "technical": "TR84"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -109,12 +110,9 @@
   "UltraMoonEntry": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
   "number": 767,
   "MoonEntry": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
-  "SpA": 20,
   "UltraSunEntry": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
-  "Atk": 35,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -130,21 +128,24 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "Water",
+  "Def": 40,
+  "SpA": 20,
   "eggGroup2": "Water 3",
-  "Spe": 80,
+  "SpD": 30,
   "weight": "12.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 40,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Wimpod",
+  "Atk": 35,
   "SwordEntry": "It's nature's cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
-  "SpeYield": 1,
-  "SpD": 30,
-  "category": "Turn Tail Pokémon"
+  "SpDYield": 0,
+  "category": "Turn Tail Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
   "extraMega": false,
   "ability1": "Water Absorb",
-  "AtkYield": 0,
   "HP": 90,
+  "Spe": 55,
+  "SpeYield": 0,
+  "XPYield": 177,
   "ability2": "Ice Body",
   "tmTrMoves": [
     {
@@ -147,16 +149,12 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 883,
-  "SpA": 80,
-  "Atk": 90,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Slush Rush",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -212,21 +210,24 @@
       "lvl": "77"
     }
   ],
+  "DefYield": 2,
   "type2": "Ice",
+  "Def": 100,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 55,
+  "SpD": 90,
   "weight": "175.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 100,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Arctovish",
+  "Atk": 90,
   "SwordEntry": "Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Fossil Pokémon"
+  "SpDYield": 0,
+  "category": "Fossil Pokémon",
+  "HPYield": 0
 }

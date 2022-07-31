@@ -4,8 +4,10 @@
   "ability1": "Pressure",
   "YEntry": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
   "AlphaSapphireEntry": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
-  "AtkYield": 1,
   "HP": 125,
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 350,
   "ability2": "",
   "title": "Normal Kyurem",
   "tmTrMoves": [
@@ -202,17 +204,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "number": 646,
-  "SpA": 130,
-  "Atk": 130,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "",
-  "HPYield": 1,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -276,10 +274,13 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "Ice",
   "WhiteEntry": "It can produce ultracold air. Its body is frozen.",
+  "Def": 90,
+  "SpA": 130,
   "eggGroup2": "",
-  "Spe": 95,
+  "SpD": 90,
   "weight": "325.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -287,15 +288,15 @@
   "hasGalarian": false,
   "BlackEntry": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
   "OmegaRubyEntry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
-  "Def": 90,
   "colour": "Gray",
   "hasAlolan": false,
-  "SpAYield": 1,
+  "SpAYield": 0,
   "name": "Kyurem",
+  "Atk": 130,
   "White2Entry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "SwordEntry": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
-  "SpeYield": 0,
-  "SpD": 90,
+  "SpDYield": 0,
   "category": "Boundary Pokémon",
+  "HPYield": 0,
   "Black2Entry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals."
 }

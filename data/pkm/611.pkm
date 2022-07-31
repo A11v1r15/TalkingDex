@@ -4,8 +4,10 @@
   "ability1": "Rivalry",
   "YEntry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
   "AlphaSapphireEntry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
-  "AtkYield": 2,
   "HP": 66,
+  "Spe": 67,
+  "SpeYield": 0,
+  "XPYield": 144,
   "ability2": "Mold Breaker",
   "tmTrMoves": [
     {
@@ -157,17 +159,13 @@
       "technical": "TR62"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
   "number": 611,
-  "SpA": 40,
-  "Atk": 117,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Unnerve",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -243,10 +241,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+  "Def": 70,
+  "SpA": 40,
   "eggGroup2": "Dragon",
-  "Spe": 67,
+  "SpD": 50,
   "weight": "36.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
@@ -254,15 +255,15 @@
   "hasGalarian": false,
   "BlackEntry": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
   "OmegaRubyEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
-  "Def": 70,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Fraxure",
+  "Atk": 117,
   "White2Entry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
   "SwordEntry": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks\u2014if one breaks, it will never grow back.",
-  "SpeYield": 0,
-  "SpD": 50,
+  "SpDYield": 0,
   "category": "Axe Jaw Pokémon",
+  "HPYield": 0,
   "Black2Entry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
 }

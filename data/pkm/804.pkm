@@ -2,8 +2,10 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 73,
+  "Spe": 121,
+  "SpeYield": 0,
+  "XPYield": 270,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -207,18 +209,14 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
   "eggMoves": [],
   "number": 804,
-  "SpA": 127,
   "UltraSunEntry": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
-  "Atk": 73,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "3.6m",
   "lvlUpMoves": [
     {
@@ -294,21 +292,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 73,
+  "SpA": 127,
   "eggGroup2": "",
-  "Spe": 121,
+  "SpD": 73,
   "weight": "150.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 73,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Naganadel",
+  "Atk": 73,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 73,
-  "category": "Poison Pin Pokémon"
+  "SpDYield": 0,
+  "category": "Poison Pin Pokémon",
+  "HPYield": 0
 }

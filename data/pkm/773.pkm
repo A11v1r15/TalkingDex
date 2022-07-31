@@ -2,9 +2,11 @@
   "ShieldEntry": "The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.",
   "extraMega": false,
   "ability1": "RKS System",
-  "AtkYield": 0,
   "HP": 95,
   "SunEntry": "Its trust in its partner is what awakens it. This Pokémon is capable of changing its type, a flexibility that is well displayed in battle.",
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -208,19 +210,15 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.",
   "number": 773,
   "MoonEntry": "Although its name was Type: Null at first, the boy who evolved it into this form gave it the name by which it is now known.",
-  "SpA": 95,
   "UltraSunEntry": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
-  "Atk": 95,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "2.3m",
   "lvlUpMoves": [
     {
@@ -316,21 +314,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 95,
+  "SpA": 95,
   "eggGroup2": "",
-  "Spe": 95,
+  "SpD": 95,
   "weight": "100.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Silvally",
+  "Atk": 95,
   "SwordEntry": "A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Synthetic Pokémon"
+  "SpDYield": 0,
+  "category": "Synthetic Pokémon",
+  "HPYield": 3
 }

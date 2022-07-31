@@ -2,8 +2,10 @@
   "ShieldEntry": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
   "extraMega": false,
   "ability1": "Cotton Down",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 10,
+  "SpeYield": 0,
+  "XPYield": 50,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -99,7 +101,6 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -111,11 +112,8 @@
     {"move": "Sleep Powder"}
   ],
   "number": 829,
-  "SpA": 40,
-  "Atk": 40,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Effect Spore",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -163,21 +161,24 @@
       "lvl": "36"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 10,
+  "SpD": 60,
   "weight": "2.2kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Gossifleur",
+  "Atk": 40,
   "SwordEntry": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Flowering Pokémon"
+  "SpDYield": 1,
+  "category": "Flowering Pokémon",
+  "HPYield": 0
 }

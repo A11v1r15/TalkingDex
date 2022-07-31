@@ -2,8 +2,10 @@
   "ShieldEntry": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
   "extraMega": false,
   "ability1": "Shield Dust",
-  "AtkYield": 0,
   "HP": 30,
+  "Spe": 20,
+  "SpeYield": 0,
+  "XPYield": 37,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -55,7 +57,6 @@
       "technical": "TR61"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -64,11 +65,8 @@
     {"move": "Bug Bite"}
   ],
   "number": 872,
-  "SpA": 45,
-  "Atk": 25,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Ice Scales",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -80,21 +78,24 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "Bug",
+  "Def": 35,
+  "SpA": 45,
   "eggGroup2": "",
-  "Spe": 20,
+  "SpD": 30,
   "weight": "3.8kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
-  "Def": 35,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Snom",
+  "Atk": 25,
   "SwordEntry": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
-  "SpeYield": 0,
-  "SpD": 30,
-  "category": "Worm Pokémon"
+  "SpDYield": 0,
+  "category": "Worm Pokémon",
+  "HPYield": 0
 }

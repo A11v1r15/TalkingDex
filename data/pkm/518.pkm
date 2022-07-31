@@ -4,8 +4,10 @@
   "ability1": "Forewarn",
   "YEntry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "AlphaSapphireEntry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
-  "AtkYield": 0,
   "HP": 116,
+  "Spe": 29,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Synchronize",
   "tmTrMoves": [
     {
@@ -169,17 +171,13 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [],
   "XEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
   "number": 518,
-  "SpA": 107,
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "HPYield": 2,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -247,10 +245,13 @@
       "lvl": "1"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
+  "Def": 85,
+  "SpA": 107,
   "eggGroup2": "",
-  "Spe": 29,
+  "SpD": 95,
   "weight": "60.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -258,15 +259,15 @@
   "hasGalarian": false,
   "BlackEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
   "OmegaRubyEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
-  "Def": 85,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Musharna",
+  "Atk": 55,
   "White2Entry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "SwordEntry": "When dark mists emanate from its body, don't get too near. If you do, your nightmares will become reality.",
-  "SpeYield": 0,
-  "SpD": 95,
+  "SpDYield": 0,
   "category": "Drowsing Pokémon",
+  "HPYield": 2,
   "Black2Entry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."
 }

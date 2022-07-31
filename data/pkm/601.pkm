@@ -4,8 +4,10 @@
   "ability1": "Plus",
   "YEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
   "AlphaSapphireEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 90,
+  "SpeYield": 0,
+  "XPYield": 260,
   "ability2": "Minus",
   "tmTrMoves": [
     {
@@ -109,17 +111,13 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
   "number": 601,
-  "SpA": 70,
-  "Atk": 100,
-  "DefYield": 3,
+  "AtkYield": 0,
   "abilityHidden": "Clear Body",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -191,10 +189,13 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 3,
   "type2": "",
   "WhiteEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+  "Def": 115,
+  "SpA": 70,
   "eggGroup2": "",
-  "Spe": 90,
+  "SpD": 85,
   "weight": "81.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -202,15 +203,15 @@
   "hasGalarian": false,
   "BlackEntry": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
   "OmegaRubyEntry": "The gear with the red core is rotated at high speed for a rapid energy charge.",
-  "Def": 115,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Klinklang",
+  "Atk": 100,
   "White2Entry": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
   "SwordEntry": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
-  "SpeYield": 0,
-  "SpD": 85,
+  "SpDYield": 0,
   "category": "Gear Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire."
 }

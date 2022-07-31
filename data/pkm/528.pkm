@@ -4,8 +4,10 @@
   "ability1": "Unaware",
   "YEntry": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
   "AlphaSapphireEntry": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
-  "AtkYield": 0,
   "HP": 67,
+  "Spe": 114,
+  "SpeYield": 2,
+  "XPYield": 149,
   "ability2": "Klutz",
   "tmTrMoves": [
     {
@@ -217,17 +219,13 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
   "number": 528,
-  "SpA": 77,
-  "Atk": 57,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Simple",
-  "HPYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -283,10 +281,13 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+  "Def": 55,
+  "SpA": 77,
   "eggGroup2": "Flying",
-  "Spe": 114,
+  "SpD": 55,
   "weight": "10.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -294,15 +295,15 @@
   "hasGalarian": false,
   "BlackEntry": "It emits sound waves of various frequencies from its nose including some powerful enough to destroy rocks.",
   "OmegaRubyEntry": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
-  "Def": 55,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Swoobat",
+  "Atk": 57,
   "White2Entry": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
   "SwordEntry": "Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.",
-  "SpeYield": 2,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Courting Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble."
 }

@@ -4,8 +4,10 @@
   "ability1": "Tough Claws",
   "YEntry": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
   "AlphaSapphireEntry": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
-  "AtkYield": 2,
   "HP": 72,
+  "Spe": 68,
+  "SpeYield": 0,
+  "XPYield": 175,
   "ability2": "Sniper",
   "tmTrMoves": [
     {
@@ -245,17 +247,13 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
   "number": 689,
-  "SpA": 54,
-  "Atk": 105,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Pickpocket",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -319,22 +317,25 @@
       "lvl": "54"
     }
   ],
+  "DefYield": 0,
   "type2": "Water",
+  "Def": 115,
+  "SpA": 54,
   "eggGroup2": "",
-  "Spe": 68,
+  "SpD": 86,
   "weight": "96.0kg",
   "eggGroup1": "Water 3",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
-  "Def": 115,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Barbaracle",
+  "Atk": 105,
   "SwordEntry": "Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.",
-  "SpeYield": 0,
-  "SpD": 86,
-  "category": "Collective Pokémon"
+  "SpDYield": 0,
+  "category": "Collective Pokémon",
+  "HPYield": 0
 }

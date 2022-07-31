@@ -2,9 +2,11 @@
   "ShieldEntry": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
   "extraMega": false,
   "ability1": "Bulletproof",
-  "AtkYield": 0,
   "HP": 55,
   "SunEntry": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 147,
   "ability2": "Soundproof",
   "tmTrMoves": [
     {
@@ -180,19 +182,15 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.",
   "number": 783,
   "MoonEntry": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
-  "SpA": 65,
   "UltraSunEntry": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
-  "Atk": 75,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Overcoat",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -256,21 +254,24 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Fighting",
+  "Def": 90,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 70,
   "weight": "47.0kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Hakamo-o",
+  "Atk": 75,
   "SwordEntry": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Scaly Pokémon"
+  "SpDYield": 0,
+  "category": "Scaly Pokémon",
+  "HPYield": 0
 }

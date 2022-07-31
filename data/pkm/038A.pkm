@@ -1,88 +1,9 @@
 {
-  "lvlUpMoves": [
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "1"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "1"
-    },
-    {
-      "move": "Spite",
-      "lvl": "1"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "1"
-    },
-    {
-      "move": "Mist",
-      "lvl": "1"
-    },
-    {
-      "move": "Aurora Veil",
-      "lvl": "1"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "1"
-    },
-    {
-      "move": "Grudge",
-      "lvl": "1"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Disable",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "1"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": ""
-    }
-  ],
   "ability1": "Snow Cloak",
-  "type2": "Fairy",
-  "eggGroup2": "",
-  "Spe": 109,
   "HP": 73,
-  "eggGroup1": "Field",
+  "Spe": 109,
+  "SpeYield": 2,
+  "XPYield": 177,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -262,8 +183,6 @@
       "technical": "TR92"
     }
   ],
-  "type1": "Ice",
-  "Def": 75,
   "eggMoves": [
     {"move": "Baby-Doll Eyes"},
     {"move": "Flail"},
@@ -274,10 +193,98 @@
     {"move": "Roar"}
   ],
   "number": 38,
+  "AtkYield": 0,
+  "abilityHidden": "Snow Warning",
+  "LegendsArceusEntry": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths-it then guides them back down to the mountain's base.",
+  "lvlUpMoves": [
+    {
+      "move": "Dazzling Gleam",
+      "lvl": "1"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "1"
+    },
+    {
+      "move": "Spite",
+      "lvl": "1"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "1"
+    },
+    {
+      "move": "Confuse Ray",
+      "lvl": "1"
+    },
+    {
+      "move": "Aurora Beam",
+      "lvl": "1"
+    },
+    {
+      "move": "Extrasensory",
+      "lvl": "1"
+    },
+    {
+      "move": "Ice Beam",
+      "lvl": "1"
+    },
+    {
+      "move": "Imprison",
+      "lvl": "1"
+    },
+    {
+      "move": "Mist",
+      "lvl": "1"
+    },
+    {
+      "move": "Aurora Veil",
+      "lvl": "1"
+    },
+    {
+      "move": "Sheer Cold",
+      "lvl": "1"
+    },
+    {
+      "move": "Grudge",
+      "lvl": "1"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "1"
+    },
+    {
+      "move": "Powder Snow",
+      "lvl": "1"
+    },
+    {
+      "move": "Tail Whip",
+      "lvl": "1"
+    },
+    {
+      "move": "Disable",
+      "lvl": "1"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "1"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "lvl": ""
+    }
+  ],
+  "type2": "Fairy",
+  "DefYield": 0,
+  "Def": 75,
+  "eggGroup2": "",
   "SpA": 81,
+  "SpD": 100,
+  "eggGroup1": "Field",
+  "type1": "Ice",
+  "SpAYield": 0,
   "name": "Alolan Ninetales",
   "Atk": 67,
-  "abilityHidden": "Snow Warning",
-  "SpD": 100,
-  "LegendsArceusEntry": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths-it then guides them back down to the mountain's base."
+  "SpDYield": 0,
+  "HPYield": 0
 }

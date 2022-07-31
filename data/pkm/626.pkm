@@ -4,8 +4,10 @@
   "ability1": "Reckless",
   "YEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
   "AlphaSapphireEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
-  "AtkYield": 2,
   "HP": 95,
+  "Spe": 55,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "Sap Sipper",
   "tmTrMoves": [
     {
@@ -185,7 +187,6 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -199,11 +200,8 @@
   ],
   "XEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
   "number": 626,
-  "SpA": 40,
-  "Atk": 110,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Soundproof",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -259,10 +257,13 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+  "Def": 95,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 55,
+  "SpD": 95,
   "weight": "94.6kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -270,15 +271,15 @@
   "hasGalarian": false,
   "BlackEntry": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
   "OmegaRubyEntry": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
-  "Def": 95,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Bouffalant",
+  "Atk": 110,
   "White2Entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
   "SwordEntry": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
-  "SpeYield": 0,
-  "SpD": 95,
+  "SpDYield": 0,
   "category": "Bash Buffalo Pokémon",
+  "HPYield": 0,
   "Black2Entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying."
 }

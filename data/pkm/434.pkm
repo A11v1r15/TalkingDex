@@ -1,8 +1,8 @@
 {
   "ability1": "Stench",
   "AlphaSapphireEntry": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
-  "AtkYield": 0,
   "HP": 63,
+  "Spe": 74,
   "ability2": "Aftermath",
   "eggMoves": [
     {"move": "Leer"},
@@ -13,29 +13,28 @@
     {"move": "Slash"}
   ],
   "number": 434,
-  "SpA": 41,
-  "Atk": 63,
   "LegendsArceusEntry": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss.",
   "height": "0.4m",
   "type2": "Dark",
   "WhiteEntry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
   "eggGroup2": "",
-  "Spe": 74,
   "weight": "19.2kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 47,
   "hasAlolan": false,
+  "SpAYield": 0,
   "DiamondEntry": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
   "name": "Stunky",
-  "SpeYield": 1,
-  "SpD": 41,
+  "SpDYield": 0,
+  "HPYield": 0,
   "ShieldEntry": "If it lifts its tail and points its rear at you, beware. It's about to spray you with a fluid stinky enough to make you faint.",
   "extraMega": false,
   "HearthGoldEntry": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.",
   "YEntry": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+  "SpeYield": 1,
+  "XPYield": 66,
   "tmTrMoves": [
     {
       "move": "Dig",
@@ -186,15 +185,13 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
   "BrilliantDiamondEntry": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+  "AtkYield": 0,
   "PlatinumEntry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
-  "DefYield": 0,
   "abilityHidden": "Keen Eye",
-  "HPYield": 0,
   "lvlUpMoves": [
     {
       "move": "Poison Gas",
@@ -265,11 +262,15 @@
       "lvl": "45"
     }
   ],
+  "DefYield": 0,
+  "Def": 47,
+  "SpA": 41,
+  "SpD": 41,
   "BlackEntry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
   "OmegaRubyEntry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
   "colour": "Purple",
-  "SpAYield": 0,
   "SoulsilverEntry": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.",
+  "Atk": 63,
   "White2Entry": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
   "SwordEntry": "From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away.",
   "ShiningPearlEntry": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",

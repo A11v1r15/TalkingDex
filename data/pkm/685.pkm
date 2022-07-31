@@ -4,8 +4,10 @@
   "ability1": "Sweet Veil",
   "YEntry": "Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!",
   "AlphaSapphireEntry": "Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!",
-  "AtkYield": 0,
   "HP": 82,
+  "Spe": 72,
+  "SpeYield": 0,
+  "XPYield": 168,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -137,17 +139,13 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
   "number": 685,
-  "SpA": 85,
-  "Atk": 80,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Unburden",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -215,22 +213,25 @@
       "lvl": "42"
     }
   ],
+  "DefYield": 2,
   "type2": "",
+  "Def": 86,
+  "SpA": 85,
   "eggGroup2": "",
-  "Spe": 72,
+  "SpD": 75,
   "weight": "5.0kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
   "OmegaRubyEntry": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
-  "Def": 86,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Slurpuff",
+  "Atk": 80,
   "SwordEntry": "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Meringue Pokémon"
+  "SpDYield": 0,
+  "category": "Meringue Pokémon",
+  "HPYield": 0
 }

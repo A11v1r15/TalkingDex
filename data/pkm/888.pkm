@@ -2,8 +2,10 @@
   "ShieldEntry": "This Pokémon has slumbered for many years. Some say it's Zamazenta's elder sister\u2014others say the two Pokémon are rivals.",
   "extraMega": false,
   "ability1": "Intrepid Sword",
-  "AtkYield": 0,
   "HP": 92,
+  "Spe": 138,
+  "SpeYield": 3,
+  "XPYield": 335,
   "ability2": "",
   "title": "Hero of Many Battles",
   "tmTrMoves": [
@@ -180,16 +182,12 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 888,
-  "SpA": 80,
-  "Atk": 130,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.8m",
   "lvlUpMoves": [
     {
@@ -249,21 +247,24 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
+  "Def": 115,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 138,
+  "SpD": 115,
   "weight": "110.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
-  "Def": 115,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Zacian",
+  "Atk": 130,
   "SwordEntry": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",
-  "SpeYield": 3,
-  "SpD": 115,
-  "category": "Warrior Pokémon"
+  "SpDYield": 0,
+  "category": "Warrior Pokémon",
+  "HPYield": 0
 }

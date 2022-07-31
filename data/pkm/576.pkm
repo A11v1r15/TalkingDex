@@ -4,8 +4,10 @@
   "ability1": "Frisk",
   "YEntry": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
   "AlphaSapphireEntry": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 245,
   "ability2": "Competitive",
   "tmTrMoves": [
     {
@@ -205,17 +207,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 3,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
   "number": 576,
-  "SpA": 95,
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Shadow Tag",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -275,10 +273,13 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+  "Def": 95,
+  "SpA": 95,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 110,
   "weight": "44.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -286,15 +287,15 @@
   "hasGalarian": false,
   "BlackEntry": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
   "OmegaRubyEntry": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
-  "Def": 95,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Gothitelle",
+  "Atk": 55,
   "White2Entry": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.",
   "SwordEntry": "It has tremendous psychic power, but it dislikes conflict. It's also able to predict the future based on the movement of the stars.",
-  "SpeYield": 0,
-  "SpD": 110,
+  "SpDYield": 3,
   "category": "Astral Body Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness."
 }

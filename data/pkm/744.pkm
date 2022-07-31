@@ -2,9 +2,11 @@
   "ShieldEntry": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
   "extraMega": false,
   "ability1": "Keen Eye",
-  "AtkYield": 1,
   "HP": 45,
   "SunEntry": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 56,
   "ability2": "Vital Spirit",
   "tmTrMoves": [
     {
@@ -120,7 +122,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -131,12 +132,9 @@
   "UltraMoonEntry": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
   "number": 744,
   "MoonEntry": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
-  "SpA": 30,
   "UltraSunEntry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Steadfast",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -196,21 +194,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 40,
+  "SpA": 30,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 40,
   "weight": "9.2kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 40,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Rockruff",
+  "Atk": 65,
   "SwordEntry": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
-  "SpeYield": 0,
-  "SpD": 40,
-  "category": "Puppy Pokémon"
+  "SpDYield": 0,
+  "category": "Puppy Pokémon",
+  "HPYield": 0
 }

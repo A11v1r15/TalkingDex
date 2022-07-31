@@ -4,8 +4,10 @@
   "ability1": "Sand Rush",
   "YEntry": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
   "AlphaSapphireEntry": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-  "AtkYield": 1,
   "HP": 60,
+  "Spe": 68,
+  "SpeYield": 0,
+  "XPYield": 66,
   "ability2": "Sand Force",
   "tmTrMoves": [
     {
@@ -125,7 +127,6 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -135,11 +136,8 @@
   ],
   "XEntry": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
   "number": 529,
-  "SpA": 30,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Mold Breaker",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -199,10 +197,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+  "Def": 40,
+  "SpA": 30,
   "eggGroup2": "",
-  "Spe": 68,
+  "SpD": 45,
   "weight": "8.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -210,15 +211,15 @@
   "hasGalarian": false,
   "BlackEntry": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
   "OmegaRubyEntry": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
-  "Def": 40,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Drilbur",
+  "Atk": 85,
   "White2Entry": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
   "SwordEntry": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
-  "SpeYield": 0,
-  "SpD": 45,
+  "SpDYield": 0,
   "category": "Mole Pokémon",
+  "HPYield": 0,
   "Black2Entry": "By spinning its body, it can dig straight through the ground at a speed of 30 mph."
 }

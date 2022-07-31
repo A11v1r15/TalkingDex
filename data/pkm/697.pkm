@@ -4,8 +4,10 @@
   "ability1": "Strong Jaw",
   "YEntry": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
   "AlphaSapphireEntry": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
-  "AtkYield": 2,
   "HP": 82,
+  "Spe": 71,
+  "SpeYield": 0,
+  "XPYield": 182,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -205,19 +207,15 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
   "UltraMoonEntry": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
   "eggMoves": [],
   "number": 697,
-  "SpA": 69,
   "UltraSunEntry": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
-  "Atk": 121,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Rock Head",
-  "HPYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -285,22 +283,25 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 119,
+  "SpA": 69,
   "eggGroup2": "Dragon",
-  "Spe": 71,
+  "SpD": 59,
   "weight": "270.0kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
-  "Def": 119,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Tyrantrum",
+  "Atk": 121,
   "SwordEntry": "This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
-  "SpeYield": 0,
-  "SpD": 59,
-  "category": "Despot Pokémon"
+  "SpDYield": 0,
+  "category": "Despot Pokémon",
+  "HPYield": 0
 }

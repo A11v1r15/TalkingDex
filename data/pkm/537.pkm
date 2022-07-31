@@ -4,8 +4,10 @@
   "ability1": "Swift Swim",
   "YEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
   "AlphaSapphireEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
-  "AtkYield": 0,
   "HP": 105,
+  "Spe": 74,
+  "SpeYield": 0,
+  "XPYield": 255,
   "ability2": "Poison Touch",
   "tmTrMoves": [
     {
@@ -209,17 +211,13 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
   "number": 537,
-  "SpA": 85,
-  "Atk": 95,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Water Absorb",
-  "HPYield": 3,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -291,10 +289,13 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Ground",
   "WhiteEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+  "Def": 75,
+  "SpA": 85,
   "eggGroup2": "",
-  "Spe": 74,
+  "SpD": 75,
   "weight": "62.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
@@ -302,15 +303,15 @@
   "hasGalarian": false,
   "BlackEntry": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
   "OmegaRubyEntry": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
-  "Def": 75,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Seismitoad",
+  "Atk": 95,
   "White2Entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
   "SwordEntry": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
-  "SpeYield": 0,
-  "SpD": 75,
+  "SpDYield": 0,
   "category": "Vibration Pokémon",
+  "HPYield": 3,
   "Black2Entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches."
 }

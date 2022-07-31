@@ -4,8 +4,10 @@
   "ability1": "Gluttony",
   "YEntry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "AlphaSapphireEntry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
-  "AtkYield": 0,
   "HP": 85,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 169,
   "ability2": "Flash Fire",
   "tmTrMoves": [
     {
@@ -161,7 +163,6 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -173,11 +174,8 @@
   ],
   "XEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
   "number": 631,
-  "SpA": 105,
-  "Atk": 97,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "White Smoke",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -245,10 +243,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+  "Def": 66,
+  "SpA": 105,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 66,
   "weight": "58.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -256,15 +257,15 @@
   "hasGalarian": false,
   "BlackEntry": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
   "OmegaRubyEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
-  "Def": 66,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Heatmor",
+  "Atk": 97,
   "White2Entry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "SwordEntry": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
-  "SpeYield": 0,
-  "SpD": 66,
+  "SpDYield": 0,
   "category": "Anteater Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."
 }

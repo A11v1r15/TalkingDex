@@ -4,8 +4,10 @@
   "ability1": "Mega Launcher",
   "YEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
   "AlphaSapphireEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 44,
+  "SpeYield": 0,
+  "XPYield": 66,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -125,7 +127,6 @@
       "technical": "TR84"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -136,12 +137,9 @@
   "XEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
   "UltraMoonEntry": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it's terrible at swimming straight.",
   "number": 692,
-  "SpA": 58,
   "UltraSunEntry": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
-  "Atk": 53,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -197,22 +195,25 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 62,
+  "SpA": 58,
   "eggGroup2": "Water 3",
-  "Spe": 44,
+  "SpD": 63,
   "weight": "8.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "OmegaRubyEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
-  "Def": 62,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Clauncher",
+  "Atk": 53,
   "SwordEntry": "Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
-  "SpeYield": 0,
-  "SpD": 63,
-  "category": "Water Gun Pokémon"
+  "SpDYield": 0,
+  "category": "Water Gun Pokémon",
+  "HPYield": 0
 }

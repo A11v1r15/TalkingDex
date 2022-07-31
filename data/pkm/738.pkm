@@ -2,9 +2,11 @@
   "ShieldEntry": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
   "extraMega": false,
   "ability1": "Levitate",
-  "AtkYield": 0,
   "HP": 77,
   "SunEntry": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+  "Spe": 43,
+  "SpeYield": 0,
+  "XPYield": 250,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -152,19 +154,15 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
   "number": 738,
   "MoonEntry": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
-  "SpA": 145,
   "UltraSunEntry": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
-  "Atk": 70,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -248,21 +246,24 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "Electric",
+  "Def": 90,
+  "SpA": 145,
   "eggGroup2": "",
-  "Spe": 43,
+  "SpD": 75,
   "weight": "45.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Vikavolt",
+  "Atk": 70,
   "SwordEntry": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Stag Beetle Pokémon"
+  "SpDYield": 0,
+  "category": "Stag Beetle Pokémon",
+  "HPYield": 0
 }

@@ -4,8 +4,10 @@
   "ability1": "Limber",
   "YEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
   "AlphaSapphireEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
-  "AtkYield": 2,
   "HP": 78,
+  "Spe": 118,
+  "SpeYield": 0,
+  "XPYield": 175,
   "ability2": "Unburden",
   "tmTrMoves": [
     {
@@ -237,7 +239,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -251,12 +252,9 @@
   "XEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
   "UltraMoonEntry": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds.",
   "number": 701,
-  "SpA": 74,
   "UltraSunEntry": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
-  "Atk": 92,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Mold Breaker",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -324,22 +322,25 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
+  "Def": 75,
+  "SpA": 74,
   "eggGroup2": "Human-Like",
-  "Spe": 118,
+  "SpD": 63,
   "weight": "21.5kg",
   "eggGroup1": "Flying",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "OmegaRubyEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
-  "Def": 75,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Hawlucha",
+  "Atk": 92,
   "SwordEntry": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
-  "SpeYield": 0,
-  "SpD": 63,
-  "category": "Wrestling Pokémon"
+  "SpDYield": 0,
+  "category": "Wrestling Pokémon",
+  "HPYield": 0
 }

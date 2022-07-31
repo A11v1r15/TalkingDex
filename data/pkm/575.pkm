@@ -4,8 +4,10 @@
   "ability1": "Frisk",
   "YEntry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "AlphaSapphireEntry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 55,
+  "SpeYield": 0,
+  "XPYield": 137,
   "ability2": "Competitive",
   "tmTrMoves": [
     {
@@ -181,17 +183,13 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
   "number": 575,
-  "SpA": 75,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Shadow Tag",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -251,10 +249,13 @@
       "lvl": "58"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+  "Def": 70,
+  "SpA": 75,
   "eggGroup2": "",
-  "Spe": 55,
+  "SpD": 85,
   "weight": "18.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -262,15 +263,15 @@
   "hasGalarian": false,
   "BlackEntry": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
   "OmegaRubyEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
-  "Def": 70,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Gothorita",
+  "Atk": 45,
   "White2Entry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "SwordEntry": "It's said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
-  "SpeYield": 0,
-  "SpD": 85,
+  "SpDYield": 2,
   "category": "Manipulate Pokémon",
+  "HPYield": 0,
   "Black2Entry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
 }

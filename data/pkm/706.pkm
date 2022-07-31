@@ -4,9 +4,11 @@
   "ability1": "Sap Sipper",
   "YEntry": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
   "AlphaSapphireEntry": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
-  "AtkYield": 0,
   "HP": 90,
   "SunEntry": "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "Hydration",
   "tmTrMoves": [
     {
@@ -194,7 +196,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 3,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
@@ -202,12 +203,9 @@
   "UltraMoonEntry": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.",
   "number": 706,
   "MoonEntry": "It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
-  "SpA": 110,
   "UltraSunEntry": "It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.",
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Gooey",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -287,22 +285,25 @@
       "lvl": "67"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 70,
+  "SpA": 110,
   "eggGroup2": "",
-  "Spe": 80,
+  "SpD": 150,
   "weight": "150.5kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "OmegaRubyEntry": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
-  "Def": 70,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Goodra",
+  "Atk": 100,
   "SwordEntry": "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.",
-  "SpeYield": 0,
-  "SpD": 150,
-  "category": "Dragon Pokémon"
+  "SpDYield": 3,
+  "category": "Dragon Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
   "extraMega": false,
   "ability1": "Sand Spit",
-  "AtkYield": 0,
   "HP": 52,
+  "Spe": 46,
+  "SpeYield": 0,
+  "XPYield": 63,
   "ability2": "Shed Skin",
   "tmTrMoves": [
     {
@@ -83,7 +85,6 @@
       "technical": "TR87"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -94,11 +95,8 @@
     {"move": "Poison Tail"}
   ],
   "number": 843,
-  "SpA": 35,
-  "Atk": 57,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Sand Veil",
-  "HPYield": 0,
   "height": "2.2m",
   "lvlUpMoves": [
     {
@@ -150,21 +148,24 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 1,
   "type2": "",
+  "Def": 75,
+  "SpA": 35,
   "eggGroup2": "Dragon",
-  "Spe": 46,
+  "SpD": 50,
   "weight": "7.6kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
-  "Def": 75,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Silicobra",
+  "Atk": 57,
   "SwordEntry": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
-  "SpeYield": 0,
-  "SpD": 50,
-  "category": "Sand Snake Pokémon"
+  "SpDYield": 0,
+  "category": "Sand Snake Pokémon",
+  "HPYield": 0
 }

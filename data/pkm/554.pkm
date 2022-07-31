@@ -4,8 +4,10 @@
   "ability1": "Hustle",
   "YEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
   "AlphaSapphireEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-  "AtkYield": 1,
   "HP": 70,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 63,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -161,7 +163,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -174,11 +175,8 @@
   ],
   "XEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
   "number": 554,
-  "SpA": 15,
-  "Atk": 90,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Inner Focus",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -238,10 +236,13 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+  "Def": 45,
+  "SpA": 15,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 45,
   "weight": "37.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -249,15 +250,15 @@
   "hasGalarian": true,
   "BlackEntry": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
   "OmegaRubyEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
-  "Def": 45,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Darumaka",
+  "Atk": 90,
   "White2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
   "SwordEntry": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
-  "SpeYield": 0,
-  "SpD": 45,
+  "SpDYield": 0,
   "category": "Zen Charm Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F."
 }

@@ -1,8 +1,8 @@
 {
   "ability1": "Rivalry",
   "AlphaSapphireEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-  "AtkYield": 1,
   "HP": 45,
+  "Spe": 45,
   "ability2": "Intimidate",
   "eggMoves": [
     {"move": "Baby"},
@@ -14,29 +14,28 @@
     {"move": "Shock Wave"}
   ],
   "number": 403,
-  "SpA": 40,
-  "Atk": 65,
   "LegendsArceusEntry": "Shakes its body to generate electricity. Its stature belies its aggression-one must be patient to tame this Pokémon.",
   "height": "0.5m",
   "type2": "",
   "WhiteEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "eggGroup2": "",
-  "Spe": 45,
   "weight": "9.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 34,
   "hasAlolan": false,
+  "SpAYield": 0,
   "DiamondEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
   "name": "Shinx",
-  "SpeYield": 0,
-  "SpD": 34,
+  "SpDYield": 0,
+  "HPYield": 0,
   "ShieldEntry": "Electricity makes this Pokémon's fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
   "extraMega": false,
   "HearthGoldEntry": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
   "YEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+  "SpeYield": 0,
+  "XPYield": 53,
   "tmTrMoves": [
     {
       "move": "Thunder Wave",
@@ -163,15 +162,13 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "BrilliantDiamondEntry": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+  "AtkYield": 1,
   "PlatinumEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
-  "DefYield": 0,
   "abilityHidden": "Guts",
-  "HPYield": 0,
   "lvlUpMoves": [
     {
       "move": "Tackle",
@@ -230,11 +227,15 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
+  "Def": 34,
+  "SpA": 40,
+  "SpD": 34,
   "BlackEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "OmegaRubyEntry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "colour": "Blue",
-  "SpAYield": 0,
   "SoulsilverEntry": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
+  "Atk": 65,
   "White2Entry": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
   "SwordEntry": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
   "ShiningPearlEntry": "Its forelegs have a muscle-based system of generating electricity. Its body shines when it is in danger.",

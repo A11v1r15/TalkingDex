@@ -4,8 +4,10 @@
   "ability1": "Sturdy",
   "YEntry": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
   "AlphaSapphireEntry": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 45,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Shell Armor",
   "tmTrMoves": [
     {
@@ -137,17 +139,13 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
   "number": 558,
-  "SpA": 65,
-  "Atk": 105,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Weak Armor",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -207,10 +205,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Rock",
   "WhiteEntry": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+  "Def": 125,
+  "SpA": 65,
   "eggGroup2": "Mineral",
-  "Spe": 45,
+  "SpD": 75,
   "weight": "200.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -218,15 +219,15 @@
   "hasGalarian": false,
   "BlackEntry": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
   "OmegaRubyEntry": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
-  "Def": 125,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Crustle",
+  "Atk": 105,
   "White2Entry": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
   "SwordEntry": "This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.",
-  "SpeYield": 0,
-  "SpD": 75,
+  "SpDYield": 0,
   "category": "Stone Home Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken."
 }

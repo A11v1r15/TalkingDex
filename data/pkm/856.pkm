@@ -2,8 +2,10 @@
   "ShieldEntry": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
   "extraMega": false,
   "ability1": "Healer",
-  "AtkYield": 0,
   "HP": 42,
+  "Spe": 39,
+  "SpeYield": 0,
+  "XPYield": 53,
   "ability2": "Anticipation",
   "tmTrMoves": [
     {
@@ -119,7 +121,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -129,11 +130,8 @@
     {"move": "Quash"}
   ],
   "number": 856,
-  "SpA": 56,
-  "Atk": 30,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Magic Bounce",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -181,21 +179,24 @@
       "lvl": "45"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 45,
+  "SpA": 56,
   "eggGroup2": "",
-  "Spe": 39,
+  "SpD": 53,
   "weight": "3.4kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 45,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Hatenna",
+  "Atk": 30,
   "SwordEntry": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
-  "SpeYield": 0,
-  "SpD": 53,
-  "category": "Calm Pokémon"
+  "SpDYield": 0,
+  "category": "Calm Pokémon",
+  "HPYield": 0
 }

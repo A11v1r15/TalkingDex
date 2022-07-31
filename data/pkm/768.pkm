@@ -2,9 +2,11 @@
   "ShieldEntry": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner's meal.",
   "extraMega": false,
   "ability1": "Emergency Exit",
-  "AtkYield": 0,
   "HP": 75,
   "SunEntry": "With a flashing slash of its giant sharp claws, it cleaves seawater\u2014or even air\u2014right in two.",
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 186,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -224,19 +226,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
   "number": 768,
   "MoonEntry": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
-  "SpA": 60,
   "UltraSunEntry": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
-  "Atk": 125,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -308,21 +306,24 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 2,
   "type2": "Water",
+  "Def": 140,
+  "SpA": 60,
   "eggGroup2": "Water 3",
-  "Spe": 40,
+  "SpD": 90,
   "weight": "108.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 140,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Golisopod",
+  "Atk": 125,
   "SwordEntry": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Hard Scale Pokémon"
+  "SpDYield": 0,
+  "category": "Hard Scale Pokémon",
+  "HPYield": 0
 }

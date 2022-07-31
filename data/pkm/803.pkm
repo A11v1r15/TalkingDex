@@ -2,8 +2,10 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 67,
+  "Spe": 73,
+  "SpeYield": 1,
+  "XPYield": 210,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -95,18 +97,14 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
   "eggMoves": [],
   "number": 803,
-  "SpA": 73,
   "UltraSunEntry": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
-  "Atk": 73,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -166,21 +164,24 @@
       "lvl": "63"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 67,
+  "SpA": 73,
   "eggGroup2": "",
-  "Spe": 73,
+  "SpD": 67,
   "weight": "1.8kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 67,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Poipole",
+  "Atk": 73,
   "SwordEntry": "",
-  "SpeYield": 1,
-  "SpD": 67,
-  "category": "Poison Pin Pokémon"
+  "SpDYield": 0,
+  "category": "Poison Pin Pokémon",
+  "HPYield": 0
 }

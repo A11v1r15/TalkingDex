@@ -4,8 +4,10 @@
   "ability1": "Cheek Pouch",
   "YEntry": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
   "AlphaSapphireEntry": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
-  "AtkYield": 0,
   "HP": 67,
+  "Spe": 101,
+  "SpeYield": 2,
+  "XPYield": 151,
   "ability2": "Pickup",
   "tmTrMoves": [
     {
@@ -145,7 +147,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -156,12 +157,9 @@
   "XEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
   "UltraMoonEntry": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
   "number": 702,
-  "SpA": 81,
   "UltraSunEntry": "It sneaks into people's homes and steals electricity from their outlets. When your electric bill seems off, it's the handiwork of this rascal.",
-  "Atk": 58,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Plus",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -225,22 +223,25 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 57,
+  "SpA": 81,
   "eggGroup2": "Fairy",
-  "Spe": 101,
+  "SpD": 67,
   "weight": "2.2kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
   "OmegaRubyEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
-  "Def": 57,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dedenne",
+  "Atk": 58,
   "SwordEntry": "A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
-  "SpeYield": 2,
-  "SpD": 67,
-  "category": "Antenna Pokémon"
+  "SpDYield": 0,
+  "category": "Antenna Pokémon",
+  "HPYield": 0
 }

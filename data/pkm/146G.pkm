@@ -1,77 +1,9 @@
 {
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "5"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "10"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "30"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "35"
-    },
-    {
-      "move": "After You",
-      "lvl": "40"
-    },
-    {
-      "move": "Fiery Wrath",
-      "lvl": "45"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "50"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "55"
-    },
-    {
-      "move": "Endure",
-      "lvl": "60"
-    },
-    {
-      "move": "Memento",
-      "lvl": "65"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "70"
-    }
-  ],
   "ability1": "Berserk",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "Spe": 90,
   "HP": 90,
-  "weight": "66.0kg",
-  "eggGroup1": "Undiscovered",
+  "Spe": 90,
+  "SpeYield": 0,
+  "XPYield": 290,
   "tmTrMoves": [
     {
       "move": "Fly",
@@ -199,17 +131,92 @@
     }
   ],
   "ability2": "",
-  "type1": "Dark",
   "xpGroup": "Slow",
   "eggMoves": [],
-  "Def": 90,
   "number": 146,
-  "colour": "Red",
+  "AtkYield": 0,
+  "abilityHidden": "",
+  "height": "2.0m",
+  "lvlUpMoves": [
+    {
+      "move": "Gust",
+      "lvl": "1"
+    },
+    {
+      "move": "Leer",
+      "lvl": "1"
+    },
+    {
+      "move": "Payback",
+      "lvl": "5"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "10"
+    },
+    {
+      "move": "Wing Attack",
+      "lvl": "15"
+    },
+    {
+      "move": "Agility",
+      "lvl": "20"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "25"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "30"
+    },
+    {
+      "move": "Air Slash",
+      "lvl": "35"
+    },
+    {
+      "move": "After You",
+      "lvl": "40"
+    },
+    {
+      "move": "Fiery Wrath",
+      "lvl": "45"
+    },
+    {
+      "move": "Nasty Plot",
+      "lvl": "50"
+    },
+    {
+      "move": "Hurricane",
+      "lvl": "55"
+    },
+    {
+      "move": "Endure",
+      "lvl": "60"
+    },
+    {
+      "move": "Memento",
+      "lvl": "65"
+    },
+    {
+      "move": "Sky Attack",
+      "lvl": "70"
+    }
+  ],
+  "type2": "Flying",
+  "DefYield": 0,
+  "Def": 90,
+  "eggGroup2": "",
   "SpA": 100,
+  "SpD": 125,
+  "weight": "66.0kg",
+  "eggGroup1": "Undiscovered",
+  "type1": "Dark",
+  "colour": "Red",
+  "SpAYield": 0,
   "name": "Galarian Moltres",
   "Atk": 85,
-  "abilityHidden": "",
-  "SpD": 125,
+  "SpDYield": 3,
   "category": "Malevolent Pokémon",
-  "height": "2.0m"
+  "HPYield": 0
 }

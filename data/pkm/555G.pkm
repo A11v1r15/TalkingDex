@@ -1,77 +1,10 @@
 {
   "ShieldEntry": "Though it has a gentle disposition, it's also very strong. It will quickly freeze the snowball on its head before going for a headbutt.",
-  "lvlUpMoves": [
-    {
-      "move": "Icicle Crash",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Icicle Crash",
-      "lvl": ""
-    },
-    {
-      "move": "Avalanche",
-      "lvl": "12"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "16"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Ice Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "32"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "38"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "44"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "50"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "56"
-    }
-  ],
   "ability1": "Gorilla Tactics",
-  "type2": "",
-  "eggGroup2": "",
-  "Spe": 95,
   "HP": 105,
-  "eggGroup1": "Field",
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 189,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -303,9 +236,7 @@
       "technical": "TR99"
     }
   ],
-  "type1": "Ice",
   "xpGroup": "Medium Slow",
-  "Def": 55,
   "eggMoves": [
     {"move": "Flame Wheel"},
     {"move": "Focus Punch"},
@@ -317,11 +248,87 @@
     {"move": "Yawn"}
   ],
   "number": 555,
+  "AtkYield": 0,
+  "abilityHidden": "Zen Mode",
+  "lvlUpMoves": [
+    {
+      "move": "Icicle Crash",
+      "lvl": "1"
+    },
+    {
+      "move": "Powder Snow",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Taunt",
+      "lvl": "1"
+    },
+    {
+      "move": "Bite",
+      "lvl": "1"
+    },
+    {
+      "move": "Icicle Crash",
+      "lvl": ""
+    },
+    {
+      "move": "Avalanche",
+      "lvl": "12"
+    },
+    {
+      "move": "Work Up",
+      "lvl": "16"
+    },
+    {
+      "move": "Ice Fang",
+      "lvl": "20"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Ice Punch",
+      "lvl": "28"
+    },
+    {
+      "move": "Uproar",
+      "lvl": "32"
+    },
+    {
+      "move": "Belly Drum",
+      "lvl": "38"
+    },
+    {
+      "move": "Blizzard",
+      "lvl": "44"
+    },
+    {
+      "move": "Thrash",
+      "lvl": "50"
+    },
+    {
+      "move": "Superpower",
+      "lvl": "56"
+    }
+  ],
+  "type2": "",
+  "DefYield": 0,
+  "Def": 55,
+  "eggGroup2": "",
   "SpA": 30,
+  "SpD": 55,
+  "eggGroup1": "Field",
+  "type1": "Ice",
+  "SpAYield": 2,
   "name": "Galarian Darmanitan",
   "Atk": 140,
   "SwordEntry": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
-  "abilityHidden": "Zen Mode",
-  "SpD": 55,
-  "category": "Zen Charm Pokémon"
+  "SpDYield": 0,
+  "category": "Zen Charm Pokémon",
+  "HPYield": 0
 }

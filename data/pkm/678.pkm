@@ -4,8 +4,10 @@
   "ability1": "Keen Eye",
   "YEntry": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
   "AlphaSapphireEntry": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
-  "AtkYield": 0,
   "HP": 74,
+  "Spe": 104,
+  "SpeYield": 2,
+  "XPYield": 163,
   "ability2": "Infiltrator",
   "tmTrMoves": [
     {
@@ -193,17 +195,13 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck to dust.",
   "number": 678,
-  "SpA": 83,
-  "Atk": 48,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Prankster",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -283,22 +281,25 @@
       "lvl": "59"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 76,
+  "SpA": 83,
   "eggGroup2": "",
-  "Spe": 104,
+  "SpD": 81,
   "weight": "8.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "OmegaRubyEntry": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck to dust.",
-  "Def": 76,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Meowstic",
+  "Atk": 48,
   "SwordEntry": "Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.",
-  "SpeYield": 2,
-  "SpD": 81,
-  "category": "Constraint Pokémon"
+  "SpDYield": 0,
+  "category": "Constraint Pokémon",
+  "HPYield": 0
 }

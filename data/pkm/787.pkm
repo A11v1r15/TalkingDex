@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Grassy Surge",
-  "AtkYield": 3,
   "HP": 70,
   "SunEntry": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -212,19 +214,15 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula'ula controls plants.",
   "eggMoves": [],
   "number": 787,
   "MoonEntry": "The guardian deity of Ula'ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
-  "SpA": 85,
   "UltraSunEntry": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
-  "Atk": 130,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Telepathy",
-  "HPYield": 0,
   "height": "1.9m",
   "lvlUpMoves": [
     {
@@ -296,21 +294,24 @@
       "lvl": "75"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 115,
+  "SpA": 85,
   "eggGroup2": "",
-  "Spe": 75,
+  "SpD": 95,
   "weight": "45.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 115,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Tapu Bulu",
+  "Atk": 130,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Land Spirit Pokémon"
+  "SpDYield": 0,
+  "category": "Land Spirit Pokémon",
+  "HPYield": 0
 }

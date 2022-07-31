@@ -4,8 +4,10 @@
   "ability1": "Swarm",
   "YEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
   "AlphaSapphireEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-  "AtkYield": 2,
   "HP": 70,
+  "Spe": 20,
+  "SpeYield": 0,
+  "XPYield": 173,
   "ability2": "Shell Armor",
   "tmTrMoves": [
     {
@@ -149,17 +151,13 @@
       "technical": "TR87"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
   "number": 589,
-  "SpA": 60,
-  "Atk": 135,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Overcoat",
-  "HPYield": 0,
   "height": "1.0m",
   "lvlUpMoves": [
     {
@@ -247,10 +245,13 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
   "WhiteEntry": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+  "Def": 105,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 20,
+  "SpD": 105,
   "weight": "33.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -258,15 +259,15 @@
   "hasGalarian": false,
   "BlackEntry": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
   "OmegaRubyEntry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
-  "Def": 105,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Escavalier",
+  "Atk": 135,
   "White2Entry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
   "SwordEntry": "They use shells they've stolen from Shelmet to arm and protect themselves. They're very popular Pokémon in the Galar region.",
-  "SpeYield": 0,
-  "SpD": 105,
+  "SpDYield": 0,
   "category": "Cavalry Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
 }

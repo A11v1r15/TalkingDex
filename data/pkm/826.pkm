@@ -2,8 +2,10 @@
   "ShieldEntry": "It emits psychic energy to observe and study what's around it\u2014and what's around it can include things over six miles away.",
   "extraMega": false,
   "ability1": "Swarm",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 90,
+  "SpeYield": 0,
+  "XPYield": 253,
   "ability2": "Frisk",
   "tmTrMoves": [
     {
@@ -183,16 +185,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 3,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 826,
-  "SpA": 80,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -260,21 +258,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "Psychic",
+  "Def": 110,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 90,
+  "SpD": 120,
   "weight": "40.8kg",
   "eggGroup1": "Bug",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 110,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Orbeetle",
+  "Atk": 45,
   "SwordEntry": "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
-  "SpeYield": 0,
-  "SpD": 120,
-  "category": "Seven Spot Pokémon"
+  "SpDYield": 3,
+  "category": "Seven Spot Pokémon",
+  "HPYield": 0
 }

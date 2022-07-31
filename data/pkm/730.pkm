@@ -2,9 +2,11 @@
   "ShieldEntry": "For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
   "extraMega": false,
   "ability1": "Torrent",
-  "AtkYield": 0,
   "HP": 80,
   "SunEntry": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next.",
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 265,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -192,19 +194,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "UltraMoonEntry": "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
   "number": 730,
   "MoonEntry": "Its singing voice is its chief weapon in battle. This Pokémon's Trainer must prioritize the daily maintenance of its throat at all costs.",
-  "SpA": 126,
   "UltraSunEntry": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
-  "Atk": 74,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Liquid Voice",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -272,21 +270,24 @@
       "lvl": "58"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 74,
+  "SpA": 126,
   "eggGroup2": "Field",
-  "Spe": 60,
+  "SpD": 116,
   "weight": "44.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 74,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Primarina",
+  "Atk": 74,
   "SwordEntry": "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.",
-  "SpeYield": 0,
-  "SpD": 116,
-  "category": "Soloist Pokémon"
+  "SpDYield": 0,
+  "category": "Soloist Pokémon",
+  "HPYield": 0
 }

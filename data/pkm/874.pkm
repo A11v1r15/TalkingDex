@@ -2,8 +2,10 @@
   "ShieldEntry": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
   "extraMega": false,
   "ability1": "Power Spot",
-  "AtkYield": 0,
   "HP": 100,
+  "Spe": 70,
+  "SpeYield": 0,
+  "XPYield": 165,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -147,7 +149,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -155,11 +156,8 @@
     {"move": "Ancient Power"}
   ],
   "number": 874,
-  "SpA": 20,
-  "Atk": 125,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.5m",
   "lvlUpMoves": [
     {
@@ -215,21 +213,24 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 2,
   "type2": "",
+  "Def": 135,
+  "SpA": 20,
   "eggGroup2": "",
-  "Spe": 70,
+  "SpD": 20,
   "weight": "520.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 135,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Stonjourner",
+  "Atk": 125,
   "SwordEntry": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
-  "SpeYield": 0,
-  "SpD": 20,
-  "category": "Big Rock Pokémon"
+  "SpDYield": 0,
+  "category": "Big Rock Pokémon",
+  "HPYield": 0
 }

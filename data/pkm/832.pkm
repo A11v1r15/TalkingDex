@@ -2,8 +2,10 @@
   "ShieldEntry": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
   "extraMega": false,
   "ability1": "Fluffy",
-  "AtkYield": 0,
   "HP": 72,
+  "Spe": 88,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "Steadfast",
   "tmTrMoves": [
     {
@@ -111,16 +113,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 832,
-  "SpA": 60,
-  "Atk": 80,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Bulletproof",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -176,21 +174,24 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "",
+  "Def": 100,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 88,
+  "SpD": 90,
   "weight": "43.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 100,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dubwool",
+  "Atk": 80,
   "SwordEntry": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Sheep Pokémon"
+  "SpDYield": 0,
+  "category": "Sheep Pokémon",
+  "HPYield": 0
 }

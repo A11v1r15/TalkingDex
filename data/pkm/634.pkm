@@ -4,8 +4,10 @@
   "ability1": "Hustle",
   "YEntry": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
   "AlphaSapphireEntry": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
-  "AtkYield": 2,
   "HP": 72,
+  "Spe": 58,
+  "SpeYield": 0,
+  "XPYield": 147,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -149,17 +151,13 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
   "number": 634,
-  "SpA": 65,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -235,10 +233,13 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
   "WhiteEntry": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+  "Def": 70,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 58,
+  "SpD": 70,
   "weight": "50.0kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
@@ -246,15 +247,15 @@
   "hasGalarian": false,
   "BlackEntry": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
   "OmegaRubyEntry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
-  "Def": 70,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Zweilous",
+  "Atk": 85,
   "White2Entry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
   "SwordEntry": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
-  "SpeYield": 0,
-  "SpD": 70,
+  "SpDYield": 0,
   "category": "Hostile Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader."
 }

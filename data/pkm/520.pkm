@@ -4,8 +4,10 @@
   "ability1": "Big Pecks",
   "YEntry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
   "AlphaSapphireEntry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-  "AtkYield": 2,
   "HP": 62,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 125,
   "ability2": "Super Luck",
   "tmTrMoves": [
     {
@@ -97,17 +99,13 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
   "number": 520,
-  "SpA": 50,
-  "Atk": 77,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Rivalry",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -163,10 +161,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+  "Def": 62,
+  "SpA": 50,
   "eggGroup2": "",
-  "Spe": 65,
+  "SpD": 42,
   "weight": "15.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
@@ -174,15 +175,15 @@
   "hasGalarian": false,
   "BlackEntry": "It can return to its Trainer's location regardless of the distance separating them.",
   "OmegaRubyEntry": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-  "Def": 62,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Tranquill",
+  "Atk": 77,
   "White2Entry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
   "SwordEntry": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
-  "SpeYield": 0,
-  "SpD": 42,
+  "SpDYield": 0,
   "category": "Wild Pigeon Pokémon",
+  "HPYield": 0,
   "Black2Entry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
 }

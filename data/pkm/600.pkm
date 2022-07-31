@@ -4,8 +4,10 @@
   "ability1": "Plus",
   "YEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
   "AlphaSapphireEntry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 154,
   "ability2": "Minus",
   "tmTrMoves": [
     {
@@ -93,17 +95,13 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
   "number": 600,
-  "SpA": 70,
-  "Atk": 80,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Clear Body",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -163,10 +161,13 @@
       "lvl": "54"
     }
   ],
+  "DefYield": 2,
   "type2": "",
   "WhiteEntry": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+  "Def": 95,
+  "SpA": 70,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 85,
   "weight": "51.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
@@ -174,15 +175,15 @@
   "hasGalarian": false,
   "BlackEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
   "OmegaRubyEntry": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
-  "Def": 95,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Klang",
+  "Atk": 80,
   "White2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
   "SwordEntry": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
-  "SpeYield": 0,
-  "SpD": 85,
+  "SpDYield": 0,
   "category": "Gear Pokémon",
+  "HPYield": 0,
   "Black2Entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
 }

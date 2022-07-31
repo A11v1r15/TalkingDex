@@ -2,9 +2,11 @@
   "ShieldEntry": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
   "extraMega": false,
   "ability1": "Battle Armor",
-  "AtkYield": 0,
   "HP": 95,
   "SunEntry": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+  "Spe": 59,
+  "SpeYield": 0,
+  "XPYield": 107,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -132,19 +134,15 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
   "number": 772,
   "MoonEntry": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
-  "SpA": 95,
   "UltraSunEntry": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
-  "Atk": 95,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 2,
   "height": "1.9m",
   "lvlUpMoves": [
     {
@@ -200,21 +198,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 95,
+  "SpA": 95,
   "eggGroup2": "",
-  "Spe": 59,
+  "SpD": 95,
   "weight": "120.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Type: Null",
+  "Atk": 95,
   "SwordEntry": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Synthetic Pokémon"
+  "SpDYield": 0,
+  "category": "Synthetic Pokémon",
+  "HPYield": 2
 }

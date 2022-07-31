@@ -2,8 +2,10 @@
   "ShieldEntry": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can't breathe unless it's underwater.",
   "extraMega": false,
   "ability1": "Water Absorb",
-  "AtkYield": 0,
   "HP": 90,
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 177,
   "ability2": "Strong Jaw",
   "tmTrMoves": [
     {
@@ -163,16 +165,12 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 882,
-  "SpA": 70,
-  "Atk": 90,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Sand Rush",
-  "HPYield": 0,
   "height": "2.3m",
   "lvlUpMoves": [
     {
@@ -228,21 +226,24 @@
       "lvl": "77"
     }
   ],
+  "DefYield": 2,
   "type2": "Dragon",
+  "Def": 100,
+  "SpA": 70,
   "eggGroup2": "",
-  "Spe": 75,
+  "SpD": 80,
   "weight": "215.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 100,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Dracovish",
+  "Atk": 90,
   "SwordEntry": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
-  "SpeYield": 0,
-  "SpD": 80,
-  "category": "Fossil Pokémon"
+  "SpDYield": 0,
+  "category": "Fossil Pokémon",
+  "HPYield": 0
 }

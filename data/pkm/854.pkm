@@ -2,8 +2,10 @@
   "ShieldEntry": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
   "extraMega": false,
   "ability1": "Weak Armor",
-  "AtkYield": 0,
   "HP": 40,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 62,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -111,16 +113,12 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 854,
-  "SpA": 74,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Cursed Body",
-  "HPYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -172,21 +170,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 45,
+  "SpA": 74,
   "eggGroup2": "Amorphous",
-  "Spe": 50,
+  "SpD": 54,
   "weight": "0.2kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 45,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Sinistea",
+  "Atk": 45,
   "SwordEntry": "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
-  "SpeYield": 0,
-  "SpD": 54,
-  "category": "Black Tea Pokémon"
+  "SpDYield": 0,
+  "category": "Black Tea Pokémon",
+  "HPYield": 0
 }

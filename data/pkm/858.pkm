@@ -2,8 +2,10 @@
   "ShieldEntry": "If you're too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
   "extraMega": false,
   "ability1": "Healer",
-  "AtkYield": 0,
   "HP": 57,
+  "Spe": 29,
+  "SpeYield": 0,
+  "XPYield": 255,
   "ability2": "Anticipation",
   "tmTrMoves": [
     {
@@ -175,16 +177,12 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 858,
-  "SpA": 136,
-  "Atk": 90,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Magic Bounce",
-  "HPYield": 0,
   "height": "2.1m",
   "lvlUpMoves": [
     {
@@ -248,21 +246,24 @@
       "lvl": "64"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 95,
+  "SpA": 136,
   "eggGroup2": "",
-  "Spe": 29,
+  "SpD": 103,
   "weight": "5.1kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Hatterene",
+  "Atk": 90,
   "SwordEntry": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
-  "SpeYield": 0,
-  "SpD": 103,
-  "category": "Silent Pokémon"
+  "SpDYield": 0,
+  "category": "Silent Pokémon",
+  "HPYield": 0
 }

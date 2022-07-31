@@ -2,8 +2,10 @@
   "ShieldEntry": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
   "extraMega": false,
   "ability1": "Overgrow",
-  "AtkYield": 3,
   "HP": 100,
+  "Spe": 85,
+  "SpeYield": 0,
+  "XPYield": 265,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -223,16 +225,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 812,
-  "SpA": 60,
-  "Atk": 125,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Grassy Surge",
-  "HPYield": 0,
   "height": "2.1m",
   "lvlUpMoves": [
     {
@@ -304,21 +302,24 @@
       "lvl": "62"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 90,
+  "SpA": 60,
   "eggGroup2": "Grass",
-  "Spe": 85,
+  "SpD": 70,
   "weight": "90.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Rillaboom",
+  "Atk": 125,
   "SwordEntry": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Drummer Pokémon"
+  "SpDYield": 0,
+  "category": "Drummer Pokémon",
+  "HPYield": 0
 }

@@ -1,93 +1,10 @@
 {
   "ShieldEntry": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.",
-  "lvlUpMoves": [
-    {
-      "move": "Shell Side Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Curse",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Shell Side Arm",
-      "lvl": ""
-    },
-    {
-      "move": "Yawn",
-      "lvl": "9"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "12"
-    },
-    {
-      "move": "Disable",
-      "lvl": "15"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "18"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "21"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "27"
-    },
-    {
-      "move": "Surf",
-      "lvl": "30"
-    },
-    {
-      "move": "Slack Off",
-      "lvl": "33"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "36"
-    },
-    {
-      "move": "Psych Up",
-      "lvl": "39"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "42"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "45"
-    }
-  ],
   "ability1": "Quick Draw",
-  "type2": "Psychic",
-  "eggGroup2": "Water 1",
-  "Spe": 30,
   "HP": 95,
-  "eggGroup1": "Monster",
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "Own Tempo",
   "tmTrMoves": [
     {
@@ -379,9 +296,7 @@
       "technical": "TR98"
     }
   ],
-  "type1": "Poison",
   "xpGroup": "Medium Fast",
-  "Def": 95,
   "eggMoves": [
     {"move": "Belch"},
     {"move": "Belly Drum"},
@@ -389,10 +304,102 @@
     {"move": "Stomp"}
   ],
   "number": 80,
+  "AtkYield": 2,
+  "abilityHidden": "Regenerator",
+  "lvlUpMoves": [
+    {
+      "move": "Shell Side Arm",
+      "lvl": "1"
+    },
+    {
+      "move": "Withdraw",
+      "lvl": "1"
+    },
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Curse",
+      "lvl": "1"
+    },
+    {
+      "move": "Growl",
+      "lvl": "1"
+    },
+    {
+      "move": "Acid",
+      "lvl": "1"
+    },
+    {
+      "move": "Shell Side Arm",
+      "lvl": ""
+    },
+    {
+      "move": "Yawn",
+      "lvl": "9"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "12"
+    },
+    {
+      "move": "Disable",
+      "lvl": "15"
+    },
+    {
+      "move": "Water Pulse",
+      "lvl": "18"
+    },
+    {
+      "move": "Headbutt",
+      "lvl": "21"
+    },
+    {
+      "move": "Zen Headbutt",
+      "lvl": "24"
+    },
+    {
+      "move": "Amnesia",
+      "lvl": "27"
+    },
+    {
+      "move": "Surf",
+      "lvl": "30"
+    },
+    {
+      "move": "Slack Off",
+      "lvl": "33"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "36"
+    },
+    {
+      "move": "Psych Up",
+      "lvl": "39"
+    },
+    {
+      "move": "Rain Dance",
+      "lvl": "42"
+    },
+    {
+      "move": "Heal Pulse",
+      "lvl": "45"
+    }
+  ],
+  "type2": "Psychic",
+  "DefYield": 0,
+  "Def": 95,
+  "eggGroup2": "Water 1",
   "SpA": 100,
+  "SpD": 70,
+  "eggGroup1": "Monster",
+  "type1": "Poison",
+  "SpAYield": 0,
   "name": "Galarian Slowbro",
   "Atk": 100,
   "SwordEntry": "A Shellder bite set off a chemical reaction with the spices inside Slowbro's body, causing Slowbro to become a Poison-type Pokémon.",
-  "abilityHidden": "Regenerator",
-  "SpD": 70
+  "SpDYield": 0,
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
   "extraMega": false,
   "ability1": "Limber",
-  "AtkYield": 2,
   "HP": 80,
+  "Spe": 42,
+  "SpeYield": 0,
+  "XPYield": 168,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -163,16 +165,12 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 853,
-  "SpA": 70,
-  "Atk": 118,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Technician",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -236,21 +234,24 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 90,
+  "SpA": 70,
   "eggGroup2": "Human-Like",
-  "Spe": 42,
+  "SpD": 80,
   "weight": "39.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Grapploct",
+  "Atk": 118,
   "SwordEntry": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
-  "SpeYield": 0,
-  "SpD": 80,
-  "category": "Jujitsu Pokémon"
+  "SpDYield": 0,
+  "category": "Jujitsu Pokémon",
+  "HPYield": 0
 }

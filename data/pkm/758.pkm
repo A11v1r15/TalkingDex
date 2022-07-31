@@ -2,9 +2,11 @@
   "ShieldEntry": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
   "extraMega": false,
   "ability1": "Corrosion",
-  "AtkYield": 0,
   "HP": 68,
   "SunEntry": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
+  "Spe": 117,
+  "SpeYield": 2,
+  "XPYield": 168,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -176,19 +178,15 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
   "number": 758,
   "MoonEntry": "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.",
-  "SpA": 111,
   "UltraSunEntry": "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it.",
-  "Atk": 64,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Oblivious",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -280,21 +278,24 @@
       "lvl": "65"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
+  "Def": 60,
+  "SpA": 111,
   "eggGroup2": "Dragon",
-  "Spe": 117,
+  "SpD": 60,
   "weight": "22.2kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Salazzle",
+  "Atk": 64,
   "SwordEntry": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",
-  "SpeYield": 2,
-  "SpD": 60,
-  "category": "Toxic Lizard Pokémon"
+  "SpDYield": 0,
+  "category": "Toxic Lizard Pokémon",
+  "HPYield": 0
 }

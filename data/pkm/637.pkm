@@ -4,8 +4,10 @@
   "ability1": "Flame Body",
   "YEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
   "AlphaSapphireEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
-  "AtkYield": 0,
   "HP": 85,
+  "Spe": 100,
+  "SpeYield": 0,
+  "XPYield": 275,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -157,19 +159,15 @@
       "technical": "TR89"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
   "UltraMoonEntry": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
   "number": 637,
-  "SpA": 135,
   "UltraSunEntry": "As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as \"the rage of the sun.\"",
-  "Atk": 60,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Swarm",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -265,10 +263,13 @@
       "lvl": "78"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
   "WhiteEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+  "Def": 65,
+  "SpA": 135,
   "eggGroup2": "",
-  "Spe": 100,
+  "SpD": 105,
   "weight": "46.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -276,15 +277,15 @@
   "hasGalarian": false,
   "BlackEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
   "OmegaRubyEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-  "Def": 65,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Volcarona",
+  "Atk": 60,
   "White2Entry": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
   "SwordEntry": "Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.",
-  "SpeYield": 0,
-  "SpD": 105,
+  "SpDYield": 0,
   "category": "Sun Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing."
 }

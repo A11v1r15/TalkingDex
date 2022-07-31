@@ -2,8 +2,10 @@
   "ShieldEntry": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
   "extraMega": false,
   "ability1": "Cheek Pouch",
-  "AtkYield": 0,
   "HP": 120,
+  "Spe": 20,
+  "SpeYield": 0,
+  "XPYield": 161,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -159,16 +161,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 820,
-  "SpA": 55,
-  "Atk": 95,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Gluttony",
-  "HPYield": 2,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -232,21 +230,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 95,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 20,
+  "SpD": 75,
   "weight": "6.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Normal",
   "hasGalarian": false,
-  "Def": 95,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Greedent",
+  "Atk": 95,
   "SwordEntry": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Greedy Pokémon"
+  "SpDYield": 0,
+  "category": "Greedy Pokémon",
+  "HPYield": 2
 }

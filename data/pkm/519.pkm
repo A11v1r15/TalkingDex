@@ -4,8 +4,10 @@
   "ability1": "Big Pecks",
   "YEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
   "AlphaSapphireEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-  "AtkYield": 1,
   "HP": 50,
+  "Spe": 43,
+  "SpeYield": 0,
+  "XPYield": 53,
   "ability2": "Super Luck",
   "tmTrMoves": [
     {
@@ -97,7 +99,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -109,11 +110,8 @@
   ],
   "XEntry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
   "number": 519,
-  "SpA": 36,
-  "Atk": 55,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Rivalry",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -169,10 +167,13 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+  "Def": 50,
+  "SpA": 36,
   "eggGroup2": "",
-  "Spe": 43,
+  "SpD": 30,
   "weight": "2.1kg",
   "eggGroup1": "Flying",
   "hasMega": false,
@@ -180,15 +181,15 @@
   "hasGalarian": false,
   "BlackEntry": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
   "OmegaRubyEntry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
-  "Def": 50,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Pidove",
+  "Atk": 55,
   "White2Entry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
   "SwordEntry": "Where people go, these Pokémon follow. If you're scattering food for them, be careful\u2014 several hundred of them can gather at once.",
-  "SpeYield": 0,
-  "SpD": 30,
+  "SpDYield": 0,
   "category": "Tiny Pigeon Pokémon",
+  "HPYield": 0,
   "Black2Entry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
 }

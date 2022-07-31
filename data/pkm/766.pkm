@@ -2,9 +2,11 @@
   "ShieldEntry": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
   "extraMega": false,
   "ability1": "Receiver",
-  "AtkYield": 2,
   "HP": 100,
   "SunEntry": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -212,7 +214,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -227,12 +228,9 @@
   "UltraMoonEntry": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
   "number": 766,
   "MoonEntry": "They battle with hard berries for weapons. Their techniques are passed from the boss to the group, generation upon generation.",
-  "SpA": 40,
   "UltraSunEntry": "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves.",
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Defiant",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -292,21 +290,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 90,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 80,
+  "SpD": 60,
   "weight": "82.8kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Passimian",
+  "Atk": 120,
   "SwordEntry": "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Teamwork Pokémon"
+  "SpDYield": 0,
+  "category": "Teamwork Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
   "extraMega": false,
   "ability1": "Steam Engine",
-  "AtkYield": 0,
   "HP": 80,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 144,
   "ability2": "Flame Body",
   "tmTrMoves": [
     {
@@ -147,16 +149,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 838,
-  "SpA": 60,
-  "Atk": 60,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Flash Fire",
-  "HPYield": 0,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -212,21 +210,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 2,
   "type2": "Fire",
+  "Def": 90,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 70,
   "weight": "78.0kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Carkol",
+  "Atk": 60,
   "SwordEntry": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Coal Pokémon"
+  "SpDYield": 0,
+  "category": "Coal Pokémon",
+  "HPYield": 0
 }

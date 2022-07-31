@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 83,
   "SunEntry": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.",
+  "Spe": 83,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -136,19 +138,15 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
   "eggMoves": [],
   "number": 796,
   "MoonEntry": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.",
-  "SpA": 173,
   "UltraSunEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
-  "Atk": 89,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "3.8m",
   "lvlUpMoves": [
     {
@@ -216,21 +214,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 71,
+  "SpA": 173,
   "eggGroup2": "",
-  "Spe": 83,
+  "SpD": 71,
   "weight": "100.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 71,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Xurkitree",
+  "Atk": 89,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 71,
-  "category": "Glowing Pokémon"
+  "SpDYield": 0,
+  "category": "Glowing Pokémon",
+  "HPYield": 0
 }

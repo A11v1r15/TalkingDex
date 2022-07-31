@@ -2,8 +2,10 @@
   "ShieldEntry": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
   "extraMega": false,
   "ability1": "Sheer Force",
-  "AtkYield": 1,
   "HP": 72,
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 66,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -139,7 +141,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -153,11 +154,8 @@
     {"move": "Defense Curl"}
   ],
   "number": 878,
-  "SpA": 40,
-  "Atk": 80,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Heavy Metal",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -213,21 +211,24 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 49,
+  "SpA": 40,
   "eggGroup2": "Mineral",
-  "Spe": 40,
+  "SpD": 49,
   "weight": "100.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 49,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cufant",
+  "Atk": 80,
   "SwordEntry": "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",
-  "SpeYield": 0,
-  "SpD": 49,
-  "category": "Copperderm Pokémon"
+  "SpDYield": 0,
+  "category": "Copperderm Pokémon",
+  "HPYield": 0
 }

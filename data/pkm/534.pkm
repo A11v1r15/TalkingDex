@@ -4,8 +4,10 @@
   "ability1": "Guts",
   "YEntry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
   "AlphaSapphireEntry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
-  "AtkYield": 3,
   "HP": 105,
+  "Spe": 45,
+  "SpeYield": 0,
+  "XPYield": 253,
   "ability2": "Sheer Force",
   "tmTrMoves": [
     {
@@ -201,17 +203,13 @@
       "technical": "TR94"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
   "number": 534,
-  "SpA": 55,
-  "Atk": 140,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Iron Fist",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -271,10 +269,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.",
+  "Def": 95,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 45,
+  "SpD": 65,
   "weight": "87.0kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -282,15 +283,15 @@
   "hasGalarian": false,
   "BlackEntry": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
   "OmegaRubyEntry": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
-  "Def": 95,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Conkeldurr",
+  "Atk": 140,
   "White2Entry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
   "SwordEntry": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
-  "SpeYield": 0,
-  "SpD": 65,
+  "SpDYield": 0,
   "category": "Muscular Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
 }

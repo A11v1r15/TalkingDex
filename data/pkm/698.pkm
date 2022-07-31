@@ -4,8 +4,10 @@
   "ability1": "Refrigerate",
   "YEntry": "This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.",
   "AlphaSapphireEntry": "This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.",
-  "AtkYield": 0,
   "HP": 77,
+  "Spe": 46,
+  "SpeYield": 0,
+  "XPYield": 72,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -177,7 +179,6 @@
       "technical": "TR76"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
@@ -191,12 +192,9 @@
     {"move": "Aurora Veil"}
   ],
   "number": 698,
-  "SpA": 67,
   "UltraSunEntry": "It lived in cold areas in ancient times. It's said that when Amaura whinnies, auroras appear in the night sky.",
-  "Atk": 59,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Snow Warning",
-  "HPYield": 1,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -264,22 +262,25 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Ice",
+  "Def": 50,
+  "SpA": 67,
   "eggGroup2": "",
-  "Spe": 46,
+  "SpD": 63,
   "weight": "25.2kg",
   "eggGroup1": "Monster",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
-  "Def": 50,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Amaura",
+  "Atk": 59,
   "SwordEntry": "This Pokémon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",
-  "SpeYield": 0,
-  "SpD": 63,
-  "category": "Tundra Pokémon"
+  "SpDYield": 0,
+  "category": "Tundra Pokémon",
+  "HPYield": 1
 }

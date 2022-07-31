@@ -2,9 +2,11 @@
   "ShieldEntry": "Incineroar's rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.",
   "extraMega": false,
   "ability1": "Blaze",
-  "AtkYield": 3,
   "HP": 95,
   "SunEntry": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 265,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -248,19 +250,15 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "UltraMoonEntry": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
   "number": 727,
   "MoonEntry": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
-  "SpA": 80,
   "UltraSunEntry": "Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
-  "Atk": 115,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Intimidate",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -340,21 +338,24 @@
       "lvl": "58"
     }
   ],
+  "DefYield": 0,
   "type2": "Dark",
+  "Def": 90,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 90,
   "weight": "83.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Incineroar",
+  "Atk": 115,
   "SwordEntry": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Heel Pokémon"
+  "SpDYield": 0,
+  "category": "Heel Pokémon",
+  "HPYield": 0
 }

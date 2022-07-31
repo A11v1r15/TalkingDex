@@ -2,8 +2,10 @@
   "ShieldEntry": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
   "extraMega": false,
   "ability1": "Gulp Missile",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 85,
+  "SpeYield": 0,
+  "XPYield": 166,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -147,7 +149,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -158,11 +159,8 @@
     {"move": "Roost"}
   ],
   "number": 845,
-  "SpA": 85,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -218,21 +216,24 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Water",
+  "Def": 55,
+  "SpA": 85,
   "eggGroup2": "Flying",
-  "Spe": 85,
+  "SpD": 95,
   "weight": "18.0kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Flying",
   "hasGalarian": false,
-  "Def": 55,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Cramorant",
+  "Atk": 85,
   "SwordEntry": "It's so strong that it can knock out some opponents in a single hit, but it also may forget what it's battling midfight.",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Gulp Pokémon"
+  "SpDYield": 2,
+  "category": "Gulp Pokémon",
+  "HPYield": 0
 }

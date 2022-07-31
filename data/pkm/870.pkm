@@ -2,8 +2,10 @@
   "ShieldEntry": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
   "extraMega": false,
   "ability1": "Battle Armor",
-  "AtkYield": 2,
   "HP": 65,
+  "Spe": 75,
+  "SpeYield": 0,
+  "XPYield": 165,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -151,16 +153,12 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 870,
-  "SpA": 70,
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Defiant",
-  "HPYield": 0,
   "height": "3.0m",
   "lvlUpMoves": [
     {
@@ -220,21 +218,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 100,
+  "SpA": 70,
   "eggGroup2": "Mineral",
-  "Spe": 75,
+  "SpD": 60,
   "weight": "62.0kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
-  "Def": 100,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Falinks",
+  "Atk": 100,
   "SwordEntry": "Five of them are troopers, and one is the brass. The brass's orders are absolute.",
-  "SpeYield": 0,
-  "SpD": 60,
-  "category": "Formation Pokémon"
+  "SpDYield": 1,
+  "category": "Formation Pokémon",
+  "HPYield": 0
 }

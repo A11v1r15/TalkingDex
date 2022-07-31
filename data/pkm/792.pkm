@@ -2,9 +2,11 @@
   "ShieldEntry": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
   "extraMega": false,
   "ability1": "Shadow Shield",
-  "AtkYield": 0,
   "HP": 137,
   "SunEntry": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
+  "Spe": 97,
+  "SpeYield": 0,
+  "XPYield": 340,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -196,19 +198,15 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
   "number": 792,
   "MoonEntry": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
-  "SpA": 137,
   "UltraSunEntry": "Records of it exist in writings from long, long ago, where it was known by the name \u201cthe beast that calls the moon.\u201d",
-  "Atk": 113,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "4.0m",
   "lvlUpMoves": [
     {
@@ -284,21 +282,24 @@
       "lvl": "84"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
+  "Def": 89,
+  "SpA": 137,
   "eggGroup2": "",
-  "Spe": 97,
+  "SpD": 107,
   "weight": "120.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 89,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Lunala",
+  "Atk": 113,
   "SwordEntry": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
-  "SpeYield": 0,
-  "SpD": 107,
-  "category": "Moone Pokémon"
+  "SpDYield": 0,
+  "category": "Moone Pokémon",
+  "HPYield": 0
 }

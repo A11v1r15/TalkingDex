@@ -1,65 +1,10 @@
 {
   "ShieldEntry": "Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "5"
-    },
-    {
-      "move": "Disable",
-      "lvl": "10"
-    },
-    {
-      "move": "Spite",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "20"
-    },
-    {
-      "move": "Hex",
-      "lvl": "25"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Strength Sap",
-      "lvl": "35"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "40"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "45"
-    },
-    {
-      "move": "Grudge",
-      "lvl": "50"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "55"
-    }
-  ],
   "ability1": "Weak Armor",
-  "type2": "",
-  "eggGroup2": "Water 3",
-  "Spe": 30,
   "HP": 60,
-  "eggGroup1": "Water 1",
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 144,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -259,9 +204,7 @@
       "technical": "TR98"
     }
   ],
-  "type1": "Ghost",
   "xpGroup": "Fast",
-  "Def": 100,
   "eggMoves": [
     {"move": "Confuse Ray"},
     {"move": "Destiny Bond"},
@@ -271,10 +214,74 @@
     {"move": "Water Pulse"}
   ],
   "number": 222,
+  "AtkYield": 0,
+  "abilityHidden": "Cursed Body",
+  "lvlUpMoves": [
+    {
+      "move": "Tackle",
+      "lvl": "1"
+    },
+    {
+      "move": "Harden",
+      "lvl": "1"
+    },
+    {
+      "move": "Astonish",
+      "lvl": "5"
+    },
+    {
+      "move": "Disable",
+      "lvl": "10"
+    },
+    {
+      "move": "Spite",
+      "lvl": "15"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "20"
+    },
+    {
+      "move": "Hex",
+      "lvl": "25"
+    },
+    {
+      "move": "Curse",
+      "lvl": "30"
+    },
+    {
+      "move": "Strength Sap",
+      "lvl": "35"
+    },
+    {
+      "move": "Power Gem",
+      "lvl": "40"
+    },
+    {
+      "move": "Night Shade",
+      "lvl": "45"
+    },
+    {
+      "move": "Grudge",
+      "lvl": "50"
+    },
+    {
+      "move": "Mirror Coat",
+      "lvl": "55"
+    }
+  ],
+  "type2": "",
+  "DefYield": 0,
+  "Def": 100,
+  "eggGroup2": "Water 3",
   "SpA": 65,
+  "SpD": 100,
+  "eggGroup1": "Water 1",
+  "type1": "Ghost",
+  "SpAYield": 0,
   "name": "Galarian Corsola",
   "Atk": 55,
   "SwordEntry": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.",
-  "abilityHidden": "Cursed Body",
-  "SpD": 100
+  "SpDYield": 1,
+  "HPYield": 0
 }

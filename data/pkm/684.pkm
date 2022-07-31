@@ -4,8 +4,10 @@
   "ability1": "Sweet Veil",
   "YEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
   "AlphaSapphireEntry": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-  "AtkYield": 0,
   "HP": 62,
+  "Spe": 49,
+  "SpeYield": 0,
+  "XPYield": 68,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -117,7 +119,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -128,11 +129,8 @@
   ],
   "XEntry": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
   "number": 684,
-  "SpA": 59,
-  "Atk": 48,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Unburden",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -196,22 +194,25 @@
       "lvl": "39"
     }
   ],
+  "DefYield": 1,
   "type2": "",
+  "Def": 66,
+  "SpA": 59,
   "eggGroup2": "",
-  "Spe": 49,
+  "SpD": 57,
   "weight": "3.5kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
   "OmegaRubyEntry": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
-  "Def": 66,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Swirlix",
+  "Atk": 48,
   "SwordEntry": "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
-  "SpeYield": 0,
-  "SpD": 57,
-  "category": "Cotton Candy Pokémon"
+  "SpDYield": 0,
+  "category": "Cotton Candy Pokémon",
+  "HPYield": 0
 }

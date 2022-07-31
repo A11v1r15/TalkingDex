@@ -4,8 +4,10 @@
   "ability1": "Unaware",
   "YEntry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
   "AlphaSapphireEntry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-  "AtkYield": 0,
   "HP": 65,
+  "Spe": 72,
+  "SpeYield": 1,
+  "XPYield": 65,
   "ability2": "Klutz",
   "tmTrMoves": [
     {
@@ -205,7 +207,6 @@
       "technical": "TR91"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -217,11 +218,8 @@
   ],
   "XEntry": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
   "number": 527,
-  "SpA": 55,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Simple",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -277,10 +275,13 @@
       "lvl": "55"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+  "Def": 43,
+  "SpA": 55,
   "eggGroup2": "Flying",
-  "Spe": 72,
+  "SpD": 43,
   "weight": "2.1kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -288,15 +289,15 @@
   "hasGalarian": false,
   "BlackEntry": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
   "OmegaRubyEntry": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
-  "Def": 43,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Woobat",
+  "Atk": 45,
   "White2Entry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
   "SwordEntry": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.",
-  "SpeYield": 1,
-  "SpD": 43,
+  "SpDYield": 0,
   "category": "Bat Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune."
 }

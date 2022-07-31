@@ -4,8 +4,10 @@
   "ability1": "Inner Focus",
   "YEntry": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
   "AlphaSapphireEntry": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
-  "AtkYield": 1,
   "HP": 45,
+  "Spe": 65,
+  "SpeYield": 0,
+  "XPYield": 70,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -193,7 +195,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -205,12 +206,9 @@
   "XEntry": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
   "UltraMoonEntry": "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
   "number": 619,
-  "SpA": 55,
   "UltraSunEntry": "They can often be seen in packs in the morning, slowly moving their bodies through a series of poses.",
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Reckless",
-  "HPYield": 0,
   "height": "0.9m",
   "lvlUpMoves": [
     {
@@ -270,10 +268,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
+  "Def": 50,
+  "SpA": 55,
   "eggGroup2": "Human-Like",
-  "Spe": 65,
+  "SpD": 50,
   "weight": "20.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -281,15 +282,15 @@
   "hasGalarian": false,
   "BlackEntry": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
   "OmegaRubyEntry": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
-  "Def": 50,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Mienfoo",
+  "Atk": 85,
   "White2Entry": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
   "SwordEntry": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
-  "SpeYield": 0,
-  "SpD": 50,
+  "SpDYield": 0,
   "category": "Martial Arts Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity."
 }

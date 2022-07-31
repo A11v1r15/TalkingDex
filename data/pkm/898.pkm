@@ -2,8 +2,10 @@
   "ShieldEntry": "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.",
   "extraMega": false,
   "ability1": "Unnerve",
-  "AtkYield": 0,
   "HP": 100,
+  "Spe": 80,
+  "SpeYield": 0,
+  "XPYield": 250,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -211,16 +213,12 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 898,
-  "SpA": 80,
-  "Atk": 80,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -284,21 +282,24 @@
       "lvl": "88"
     }
   ],
+  "DefYield": 0,
   "type2": "Grass",
+  "Def": 80,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 80,
+  "SpD": 80,
   "weight": "7.7kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Calyrex",
+  "Atk": 80,
   "SwordEntry": "Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
-  "SpeYield": 0,
-  "SpD": 80,
-  "category": "King Pokémon"
+  "SpDYield": 0,
+  "category": "King Pokémon",
+  "HPYield": 3
 }

@@ -4,8 +4,10 @@
   "ability1": "Rock Head",
   "YEntry": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
   "AlphaSapphireEntry": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 98,
+  "SpeYield": 2,
+  "XPYield": 161,
   "ability2": "Adaptability",
   "tmTrMoves": [
     {
@@ -157,7 +159,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -167,12 +168,9 @@
   "XEntry": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
   "UltraMoonEntry": "When a school of Basculin appears in a lake, everything else disappears, except for Corphish and Crawdaunt. That's how violent Basculin are.",
   "number": 550,
-  "SpA": 80,
   "UltraSunEntry": "Savage, violent Pokémon, red and blue Basculin are always fighting each other over territory.",
-  "Atk": 92,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Mold Breaker",
-  "HPYield": 0,
   "LegendsArceusEntry": "Though it differs from other Basculin in several respects, including demeanor-this one is gentle-I have categorized it as a regional form given the vast array of shared qualities.",
   "height": "1.0m",
   "lvlUpMoves": [
@@ -241,10 +239,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+  "Def": 65,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 98,
+  "SpD": 55,
   "weight": "18.0kg",
   "eggGroup1": "Water 2",
   "hasMega": false,
@@ -252,15 +253,15 @@
   "hasGalarian": false,
   "BlackEntry": "Red and blue Basculin get along so poorly, they'll start fighting instantly. These Pokémon are very hostile.",
   "OmegaRubyEntry": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
-  "Def": 65,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Basculin",
+  "Atk": 92,
   "White2Entry": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
   "SwordEntry": "Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch\u2014 many people release them into lakes illicitly.",
-  "SpeYield": 2,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Hostile Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty."
 }

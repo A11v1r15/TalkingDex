@@ -4,8 +4,10 @@
   "ability1": "Keen Eye",
   "YEntry": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
   "AlphaSapphireEntry": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
-  "AtkYield": 0,
   "HP": 62,
+  "Spe": 68,
+  "SpeYield": 1,
+  "XPYield": 71,
   "ability2": "Infiltrator",
   "tmTrMoves": [
     {
@@ -157,7 +159,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -166,11 +167,8 @@
   ],
   "XEntry": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
   "number": 677,
-  "SpA": 63,
-  "Atk": 48,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Own Tempo",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -214,22 +212,25 @@
       "lvl": "33"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 54,
+  "SpA": 63,
   "eggGroup2": "",
-  "Spe": 68,
+  "SpD": 60,
   "weight": "3.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Psychic",
   "hasGalarian": false,
   "OmegaRubyEntry": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
-  "Def": 54,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Espurr",
+  "Atk": 48,
   "SwordEntry": "Though Espurr's expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",
-  "SpeYield": 1,
-  "SpD": 60,
-  "category": "Restraint Pokémon"
+  "SpDYield": 0,
+  "category": "Restraint Pokémon",
+  "HPYield": 0
 }

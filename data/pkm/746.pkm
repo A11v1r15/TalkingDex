@@ -2,9 +2,11 @@
   "ShieldEntry": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
   "extraMega": false,
   "ability1": "Tough Claws",
-  "AtkYield": 0,
   "HP": 45,
   "SunEntry": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 61,
   "ability2": "",
   "title": "Solo Form",
   "tmTrMoves": [
@@ -125,7 +127,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -136,12 +137,9 @@
   "UltraMoonEntry": "When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
   "number": 746,
   "MoonEntry": "It's awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
-  "SpA": 25,
   "UltraSunEntry": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
-  "Atk": 20,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 1,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -201,21 +199,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 20,
+  "SpA": 25,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 25,
   "weight": "0.3kg",
   "eggGroup1": "Water 2",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 20,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Wishiwashi",
+  "Atk": 20,
   "SwordEntry": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
-  "SpeYield": 0,
-  "SpD": 25,
-  "category": "Small Fry Pokémon"
+  "SpDYield": 0,
+  "category": "Small Fry Pokémon",
+  "HPYield": 1
 }

@@ -2,9 +2,11 @@
   "ShieldEntry": "When facing a powerful enemy, Torracat's fighting spirit gets pumped up, and its fire bell blazes hotter.",
   "extraMega": false,
   "ability1": "Blaze",
-  "AtkYield": 0,
   "HP": 65,
   "SunEntry": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.",
+  "Spe": 90,
+  "SpeYield": 2,
+  "XPYield": 147,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -140,19 +142,15 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "UltraMoonEntry": "When its mane is standing on end, you can tell it's feeling good. When it isn't feeling well, its fur will lie down flat.",
   "number": 726,
   "MoonEntry": "It boasts powerful front legs. With a single punch, it can bend an iron bar right over.",
-  "SpA": 80,
   "UltraSunEntry": "It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.",
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Intimidate",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -212,21 +210,24 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 50,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 90,
+  "SpD": 50,
   "weight": "25.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fire",
   "hasGalarian": false,
-  "Def": 50,
   "colour": "Red",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Torracat",
+  "Atk": 85,
   "SwordEntry": "In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual.",
-  "SpeYield": 2,
-  "SpD": 50,
-  "category": "Fire Cat Pokémon"
+  "SpDYield": 0,
+  "category": "Fire Cat Pokémon",
+  "HPYield": 0
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants.",
   "extraMega": false,
   "ability1": "Prankster",
-  "AtkYield": 0,
   "HP": 45,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 53,
   "ability2": "Frisk",
   "tmTrMoves": [
     {
@@ -127,16 +129,12 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 859,
-  "SpA": 55,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Pickpocket",
-  "HPYield": 0,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -192,21 +190,24 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "Fairy",
+  "Def": 30,
+  "SpA": 55,
   "eggGroup2": "Human-Like",
-  "Spe": 50,
+  "SpD": 40,
   "weight": "5.5kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
-  "Def": 30,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Impidimp",
+  "Atk": 45,
   "SwordEntry": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
-  "SpeYield": 0,
-  "SpD": 40,
-  "category": "Wily Pokémon"
+  "SpDYield": 0,
+  "category": "Wily Pokémon",
+  "HPYield": 0
 }

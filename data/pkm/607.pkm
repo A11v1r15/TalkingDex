@@ -4,8 +4,10 @@
   "ability1": "Flash Fire",
   "YEntry": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
   "AlphaSapphireEntry": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-  "AtkYield": 0,
   "HP": 50,
+  "Spe": 20,
+  "SpeYield": 0,
+  "XPYield": 55,
   "ability2": "Flame Body",
   "tmTrMoves": [
     {
@@ -137,7 +139,6 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [
@@ -148,11 +149,8 @@
   ],
   "XEntry": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
   "number": 607,
-  "SpA": 65,
-  "Atk": 30,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Infiltrator",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -220,10 +218,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
   "WhiteEntry": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+  "Def": 55,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 20,
+  "SpD": 55,
   "weight": "3.1kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
@@ -231,15 +232,15 @@
   "hasGalarian": false,
   "BlackEntry": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
   "OmegaRubyEntry": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
-  "Def": 55,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Litwick",
+  "Atk": 30,
   "White2Entry": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
   "SwordEntry": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Candle Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon."
 }

@@ -4,9 +4,11 @@
   "ability1": "Iron Fist",
   "YEntry": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
   "AlphaSapphireEntry": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
-  "AtkYield": 1,
   "HP": 67,
   "SunEntry": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+  "Spe": 43,
+  "SpeYield": 0,
+  "XPYield": 70,
   "ability2": "Mold Breaker",
   "tmTrMoves": [
     {
@@ -202,7 +204,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -216,12 +217,9 @@
   "UltraMoonEntry": "It's desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
   "number": 674,
   "MoonEntry": "There's no point to the leaf in its mouth, aside from an effort to look cool. It's mischievous, so it's not well suited to inexperienced Trainers.",
-  "SpA": 46,
   "UltraSunEntry": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
-  "Atk": 82,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Scrappy",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -277,22 +275,25 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 62,
+  "SpA": 46,
   "eggGroup2": "Human-Like",
-  "Spe": 43,
+  "SpD": 48,
   "weight": "8.0kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Fighting",
   "hasGalarian": false,
   "OmegaRubyEntry": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
-  "Def": 62,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Pancham",
+  "Atk": 82,
   "SwordEntry": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",
-  "SpeYield": 0,
-  "SpD": 48,
-  "category": "Playful Pokémon"
+  "SpDYield": 0,
+  "category": "Playful Pokémon",
+  "HPYield": 0
 }

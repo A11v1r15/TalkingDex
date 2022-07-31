@@ -2,8 +2,10 @@
   "ShieldEntry": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
   "extraMega": false,
   "ability1": "Sand Spit",
-  "AtkYield": 0,
   "HP": 72,
+  "Spe": 71,
+  "SpeYield": 0,
+  "XPYield": 179,
   "ability2": "Shed Skin",
   "tmTrMoves": [
     {
@@ -143,16 +145,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 844,
-  "SpA": 65,
-  "Atk": 107,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Sand Veil",
-  "HPYield": 0,
   "height": "3.8m",
   "lvlUpMoves": [
     {
@@ -208,21 +206,24 @@
       "lvl": "51"
     }
   ],
+  "DefYield": 2,
   "type2": "",
+  "Def": 125,
+  "SpA": 65,
   "eggGroup2": "Dragon",
-  "Spe": 71,
+  "SpD": 70,
   "weight": "65.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Ground",
   "hasGalarian": false,
-  "Def": 125,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Sandaconda",
+  "Atk": 107,
   "SwordEntry": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
-  "SpeYield": 0,
-  "SpD": 70,
-  "category": "Sand Snake Pokémon"
+  "SpDYield": 0,
+  "category": "Sand Snake Pokémon",
+  "HPYield": 0
 }

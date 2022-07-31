@@ -2,8 +2,10 @@
   "ShieldEntry": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.",
   "extraMega": false,
   "ability1": "Ball Fetch",
-  "AtkYield": 0,
   "HP": 59,
+  "Spe": 26,
+  "SpeYield": 0,
+  "XPYield": 54,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -107,7 +109,6 @@
       "technical": "TR90"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -118,11 +119,8 @@
     {"move": "Howl"}
   ],
   "number": 835,
-  "SpA": 40,
-  "Atk": 45,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Rattled",
-  "HPYield": 1,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -170,21 +168,24 @@
       "lvl": "45"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 50,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 26,
+  "SpD": 50,
   "weight": "13.5kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 50,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Yamper",
+  "Atk": 45,
   "SwordEntry": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
-  "SpeYield": 0,
-  "SpD": 50,
-  "category": "Puppy Pokémon"
+  "SpDYield": 0,
+  "category": "Puppy Pokémon",
+  "HPYield": 1
 }

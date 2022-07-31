@@ -4,8 +4,10 @@
   "ability1": "Big Pecks",
   "YEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
   "AlphaSapphireEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
-  "AtkYield": 3,
   "HP": 80,
+  "Spe": 93,
+  "SpeYield": 0,
+  "XPYield": 244,
   "ability2": "Super Luck",
   "tmTrMoves": [
     {
@@ -113,17 +115,13 @@
       "technical": "TR89"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "XEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
   "number": 521,
-  "SpA": 65,
-  "Atk": 115,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Rivalry",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -179,10 +177,13 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+  "Def": 80,
+  "SpA": 65,
   "eggGroup2": "",
-  "Spe": 93,
+  "SpD": 55,
   "weight": "29.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
@@ -190,15 +191,15 @@
   "hasGalarian": false,
   "BlackEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
   "OmegaRubyEntry": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
-  "Def": 80,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Unfezant",
+  "Atk": 115,
   "White2Entry": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
   "SwordEntry": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
-  "SpeYield": 0,
-  "SpD": 55,
+  "SpDYield": 0,
   "category": "Proud Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Males swing the plumage on their heads to threaten others, but females are better at flying."
 }

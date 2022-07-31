@@ -2,8 +2,10 @@
   "ShieldEntry": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.",
   "extraMega": false,
   "ability1": "Swift Swim",
-  "AtkYield": 0,
   "HP": 41,
+  "Spe": 66,
+  "SpeYield": 1,
+  "XPYield": 56,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -119,7 +121,6 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -129,11 +130,8 @@
     {"move": "Night Slash"}
   ],
   "number": 846,
-  "SpA": 40,
-  "Atk": 63,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Propeller Tail",
-  "HPYield": 0,
   "height": "0.5m",
   "lvlUpMoves": [
     {
@@ -177,21 +175,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 40,
+  "SpA": 40,
   "eggGroup2": "",
-  "Spe": 66,
+  "SpD": 30,
   "weight": "1.0kg",
   "eggGroup1": "Water 2",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
-  "Def": 40,
   "colour": "Brown",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Arrokuda",
+  "Atk": 63,
   "SwordEntry": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
-  "SpeYield": 1,
-  "SpD": 30,
-  "category": "Rush Pokémon"
+  "SpDYield": 0,
+  "category": "Rush Pokémon",
+  "HPYield": 0
 }

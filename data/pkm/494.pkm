@@ -4,8 +4,10 @@
   "ability1": "Victory Star",
   "YEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
   "AlphaSapphireEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-  "AtkYield": 0,
   "HP": 100,
+  "Spe": 100,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -249,17 +251,13 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
   "eggMoves": [],
   "number": 494,
-  "SpA": 100,
-  "Atk": 100,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 3,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -335,10 +333,13 @@
       "lvl": "91"
     }
   ],
+  "DefYield": 0,
   "type2": "Fire",
   "WhiteEntry": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
+  "Def": 100,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 100,
+  "SpD": 100,
   "weight": "4.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -346,15 +347,15 @@
   "hasGalarian": false,
   "BlackEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
   "OmegaRubyEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
-  "Def": 100,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Victini",
+  "Atk": 100,
   "White2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 100,
+  "SpDYield": 0,
   "category": "Victory Pokémon",
+  "HPYield": 3,
   "Black2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power."
 }

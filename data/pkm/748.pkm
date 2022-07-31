@@ -2,9 +2,11 @@
   "ShieldEntry": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
   "extraMega": false,
   "ability1": "Merciless",
-  "AtkYield": 0,
   "HP": 50,
   "SunEntry": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+  "Spe": 35,
+  "SpeYield": 0,
+  "XPYield": 173,
   "ability2": "Limber",
   "tmTrMoves": [
     {
@@ -148,19 +150,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "UltraMoonEntry": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.",
   "number": 748,
   "MoonEntry": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
-  "SpA": 53,
   "UltraSunEntry": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
-  "Atk": 63,
-  "DefYield": 2,
+  "AtkYield": 0,
   "abilityHidden": "Regenerator",
-  "HPYield": 0,
   "height": "0.7m",
   "lvlUpMoves": [
     {
@@ -220,21 +218,24 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 2,
   "type2": "Water",
+  "Def": 152,
+  "SpA": 53,
   "eggGroup2": "",
-  "Spe": 35,
+  "SpD": 142,
   "weight": "14.5kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Poison",
   "hasGalarian": false,
-  "Def": 152,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Toxapex",
+  "Atk": 63,
   "SwordEntry": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
-  "SpeYield": 0,
-  "SpD": 142,
-  "category": "Brutal Star Pokémon"
+  "SpDYield": 0,
+  "category": "Brutal Star Pokémon",
+  "HPYield": 0
 }

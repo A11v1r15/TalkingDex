@@ -4,8 +4,10 @@
   "ability1": "Water Absorb",
   "YEntry": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
   "AlphaSapphireEntry": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
-  "AtkYield": 0,
   "HP": 100,
+  "Spe": 60,
+  "SpeYield": 0,
+  "XPYield": 168,
   "ability2": "Cursed Body",
   "tmTrMoves": [
     {
@@ -165,19 +167,15 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
   "UltraMoonEntry": "Fishermen are terrified of Jellicent. It's rumored to drag them into the sea and steal their lives away.",
   "number": 593,
-  "SpA": 85,
   "UltraSunEntry": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
-  "Atk": 60,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Damp",
-  "HPYield": 0,
   "height": "2.2m",
   "lvlUpMoves": [
     {
@@ -241,10 +239,13 @@
       "lvl": "54"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
   "WhiteEntry": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+  "Def": 70,
+  "SpA": 85,
   "eggGroup2": "",
-  "Spe": 60,
+  "SpD": 105,
   "weight": "135.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
@@ -252,15 +253,15 @@
   "hasGalarian": false,
   "BlackEntry": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
   "OmegaRubyEntry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
-  "Def": 70,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Jellicent",
+  "Atk": 60,
   "White2Entry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
   "SwordEntry": "Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.",
-  "SpeYield": 0,
-  "SpD": 105,
+  "SpDYield": 2,
   "category": "Floating Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor."
 }

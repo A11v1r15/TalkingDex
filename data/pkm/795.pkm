@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 0,
   "HP": 71,
   "SunEntry": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
+  "Spe": 151,
+  "SpeYield": 3,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -144,19 +146,15 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
   "eggMoves": [],
   "number": 795,
   "MoonEntry": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
-  "SpA": 137,
   "UltraSunEntry": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
-  "Atk": 137,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -224,21 +222,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Fighting",
+  "Def": 37,
+  "SpA": 137,
   "eggGroup2": "",
-  "Spe": 151,
+  "SpD": 37,
   "weight": "25.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Bug",
   "hasGalarian": false,
-  "Def": 37,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Pheromosa",
+  "Atk": 137,
   "SwordEntry": "",
-  "SpeYield": 3,
-  "SpD": 37,
-  "category": "Lissome Pokémon"
+  "SpDYield": 0,
+  "category": "Lissome Pokémon",
+  "HPYield": 0
 }

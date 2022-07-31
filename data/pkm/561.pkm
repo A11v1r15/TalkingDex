@@ -4,8 +4,10 @@
   "ability1": "Wonder Skin",
   "YEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
   "AlphaSapphireEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
-  "AtkYield": 0,
   "HP": 72,
+  "Spe": 97,
+  "SpeYield": 0,
+  "XPYield": 172,
   "ability2": "Magic Guard",
   "tmTrMoves": [
     {
@@ -189,7 +191,6 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -199,11 +200,8 @@
   ],
   "XEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
   "number": 561,
-  "SpA": 103,
-  "Atk": 58,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Tinted Lens",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -267,10 +265,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Flying",
   "WhiteEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+  "Def": 80,
+  "SpA": 103,
   "eggGroup2": "",
-  "Spe": 97,
+  "SpD": 80,
   "weight": "14.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
@@ -278,15 +279,15 @@
   "hasGalarian": false,
   "BlackEntry": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
   "OmegaRubyEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
-  "Def": 80,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Sigilyph",
+  "Atk": 58,
   "White2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
   "SwordEntry": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
-  "SpeYield": 0,
-  "SpD": 80,
+  "SpDYield": 0,
   "category": "Avianoid Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
 }

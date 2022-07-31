@@ -2,9 +2,11 @@
   "ShieldEntry": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
   "extraMega": false,
   "ability1": "Flower Veil",
-  "AtkYield": 0,
   "HP": 51,
   "SunEntry": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+  "Spe": 100,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Triage",
   "tmTrMoves": [
     {
@@ -164,7 +166,6 @@
       "technical": "TR96"
     }
   ],
-  "SpDYield": 2,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "eggMoves": [
@@ -175,12 +176,9 @@
   "UltraMoonEntry": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
   "number": 764,
   "MoonEntry": "Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.",
-  "SpA": 82,
   "UltraSunEntry": "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn't have any flowers, it feels uneasy.",
-  "Atk": 52,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Natural Cure",
-  "HPYield": 0,
   "height": "0.1m",
   "lvlUpMoves": [
     {
@@ -256,21 +254,24 @@
       "lvl": "48"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 90,
+  "SpA": 82,
   "eggGroup2": "",
-  "Spe": 100,
+  "SpD": 110,
   "weight": "0.3kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Fairy",
   "hasGalarian": false,
-  "Def": 90,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Comfey",
+  "Atk": 52,
   "SwordEntry": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
-  "SpeYield": 0,
-  "SpD": 110,
-  "category": "Posy Picker Pokémon"
+  "SpDYield": 2,
+  "category": "Posy Picker Pokémon",
+  "HPYield": 0
 }

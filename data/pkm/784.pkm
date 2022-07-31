@@ -2,9 +2,11 @@
   "ShieldEntry": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
   "extraMega": false,
   "ability1": "Bulletproof",
-  "AtkYield": 0,
   "HP": 75,
   "SunEntry": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
+  "Spe": 85,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "Soundproof",
   "tmTrMoves": [
     {
@@ -244,19 +246,15 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "UltraMoonEntry": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
   "number": 784,
   "MoonEntry": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
-  "SpA": 100,
   "UltraSunEntry": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
-  "Atk": 110,
-  "DefYield": 3,
+  "AtkYield": 0,
   "abilityHidden": "Overcoat",
-  "HPYield": 0,
   "height": "1.6m",
   "lvlUpMoves": [
     {
@@ -340,21 +338,24 @@
       "lvl": "76"
     }
   ],
+  "DefYield": 3,
   "type2": "Fighting",
+  "Def": 125,
+  "SpA": 100,
   "eggGroup2": "",
-  "Spe": 85,
+  "SpD": 105,
   "weight": "78.2kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "Def": 125,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Kommo-o",
+  "Atk": 110,
   "SwordEntry": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
-  "SpeYield": 0,
-  "SpD": 105,
-  "category": "Scaly Pokémon"
+  "SpDYield": 0,
+  "category": "Scaly Pokémon",
+  "HPYield": 0
 }

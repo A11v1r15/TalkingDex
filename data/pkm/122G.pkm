@@ -1,117 +1,10 @@
 {
   "ShieldEntry": "It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor.",
-  "lvlUpMoves": [
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Encore",
-      "lvl": "1"
-    },
-    {
-      "move": "Role Play",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Recycle",
-      "lvl": "1"
-    },
-    {
-      "move": "Mimic",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "1"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "1"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "1"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "1"
-    },
-    {
-      "move": "Misty Terrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "12"
-    },
-    {
-      "move": "Ally Switch",
-      "lvl": "16"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "20"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "24"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "28"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "32"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "36"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "40"
-    },
-    {
-      "move": "Freeze-Dry",
-      "lvl": "44"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "48"
-    },
-    {
-      "move": "Teeter Dance",
-      "lvl": "52"
-    }
-  ],
   "ability1": "Vital Spirit",
-  "type2": "Psychic",
-  "eggGroup2": "",
-  "Spe": 100,
   "HP": 50,
-  "eggGroup1": "Human-Like",
+  "Spe": 100,
+  "SpeYield": 2,
+  "XPYield": 161,
   "ability2": "Screen Cleaner",
   "tmTrMoves": [
     {
@@ -387,9 +280,7 @@
       "technical": "TR92"
     }
   ],
-  "type1": "Ice",
   "xpGroup": "Medium Fast",
-  "Def": 65,
   "eggMoves": [
     {"move": "Confuse Ray"},
     {"move": "Fake Out"},
@@ -397,11 +288,127 @@
     {"move": "Tickle"}
   ],
   "number": 122,
+  "AtkYield": 0,
+  "abilityHidden": "Ice Body",
+  "lvlUpMoves": [
+    {
+      "move": "Copycat",
+      "lvl": "1"
+    },
+    {
+      "move": "Encore",
+      "lvl": "1"
+    },
+    {
+      "move": "Role Play",
+      "lvl": "1"
+    },
+    {
+      "move": "Protect",
+      "lvl": "1"
+    },
+    {
+      "move": "Recycle",
+      "lvl": "1"
+    },
+    {
+      "move": "Mimic",
+      "lvl": "1"
+    },
+    {
+      "move": "Light Screen",
+      "lvl": "1"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "1"
+    },
+    {
+      "move": "Safeguard",
+      "lvl": "1"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "lvl": "1"
+    },
+    {
+      "move": "Misty Terrain",
+      "lvl": "1"
+    },
+    {
+      "move": "Pound",
+      "lvl": "1"
+    },
+    {
+      "move": "Rapid Spin",
+      "lvl": "1"
+    },
+    {
+      "move": "Baton Pass",
+      "lvl": "1"
+    },
+    {
+      "move": "Ice Shard",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "12"
+    },
+    {
+      "move": "Ally Switch",
+      "lvl": "16"
+    },
+    {
+      "move": "Icy Wind",
+      "lvl": "20"
+    },
+    {
+      "move": "Double Kick",
+      "lvl": "24"
+    },
+    {
+      "move": "Psybeam",
+      "lvl": "28"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "32"
+    },
+    {
+      "move": "Mirror Coat",
+      "lvl": "36"
+    },
+    {
+      "move": "Sucker Punch",
+      "lvl": "40"
+    },
+    {
+      "move": "Freeze-Dry",
+      "lvl": "44"
+    },
+    {
+      "move": "Psychic",
+      "lvl": "48"
+    },
+    {
+      "move": "Teeter Dance",
+      "lvl": "52"
+    }
+  ],
+  "type2": "Psychic",
+  "DefYield": 0,
+  "Def": 65,
+  "eggGroup2": "",
   "SpA": 90,
+  "SpD": 90,
+  "eggGroup1": "Human-Like",
+  "type1": "Ice",
+  "SpAYield": 0,
   "name": "Galarian Mr. Mime",
   "Atk": 65,
   "SwordEntry": "Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.",
-  "abilityHidden": "Ice Body",
-  "SpD": 90,
-  "category": "Dancing Pokémon"
+  "SpDYield": 0,
+  "category": "Dancing Pokémon",
+  "HPYield": 0
 }

@@ -4,8 +4,10 @@
   "ability1": "Healer",
   "YEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
   "AlphaSapphireEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
-  "AtkYield": 0,
   "HP": 103,
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 390,
   "ability2": "Regenerator",
   "tmTrMoves": [
     {
@@ -245,7 +247,6 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
@@ -256,11 +257,8 @@
     {"move": "Sweet Kiss"}
   ],
   "number": 531,
-  "SpA": 60,
-  "Atk": 60,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Klutz",
-  "HPYield": 2,
   "height": "1.1m",
   "lvlUpMoves": [
     {
@@ -332,10 +330,13 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "",
   "WhiteEntry": "Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.",
+  "Def": 86,
+  "SpA": 60,
   "eggGroup2": "",
-  "Spe": 50,
+  "SpD": 86,
   "weight": "31.0kg",
   "eggGroup1": "Fairy",
   "hasMega": true,
@@ -343,15 +344,15 @@
   "hasGalarian": false,
   "BlackEntry": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
   "OmegaRubyEntry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
-  "Def": 86,
   "colour": "Pink",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Audino",
+  "Atk": 60,
   "White2Entry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
   "SwordEntry": "Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.",
-  "SpeYield": 0,
-  "SpD": 86,
+  "SpDYield": 0,
   "category": "Hearing Pokémon",
+  "HPYield": 2,
   "Black2Entry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch."
 }

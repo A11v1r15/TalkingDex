@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 3,
   "HP": 59,
   "SunEntry": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself.",
+  "Spe": 109,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -92,19 +94,15 @@
       "technical": "TR60"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
   "eggMoves": [],
   "number": 798,
   "MoonEntry": "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade.",
-  "SpA": 59,
   "UltraSunEntry": "This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.",
-  "Atk": 181,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -172,21 +170,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
+  "Def": 131,
+  "SpA": 59,
   "eggGroup2": "",
-  "Spe": 109,
+  "SpD": 31,
   "weight": "0.1kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 131,
   "colour": "White",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Kartana",
+  "Atk": 181,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 31,
-  "category": "Drawn Sword Pokémon"
+  "SpDYield": 0,
+  "category": "Drawn Sword Pokémon",
+  "HPYield": 0
 }

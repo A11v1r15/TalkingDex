@@ -2,8 +2,10 @@
   "ShieldEntry": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
   "extraMega": false,
   "ability1": "Grim Neigh",
-  "AtkYield": 0,
   "HP": 100,
+  "Spe": 130,
+  "SpeYield": 0,
+  "XPYield": 290,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -135,16 +137,12 @@
       "technical": "TR81"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 897,
-  "SpA": 145,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -204,21 +202,24 @@
       "lvl": "72"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 60,
+  "SpA": 145,
   "eggGroup2": "",
-  "Spe": 130,
+  "SpD": 80,
   "weight": "44.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 60,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Spectrier",
+  "Atk": 65,
   "SwordEntry": "It probes its surroundings with all its senses save one\u2014it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body.",
-  "SpeYield": 0,
-  "SpD": 80,
-  "category": "Swift Horse Pokémon"
+  "SpDYield": 0,
+  "category": "Swift Horse Pokémon",
+  "HPYield": 0
 }

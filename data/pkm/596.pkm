@@ -4,8 +4,10 @@
   "ability1": "Compound Eyes",
   "YEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
   "AlphaSapphireEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-  "AtkYield": 0,
   "HP": 70,
+  "Spe": 108,
+  "SpeYield": 2,
+  "XPYield": 165,
   "ability2": "Unnerve",
   "tmTrMoves": [
     {
@@ -149,17 +151,13 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "XEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
   "number": 596,
-  "SpA": 97,
-  "Atk": 77,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Swarm",
-  "HPYield": 0,
   "height": "0.8m",
   "lvlUpMoves": [
     {
@@ -227,10 +225,13 @@
       "lvl": "56"
     }
   ],
+  "DefYield": 0,
   "type2": "Electric",
   "WhiteEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+  "Def": 60,
+  "SpA": 97,
   "eggGroup2": "",
-  "Spe": 108,
+  "SpD": 60,
   "weight": "14.3kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -238,15 +239,15 @@
   "hasGalarian": false,
   "BlackEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
   "OmegaRubyEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
-  "Def": 60,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Galvantula",
+  "Atk": 77,
   "White2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
   "SwordEntry": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
-  "SpeYield": 2,
-  "SpD": 60,
+  "SpDYield": 0,
   "category": "EleSpider Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.",
   "extraMega": false,
   "ability1": "Weak Armor",
-  "AtkYield": 0,
   "HP": 60,
+  "Spe": 70,
+  "SpeYield": 0,
+  "XPYield": 178,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -131,16 +133,12 @@
       "technical": "TR83"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 855,
-  "SpA": 134,
-  "Atk": 65,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Cursed Body",
-  "HPYield": 0,
   "height": "0.2m",
   "lvlUpMoves": [
     {
@@ -208,21 +206,24 @@
       "lvl": "66"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 65,
+  "SpA": 134,
   "eggGroup2": "Amorphous",
-  "Spe": 70,
+  "SpD": 114,
   "weight": "0.4kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Ghost",
   "hasGalarian": false,
-  "Def": 65,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Polteageist",
+  "Atk": 65,
   "SwordEntry": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
-  "SpeYield": 0,
-  "SpD": 114,
-  "category": "Black Tea Pokémon"
+  "SpDYield": 0,
+  "category": "Black Tea Pokémon",
+  "HPYield": 0
 }

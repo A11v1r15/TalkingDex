@@ -4,9 +4,11 @@
   "ability1": "Clear Body",
   "YEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
   "AlphaSapphireEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
-  "AtkYield": 0,
   "HP": 50,
   "SunEntry": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
+  "Spe": 50,
+  "SpeYield": 0,
+  "XPYield": 100,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -146,7 +148,6 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
@@ -154,12 +155,9 @@
   "eggMoves": [],
   "number": 703,
   "MoonEntry": "Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people.",
-  "SpA": 50,
   "UltraSunEntry": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
-  "Atk": 50,
-  "DefYield": 1,
+  "AtkYield": 0,
   "abilityHidden": "Sturdy",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -219,22 +217,25 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 1,
   "type2": "Fairy",
+  "Def": 150,
+  "SpA": 50,
   "eggGroup2": "Mineral",
-  "Spe": 50,
+  "SpD": 150,
   "weight": "5.7kg",
   "eggGroup1": "Fairy",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
   "OmegaRubyEntry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
-  "Def": 150,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Carbink",
+  "Atk": 50,
   "SwordEntry": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
-  "SpeYield": 0,
-  "SpD": 150,
-  "category": "Jewel Pokémon"
+  "SpDYield": 1,
+  "category": "Jewel Pokémon",
+  "HPYield": 0
 }

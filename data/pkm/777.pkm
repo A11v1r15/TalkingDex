@@ -2,9 +2,11 @@
   "ShieldEntry": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
   "extraMega": false,
   "ability1": "Iron Barbs",
-  "AtkYield": 2,
   "HP": 65,
   "SunEntry": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
+  "Spe": 96,
+  "SpeYield": 0,
+  "XPYield": 152,
   "ability2": "Lightning Rod",
   "tmTrMoves": [
     {
@@ -168,7 +170,6 @@
       "technical": "TR86"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -182,12 +183,9 @@
   "UltraMoonEntry": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
   "number": 777,
   "MoonEntry": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
-  "SpA": 40,
   "UltraSunEntry": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
-  "Atk": 98,
-  "DefYield": 0,
+  "AtkYield": 2,
   "abilityHidden": "Sturdy",
-  "HPYield": 0,
   "height": "0.3m",
   "lvlUpMoves": [
     {
@@ -247,21 +245,24 @@
       "lvl": "60"
     }
   ],
+  "DefYield": 0,
   "type2": "Steel",
+  "Def": 63,
+  "SpA": 40,
   "eggGroup2": "Fairy",
-  "Spe": 96,
+  "SpD": 73,
   "weight": "3.3kg",
   "eggGroup1": "Field",
   "hasMega": false,
   "type1": "Electric",
   "hasGalarian": false,
-  "Def": 63,
   "colour": "Gray",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Togedemaru",
+  "Atk": 98,
   "SwordEntry": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
-  "SpeYield": 0,
-  "SpD": 73,
-  "category": "Roly-Poly Pokémon"
+  "SpDYield": 0,
+  "category": "Roly-Poly Pokémon",
+  "HPYield": 0
 }

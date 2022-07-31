@@ -2,8 +2,10 @@
   "ShieldEntry": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
   "extraMega": false,
   "ability1": "Tangled Feet",
-  "AtkYield": 0,
   "HP": 80,
+  "Spe": 70,
+  "SpeYield": 0,
+  "XPYield": 182,
   "ability2": "Screen Cleaner",
   "tmTrMoves": [
     {
@@ -283,16 +285,12 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [],
   "number": 866,
-  "SpA": 110,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Ice Body",
-  "HPYield": 0,
   "height": "1.5m",
   "lvlUpMoves": [
     {
@@ -416,21 +414,24 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Psychic",
+  "Def": 75,
+  "SpA": 110,
   "eggGroup2": "",
-  "Spe": 70,
+  "SpD": 100,
   "weight": "58.2kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
   "type1": "Ice",
   "hasGalarian": false,
-  "Def": 75,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Mr. Rime",
+  "Atk": 85,
   "SwordEntry": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
-  "SpeYield": 0,
-  "SpD": 100,
-  "category": "Comedian Pokémon"
+  "SpDYield": 0,
+  "category": "Comedian Pokémon",
+  "HPYield": 0
 }

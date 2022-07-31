@@ -4,9 +4,11 @@
   "ability1": "Sap Sipper",
   "YEntry": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
   "AlphaSapphireEntry": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
-  "AtkYield": 0,
   "HP": 45,
   "SunEntry": "The weakest of all Dragon-type Pokémon, it's unable to breathe if its skin dries out, so it sticks to shady places.",
+  "Spe": 40,
+  "SpeYield": 0,
+  "XPYield": 60,
   "ability2": "Hydration",
   "tmTrMoves": [
     {
@@ -94,7 +96,6 @@
       "technical": "TR78"
     }
   ],
-  "SpDYield": 1,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
@@ -105,12 +106,9 @@
   "UltraMoonEntry": "Its body is mostly water. If it dries out, it will die, so it's always sitting with perfect stillness in the shade.",
   "number": 704,
   "MoonEntry": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
-  "SpA": 55,
   "UltraSunEntry": "It uses its horns to check out its surroundings. They're very sensitive, so if you grab them, it will feel a strong shock and be unable to move.",
-  "Atk": 50,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Gooey",
-  "HPYield": 0,
   "LegendsArceusEntry": "Goomy hides away in the shade of trees, where it's nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic.",
   "height": "0.3m",
   "lvlUpMoves": [
@@ -163,22 +161,25 @@
       "lvl": "50"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 35,
+  "SpA": 55,
   "eggGroup2": "",
-  "Spe": 40,
+  "SpD": 75,
   "weight": "2.8kg",
   "eggGroup1": "Dragon",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
   "OmegaRubyEntry": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
-  "Def": 35,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Goomy",
+  "Atk": 50,
   "SwordEntry": "Because most of its body is water, it will dry up if the weather becomes too arid. It's considered the weakest dragon Pokémon.",
-  "SpeYield": 0,
-  "SpD": 75,
-  "category": "Soft Tissue Pokémon"
+  "SpDYield": 1,
+  "category": "Soft Tissue Pokémon",
+  "HPYield": 0
 }

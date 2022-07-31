@@ -2,8 +2,10 @@
   "ShieldEntry": "Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
   "extraMega": false,
   "ability1": "Leaf Guard",
-  "AtkYield": 3,
   "HP": 105,
+  "Spe": 105,
+  "SpeYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -227,16 +229,12 @@
       "technical": "TR95"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 893,
-  "SpA": 70,
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.8m",
   "lvlUpMoves": [
     {
@@ -308,21 +306,24 @@
       "lvl": "90"
     }
   ],
+  "DefYield": 0,
   "type2": "Grass",
+  "Def": 105,
+  "SpA": 70,
   "eggGroup2": "",
-  "Spe": 105,
+  "SpD": 95,
   "weight": "70.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Dark",
   "hasGalarian": false,
-  "Def": 105,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Zarude",
+  "Atk": 120,
   "SwordEntry": "Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.",
-  "SpeYield": 0,
-  "SpD": 95,
-  "category": "Rogue Monkey Pokémon"
+  "SpDYield": 0,
+  "category": "Rogue Monkey Pokémon",
+  "HPYield": 0
 }

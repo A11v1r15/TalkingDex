@@ -4,8 +4,10 @@
   "ability1": "Justified",
   "YEntry": "Legends say this Pokémon confounded opponents with its swift movements.",
   "AlphaSapphireEntry": "Legends say this Pokémon confounded opponents with its swift movements.",
-  "AtkYield": 0,
   "HP": 91,
+  "Spe": 108,
+  "SpeYield": 0,
+  "XPYield": 290,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -185,17 +187,13 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 3,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
   "number": 640,
-  "SpA": 90,
-  "Atk": 90,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "2.0m",
   "lvlUpMoves": [
     {
@@ -255,10 +253,13 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Fighting",
   "WhiteEntry": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
+  "Def": 72,
+  "SpA": 90,
   "eggGroup2": "",
-  "Spe": 108,
+  "SpD": 129,
   "weight": "200.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -266,15 +267,15 @@
   "hasGalarian": false,
   "BlackEntry": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
   "OmegaRubyEntry": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
-  "Def": 72,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Virizion",
+  "Atk": 90,
   "White2Entry": "Legends say this Pokémon confounded opponents with its swift movements.",
   "SwordEntry": "A legend tells of this Pokémon working together with Cobalion and Terrakion to protect the Pokémon of the Unova region.",
-  "SpeYield": 0,
-  "SpD": 129,
+  "SpDYield": 3,
   "category": "Grassland Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Legends say this Pokémon confounded opponents with its swift movements."
 }

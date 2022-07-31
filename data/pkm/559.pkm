@@ -4,8 +4,10 @@
   "ability1": "Shed Skin",
   "YEntry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
   "AlphaSapphireEntry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
-  "AtkYield": 1,
   "HP": 50,
+  "Spe": 48,
+  "SpeYield": 0,
+  "XPYield": 70,
   "ability2": "Moxie",
   "tmTrMoves": [
     {
@@ -217,7 +219,6 @@
       "technical": "TR85"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
@@ -231,12 +232,9 @@
   "XEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
   "UltraMoonEntry": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
   "number": 559,
-  "SpA": 35,
   "UltraSunEntry": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
-  "Atk": 75,
-  "DefYield": 0,
+  "AtkYield": 1,
   "abilityHidden": "Intimidate",
-  "HPYield": 0,
   "height": "0.6m",
   "lvlUpMoves": [
     {
@@ -300,10 +298,13 @@
       "lvl": "52"
     }
   ],
+  "DefYield": 0,
   "type2": "Fighting",
   "WhiteEntry": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+  "Def": 70,
+  "SpA": 35,
   "eggGroup2": "Dragon",
-  "Spe": 48,
+  "SpD": 70,
   "weight": "11.8kg",
   "eggGroup1": "Field",
   "hasMega": false,
@@ -311,15 +312,15 @@
   "hasGalarian": false,
   "BlackEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
   "OmegaRubyEntry": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
-  "Def": 70,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Scraggy",
+  "Atk": 75,
   "White2Entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
   "SwordEntry": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
-  "SpeYield": 0,
-  "SpD": 70,
+  "SpDYield": 0,
   "category": "Shedding Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
 }

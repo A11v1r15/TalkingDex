@@ -2,9 +2,11 @@
   "ShieldEntry": "",
   "extraMega": false,
   "ability1": "Beast Boost",
-  "AtkYield": 1,
   "HP": 97,
   "SunEntry": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
+  "Spe": 61,
+  "SpeYield": 0,
+  "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -156,19 +158,15 @@
       "technical": "TR79"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "UltraMoonEntry": "Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.",
   "eggMoves": [],
   "number": 797,
   "MoonEntry": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
-  "SpA": 107,
   "UltraSunEntry": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
-  "Atk": 101,
-  "DefYield": 1,
+  "AtkYield": 1,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "9.2m",
   "lvlUpMoves": [
     {
@@ -236,21 +234,24 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 1,
   "type2": "Flying",
+  "Def": 103,
+  "SpA": 107,
   "eggGroup2": "",
-  "Spe": 61,
+  "SpD": 101,
   "weight": "999.9kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
   "type1": "Steel",
   "hasGalarian": false,
-  "Def": 103,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 1,
   "name": "Celesteela",
+  "Atk": 101,
   "SwordEntry": "",
-  "SpeYield": 0,
-  "SpD": 101,
-  "category": "Launch Pokémon"
+  "SpDYield": 0,
+  "category": "Launch Pokémon",
+  "HPYield": 0
 }

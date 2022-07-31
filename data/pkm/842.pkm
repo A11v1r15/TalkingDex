@@ -2,8 +2,10 @@
   "ShieldEntry": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
   "extraMega": false,
   "ability1": "Ripen",
-  "AtkYield": 0,
   "HP": 110,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 170,
   "ability2": "Gluttony",
   "tmTrMoves": [
     {
@@ -143,16 +145,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Erratic",
   "eggMoves": [],
   "number": 842,
-  "SpA": 100,
-  "Atk": 85,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Thick Fat",
-  "HPYield": 2,
   "height": "0.4m",
   "lvlUpMoves": [
     {
@@ -228,21 +226,24 @@
       "lvl": "44"
     }
   ],
+  "DefYield": 0,
   "type2": "Dragon",
+  "Def": 80,
+  "SpA": 100,
   "eggGroup2": "Dragon",
-  "Spe": 30,
+  "SpD": 80,
   "weight": "13.0kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 80,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Appletun",
+  "Atk": 85,
   "SwordEntry": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
-  "SpeYield": 0,
-  "SpD": 80,
-  "category": "Apple Nectar Pokémon"
+  "SpDYield": 0,
+  "category": "Apple Nectar Pokémon",
+  "HPYield": 2
 }

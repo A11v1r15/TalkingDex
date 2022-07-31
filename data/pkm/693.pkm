@@ -4,8 +4,10 @@
   "ability1": "Mega Launcher",
   "YEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
   "AlphaSapphireEntry": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
-  "AtkYield": 0,
   "HP": 71,
+  "Spe": 59,
+  "SpeYield": 0,
+  "XPYield": 100,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -149,19 +151,15 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
   "UltraMoonEntry": "Its right arm is packed with meat. When its pincer falls off, it's exported to be used as a cooking ingredient.",
   "number": 693,
-  "SpA": 120,
   "UltraSunEntry": "It compresses the water it has sucked up and then projects it with enough power to punch a hole right through a thick sheet of iron.",
-  "Atk": 73,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.3m",
   "lvlUpMoves": [
     {
@@ -229,22 +227,25 @@
       "lvl": "63"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 88,
+  "SpA": 120,
   "eggGroup2": "Water 3",
-  "Spe": 59,
+  "SpD": 89,
   "weight": "35.3kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
   "type1": "Water",
   "hasGalarian": false,
   "OmegaRubyEntry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
-  "Def": 88,
   "colour": "Blue",
   "hasAlolan": false,
   "SpAYield": 2,
   "name": "Clawitzer",
+  "Atk": 73,
   "SwordEntry": "After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",
-  "SpeYield": 0,
-  "SpD": 89,
-  "category": "Howitzer Pokémon"
+  "SpDYield": 0,
+  "category": "Howitzer Pokémon",
+  "HPYield": 0
 }

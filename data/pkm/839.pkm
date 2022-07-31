@@ -2,8 +2,10 @@
   "ShieldEntry": "While it's engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
   "extraMega": false,
   "ability1": "Steam Engine",
-  "AtkYield": 0,
   "HP": 110,
+  "Spe": 30,
+  "SpeYield": 0,
+  "XPYield": 255,
   "ability2": "Flame Body",
   "tmTrMoves": [
     {
@@ -187,16 +189,12 @@
       "technical": "TR99"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "number": 839,
-  "SpA": 80,
-  "Atk": 80,
-  "DefYield": 3,
+  "AtkYield": 0,
   "abilityHidden": "Flash Fire",
-  "HPYield": 0,
   "height": "2.8m",
   "lvlUpMoves": [
     {
@@ -256,21 +254,24 @@
       "lvl": "63"
     }
   ],
+  "DefYield": 3,
   "type2": "Fire",
+  "Def": 120,
+  "SpA": 80,
   "eggGroup2": "",
-  "Spe": 30,
+  "SpD": 90,
   "weight": "310.5kg",
   "eggGroup1": "Mineral",
   "hasMega": false,
   "type1": "Rock",
   "hasGalarian": false,
-  "Def": 120,
   "colour": "Black",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Coalossal",
+  "Atk": 80,
   "SwordEntry": "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
-  "SpeYield": 0,
-  "SpD": 90,
-  "category": "Coal Pokémon"
+  "SpDYield": 0,
+  "category": "Coal Pokémon",
+  "HPYield": 0
 }

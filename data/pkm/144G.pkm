@@ -1,77 +1,9 @@
 {
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Psycho Shift",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "5"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "10"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "30"
-    },
-    {
-      "move": "Psycho Cut",
-      "lvl": "35"
-    },
-    {
-      "move": "Recover",
-      "lvl": "40"
-    },
-    {
-      "move": "Freezing Glare",
-      "lvl": "45"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "50"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "55"
-    },
-    {
-      "move": "Mind Reader",
-      "lvl": "60"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "65"
-    },
-    {
-      "move": "Trick Room",
-      "lvl": "70"
-    }
-  ],
   "ability1": "Competitive",
-  "type2": "Flying",
-  "eggGroup2": "",
-  "Spe": 95,
   "HP": 90,
-  "weight": "50.9kg",
-  "eggGroup1": "Undiscovered",
+  "Spe": 95,
+  "SpeYield": 0,
+  "XPYield": 290,
   "tmTrMoves": [
     {
       "move": "Fly",
@@ -215,17 +147,92 @@
     }
   ],
   "ability2": "",
-  "type1": "Psychic",
   "xpGroup": "Slow",
   "eggMoves": [],
-  "Def": 85,
   "number": 144,
-  "colour": "Purple",
+  "AtkYield": 0,
+  "abilityHidden": "",
+  "height": "1.7m",
+  "lvlUpMoves": [
+    {
+      "move": "Gust",
+      "lvl": "1"
+    },
+    {
+      "move": "Psycho Shift",
+      "lvl": "1"
+    },
+    {
+      "move": "Confusion",
+      "lvl": "5"
+    },
+    {
+      "move": "Reflect",
+      "lvl": "10"
+    },
+    {
+      "move": "Hypnosis",
+      "lvl": "15"
+    },
+    {
+      "move": "Agility",
+      "lvl": "20"
+    },
+    {
+      "move": "Ancient Power",
+      "lvl": "25"
+    },
+    {
+      "move": "Tailwind",
+      "lvl": "30"
+    },
+    {
+      "move": "Psycho Cut",
+      "lvl": "35"
+    },
+    {
+      "move": "Recover",
+      "lvl": "40"
+    },
+    {
+      "move": "Freezing Glare",
+      "lvl": "45"
+    },
+    {
+      "move": "Dream Eater",
+      "lvl": "50"
+    },
+    {
+      "move": "Hurricane",
+      "lvl": "55"
+    },
+    {
+      "move": "Mind Reader",
+      "lvl": "60"
+    },
+    {
+      "move": "Future Sight",
+      "lvl": "65"
+    },
+    {
+      "move": "Trick Room",
+      "lvl": "70"
+    }
+  ],
+  "type2": "Flying",
+  "DefYield": 0,
+  "Def": 85,
+  "eggGroup2": "",
   "SpA": 125,
+  "SpD": 100,
+  "weight": "50.9kg",
+  "eggGroup1": "Undiscovered",
+  "type1": "Psychic",
+  "colour": "Purple",
+  "SpAYield": 3,
   "name": "Galarian Articuno",
   "Atk": 85,
-  "abilityHidden": "",
-  "SpD": 100,
+  "SpDYield": 0,
   "category": "Cruel Pokémon",
-  "height": "1.7m"
+  "HPYield": 0
 }

@@ -2,9 +2,11 @@
   "ShieldEntry": "A kick from the hardened tips of this Pokémon's legs leaves a wound in the opponent's body and soul that will never heal.",
   "extraMega": false,
   "ability1": "Leaf Guard",
-  "AtkYield": 3,
   "HP": 72,
   "SunEntry": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+  "Spe": 72,
+  "SpeYield": 0,
+  "XPYield": 255,
   "ability2": "Queenly Majesty",
   "tmTrMoves": [
     {
@@ -164,19 +166,15 @@
       "technical": "TR92"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "eggMoves": [],
   "UltraMoonEntry": "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
   "number": 763,
   "MoonEntry": "A Pokémon known for the beauty of its well-shaped legs, it sometimes appears as a mascot in advertisements for beauty salons.",
-  "SpA": 50,
   "UltraSunEntry": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
-  "Atk": 120,
-  "DefYield": 0,
+  "AtkYield": 3,
   "abilityHidden": "Sweet Veil",
-  "HPYield": 0,
   "height": "1.2m",
   "lvlUpMoves": [
     {
@@ -248,21 +246,24 @@
       "lvl": "58"
     }
   ],
+  "DefYield": 0,
   "type2": "",
+  "Def": 98,
+  "SpA": 50,
   "eggGroup2": "",
-  "Spe": 72,
+  "SpD": 98,
   "weight": "21.4kg",
   "eggGroup1": "Grass",
   "hasMega": false,
   "type1": "Grass",
   "hasGalarian": false,
-  "Def": 98,
   "colour": "Purple",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Tsareena",
+  "Atk": 120,
   "SwordEntry": "This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",
-  "SpeYield": 0,
-  "SpD": 98,
-  "category": "Fruit Pokémon"
+  "SpDYield": 0,
+  "category": "Fruit Pokémon",
+  "HPYield": 0
 }

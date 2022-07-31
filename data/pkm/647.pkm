@@ -4,8 +4,10 @@
   "ability1": "Justified",
   "YEntry": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
   "AlphaSapphireEntry": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
-  "AtkYield": 0,
   "HP": 91,
+  "Spe": 108,
+  "SpeYield": 0,
+  "XPYield": 290,
   "ability2": "",
   "tmTrMoves": [
     {
@@ -185,17 +187,13 @@
       "technical": "TR98"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "XEntry": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
   "number": 647,
-  "SpA": 129,
-  "Atk": 72,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -259,10 +257,13 @@
       "lvl": "70"
     }
   ],
+  "DefYield": 0,
   "type2": "Fighting",
   "WhiteEntry": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+  "Def": 90,
+  "SpA": 129,
   "eggGroup2": "",
-  "Spe": 108,
+  "SpD": 90,
   "weight": "48.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -270,15 +271,15 @@
   "hasGalarian": false,
   "BlackEntry": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
   "OmegaRubyEntry": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
-  "Def": 90,
   "colour": "Yellow",
   "hasAlolan": false,
   "SpAYield": 3,
   "name": "Keldeo",
+  "Atk": 72,
   "White2Entry": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
   "SwordEntry": "Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.",
-  "SpeYield": 0,
-  "SpD": 90,
+  "SpDYield": 0,
   "category": "Colt Pokémon",
+  "HPYield": 0,
   "Black2Entry": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow."
 }

@@ -2,8 +2,10 @@
   "ShieldEntry": "Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy.",
   "extraMega": false,
   "ability1": "Clear Body",
-  "AtkYield": 0,
   "HP": 68,
+  "Spe": 102,
+  "SpeYield": 2,
+  "XPYield": 144,
   "ability2": "Infiltrator",
   "tmTrMoves": [
     {
@@ -163,16 +165,12 @@
       "technical": "TR97"
     }
   ],
-  "SpDYield": 0,
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [],
   "number": 886,
-  "SpA": 60,
-  "Atk": 80,
-  "DefYield": 0,
+  "AtkYield": 0,
   "abilityHidden": "Cursed Body",
-  "HPYield": 0,
   "height": "1.4m",
   "lvlUpMoves": [
     {
@@ -248,21 +246,24 @@
       "lvl": "72"
     }
   ],
+  "DefYield": 0,
   "type2": "Ghost",
+  "Def": 50,
+  "SpA": 60,
   "eggGroup2": "Dragon",
-  "Spe": 102,
+  "SpD": 50,
   "weight": "11.0kg",
   "eggGroup1": "Amorphous",
   "hasMega": false,
   "type1": "Dragon",
   "hasGalarian": false,
-  "Def": 50,
   "colour": "Green",
   "hasAlolan": false,
   "SpAYield": 0,
   "name": "Drakloak",
+  "Atk": 80,
   "SwordEntry": "It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.",
-  "SpeYield": 2,
-  "SpD": 50,
-  "category": "Caretaker Pokémon"
+  "SpDYield": 0,
+  "category": "Caretaker Pokémon",
+  "HPYield": 0
 }
