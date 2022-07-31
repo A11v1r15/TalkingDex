@@ -2,6 +2,7 @@ import android.app.Activity;
 import android.os.Bundle; 
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.Voice;
+import android.content.SharedPreferences;
 import java.util.Locale;
 import java.util.Set;
 
@@ -10,6 +11,9 @@ import java.util.Set;
 TextToSpeech t1;
 Voice vF;
 Voice vM;
+SharedPreferences preferences;
+SharedPreferences.Editor preferencesEditor;
+
 float diameter;
 ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
@@ -42,6 +46,9 @@ void setup () {
   alolaUltra.sort();
   galar.sort();
   hisui.sort();
+  preferences = this.getActivity().getApplicationContext().getSharedPreferences("com.a11v1r15.talkingdex.SharedPref", 0);
+  preferencesEditor = preferences.edit();
+  versioN = preferences.getInt("versioN", 0);
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
@@ -73,7 +80,10 @@ void draw() {
   drawFace();
   if (!changingVersion) dial(width/2, height/2, diameter/2);
   textSize(50);
-  text(versions.get(versioN), width/3, height*0.95);
+  textAlign(CENTER);
+  text(versions.get(versioN), width/2, height*0.95);
+  text("<", width*0.1, height*0.95);
+  text(">", width*0.9, height*0.95);
 }
 
 void dial(float x, float y, float r) {
@@ -88,10 +98,11 @@ void dial(float x, float y, float r) {
   iY = y+sin(cursor)*r;
   noStroke();
   fill(255, 100);
+  textAlign(CENTER);
   if (dialing) {
     ellipse(iX, iY, r/2, r/2);
     image(list.get(index()-1), iX, iY, r/2, r/2);
-    text(index(), x-15, y-r/2);
+    text(index(), x, y-r/2);
   } else {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
@@ -106,7 +117,7 @@ void dial(float x, float y, float r) {
       rect(x, y-.1*r, r/2, r, 0, r, r, 0);
     }
     fill(0);
-    text(index(), x-15, y-r/2);
+    text(index(), x, y-r/2);
     image(list.get(index()-1), x, y, r*2, r*2);
   }
   popStyle();
@@ -135,6 +146,8 @@ void touchStarted() {
       } else if (mouseX > width*0.8) {
         versioN = loopInArrayBounds(versioN + 1, versions.size());
       }
+      preferencesEditor.putInt("versioN", versioN);
+      preferencesEditor.apply();
     }
   } else {
     dialing = true;
@@ -189,12 +202,14 @@ void stats(float x, float y, float r) {
     endShape(CLOSE);
   }
   textAlign(CENTER);
-  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
-  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r);
-  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r);
-  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r);
-  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r);
-  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r);
+  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r + 00);
+  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + 50);
+  textAlign(LEFT);
+  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + 25);
+  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + 25);
+  textAlign(RIGHT);
+  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + 25);
+  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + 25);
 }
 
 void checkMaxDex() {
@@ -253,11 +268,10 @@ void drawFace() {
   fill(unhex("FF" + colours.getString(versions.get(versioN))));
   noStroke();
   rect(0, height*0.9, width, height);
-  textAlign(CENTER);
   fill(unhex("FF" + colours.getString(versions.get(loopInArrayBounds(versioN + 1, versions.size())))));
-  text(">", width*0.9, height*0.95);
+  rect(width*0.8, height*0.9, width, height);
   fill(unhex("FF" + colours.getString(versions.get(loopInArrayBounds(versioN - 1, versions.size())))));
-  text("<", width*0.1, height*0.95);
+  rect(0, height*0.9, width*0.2, height);
   noFill();
   strokeWeight(3);
   stroke(157, 29, 0);
