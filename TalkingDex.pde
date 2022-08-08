@@ -15,6 +15,8 @@ SharedPreferences preferences;
 SharedPreferences.Editor preferencesEditor;
 
 float diameter;
+float fontSize = 50;
+
 ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
@@ -32,6 +34,8 @@ IntList galar;
 IntList hisui;
 StringList versions;
 JSONObject colours;
+
+String[] names = new String[MaxDex];
 
 void setup () {
   //size(400, 800);
@@ -70,20 +74,21 @@ void setup () {
   diameter = (min(width, height)*0.7);
   for (int i = 1; i <= MaxDex; i++) {
     list.add(loadImage(String.format("png/%03d.png", i)));
+    pkm = loadJSONObject(String.format("pkm/%03d.pkm", i));
+    names[i-1] = pkm.getString("name");
   }
   pkm = loadJSONObject(String.format("pkm/%03d.pkm", pkn));
-  MaxDex = 151;
 }
 
 void draw() {
   checkMaxDex();
   drawFace();
-  if (!changingVersion) dial(width/2, height/2, diameter/2);
-  textSize(50);
+  dial(width/2, height/2, diameter/2);
+  textSize(fontSize);
   textAlign(CENTER);
-  text(versions.get(versioN), width/2, height*0.95);
-  text("<", width*0.1, height*0.95);
-  text(">", width*0.9, height*0.95);
+  text(versions.get(versioN), width/2, height*0.95 + fontSize/2);
+  text("<", width*0.1, height*0.95 + fontSize/2);
+  text(">", width*0.9, height*0.95 + fontSize/2);
 }
 
 void dial(float x, float y, float r) {
@@ -99,10 +104,12 @@ void dial(float x, float y, float r) {
   noStroke();
   fill(255, 100);
   textAlign(CENTER);
+  imageMode(CENTER);
   if (dialing) {
     ellipse(iX, iY, r/2, r/2);
     image(list.get(index()-1), iX, iY, r/2, r/2);
     text(index(), x, y-r/2);
+    text(names[pkn-1], x, y + r * 1.5);
   } else {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
@@ -119,13 +126,17 @@ void dial(float x, float y, float r) {
     fill(255, 100);
     textAlign(CENTER);
     text(index(), x, y-r/2);
+    String nameAbilities = pkm.getString("name") + "\n" +
+                            pkm.getString("ability1") + (pkm.getString("ability2")!=""?"/"+pkm.getString("ability2"):"") + "\n" +
+                            pkm.getString("abilityHidden");
+    text(nameAbilities, x, y + r * 1.2 + fontSize*2);
     image(list.get(index()-1), x, y, r*2, r*2);
   }
   popStyle();
 }
 
 boolean dialing = false;
-boolean changingVersion = false;
+boolean centerTouch = false;
 PVector touchStart = new PVector();
 
 /*
@@ -139,6 +150,7 @@ PVector touchStart = new PVector();
  */
 
 void touchStarted() {
+  touchStart = new PVector(mouseX, mouseY);
   if (mouseY > height*0.9) {
     if ((mouseX < width*0.2)||(mouseX > width*0.8)) {
       pkn = 1;
@@ -151,7 +163,10 @@ void touchStarted() {
       preferencesEditor.apply();
     }
   } else {
-    dialing = true;
+    if (diameter < PVector.dist(touchStart, new PVector(width/2, height/2)) * 2)
+      dialing = true;
+    else
+      centerTouch = true;
   }
 }
 
@@ -161,16 +176,15 @@ void touchMoved() {
 int versioN;
 
 void touchEnded() {
-  boolean wasDialing = dialing;
-  dialing = false;
-  changingVersion = false;
-  if (wasDialing) {
+  if (dialing || centerTouch) {
     pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
     if (versioN == 34) {t1.setPitch(1f); t1.setVoice(vM);} else {t1.setPitch(0.4f); t1.setVoice(vF);}
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
   }
+  dialing = false;
+  centerTouch = false;
 }
 
 void stats(float x, float y, float r) {
@@ -203,14 +217,14 @@ void stats(float x, float y, float r) {
     endShape(CLOSE);
   }
   textAlign(CENTER);
-  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r + 00);
-  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + 50);
+  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
+  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
   textAlign(LEFT);
-  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + 25);
-  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + 25);
+  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + fontSize/2);
+  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + fontSize/2);
   textAlign(RIGHT);
-  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + 25);
-  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + 25);
+  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + fontSize/2);
+  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + fontSize/2);
 }
 
 void checkMaxDex() {
