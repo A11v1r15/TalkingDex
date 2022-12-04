@@ -73,11 +73,11 @@ void setup () {
   t1.setPitch(0.4f);
   diameter = (min(width, height)*0.7);
   for (int i = 1; i <= MaxDex; i++) {
-    list.add(loadImage(String.format("png/%03d.png", i)));
-    pkm = loadJSONObject(String.format("pkm/%03d.pkm", i));
+    list.add(loadImage(String.format("png/%04d.png", i)));
+    pkm = loadJSONObject(String.format("pkm/%04d.pkm", i));
     names[i-1] = pkm.getString("name");
   }
-  pkm = loadJSONObject(String.format("pkm/%03d.pkm", pkn));
+  pkm = loadJSONObject(String.format("pkm/%04d.pkm", pkn));
 }
 
 void draw() {
@@ -112,7 +112,7 @@ void dial(float x, float y, float r) {
     text(names[pkn-1], x, y + r * 1.5);
   } else {
     stats(x, y-r*2, r/2);
-    pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
+    pkm = loadJSONObject(String.format("pkm/%04d.pkm", index()));
     noStroke();
     if (pkm.getString("type2") == "") {
       fill(unhex("FF" + colours.getString(pkm.getString("type1"))));
@@ -177,7 +177,7 @@ int versioN;
 
 void touchEnded() {
   if (dialing || centerTouch) {
-    pkm = loadJSONObject(String.format("pkm/%03d.pkm", index()));
+    pkm = loadJSONObject(String.format("pkm/%04d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
     if (versioN == 34) {t1.setPitch(1f); t1.setVoice(vM);} else {t1.setPitch(0.4f); t1.setVoice(vF);}
