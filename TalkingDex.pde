@@ -1,8 +1,8 @@
-import android.app.Activity; 
+import android.app.Activity;
 import android.os.Bundle; 
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.Voice;
-import android.content.SharedPreferences;
+import android.content.SharedPreferences; //<>//
 import java.util.Locale;
 import java.util.Set;
 
@@ -32,6 +32,7 @@ IntList alola;
 IntList alolaUltra;
 IntList galar;
 IntList hisui;
+IntList paldea;
 StringList versions;
 JSONObject colours;
 
@@ -41,15 +42,17 @@ void setup () {
   //size(400, 800);
   JSONObject pokedex = loadJSONObject("pkm/Pokedex.pkm");
   colours = loadJSONObject("pkm/Colour.pkm");
-  galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
-  hisui     = new IntList(pokedex.getJSONArray("Hisui").getIntArray());
   alola      = new IntList(pokedex.getJSONArray("Alola").getIntArray());
   alolaUltra = new IntList(pokedex.getJSONArray("Ultra Alola").getIntArray());
+  galar      = new IntList(pokedex.getJSONArray("Galar Available").getIntArray());
+  hisui      = new IntList(pokedex.getJSONArray("Hisui").getIntArray());
+  paldea     = new IntList(pokedex.getJSONArray("Paldea").getIntArray());
   versions = new StringList(loadJSONArray("pkm/Version.pkm").getStringArray());
   alola.sort();
   alolaUltra.sort();
   galar.sort();
   hisui.sort();
+  paldea.sort();
   preferences = this.getActivity().getApplicationContext().getSharedPreferences("com.a11v1r15.talkingdex.SharedPref", 0);
   preferencesEditor = preferences.edit();
   versioN = preferences.getInt("versioN", 0);
@@ -252,6 +255,8 @@ void checkMaxDex() {
     MaxDex = 493;
   } else if (versioN < 35) {//La
     MaxDex = hisui.size();
+  } else if (versioN < 37) {//SV
+    MaxDex = paldea.size();
   }
 }
 
@@ -272,6 +277,8 @@ int index() {
     return pkn;
   } else if (versioN < 35) {//La
     return hisui.get(pkn-1);
+  } else if (versioN < 37) {//SV
+    return paldea.get(pkn-1);
   }
   return pkn;
 }
