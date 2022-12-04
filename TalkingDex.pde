@@ -21,7 +21,7 @@ ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
 JSONObject pkm;
-int MaxDex = 905;
+int MaxDex = 1010;
 
 IntList alolan;
 IntList galarian;
@@ -56,6 +56,7 @@ void setup () {
   preferences = this.getActivity().getApplicationContext().getSharedPreferences("com.a11v1r15.talkingdex.SharedPref", 0);
   preferencesEditor = preferences.edit();
   versioN = preferences.getInt("versioN", 0);
+  showStatsNumbers = preferences.getBoolean("showStatsNumbers", false);
   diameter = (min(width, height)*0.7);
   imageMode(CENTER);
   t1 = new TextToSpeech(this.getActivity().getApplicationContext(), new TextToSpeech.OnInitListener() {
@@ -112,7 +113,7 @@ void dial(float x, float y, float r) {
     ellipse(iX, iY, r/2, r/2);
     image(list.get(index()-1), iX, iY, r/2, r/2);
     text(index(), x, y-r/2);
-    text(names[pkn-1], x, y + r * 1.5);
+    text(names[index()-1], x, y + r * 1.5);
   } else {
     stats(x, y-r*2, r/2);
     pkm = loadJSONObject(String.format("pkm/%04d.pkm", index()));
@@ -166,9 +167,10 @@ void touchStarted() {
       preferencesEditor.apply();
     }
   } else {
-    if (diameter < PVector.dist(touchStart, new PVector(width/2, height/2)) * 2)
+    float dist = PVector.dist(touchStart, new PVector(width/2, height/2)) * 2;
+    if (diameter < dist && diameter * 1.2 > dist)
       dialing = true;
-    else
+    else if (diameter > dist)
       centerTouch = true;
   }
 }
@@ -185,10 +187,16 @@ void touchEnded() {
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
     if (versioN == 34) {t1.setPitch(1f); t1.setVoice(vM);} else {t1.setPitch(0.4f); t1.setVoice(vF);}
     t1.speak(pkm.getString("name") +". The"+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"), TextToSpeech.QUEUE_FLUSH, null, null);
+  } else if (PVector.dist(new PVector(mouseX, mouseY), new PVector(width/2, height/2 - diameter)) * 2 < diameter / 2) {
+    showStatsNumbers = !showStatsNumbers;
+    preferencesEditor.putBoolean("showStatsNumbers", showStatsNumbers);
+    preferencesEditor.apply();
   }
   dialing = false;
   centerTouch = false;
 }
+
+boolean showStatsNumbers = false;
 
 void stats(float x, float y, float r) {
   float map;
@@ -220,14 +228,14 @@ void stats(float x, float y, float r) {
     endShape(CLOSE);
   }
   textAlign(CENTER);
-  text("HP" , x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
-  text("SpA", x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
+  text((showStatsNumbers ? pkm.getInt("HP") + "" : "HP" ), x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
+  text((showStatsNumbers ? pkm.getInt("SpA")+ "": "SpA"), x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
   textAlign(LEFT);
-  text("Atk", x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + fontSize/2);
-  text("Def", x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("Atk")+ "": "Atk"), x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("Def")+ "": "Def"), x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + fontSize/2);
   textAlign(RIGHT);
-  text("Spe", x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + fontSize/2);
-  text("SpD", x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("Spe")+ "": "Spe"), x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("SpD")+ "": "SpD"), x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + fontSize/2);
 }
 
 void checkMaxDex() {
