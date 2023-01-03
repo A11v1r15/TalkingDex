@@ -5,6 +5,7 @@ import android.speech.tts.Voice;
 import android.content.SharedPreferences; //<>//
 import java.util.Locale;
 import java.util.Set;
+import java.util.Arrays;
 
 //.getString("name").replace("'", "").replace(":", "").replace(".", "").replace(" ", "-").replace("é", "e")
 
@@ -157,12 +158,14 @@ void touchStarted() {
   touchStart = new PVector(mouseX, mouseY);
   if (mouseY > height*0.9) {
     if ((mouseX < width*0.2)||(mouseX > width*0.8)) {
-      pkn = 1;
+      int previousVersioN = versioN;
+      int previousPkm = index() + 1;
       if (mouseX < width*0.2) {
         versioN = loopInArrayBounds(versioN - 1, versions.size());
       } else if (mouseX > width*0.8) {
         versioN = loopInArrayBounds(versioN + 1, versions.size());
       }
+      checkExistingPokemon(previousVersioN, previousPkm);
       preferencesEditor.putInt("versioN", versioN);
       preferencesEditor.apply();
     }
@@ -228,7 +231,7 @@ void stats(float x, float y, float r) {
     endShape(CLOSE);
   }
   textAlign(CENTER);
-  text((showStatsNumbers ? pkm.getInt("HP") + "" : "HP" ), x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
+  text((showStatsNumbers ? pkm.getInt("HP") + "": "HP" ), x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
   text((showStatsNumbers ? pkm.getInt("SpA")+ "": "SpA"), x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
   textAlign(LEFT);
   text((showStatsNumbers ? pkm.getInt("Atk")+ "": "Atk"), x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + fontSize/2);
@@ -267,6 +270,46 @@ void checkMaxDex() {
     MaxDex = paldea.size();
   }
 }
+
+void checkExistingPokemon(int pVersion, int pPkm) {
+  if (versioN < 3) {//RBY
+    if (pPkm > 151) pkn = 1;
+    else pkn = pPkm - 1;
+  } else if (versioN < 6) {//GSC
+    if (pkn > 251) pkn = 1;
+  } else if (versioN < 11) {//RSE FrLg
+    if (pkn > 386) pkn = 1;
+  } else if (versioN < 16) {//DPP HgSs
+    if (pkn > 493) pkn = 1;
+  } else if (versioN < 20) {//BW BW2
+    if (pkn > 649) pkn = 1;
+  } else if (versioN < 24) {//XY OrAs
+    if (pPkm > 721) pkn = 1;
+    else pkn = pPkm - 1;
+  } else if (versioN < 26) {//SM
+    if (!alola.hasValue(pPkm)) pkn = 1;
+    else pkn = Arrays.binarySearch(alola.array(),pPkm);
+  } else if (versioN < 28) {//UsUm
+    if (!alolaUltra.hasValue(pPkm)) pkn = 1;
+    else pkn = Arrays.binarySearch(alolaUltra.array(),pPkm);
+  } else if (versioN < 30) {//LGpe
+    if (pPkm > 151) pkn = 1;
+    else pkn = pPkm - 1;
+  } else if (versioN < 32) {//SwSh
+    if (!galar.hasValue(pPkm)) pkn = 1;
+    else pkn = Arrays.binarySearch(galar.array(),pPkm);
+  } else if (versioN < 34) {//BdSp
+    if (pPkm > 493) pkn = 1;
+    else pkn = pPkm - 1;
+  } else if (versioN < 35) {//La
+    if (!hisui.hasValue(pPkm)) pkn = 1;
+    else pkn = Arrays.binarySearch(hisui.array(),pPkm);
+  } else if (versioN < 37) {//SV
+    if (!paldea.hasValue(pPkm)) pkn = 1;
+    else pkn = Arrays.binarySearch(paldea.array(),pPkm);
+  }
+}
+
 
 int index() {
   if (versioN < 24) {//RBY GSC RSE FrLg DPP HgSs BW BW2 XY OrAs
