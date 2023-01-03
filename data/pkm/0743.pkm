@@ -4,8 +4,8 @@
   "ability1": "Honey Gather",
   "HP": 60,
   "SunEntry": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
-  "Spe": 124,
-  "SpeYield": 2,
+  "Speed": 124,
+  "SpeedYield": 2,
   "XPYield": 162,
   "ability2": "Shield Dust",
   "tmTrMoves": [
@@ -90,7 +90,7 @@
       "technical": "TM56"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -245,9 +245,9 @@
   "DefYield": 0,
   "type2": "Fairy",
   "Def": 60,
-  "SpA": 95,
+  "SpAtk": 95,
   "eggGroup2": "Fairy",
-  "SpD": 70,
+  "SpDef": 70,
   "weight": "0.5kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -255,11 +255,11 @@
   "hasGalarian": false,
   "colour": "Yellow",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Ribombee",
   "Atk": 55,
   "SwordEntry": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Bee Fly Pokémon",
   "HPYield": 0
 }

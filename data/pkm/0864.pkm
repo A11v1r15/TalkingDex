@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Weak Armor",
   "HP": 60,
-  "Spe": 30,
-  "SpeYield": 0,
+  "Speed": 30,
+  "SpeedYield": 0,
   "XPYield": 179,
   "ability2": "",
   "tmTrMoves": [
@@ -109,7 +109,7 @@
       "technical": "TM48"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -293,9 +293,9 @@
   "DefYield": 0,
   "type2": "",
   "Def": 50,
-  "SpA": 145,
+  "SpAtk": 145,
   "eggGroup2": "Water 3",
-  "SpD": 130,
+  "SpDef": 130,
   "weight": "0.4kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
@@ -303,11 +303,11 @@
   "hasGalarian": false,
   "colour": "White",
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "name": "Cursola",
   "Atk": 95,
   "SwordEntry": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Coral Pokémon",
   "HPYield": 0
 }

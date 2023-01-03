@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Tangled Feet",
   "HP": 80,
-  "Spe": 70,
-  "SpeYield": 0,
+  "Speed": 70,
+  "SpeedYield": 0,
   "XPYield": 182,
   "ability2": "Screen Cleaner",
   "tmTrMoves": [
@@ -109,7 +109,7 @@
       "technical": "TM47"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -417,9 +417,9 @@
   "DefYield": 0,
   "type2": "Psychic",
   "Def": 75,
-  "SpA": 110,
+  "SpAtk": 110,
   "eggGroup2": "",
-  "SpD": 100,
+  "SpDef": 100,
   "weight": "58.2kg",
   "eggGroup1": "Human-Like",
   "hasMega": false,
@@ -427,11 +427,11 @@
   "hasGalarian": false,
   "colour": "Purple",
   "hasAlolan": false,
-  "SpAYield": 3,
+  "SpAtkYield": 3,
   "name": "Mr. Rime",
   "Atk": 85,
   "SwordEntry": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Comedian Pokémon",
   "HPYield": 0
 }

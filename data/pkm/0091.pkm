@@ -5,7 +5,7 @@
   "AlphaSapphireEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
   "HP": 50,
   "SilverEntry": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
-  "Spe": 70,
+  "Speed": 70,
   "ability2": "Skill Link",
   "eggMoves": [],
   "UltraMoonEntry": "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
@@ -28,17 +28,17 @@
   "GoldEntry": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
   "SapphireEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
   "DiamondEntry": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
   "name": "Cloyster",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
   "extraMega": false,
   "HearthGoldEntry": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
   "YEntry": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "Its hard shell cannot be shattered\u2014not even by a bomb. The contents of the shell remain unknown.",
   "XPYield": 184,
   "tmTrMoves": [
@@ -115,7 +115,7 @@
       "technical": "TM46"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -212,11 +212,11 @@
   "abilityHidden": "Overcoat",
   "lvlUpMoves": [
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "lvl": "0"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "lvl": "1"
     },
     {
@@ -290,8 +290,8 @@
   ],
   "DefYield": 2,
   "Def": 180,
-  "SpA": 85,
-  "SpD": 45,
+  "SpAtk": 85,
+  "SpDef": 45,
   "RubyEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
   "BlackEntry": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
   "OmegaRubyEntry": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",

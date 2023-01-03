@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Shield Dust",
   "HP": 70,
-  "Spe": 65,
-  "SpeYield": 0,
+  "Speed": 65,
+  "SpeedYield": 0,
   "XPYield": 166,
   "ability2": "",
   "tmTrMoves": [
@@ -73,7 +73,7 @@
       "technical": "TM46"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -229,10 +229,10 @@
   "DefYield": 0,
   "type2": "Bug",
   "Def": 60,
-  "SpA": 125,
+  "SpAtk": 125,
   "eggGroup2": "",
   "ScarletEntry": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
-  "SpD": 90,
+  "SpDef": 90,
   "weight": "42.0kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -240,12 +240,12 @@
   "hasGalarian": false,
   "colour": "White",
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "VioletEntry": "It causes blizzards as it flies around with its huge, chill-emanating wings. Clean meltwater is its favorite thing to drink.",
   "name": "Frosmoth",
   "Atk": 65,
   "SwordEntry": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Frost Moth Pokémon",
   "HPYield": 0
 }

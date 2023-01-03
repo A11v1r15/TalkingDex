@@ -3,7 +3,7 @@
   "ability1": "Blaze",
   "AlphaSapphireEntry": "Torchic has a place inside its body where it keeps its flame. Give it a hug\u2014it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.",
   "HP": 45,
-  "Spe": 45,
+  "Speed": 45,
   "ability2": "",
   "eggMoves": [
     {"move": "Peck"},
@@ -26,16 +26,16 @@
   "hasGalarian": false,
   "SapphireEntry": "Torchic has a place inside its body where it keeps its flame. Give it a hug - it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.",
   "hasAlolan": false,
-  "SpAYield": 1,
+  "SpAtkYield": 1,
   "DiamondEntry": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
   "name": "Torchic",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "",
   "extraMega": false,
   "HearthGoldEntry": "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.",
   "YEntry": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 62,
   "tmTrMoves": [
     {
@@ -181,7 +181,7 @@
   "BrilliantDiamondEntry": "A fire burns inside it, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
   "AtkYield": 0,
   "PlatinumEntry": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
-  "abilityHidden": "Speed Boost",
+  "abilityHidden": "Speeded Boost",
   "lvlUpMoves": [
     {
       "move": "Scratch",
@@ -246,8 +246,8 @@
   ],
   "DefYield": 0,
   "Def": 40,
-  "SpA": 70,
-  "SpD": 50,
+  "SpAtk": 70,
+  "SpDef": 50,
   "RubyEntry": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
   "BlackEntry": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
   "OmegaRubyEntry": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",

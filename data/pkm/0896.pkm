@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Chilling Neigh",
   "HP": 100,
-  "Spe": 30,
-  "SpeYield": 0,
+  "Speed": 30,
+  "SpeedYield": 0,
   "XPYield": 290,
   "ability2": "",
   "tmTrMoves": [
@@ -45,7 +45,7 @@
       "technical": "TM39"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -229,9 +229,9 @@
   "DefYield": 0,
   "type2": "",
   "Def": 130,
-  "SpA": 65,
+  "SpAtk": 65,
   "eggGroup2": "",
-  "SpD": 110,
+  "SpDef": 110,
   "weight": "800.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -239,11 +239,11 @@
   "hasGalarian": false,
   "colour": "White",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Glastrier",
   "Atk": 145,
   "SwordEntry": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon\u2014anything it wants, it takes by force.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Wild Horse Pokémon",
   "HPYield": 0
 }

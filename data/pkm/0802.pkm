@@ -4,8 +4,8 @@
   "ability1": "Technician",
   "HP": 90,
   "SunEntry": "Able to conceal itself in shadows, it never appears before humans, so its very existence was the stuff of myth.",
-  "Spe": 125,
-  "SpeYield": 1,
+  "Speed": 125,
+  "SpeedYield": 1,
   "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
@@ -290,7 +290,7 @@
       "lvl": "63"
     },
     {
-      "move": "Spectral Thief",
+      "move": "Speedctral Thief",
       "lvl": "72"
     },
     {
@@ -309,9 +309,9 @@
   "DefYield": 0,
   "type2": "Ghost",
   "Def": 80,
-  "SpA": 90,
+  "SpAtk": 90,
   "eggGroup2": "",
-  "SpD": 90,
+  "SpDef": 90,
   "weight": "22.2kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -319,11 +319,11 @@
   "hasGalarian": false,
   "colour": "Gray",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Marshadow",
   "Atk": 125,
   "SwordEntry": "By slipping into the shadow of a martial arts master and copying their movements, this Pokémon learned the ultimate techniques.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Gloomdweller Pokémon",
   "HPYield": 0
 }

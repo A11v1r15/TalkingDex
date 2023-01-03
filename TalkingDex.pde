@@ -210,11 +210,11 @@ void stats(float x, float y, float r) {
   vertex(x + cos(TAU/12*11) * map, y + sin(TAU/12*11) * map);
   map = (float)pkm.getInt("Def")/255 * r;
   vertex(x + cos(TAU/12* 1) * map, y + sin(TAU/12* 1) * map);
-  map = (float)pkm.getInt("SpA")/255 * r;
+  map = (float)pkm.getInt("SpAtk")/255 * r;
   vertex(x + cos(TAU/12* 3) * map, y + sin(TAU/12* 3) * map);
-  map = (float)pkm.getInt("SpD")/255 * r;
+  map = (float)pkm.getInt("SpDef")/255 * r;
   vertex(x + cos(TAU/12* 5) * map, y + sin(TAU/12* 5) * map);
-  map = (float)pkm.getInt("Spe")/255 * r;
+  map = (float)pkm.getInt("Speed")/255 * r;
   vertex(x + cos(TAU/12* 7) * map, y + sin(TAU/12* 7) * map);
   endShape();
   strokeWeight(1);
@@ -232,13 +232,13 @@ void stats(float x, float y, float r) {
   }
   textAlign(CENTER);
   text((showStatsNumbers ? pkm.getInt("HP") + "": "HP" ), x + cos(TAU/12* 9) * r, y + sin(TAU/12* 9) * r);
-  text((showStatsNumbers ? pkm.getInt("SpA")+ "": "SpA"), x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
+  text((showStatsNumbers ? pkm.getInt("SpAtk")+ "": "SpAtk"), x + cos(TAU/12* 3) * r, y + sin(TAU/12* 3) * r + fontSize);
   textAlign(LEFT);
   text((showStatsNumbers ? pkm.getInt("Atk")+ "": "Atk"), x + cos(TAU/12*11) * r, y + sin(TAU/12*11) * r + fontSize/2);
   text((showStatsNumbers ? pkm.getInt("Def")+ "": "Def"), x + cos(TAU/12* 1) * r, y + sin(TAU/12* 1) * r + fontSize/2);
   textAlign(RIGHT);
-  text((showStatsNumbers ? pkm.getInt("Spe")+ "": "Spe"), x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + fontSize/2);
-  text((showStatsNumbers ? pkm.getInt("SpD")+ "": "SpD"), x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("Speed")+ "": "Speed"), x + cos(TAU/12* 7) * r, y + sin(TAU/12* 7) * r + fontSize/2);
+  text((showStatsNumbers ? pkm.getInt("SpDef")+ "": "SpDef"), x + cos(TAU/12* 5) * r, y + sin(TAU/12* 5) * r + fontSize/2);
 }
 
 void checkMaxDex() {

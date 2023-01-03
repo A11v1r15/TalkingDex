@@ -4,8 +4,8 @@
   "ability1": "Soul-Heart",
   "HP": 80,
   "SunEntry": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
-  "Spe": 65,
-  "SpeYield": 0,
+  "Speed": 65,
+  "SpeedYield": 0,
   "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
@@ -70,7 +70,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -277,9 +277,9 @@
   "DefYield": 0,
   "type2": "Fairy",
   "Def": 115,
-  "SpA": 130,
+  "SpAtk": 130,
   "eggGroup2": "",
-  "SpD": 115,
+  "SpDef": 115,
   "weight": "80.5kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -287,11 +287,11 @@
   "hasGalarian": false,
   "colour": "Gray",
   "hasAlolan": false,
-  "SpAYield": 3,
+  "SpAtkYield": 3,
   "name": "Magearna",
   "Atk": 95,
   "SwordEntry": "",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Artificial Pokémon",
   "HPYield": 0
 }

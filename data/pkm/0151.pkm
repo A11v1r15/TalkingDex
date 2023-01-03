@@ -5,7 +5,7 @@
   "AlphaSapphireEntry": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
   "HP": 100,
   "SilverEntry": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
-  "Spe": 100,
+  "Speed": 100,
   "ability2": "",
   "eggMoves": [],
   "number": 151,
@@ -24,17 +24,17 @@
   "GoldEntry": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
   "SapphireEntry": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "When viewed through a microscope, this Pokémon's short, fine, delicate hair can be seen.",
   "DiamondEntry": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
   "name": "Mew",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 3,
   "ShieldEntry": "This mythical Pokémon is said to be extinct, but sightings of it are still being reported to this day.",
   "extraMega": false,
   "HearthGoldEntry": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
   "YEntry": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 300,
   "tmTrMoves": [
     {
@@ -242,7 +242,7 @@
       "technical": "TM50"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -286,7 +286,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -897,8 +897,8 @@
   ],
   "DefYield": 0,
   "Def": 100,
-  "SpA": 100,
-  "SpD": 100,
+  "SpAtk": 100,
+  "SpDef": 100,
   "RubyEntry": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
   "BlackEntry": "Because it is able to use every move, there are many scientists who believe that it is the ancestor of all Pokémon.",
   "OmegaRubyEntry": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
@@ -911,7 +911,7 @@
   "SwordEntry": "It's very intelligent and can use an incredible variety of moves. Many believe that all other Pokémon are descendants of this one.",
   "ShiningPearlEntry": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
   "PearlEntry": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
-  "category": "New Species Pokémon",
+  "category": "New Speedcies Pokémon",
   "LeafGreenEntry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
   "Black2Entry": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
 }

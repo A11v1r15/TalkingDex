@@ -5,7 +5,7 @@
   "AlphaSapphireEntry": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
   "HP": 25,
   "SilverEntry": "If it decides to teleport randomly, it creates the illusion that it has created copies of itself.",
-  "Spe": 90,
+  "Speed": 90,
   "ability2": "Inner Focus",
   "eggMoves": [
     {"move": "Confusion"},
@@ -17,7 +17,7 @@
   "MoonEntry": "It can teleport itself to safety while it's asleep, but when it wakes, it doesn't know where it is, so it panics.",
   "UltraSunEntry": "It uses various psychic powers even while it's sleeping, so you can't tell whether or not it's awake.",
   "RedEntry": "Using its ability to read minds, it will identify impending danger and Teleport to safety.",
-  "LegendsArceusEntry": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers-should danger approach, the Pokémon will simply teleport away.",
+  "LegendsArceusEntry": "Speednds 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers-should danger approach, the Pokémon will simply teleport away.",
   "height": "0.9m",
   "type2": "",
   "WhiteEntry": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
@@ -32,17 +32,17 @@
   "GoldEntry": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
   "SapphireEntry": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
   "hasAlolan": false,
-  "SpAYield": 1,
+  "SpAtkYield": 1,
   "LetsGoPikachuEntry": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
   "DiamondEntry": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
   "name": "Abra",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
   "extraMega": false,
   "HearthGoldEntry": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
   "YEntry": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "It sleeps 18 hours a day. Even while sleeping, it will teleport itself to treetops and pick and eat berries there.",
   "XPYield": 62,
   "tmTrMoves": [
@@ -131,7 +131,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -256,8 +256,8 @@
   }],
   "DefYield": 0,
   "Def": 15,
-  "SpA": 105,
-  "SpD": 55,
+  "SpAtk": 105,
+  "SpDef": 55,
   "RubyEntry": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
   "BlackEntry": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
   "OmegaRubyEntry": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",

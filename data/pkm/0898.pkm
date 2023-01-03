@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Unnerve",
   "HP": 100,
-  "Spe": 80,
-  "SpeYield": 0,
+  "Speed": 80,
+  "SpeedYield": 0,
   "XPYield": 250,
   "ability2": "",
   "tmTrMoves": [
@@ -93,7 +93,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -285,9 +285,9 @@
   "DefYield": 0,
   "type2": "Grass",
   "Def": 80,
-  "SpA": 80,
+  "SpAtk": 80,
   "eggGroup2": "",
-  "SpD": 80,
+  "SpDef": 80,
   "weight": "7.7kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -295,11 +295,11 @@
   "hasGalarian": false,
   "colour": "Green",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Calyrex",
   "Atk": 80,
   "SwordEntry": "Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "King Pokémon",
   "HPYield": 3
 }

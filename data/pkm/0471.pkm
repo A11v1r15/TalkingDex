@@ -2,7 +2,7 @@
   "ability1": "Snow Cloak",
   "AlphaSapphireEntry": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
   "HP": 65,
-  "Spe": 65,
+  "Speed": 65,
   "ability2": "",
   "eggMoves": [],
   "UltraMoonEntry": "It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey.",
@@ -21,16 +21,16 @@
   "type1": "Ice",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "DiamondEntry": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
   "name": "Glaceon",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
   "extraMega": false,
   "HearthGoldEntry": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
   "YEntry": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
   "XPYield": 184,
   "tmTrMoves": [
@@ -107,7 +107,7 @@
       "technical": "TM47"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -286,8 +286,8 @@
   ],
   "DefYield": 0,
   "Def": 110,
-  "SpA": 130,
-  "SpD": 95,
+  "SpAtk": 130,
+  "SpDef": 95,
   "BlackEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "OmegaRubyEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "colour": "Blue",

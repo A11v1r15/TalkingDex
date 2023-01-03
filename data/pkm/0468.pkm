@@ -2,7 +2,7 @@
   "ability1": "Hustle",
   "AlphaSapphireEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
   "HP": 85,
-  "Spe": 80,
+  "Speed": 80,
   "ability2": "Serene Grace",
   "eggMoves": [],
   "number": 468,
@@ -17,16 +17,16 @@
   "type1": "Fairy",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "DiamondEntry": "It will never appear where there is strife. Its sightings have become rare recently.",
   "name": "Togekiss",
-  "SpDYield": 1,
+  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "Known as a bringer of blessings, it's been depicted on good-luck charms since ancient times.",
   "extraMega": false,
   "HearthGoldEntry": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
   "YEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 273,
   "tmTrMoves": [
     {
@@ -299,7 +299,7 @@
       "lvl": "1"
     },
     {
-      "move": "Extreme Speed",
+      "move": "Extreme Speeded",
       "lvl": "1"
     },
     {
@@ -369,8 +369,8 @@
   ],
   "DefYield": 0,
   "Def": 95,
-  "SpA": 120,
-  "SpD": 115,
+  "SpAtk": 120,
+  "SpDef": 115,
   "BlackEntry": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
   "OmegaRubyEntry": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
   "colour": "White",

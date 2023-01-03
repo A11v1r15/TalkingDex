@@ -2,7 +2,7 @@
   "ability1": "Ice Body",
   "AlphaSapphireEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
   "HP": 36,
-  "Spe": 44,
+  "Speed": 44,
   "ability2": "Snow Cloak",
   "eggMoves": [
     {"move": "Autotomize"},
@@ -26,15 +26,15 @@
   "type1": "Ice",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 1,
+  "SpAtkYield": 1,
   "name": "Vanillite",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
   "extraMega": false,
   "YEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
   "SunEntry": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 61,
   "tmTrMoves": [
     {
@@ -82,7 +82,7 @@
       "technical": "TM44"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -173,7 +173,7 @@
       "lvl": "20"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "lvl": "24"
     },
     {
@@ -203,8 +203,8 @@
   ],
   "DefYield": 0,
   "Def": 50,
-  "SpA": 65,
-  "SpD": 60,
+  "SpAtk": 65,
+  "SpDef": 60,
   "BlackEntry": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
   "OmegaRubyEntry": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
   "colour": "White",

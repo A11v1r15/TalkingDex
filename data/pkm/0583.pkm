@@ -2,7 +2,7 @@
   "ability1": "Ice Body",
   "AlphaSapphireEntry": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
   "HP": 51,
-  "Spe": 59,
+  "Speed": 59,
   "ability2": "Snow Cloak",
   "eggMoves": [],
   "UltraMoonEntry": "This hearty Pokémon survived the Ice Age. It's incredibly popular in very hot regions.",
@@ -19,15 +19,15 @@
   "type1": "Ice",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "name": "Vanillish",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward\u2014it's a kind Pokémon.",
   "extraMega": false,
   "YEntry": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
   "SunEntry": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 138,
   "tmTrMoves": [
     {
@@ -75,7 +75,7 @@
       "technical": "TM44"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -166,7 +166,7 @@
       "lvl": "20"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "lvl": "24"
     },
     {
@@ -196,8 +196,8 @@
   ],
   "DefYield": 0,
   "Def": 65,
-  "SpA": 80,
-  "SpD": 75,
+  "SpAtk": 80,
+  "SpDef": 75,
   "BlackEntry": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
   "OmegaRubyEntry": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
   "colour": "White",

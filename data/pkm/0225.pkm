@@ -4,7 +4,7 @@
   "AlphaSapphireEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
   "HP": 45,
   "SilverEntry": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
-  "Spe": 75,
+  "Speed": 75,
   "ability2": "Hustle",
   "eggMoves": [
     {"move": "Aurora Beam"},
@@ -37,16 +37,16 @@
   "GoldEntry": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
   "SapphireEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pokémon sharing its food.",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "DiamondEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
   "name": "Delibird",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
   "extraMega": false,
   "HearthGoldEntry": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
   "YEntry": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
-  "SpeYield": 1,
+  "SpeedYield": 1,
   "SunEntry": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
   "XPYield": 116,
   "tmTrMoves": [
@@ -123,7 +123,7 @@
       "technical": "TM46"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -226,8 +226,8 @@
   ],
   "DefYield": 0,
   "Def": 45,
-  "SpA": 65,
-  "SpD": 45,
+  "SpAtk": 65,
+  "SpDef": 45,
   "RubyEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pokémon sharing its food.",
   "BlackEntry": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
   "OmegaRubyEntry": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",

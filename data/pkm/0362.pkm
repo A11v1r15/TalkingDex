@@ -3,7 +3,7 @@
   "ability1": "Inner Focus",
   "AlphaSapphireEntry": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.",
   "HP": 80,
-  "Spe": 80,
+  "Speed": 80,
   "ability2": "Ice Body",
   "eggMoves": [],
   "UltraMoonEntry": "Its actual body is a rock that isn't particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
@@ -23,16 +23,16 @@
   "hasGalarian": false,
   "SapphireEntry": "Glalie has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this Pokémon enjoys eating it in leisurely fashion.",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "DiamondEntry": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
   "name": "Glalie",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 2,
   "ShieldEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
   "extraMega": false,
   "HearthGoldEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
   "YEntry": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
   "XPYield": 168,
   "tmTrMoves": [
@@ -101,7 +101,7 @@
       "technical": "TM47"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -264,8 +264,8 @@
   ],
   "DefYield": 0,
   "Def": 80,
-  "SpA": 80,
-  "SpD": 80,
+  "SpAtk": 80,
+  "SpDef": 80,
   "RubyEntry": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
   "BlackEntry": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
   "OmegaRubyEntry": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",

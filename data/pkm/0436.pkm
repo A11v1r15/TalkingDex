@@ -2,7 +2,7 @@
   "ability1": "Levitate",
   "AlphaSapphireEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "HP": 57,
-  "Spe": 23,
+  "Speed": 23,
   "ability2": "Heatproof",
   "eggMoves": [],
   "number": 436,
@@ -18,16 +18,16 @@
   "type1": "Steel",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "DiamondEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "name": "Bronzor",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
   "extraMega": false,
   "HearthGoldEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
   "YEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "XPYield": 60,
   "tmTrMoves": [
     {
@@ -99,7 +99,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -258,8 +258,8 @@
   ],
   "DefYield": 1,
   "Def": 86,
-  "SpA": 24,
-  "SpD": 86,
+  "SpAtk": 24,
+  "SpDef": 86,
   "BlackEntry": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
   "OmegaRubyEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
   "colour": "Green",

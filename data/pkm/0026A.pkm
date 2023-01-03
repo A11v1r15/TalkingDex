@@ -98,7 +98,7 @@
       "technical": "TM59"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -236,7 +236,7 @@
   "UltraMoonEntry": "When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!",
   "number": 26,
   "MoonEntry": "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.",
-  "SpA": 95,
+  "SpAtk": 95,
   "UltraSunEntry": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is \u201chodad.\u201d",
   "Atk": 85,
   "abilityHidden": "",
@@ -332,7 +332,7 @@
   ],
   "type2": "Psychic",
   "eggGroup2": "Fairy",
-  "Spe": 110,
+  "Speed": 110,
   "eggGroup1": "Field",
   "type1": "Electric",
   "Def": 50,
@@ -340,5 +340,5 @@
   "LetsGoPikachuEntry": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution.",
   "name": "Alolan Raichu",
   "SwordEntry": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-  "SpD": 85
+  "SpDef": 85
 }

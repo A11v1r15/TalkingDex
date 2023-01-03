@@ -2,7 +2,7 @@
   "ability1": "Adaptability",
   "AlphaSapphireEntry": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...",
   "HP": 85,
-  "Spe": 90,
+  "Speed": 90,
   "ability2": "Download",
   "eggMoves": [],
   "UltraMoonEntry": "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure.",
@@ -20,16 +20,16 @@
   "type1": "Normal",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 3,
+  "SpAtkYield": 3,
   "DiamondEntry": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
   "name": "Porygon-Z",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Some say an additional program made this Pokémon evolve, but even academics can't agree on whether Porygon-Z is really an evolution.",
   "extraMega": false,
   "HearthGoldEntry": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...",
   "YEntry": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly.",
   "XPYield": 268,
   "tmTrMoves": [
@@ -94,7 +94,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -281,8 +281,8 @@
   ],
   "DefYield": 0,
   "Def": 70,
-  "SpA": 135,
-  "SpD": 75,
+  "SpAtk": 135,
+  "SpDef": 75,
   "BlackEntry": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
   "OmegaRubyEntry": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
   "colour": "Red",

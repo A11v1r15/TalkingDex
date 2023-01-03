@@ -5,8 +5,8 @@
   "YEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "AlphaSapphireEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "HP": 50,
-  "Spe": 65,
-  "SpeYield": 1,
+  "Speed": 65,
+  "SpeedYield": 1,
   "XPYield": 64,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -67,7 +67,7 @@
       "technical": "TM52"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -211,9 +211,9 @@
   "type2": "Electric",
   "WhiteEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "Def": 50,
-  "SpA": 57,
+  "SpAtk": 57,
   "eggGroup2": "",
-  "SpD": 50,
+  "SpDef": 50,
   "weight": "0.6kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -223,12 +223,12 @@
   "OmegaRubyEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "colour": "Yellow",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Joltik",
   "Atk": 47,
   "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "SwordEntry": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Attaching Pokémon",
   "HPYield": 0,
   "Black2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."

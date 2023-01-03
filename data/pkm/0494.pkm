@@ -5,8 +5,8 @@
   "YEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
   "AlphaSapphireEntry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
   "HP": 100,
-  "Spe": 100,
-  "SpeYield": 0,
+  "Speed": 100,
+  "SpeedYield": 0,
   "XPYield": 300,
   "ability2": "",
   "tmTrMoves": [
@@ -111,7 +111,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -337,9 +337,9 @@
   "type2": "Fire",
   "WhiteEntry": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
   "Def": 100,
-  "SpA": 100,
+  "SpAtk": 100,
   "eggGroup2": "",
-  "SpD": 100,
+  "SpDef": 100,
   "weight": "4.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -349,12 +349,12 @@
   "OmegaRubyEntry": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
   "colour": "Yellow",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Victini",
   "Atk": 100,
   "White2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
   "SwordEntry": "",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Victory Pokémon",
   "HPYield": 3,
   "Black2Entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power."

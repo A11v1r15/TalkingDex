@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Volt Absorb",
   "HP": 90,
-  "Spe": 55,
-  "SpeYield": 0,
+  "Speed": 55,
+  "SpeedYield": 0,
   "XPYield": 177,
   "ability2": "Static",
   "tmTrMoves": [
@@ -69,7 +69,7 @@
       "technical": "TM48"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -237,9 +237,9 @@
   "DefYield": 0,
   "type2": "Ice",
   "Def": 90,
-  "SpA": 90,
+  "SpAtk": 90,
   "eggGroup2": "",
-  "SpD": 80,
+  "SpDef": 80,
   "weight": "150.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -247,11 +247,11 @@
   "hasGalarian": false,
   "colour": "Blue",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Arctozolt",
   "Atk": 100,
   "SwordEntry": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Fossil Pokémon",
   "HPYield": 0
 }

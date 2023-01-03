@@ -4,7 +4,7 @@
   "AlphaSapphireEntry": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
   "HP": 65,
   "SilverEntry": "In a south sea nation, the people live in communities that are built on groups of these Pokémon.",
-  "Spe": 35,
+  "Speed": 35,
   "ability2": "Natural Cure",
   "eggMoves": [
     {"move": "Mist"},
@@ -31,16 +31,16 @@
   "GoldEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
   "SapphireEntry": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "DiamondEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
   "name": "Corsola",
-  "SpDYield": 1,
+  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
   "extraMega": false,
   "HearthGoldEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
   "YEntry": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
   "XPYield": 144,
   "tmTrMoves": [
@@ -121,7 +121,7 @@
       "technical": "TM48"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -292,8 +292,8 @@
   ],
   "DefYield": 1,
   "Def": 95,
-  "SpA": 65,
-  "SpD": 95,
+  "SpAtk": 65,
+  "SpDef": 95,
   "RubyEntry": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
   "BlackEntry": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
   "OmegaRubyEntry": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",

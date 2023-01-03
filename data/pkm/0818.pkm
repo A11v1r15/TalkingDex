@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Torrent",
   "HP": 70,
-  "Spe": 120,
-  "SpeYield": 3,
+  "Speed": 120,
+  "SpeedYield": 3,
   "XPYield": 265,
   "ability2": "",
   "tmTrMoves": [
@@ -73,7 +73,7 @@
       "technical": "TM46"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -257,9 +257,9 @@
   "DefYield": 0,
   "type2": "",
   "Def": 65,
-  "SpA": 125,
+  "SpAtk": 125,
   "eggGroup2": "Field",
-  "SpD": 65,
+  "SpDef": 65,
   "weight": "45.2kg",
   "eggGroup1": "Water 1",
   "hasMega": false,
@@ -267,11 +267,11 @@
   "hasGalarian": false,
   "colour": "Blue",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Inteleon",
   "Atk": 85,
   "SwordEntry": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Secret Agent Pokémon",
   "HPYield": 0
 }

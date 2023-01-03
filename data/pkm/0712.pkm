@@ -5,8 +5,8 @@
   "YEntry": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
   "AlphaSapphireEntry": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
   "HP": 55,
-  "Spe": 28,
-  "SpeYield": 0,
+  "Speed": 28,
+  "SpeedYield": 0,
   "XPYield": 61,
   "ability2": "Ice Body",
   "tmTrMoves": [
@@ -55,7 +55,7 @@
       "technical": "TM48"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -197,10 +197,10 @@
   "DefYield": 1,
   "type2": "",
   "Def": 85,
-  "SpA": 32,
+  "SpAtk": 32,
   "eggGroup2": "Mineral",
   "ScarletEntry": "They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.",
-  "SpD": 35,
+  "SpDef": 35,
   "weight": "99.5kg",
   "eggGroup1": "Monster",
   "hasMega": false,
@@ -209,12 +209,12 @@
   "OmegaRubyEntry": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
   "colour": "Blue",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "VioletEntry": "Bergmite protects itself by coating its body in ice formed by frigid air of -148 degrees Fahrenheit. It fights with Frigibax whenever they meet.",
   "name": "Bergmite",
   "Atk": 69,
   "SwordEntry": "They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Ice Chunk Pokémon",
   "HPYield": 0
 }

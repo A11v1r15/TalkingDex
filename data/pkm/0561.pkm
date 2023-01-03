@@ -5,8 +5,8 @@
   "YEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
   "AlphaSapphireEntry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
   "HP": 72,
-  "Spe": 97,
-  "SpeYield": 0,
+  "Speed": 97,
+  "SpeedYield": 0,
   "XPYield": 172,
   "ability2": "Magic Guard",
   "tmTrMoves": [
@@ -91,7 +91,7 @@
       "technical": "TM60"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -269,9 +269,9 @@
   "type2": "Flying",
   "WhiteEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
   "Def": 80,
-  "SpA": 103,
+  "SpAtk": 103,
   "eggGroup2": "",
-  "SpD": 80,
+  "SpDef": 80,
   "weight": "14.0kg",
   "eggGroup1": "Flying",
   "hasMega": false,
@@ -281,12 +281,12 @@
   "OmegaRubyEntry": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
   "colour": "Black",
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "name": "Sigilyph",
   "Atk": 58,
   "White2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
   "SwordEntry": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Avianoid Pokémon",
   "HPYield": 0,
   "Black2Entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders."

@@ -3,8 +3,8 @@
   "extraMega": false,
   "ability1": "Water Absorb",
   "HP": 90,
-  "Spe": 55,
-  "SpeYield": 0,
+  "Speed": 55,
+  "SpeedYield": 0,
   "XPYield": 177,
   "ability2": "Ice Body",
   "tmTrMoves": [
@@ -61,7 +61,7 @@
       "technical": "TM48"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -213,9 +213,9 @@
   "DefYield": 2,
   "type2": "Ice",
   "Def": 100,
-  "SpA": 80,
+  "SpAtk": 80,
   "eggGroup2": "",
-  "SpD": 90,
+  "SpDef": 90,
   "weight": "175.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -223,11 +223,11 @@
   "hasGalarian": false,
   "colour": "Blue",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Arctovish",
   "Atk": 90,
   "SwordEntry": "Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Fossil Pokémon",
   "HPYield": 0
 }

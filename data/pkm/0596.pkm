@@ -5,8 +5,8 @@
   "YEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
   "AlphaSapphireEntry": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
   "HP": 70,
-  "Spe": 108,
-  "SpeYield": 2,
+  "Speed": 108,
+  "SpeedYield": 2,
   "XPYield": 165,
   "ability2": "Unnerve",
   "tmTrMoves": [
@@ -75,7 +75,7 @@
       "technical": "TM52"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -229,9 +229,9 @@
   "type2": "Electric",
   "WhiteEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
   "Def": 60,
-  "SpA": 97,
+  "SpAtk": 97,
   "eggGroup2": "",
-  "SpD": 60,
+  "SpDef": 60,
   "weight": "14.3kg",
   "eggGroup1": "Bug",
   "hasMega": false,
@@ -241,12 +241,12 @@
   "OmegaRubyEntry": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
   "colour": "Yellow",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Galvantula",
   "Atk": 77,
   "White2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
   "SwordEntry": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "EleSpider Pokémon",
   "HPYield": 0,
   "Black2Entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."

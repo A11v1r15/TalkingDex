@@ -4,8 +4,8 @@
   "ability1": "Beast Boost",
   "HP": 71,
   "SunEntry": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
-  "Spe": 151,
-  "SpeYield": 3,
+  "Speed": 151,
+  "SpeedYield": 3,
   "XPYield": 285,
   "ability2": "",
   "tmTrMoves": [
@@ -62,7 +62,7 @@
       "technical": "TM59"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -206,7 +206,7 @@
       "lvl": "50"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "lvl": "55"
     },
     {
@@ -225,9 +225,9 @@
   "DefYield": 0,
   "type2": "Fighting",
   "Def": 37,
-  "SpA": 137,
+  "SpAtk": 137,
   "eggGroup2": "",
-  "SpD": 37,
+  "SpDef": 37,
   "weight": "25.0kg",
   "eggGroup1": "Undiscovered",
   "hasMega": false,
@@ -235,11 +235,11 @@
   "hasGalarian": false,
   "colour": "White",
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "name": "Pheromosa",
   "Atk": 137,
   "SwordEntry": "",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "category": "Lissome Pokémon",
   "HPYield": 0
 }

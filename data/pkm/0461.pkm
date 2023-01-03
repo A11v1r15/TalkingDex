@@ -2,7 +2,7 @@
   "ability1": "Pressure",
   "AlphaSapphireEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
   "HP": 70,
-  "Spe": 125,
+  "Speed": 125,
   "ability2": "",
   "eggMoves": [],
   "UltraMoonEntry": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
@@ -21,16 +21,16 @@
   "type1": "Dark",
   "hasGalarian": false,
   "hasAlolan": false,
-  "SpAYield": 0,
+  "SpAtkYield": 0,
   "DiamondEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
   "name": "Weavile",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
   "extraMega": false,
   "HearthGoldEntry": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
   "YEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
-  "SpeYield": 1,
+  "SpeedYield": 1,
   "SunEntry": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
   "XPYield": 179,
   "tmTrMoves": [
@@ -131,7 +131,7 @@
       "technical": "TM47"
     },
     {
-      "move": "Icicle Spear",
+      "move": "Icicle Speedar",
       "technical": "TM51"
     },
     {
@@ -346,8 +346,8 @@
   ],
   "DefYield": 0,
   "Def": 65,
-  "SpA": 45,
-  "SpD": 85,
+  "SpAtk": 45,
+  "SpDef": 85,
   "BlackEntry": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
   "OmegaRubyEntry": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
   "colour": "Black",

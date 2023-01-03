@@ -4,7 +4,7 @@
   "AlphaSapphireEntry": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
   "HP": 85,
   "SilverEntry": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
-  "Spe": 60,
+  "Speed": 60,
   "ability2": "Download",
   "eggMoves": [],
   "UltraMoonEntry": "Even though it doesn't die in the vacuum of space, it can't move around very well in zero gravity.",
@@ -25,16 +25,16 @@
   "GoldEntry": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
   "SapphireEntry": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
   "hasAlolan": false,
-  "SpAYield": 2,
+  "SpAtkYield": 2,
   "DiamondEntry": "With planetary development software installed, it became capable of working in space.",
   "name": "Porygon2",
-  "SpDYield": 0,
+  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
   "extraMega": false,
   "HearthGoldEntry": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
   "YEntry": "With planetary development software installed, it became capable of working in space.",
-  "SpeYield": 0,
+  "SpeedYield": 0,
   "SunEntry": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
   "XPYield": 180,
   "tmTrMoves": [
@@ -99,7 +99,7 @@
       "technical": "TM61"
     },
     {
-      "move": "Speed Swap",
+      "move": "Speeded Swap",
       "technical": "TM62"
     },
     {
@@ -266,8 +266,8 @@
   ],
   "DefYield": 0,
   "Def": 90,
-  "SpA": 105,
-  "SpD": 95,
+  "SpAtk": 105,
+  "SpDef": 95,
   "RubyEntry": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
   "BlackEntry": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
   "OmegaRubyEntry": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
