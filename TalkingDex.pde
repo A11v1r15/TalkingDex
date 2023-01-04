@@ -22,7 +22,7 @@ ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
 JSONObject pkm;
-int MaxDex = 1010;
+int MaxDex = 1008;
 
 IntList alolan;
 IntList galarian;
@@ -145,14 +145,13 @@ boolean centerTouch = false;
 PVector touchStart = new PVector();
 
 /*
-
  void mousePressed() {
  touchStarted();
  }
  void mouseReleased() {
  touchEnded();
  }
- */
+*/
 
 void touchStarted() {
   touchStart = new PVector(mouseX, mouseY);
