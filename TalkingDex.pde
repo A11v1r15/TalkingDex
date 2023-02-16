@@ -135,7 +135,7 @@ void dial(float x, float y, float r) {
                             pkm.getString("ability1") + (pkm.getString("ability2")!=""?"/"+pkm.getString("ability2"):"") + "\n" +
                             pkm.getString("abilityHidden");
     text(nameAbilities, x, y + r * 1.2 + fontSize*2);
-    image(list.get(index()-1), x, y, r*2, r*2);
+    image(list.get(index()-1), x, y, r*1.5, r*1.5);
   }
   popStyle();
 }
