@@ -210,10 +210,18 @@
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
-    {"move": "Night Slash"},
-    {"move": "Glare"},
-    {"move": "Poison Tail"},
-    {"move": "Sucker Punch"}
+    {
+      "move": "Night Slash"
+    },
+    {
+      "move": "Glare"
+    },
+    {
+      "move": "Poison Tail"
+    },
+    {
+      "move": "Sucker Punch"
+    }
   ],
   "XEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "UltraMoonEntry": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
@@ -296,7 +304,7 @@
   "name": "Druddigon",
   "Atk": 120,
   "White2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
-  "SwordEntry": "Druddigon lives in caves, but it never skips sunbathing\u2014it won't be able to move if its body gets too cold.",
+  "SwordEntry": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.",
   "SpDefYield": 0,
   "category": "Cave Pokémon",
   "HPYield": 0,

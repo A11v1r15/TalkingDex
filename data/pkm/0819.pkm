@@ -1,5 +1,5 @@
 {
-  "ShieldEntry": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.",
+  "ShieldEntry": "It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.",
   "extraMega": false,
   "ability1": "Cheek Pouch",
   "HP": 70,
@@ -116,10 +116,18 @@
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
-    {"move": "Rollout"},
-    {"move": "Defense Curl"},
-    {"move": "Last Resort"},
-    {"move": "Belly Drum"}
+    {
+      "move": "Rollout"
+    },
+    {
+      "move": "Defense Curl"
+    },
+    {
+      "move": "Last Resort"
+    },
+    {
+      "move": "Belly Drum"
+    }
   ],
   "number": 819,
   "AtkYield": 0,

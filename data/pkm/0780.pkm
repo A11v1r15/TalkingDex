@@ -1,5 +1,5 @@
 {
-  "ShieldEntry": "Drampa is a kind and friendly Pokémon\u2014up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+  "ShieldEntry": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
   "extraMega": false,
   "ability1": "Berserk",
   "HP": 78,
@@ -233,9 +233,15 @@
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
-    {"move": "Dragon Rush"},
-    {"move": "Mist"},
-    {"move": "Tickle"}
+    {
+      "move": "Dragon Rush"
+    },
+    {
+      "move": "Mist"
+    },
+    {
+      "move": "Tickle"
+    }
   ],
   "UltraMoonEntry": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.",
   "number": 780,

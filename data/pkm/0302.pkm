@@ -1,17 +1,29 @@
 {
-  "EmeraldEntry": "It digs branching holes in caves using its sharp claws in search of food\u2014raw gems. A Sableye lurks in darkness and is seen only rarely.",
+  "EmeraldEntry": "It digs branching holes in caves using its sharp claws in search of food—raw gems. A Sableye lurks in darkness and is seen only rarely.",
   "ability1": "Keen Eye",
-  "AlphaSapphireEntry": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon\u2019s body surface.",
+  "AlphaSapphireEntry": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.",
   "HP": 50,
   "Speed": 50,
   "ability2": "Stall",
   "eggMoves": [
-    {"move": "Recover"},
-    {"move": "Flatter"},
-    {"move": "Feint"},
-    {"move": "Sucker Punch"},
-    {"move": "Metal Burst"},
-    {"move": "Torment"}
+    {
+      "move": "Recover"
+    },
+    {
+      "move": "Flatter"
+    },
+    {
+      "move": "Feint"
+    },
+    {
+      "move": "Sucker Punch"
+    },
+    {
+      "move": "Metal Burst"
+    },
+    {
+      "move": "Torment"
+    }
   ],
   "UltraMoonEntry": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
   "number": 302,

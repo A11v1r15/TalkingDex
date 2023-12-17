@@ -3,7 +3,7 @@
   "extraMega": false,
   "ability1": "Receiver",
   "HP": 100,
-  "SunEntry": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
+  "SunEntry": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
   "Speed": 80,
   "SpeedYield": 0,
   "XPYield": 172,
@@ -217,13 +217,27 @@
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
-    {"move": "Seismic Toss"},
-    {"move": "Vital Throw"},
-    {"move": "Quick Guard"},
-    {"move": "Quick Attack"},
-    {"move": "Feint"},
-    {"move": "Counter"},
-    {"move": "Knock Off"}
+    {
+      "move": "Seismic Toss"
+    },
+    {
+      "move": "Vital Throw"
+    },
+    {
+      "move": "Quick Guard"
+    },
+    {
+      "move": "Quick Attack"
+    },
+    {
+      "move": "Feint"
+    },
+    {
+      "move": "Counter"
+    },
+    {
+      "move": "Knock Off"
+    }
   ],
   "UltraMoonEntry": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
   "number": 766,
@@ -295,7 +309,7 @@
   "Def": 90,
   "SpAtk": 40,
   "eggGroup2": "",
-  "ScarletEntry": "This Pokémon battles by throwing hard berries. It won\u2019t obey a Trainer who throws Poké Balls without skill.",
+  "ScarletEntry": "This Pokémon battles by throwing hard berries. It won’t obey a Trainer who throws Poké Balls without skill.",
   "SpDef": 60,
   "weight": "82.8kg",
   "eggGroup1": "Field",

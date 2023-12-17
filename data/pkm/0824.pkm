@@ -11,19 +11,29 @@
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
-    {"move": "Infestation"},
-    {"move": "Supersonic"},
-    {"move": "Sticky Web"},
-    {"move": "Recover"}
+    {
+      "move": "Infestation"
+    },
+    {
+      "move": "Supersonic"
+    },
+    {
+      "move": "Sticky Web"
+    },
+    {
+      "move": "Recover"
+    }
   ],
   "number": 824,
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
   "height": "0.4m",
-  "lvlUpMoves": [{
-    "move": "Struggle Bug",
-    "lvl": "1"
-  }],
+  "lvlUpMoves": [
+    {
+      "move": "Struggle Bug",
+      "lvl": "1"
+    }
+  ],
   "DefYield": 0,
   "type2": "",
   "Def": 20,

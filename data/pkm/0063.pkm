@@ -8,9 +8,15 @@
   "Speed": 90,
   "ability2": "Inner Focus",
   "eggMoves": [
-    {"move": "Confusion"},
-    {"move": "Guard Split"},
-    {"move": "Magic Coat"}
+    {
+      "move": "Confusion"
+    },
+    {
+      "move": "Guard Split"
+    },
+    {
+      "move": "Magic Coat"
+    }
   ],
   "UltraMoonEntry": "It can read others' minds and will teleport away when danger approaches. You must clear your mind if you want to catch it.",
   "number": 63,
@@ -250,10 +256,12 @@
   "AtkYield": 0,
   "PlatinumEntry": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
   "abilityHidden": "Magic Guard",
-  "lvlUpMoves": [{
-    "move": "Teleport",
-    "lvl": "1"
-  }],
+  "lvlUpMoves": [
+    {
+      "move": "Teleport",
+      "lvl": "1"
+    }
+  ],
   "DefYield": 0,
   "Def": 15,
   "SpAtk": 105,

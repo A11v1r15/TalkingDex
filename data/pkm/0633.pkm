@@ -146,10 +146,18 @@
   "hasGigantamax": false,
   "xpGroup": "Slow",
   "eggMoves": [
-    {"move": "Double Hit"},
-    {"move": "Astonish"},
-    {"move": "Head Smash"},
-    {"move": "Belch"}
+    {
+      "move": "Double Hit"
+    },
+    {
+      "move": "Astonish"
+    },
+    {
+      "move": "Head Smash"
+    },
+    {
+      "move": "Belch"
+    }
   ],
   "XEntry": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
   "number": 633,
@@ -232,7 +240,7 @@
   "Def": 50,
   "SpAtk": 45,
   "eggGroup2": "",
-  "ScarletEntry": "It can\u2019t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
+  "ScarletEntry": "It can’t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
   "SpDef": 50,
   "weight": "17.3kg",
   "eggGroup1": "Dragon",

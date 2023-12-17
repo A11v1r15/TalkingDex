@@ -7,17 +7,27 @@
   "SpeedYield": 0,
   "XPYield": 52,
   "ability2": "Gluttony",
-  "tmTrMoves": [{
-    "move": "Attract",
-    "technical": "TM31"
-  }],
+  "tmTrMoves": [
+    {
+      "move": "Attract",
+      "technical": "TM31"
+    }
+  ],
   "hasGigantamax": false,
   "xpGroup": "Erratic",
   "eggMoves": [
-    {"move": "Sucker Punch"},
-    {"move": "Rollout"},
-    {"move": "Defense Curl"},
-    {"move": "Recycle"}
+    {
+      "move": "Sucker Punch"
+    },
+    {
+      "move": "Rollout"
+    },
+    {
+      "move": "Defense Curl"
+    },
+    {
+      "move": "Recycle"
+    }
   ],
   "number": 840,
   "AtkYield": 0,
@@ -38,7 +48,7 @@
   "Def": 80,
   "SpAtk": 40,
   "eggGroup2": "Dragon",
-  "ScarletEntry": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple\u2019s skin and prevent it from rotting.",
+  "ScarletEntry": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.",
   "SpDef": 40,
   "weight": "0.5kg",
   "eggGroup1": "Grass",

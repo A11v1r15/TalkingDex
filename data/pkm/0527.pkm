@@ -1,5 +1,5 @@
 {
-  "ShieldEntry": "It emits ultrasonic waves as it flutters about, searching for its prey\u2014bug Pokémon.",
+  "ShieldEntry": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
   "extraMega": false,
   "ability1": "Unaware",
   "YEntry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
@@ -210,11 +210,21 @@
   "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "eggMoves": [
-    {"move": "Knock Off"},
-    {"move": "Supersonic"},
-    {"move": "Roost"},
-    {"move": "Flatter"},
-    {"move": "Psycho Shift"}
+    {
+      "move": "Knock Off"
+    },
+    {
+      "move": "Supersonic"
+    },
+    {
+      "move": "Roost"
+    },
+    {
+      "move": "Flatter"
+    },
+    {
+      "move": "Psycho Shift"
+    }
   ],
   "XEntry": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
   "number": 527,
