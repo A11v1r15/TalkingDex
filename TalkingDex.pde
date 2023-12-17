@@ -135,7 +135,11 @@ void dial(float x, float y, float r) {
                             pkm.getString("ability1") + (pkm.getString("ability2")!=""?"/"+pkm.getString("ability2"):"") + "\n" +
                             pkm.getString("abilityHidden");
     text(nameAbilities, x, y + r * 1.2 + fontSize*2);
-    image(list.get(index()-1), x, y, r*1.5, r*1.5);
+    image(list.get(index()-1), x, y+.4*r, r, r);
+    if(centerTouch){
+      image(list.get(index()-2), x, y+1.4*r, r, r);
+      image(list.get(index()  ), x, y-0.6*r, r, r);
+    }
   }
   popStyle();
 }
@@ -183,7 +187,7 @@ void touchMoved() {
 int versioN;
 
 void touchEnded() {
-  if (dialing || centerTouch) {
+  if (dialing || (centerTouch && PVector.dist(touchStart, new PVector(mouseX, mouseY)) < (width/2)*.8)) {
     pkm = loadJSONObject(String.format("pkm/%04d.pkm", index()));
     String entry = versions.get(versioN)+"Entry";
     //println(pkm.getString("name") +". The "+pkm.getString("category")+". "+pkm.getString(entry).replace(".", ";"));
@@ -193,6 +197,11 @@ void touchEnded() {
     showStatsNumbers = !showStatsNumbers;
     preferencesEditor.putBoolean("showStatsNumbers", showStatsNumbers);
     preferencesEditor.apply();
+  } else if (centerTouch) {
+    if (touchStart.y > mouseY) pkn++;
+    if (touchStart.y < mouseY) pkn--;
+    touchStart = new PVector(mouseX, mouseY);
+    touchEnded();
   }
   dialing = false;
   centerTouch = false;
