@@ -3,299 +3,42 @@
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
   "HP": 80,
-  "Speed": 70,
-  "ability2": "",
+  "SpDef": 90,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
-  "eggMoves": [],
   "number": 376,
   "MoonEntry": "A linkage of two Metang, this Pokémon can perform any calculation in a flash by utilizing parallel processing in its four brains.",
   "UltraSunEntry": "It boasts not only psychic powers but also fantastic strength. It grabs its prey with its four legs and holds them in place with its claws.",
+  "RedEntry": "Heads",
+  "LegendsArceusEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+  "SpAtk": 95,
+  "SpAtkYield": 0,
   "height": "1.6m",
   "type2": "Psychic",
   "WhiteEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
-  "eggGroup2": "",
   "weight": "550.0kg",
   "eggGroup1": "Mineral",
-  "hasMega": true,
   "type1": "Steel",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
   "DiamondEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "name": "Metagross",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.",
-  "extraMega": false,
   "HearthGoldEntry": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
   "YEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
-  "SpeedYield": 0,
   "SunEntry": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
   "XPYield": 300,
-  "tmTrMoves": [
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
   "BrilliantDiamondEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "AtkYield": 0,
   "PlatinumEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "abilityHidden": "Light Metal",
-  "lvlUpMoves": [
-    {
-      "move": "Hammer Arm",
-      "lvl": "0"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Bullet Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "6"
-    },
-    {
-      "move": "Magnet Rise",
-      "lvl": "12"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "16"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "26"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "34"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "42"
-    },
-    {
-      "move": "Meteor Mash",
-      "lvl": "52"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "62"
-    },
-    {
-      "move": "Agility",
-      "lvl": "72"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "82"
-    }
-  ],
+  "Speed": 70,
   "DefYield": 3,
   "Def": 130,
-  "SpAtk": 95,
-  "SpDef": 90,
   "RubyEntry": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
   "BlackEntry": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
   "OmegaRubyEntry": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",

@@ -4,339 +4,44 @@
   "AlphaSapphireEntry": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
   "HP": 95,
   "SilverEntry": "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
-  "Speed": 100,
   "ability2": "Scrappy",
-  "eggMoves": [
-    {
-      "move": "Belch"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Hammer Arm"
-    },
-    {
-      "move": "Present"
-    },
-    {
-      "move": "Seismic Toss"
-    },
-    {
-      "move": "Focus Punch"
-    }
-  ],
+  "SpDef": 70,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
   "number": 241,
   "MoonEntry": "Most people raise it for its milk, but it's quite tough and strong, so it's also well suited for battle.",
   "UltraSunEntry": "It produces over five gallons of milk a day. The higher the quality of the pastures it lives in, the richer and tastier its milk becomes.",
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "1.2m",
-  "type2": "",
   "WhiteEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
-  "eggGroup2": "",
   "CrystalEntry": "In order to milk a Miltank, one must have a knack for rhythmically pulling up and down on its udders.",
   "weight": "75.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
   "SapphireEntry": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
   "DiamondEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
   "name": "Miltank",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
-  "extraMega": false,
   "HearthGoldEntry": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
   "YEntry": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
-  "SpeedYield": 0,
   "SunEntry": "Its milk is high in calories and packed with nutrients. Therefore, if you drink too much of it, you may wind up with a body like Miltank's.",
   "XPYield": 172,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "If it is around babies, the milk it produces contains much more nutrition than usual.",
   "BrilliantDiamondEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
   "AtkYield": 0,
   "PlatinumEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
   "abilityHidden": "Sap Sipper",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "5"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "10"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "15"
-    },
-    {
-      "move": "Heal Bell",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "25"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "30"
-    },
-    {
-      "move": "Milk Drink",
-      "lvl": "35"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "45"
-    },
-    {
-      "move": "Charm",
-      "lvl": "50"
-    },
-    {
-      "move": "High Horsepower",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 100,
   "DefYield": 2,
   "Def": 105,
-  "SpAtk": 40,
-  "SpDef": 70,
   "RubyEntry": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
   "BlackEntry": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
   "OmegaRubyEntry": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",

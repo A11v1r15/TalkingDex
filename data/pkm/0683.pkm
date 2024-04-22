@@ -1,261 +1,35 @@
 {
   "ShieldEntry": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.",
-  "extraMega": false,
   "ability1": "Healer",
   "YEntry": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
   "AlphaSapphireEntry": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
   "HP": 101,
-  "Speed": 29,
-  "SpeedYield": 0,
+  "SunEntry": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
   "XPYield": 162,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 89,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.",
   "number": 683,
+  "BrilliantDiamondEntry": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.",
   "AtkYield": 0,
   "abilityHidden": "Aroma Veil",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Aromatic Mist",
-      "lvl": "1"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "1"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "9"
-    },
-    {
-      "move": "Aromatherapy",
-      "lvl": "12"
-    },
-    {
-      "move": "Draining Kiss",
-      "lvl": "15"
-    },
-    {
-      "move": "Attract",
-      "lvl": "18"
-    },
-    {
-      "move": "Flail",
-      "lvl": "21"
-    },
-    {
-      "move": "Misty Terrain",
-      "lvl": "24"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "27"
-    },
-    {
-      "move": "Charm",
-      "lvl": "30"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "33"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "36"
-    },
-    {
-      "move": "Skill Swap",
-      "lvl": "39"
-    },
-    {
-      "move": "Psych Up",
-      "lvl": "42"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 72,
+  "RedEntry": "Humanoid",
   "SpAtk": 99,
-  "eggGroup2": "",
-  "SpDef": 89,
+  "SpAtkYield": 0,
+  "height": "0.8m",
+  "Speed": 29,
+  "DefYield": 0,
+  "Def": 72,
   "weight": "15.5kg",
   "eggGroup1": "Fairy",
-  "hasMega": false,
   "type1": "Fairy",
-  "hasGalarian": false,
   "OmegaRubyEntry": "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.",
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Aromatisse",
   "Atk": 72,
   "SwordEntry": "The scent that constantly emits from its fur is so powerful that this Pokémon's companions will eventually lose their sense of smell.",
-  "SpDefYield": 0,
   "category": "Fragrance Pokémon",
   "HPYield": 2
 }

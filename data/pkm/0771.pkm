@@ -1,178 +1,35 @@
 {
   "ShieldEntry": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
-  "extraMega": false,
   "ability1": "Innards Out",
   "HP": 55,
   "SunEntry": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
-  "Speed": 5,
-  "SpeedYield": 0,
   "XPYield": 144,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 130,
+  "SpeedYield": 0,
   "xpGroup": "Fast",
-  "eggMoves": [
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Spite"
-    },
-    {
-      "move": "Mirror Coat"
-    },
-    {
-      "move": "Swagger"
-    }
-  ],
   "UltraMoonEntry": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
   "number": 771,
   "MoonEntry": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
   "UltraSunEntry": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+  "BrilliantDiamondEntry": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
   "AtkYield": 0,
   "abilityHidden": "Unaware",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "5"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "10"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "15"
-    },
-    {
-      "move": "Counter",
-      "lvl": "20"
-    },
-    {
-      "move": "Purify",
-      "lvl": "25"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "35"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "40"
-    },
-    {
-      "move": "Recover",
-      "lvl": "45"
-    },
-    {
-      "move": "Soak",
-      "lvl": "50"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "55"
-    },
-    {
-      "move": "Memento",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 130,
+  "RedEntry": "Squiggle",
   "SpAtk": 30,
-  "eggGroup2": "",
-  "SpDef": 130,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 5,
+  "DefYield": 0,
+  "Def": 130,
   "weight": "1.2kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 2,
   "colour": "Black",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!",
   "name": "Pyukumuku",
   "Atk": 60,
   "SwordEntry": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
-  "SpDefYield": 2,
   "category": "Sea Cucumber Pokémon",
   "HPYield": 0
 }

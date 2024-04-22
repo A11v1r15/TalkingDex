@@ -5,251 +5,48 @@
   "AlphaSapphireEntry": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
   "HP": 45,
   "SilverEntry": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",
-  "Speed": 63,
   "ability2": "Water Veil",
-  "eggMoves": [
-    {
-      "move": "Psybeam"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Aqua Tail"
-    },
-    {
-      "move": "Acupressure"
-    },
-    {
-      "move": "Mud"
-    }
-  ],
-  "UltraMoonEntry": "The way it swims along fluttering its dress-like fins has earned it the name “princess of the water.”",
+  "SpDef": 50,
+  "SpeedYield": 0,
+  "UltraMoonEntry": "The way it swims along fluttering its dress-like fins has earned it the name \u201cprincess of the water.\u201d",
   "number": 118,
   "MoonEntry": "Speedllbound by the length of its horn and the beauty of its fins, many strange Trainers raise Goldeen and nothing but Goldeen.",
   "UltraSunEntry": "Although known for their splendid tail fins, Goldeen apparently compete among themselves to see whose horn is thickest and sharpest.",
   "RedEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+  "LegendsArceusEntry": "It swims at a steady five knots. If it senses danger, it will strike back with its sharp horn.",
+  "SpAtk": 35,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "type2": "",
   "WhiteEntry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-  "eggGroup2": "",
   "CrystalEntry": "During spawning season, they swim gracefully in the water, searching for their perfect mate.",
   "weight": "15.0kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
   "GoldEntry": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
   "SapphireEntry": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
   "DiamondEntry": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
   "name": "Goldeen",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
-  "extraMega": false,
   "HearthGoldEntry": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
   "YEntry": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
-  "SpeedYield": 0,
   "SunEntry": "When the weather grows warm, they form groups and swim upriver. This sight serves as a poetic reminder that spring has arrived.",
   "XPYield": 64,
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
   "BrilliantDiamondEntry": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
   "AtkYield": 1,
   "PlatinumEntry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
   "abilityHidden": "Lightning Rod",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "5"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "10"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "25"
-    },
-    {
-      "move": "Flail",
-      "lvl": "30"
-    },
-    {
-      "move": "Waterfall",
-      "lvl": "35"
-    },
-    {
-      "move": "Soak",
-      "lvl": "40"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "45"
-    },
-    {
-      "move": "Horn Drill",
-      "lvl": "50"
-    }
-  ],
+  "Speed": 63,
   "DefYield": 0,
   "Def": 60,
-  "SpAtk": 35,
-  "SpDef": 50,
   "RubyEntry": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon - it could ram you powerfully with its horn.",
   "BlackEntry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
-  "OmegaRubyEntry": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
+  "OmegaRubyEntry": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon\u2014it could ram you powerfully with its horn.",
   "LetsGoEeveeEntry": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
   "colour": "Red",
   "SoulsilverEntry": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour.",
@@ -260,6 +57,6 @@
   "ShiningPearlEntry": "It swims at a steady five knots. If it senses danger, it will strike back with its sharp horn.",
   "PearlEntry": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
   "category": "Goldfish Pokémon",
-  "LeafGreenEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of \"The Water Queen\".",
+  "LeafGreenEntry": "\"Its tail fin billows like an elegant ballroom dress, giving it the nickname of \"\"The Water Queen\"\".\"",
   "Black2Entry": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
 }

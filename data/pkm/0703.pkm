@@ -1,241 +1,41 @@
 {
   "ShieldEntry": "It's said that somewhere in the world, there's a mineral vein housing a large pack of slumbering Carbink. It's also said that this pack has a queen.",
-  "extraMega": false,
   "ability1": "Clear Body",
   "YEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
   "AlphaSapphireEntry": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
   "HP": 50,
   "SunEntry": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
-  "Speed": 50,
-  "SpeedYield": 0,
   "XPYield": 100,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 150,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
   "UltraMoonEntry": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another's jewels.",
-  "eggMoves": [],
   "number": 703,
   "MoonEntry": "Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people.",
   "UltraSunEntry": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
+  "BrilliantDiamondEntry": "It's said that somewhere in the world, there's a mineral vein housing a large pack of slumbering Carbink. It's also said that this pack has a queen.",
   "AtkYield": 0,
   "abilityHidden": "Sturdy",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "5"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "10"
-    },
-    {
-      "move": "Flail",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "20"
-    },
-    {
-      "move": "Rock Polish",
-      "lvl": "25"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "30"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "35"
-    },
-    {
-      "move": "Skill Swap",
-      "lvl": "40"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "45"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "50"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "55"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 1,
-  "type2": "Fairy",
-  "Def": 150,
+  "RedEntry": "Ball",
   "SpAtk": 50,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 50,
+  "type2": "Fairy",
+  "DefYield": 1,
+  "Def": 150,
   "eggGroup2": "Mineral",
-  "SpDef": 150,
   "weight": "5.7kg",
   "eggGroup1": "Fairy",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
   "OmegaRubyEntry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
+  "SpDefYield": 1,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another's jewels.",
   "name": "Carbink",
   "Atk": 50,
   "SwordEntry": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
-  "SpDefYield": 1,
   "category": "Jewel Pokémon",
   "HPYield": 0
 }

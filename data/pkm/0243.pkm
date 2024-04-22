@@ -4,277 +4,38 @@
   "AlphaSapphireEntry": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
   "HP": 90,
   "SilverEntry": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder.",
-  "Speed": 115,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 100,
+  "SpeedYield": 2,
   "number": 243,
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+  "SpAtk": 115,
+  "SpAtkYield": 1,
   "height": "1.9m",
-  "type2": "",
   "WhiteEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
-  "eggGroup2": "",
   "CrystalEntry": "This rough Pokémon stores energy in its body, then sweeps across the land, shooting off electricity.",
   "weight": "178.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
   "SapphireEntry": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
   "DiamondEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "name": "Raikou",
-  "SpDefYield": 0,
   "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
   "HearthGoldEntry": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
   "YEntry": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity.",
-  "SpeedYield": 2,
+  "SunEntry": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
   "XPYield": 290,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
   "BrilliantDiamondEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "AtkYield": 0,
   "PlatinumEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "abilityHidden": "Inner Focus",
-  "lvlUpMoves": [
-    {
-      "move": "Extreme Speeded",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Spark",
-      "lvl": "6"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "18"
-    },
-    {
-      "move": "Roar",
-      "lvl": "24"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "30"
-    },
-    {
-      "move": "Howl",
-      "lvl": "36"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "42"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "48"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "54"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "60"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "66"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "72"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "78"
-    }
-  ],
+  "Speed": 115,
   "DefYield": 0,
   "Def": 75,
-  "SpAtk": 115,
-  "SpDef": 100,
   "RubyEntry": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
   "BlackEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "OmegaRubyEntry": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
@@ -283,7 +44,6 @@
   "FireRedEntry": "This Pokémon races across the land while barking a cry that sounds like crashing thunder.",
   "Atk": 85,
   "White2Entry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "PearlEntry": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
   "category": "Thunder Pokémon",

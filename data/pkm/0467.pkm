@@ -2,303 +2,41 @@
   "ability1": "Flame Body",
   "AlphaSapphireEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
   "HP": 75,
-  "Speed": 83,
-  "ability2": "",
+  "SpDef": 95,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
-  "eggMoves": [],
   "number": 467,
   "MoonEntry": "From its arm, it launches fireballs hotter than 3,500 degrees Fahrenheit. Its arm starts to melt when it fires a whole barrage.",
   "UltraSunEntry": "There are still quite a few factories that rely on the flames provided by Magmortar to process metals.",
+  "RedEntry": "Upright",
   "LegendsArceusEntry": "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant.",
+  "SpAtk": 125,
+  "SpAtkYield": 3,
   "height": "1.6m",
-  "type2": "",
   "WhiteEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
-  "eggGroup2": "",
+  "ScarletEntry": "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant.",
   "weight": "68.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 3,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
   "DiamondEntry": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
   "name": "Magmortar",
-  "SpDefYield": 0,
   "HPYield": 0,
-  "ShieldEntry": "Living in the crater of a volcano has caused this Pokémon's body to resemble its environment— it has an organ similar to a magma chamber.",
-  "extraMega": false,
+  "ShieldEntry": "Living in the crater of a volcano has caused this Pokémon's body to resemble its environment\u2014 it has an organ similar to a magma chamber.",
   "HearthGoldEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
   "YEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
-  "SpeedYield": 0,
   "SunEntry": "They dwell in volcanic craters. According to what is known, a single pair of male and female Magmortar lives in one volcano.",
   "XPYield": 270,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
   "BrilliantDiamondEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
   "AtkYield": 0,
   "PlatinumEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
   "abilityHidden": "Vital Spirit",
-  "lvlUpMoves": [
-    {
-      "move": "Smog",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Clear Smog",
-      "lvl": "12"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "16"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "20"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "24"
-    },
-    {
-      "move": "Fire Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Lava Plume",
-      "lvl": "34"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "40"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "46"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "52"
-    },
-    {
-      "move": "Fire Blast",
-      "lvl": "58"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "64"
-    }
-  ],
+  "Speed": 83,
   "DefYield": 0,
   "Def": 67,
-  "SpAtk": 125,
-  "SpDef": 95,
   "BlackEntry": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
   "OmegaRubyEntry": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
   "colour": "Red",

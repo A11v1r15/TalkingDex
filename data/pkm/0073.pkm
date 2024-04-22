@@ -5,277 +5,47 @@
   "AlphaSapphireEntry": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
   "HP": 80,
   "SilverEntry": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
-  "Speed": 100,
   "ability2": "Liquid Ooze",
-  "eggMoves": [],
+  "SpDef": 120,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it's a warning sign.",
   "number": 73,
   "MoonEntry": "Although these Pokémon are rare, when a large outbreak of them occurs, all fish Pokémon disappear from the surrounding sea.",
   "UltraSunEntry": "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
   "RedEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
   "LegendsArceusEntry": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
+  "SpAtk": 80,
+  "SpAtkYield": 0,
   "height": "1.6m",
   "type2": "Poison",
   "WhiteEntry": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
-  "eggGroup2": "",
+  "ScarletEntry": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
   "CrystalEntry": "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey.",
   "weight": "55.0kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 2,
   "BlueEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
   "GoldEntry": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
   "SapphireEntry": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
   "DiamondEntry": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
   "name": "Tentacruel",
-  "SpDefYield": 2,
   "HPYield": 0,
   "ShieldEntry": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
-  "extraMega": false,
   "HearthGoldEntry": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
   "YEntry": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
-  "SpeedYield": 0,
   "SunEntry": "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
   "XPYield": 180,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
   "BrilliantDiamondEntry": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
   "AtkYield": 0,
   "PlatinumEntry": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
   "abilityHidden": "Rain Dish",
-  "lvlUpMoves": [
-    {
-      "move": "Reflect Type",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "12"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "16"
-    },
-    {
-      "move": "Screech",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "24"
-    },
-    {
-      "move": "Hex",
-      "lvl": "28"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "34"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "40"
-    },
-    {
-      "move": "Surf",
-      "lvl": "46"
-    },
-    {
-      "move": "Sludge Wave",
-      "lvl": "52"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "58"
-    }
-  ],
+  "Speed": 100,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 80,
-  "SpDef": 120,
   "RubyEntry": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst causes rough waves around it.",
   "BlackEntry": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
   "OmegaRubyEntry": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",

@@ -1,315 +1,35 @@
 {
   "ShieldEntry": "Apparently the Dreepy inside Dragapult's horns eagerly look forward to being launched out at Mach speeds.",
-  "extraMega": false,
   "ability1": "Clear Body",
   "HP": 88,
-  "Speed": 142,
-  "SpeedYield": 3,
   "XPYield": 300,
   "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 75,
+  "SpeedYield": 3,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "number": 887,
+  "BrilliantDiamondEntry": "Apparently the Dreepy inside Dragapult's horns eagerly look forward to being launched out at Mach speeds.",
   "AtkYield": 0,
   "abilityHidden": "Cursed Body",
-  "height": "3.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Dragon Darts",
-      "lvl": "0"
-    },
-    {
-      "move": "Dragon Darts",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Infestation",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "6"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "12"
-    },
-    {
-      "move": "Hex",
-      "lvl": "18"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "30"
-    },
-    {
-      "move": "U-turn",
-      "lvl": "36"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "42"
-    },
-    {
-      "move": "Phantom Force",
-      "lvl": "48"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "54"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "63"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "70"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "78"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Ghost",
-  "Def": 75,
+  "RedEntry": "Upright",
   "SpAtk": 100,
+  "SpAtkYield": 0,
+  "height": "3.0m",
+  "Speed": 142,
+  "type2": "Ghost",
+  "DefYield": 0,
+  "Def": 75,
   "eggGroup2": "Dragon",
-  "ScarletEntry": "Dragapult can make its whole body transparent by clearing its mind and focusing. Even the Dreepy in Dragapult’s horns become invisible.",
-  "SpDef": 75,
+  "ScarletEntry": "Dragapult can make its whole body transparent by clearing its mind and focusing. Even the Dreepy in Dragapult\u2019s horns become invisible.",
   "weight": "50.0kg",
   "eggGroup1": "Amorphous",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "The fastest Dragapult of the group is always surrounded by Dreepy that want to fly at sonic speed.",
   "name": "Dragapult",
   "Atk": 120,
   "SwordEntry": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
-  "SpDefYield": 0,
   "category": "Stealth Pokémon",
   "HPYield": 0
 }

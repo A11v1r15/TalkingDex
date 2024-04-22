@@ -1,373 +1,50 @@
 {
+  "HearthGoldEntry": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
   "EmeraldEntry": "It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.",
   "ability1": "Blaze",
-  "AlphaSapphireEntry": "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened.",
-  "HP": 80,
-  "Speed": 80,
-  "ability2": "",
-  "eggMoves": [],
-  "number": 257,
-  "height": "1.9m",
-  "type2": "Fighting",
-  "WhiteEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
-  "eggGroup2": "",
-  "weight": "52.0kg",
-  "eggGroup1": "Field",
-  "hasMega": true,
-  "type1": "Fire",
-  "hasGalarian": false,
-  "SapphireEntry": "Blaziken has incredibly strong legs - it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
-  "name": "Blaziken",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
-  "HearthGoldEntry": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
   "YEntry": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
-  "SpeedYield": 0,
+  "AlphaSapphireEntry": "Blaziken has incredibly strong legs\u2014it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened.",
+  "HP": 80,
+  "SunEntry": "Blaziken has incredibly strong legs�it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened.",
   "XPYield": 265,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Blaze Kick",
-      "technical": "TR41"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 70,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
   "XEntry": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+  "number": 257,
   "BrilliantDiamondEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "AtkYield": 3,
   "PlatinumEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "abilityHidden": "Speeded Boost",
-  "lvlUpMoves": [
-    {
-      "move": "Double Kick",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "1"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "1"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": "9"
-    },
-    {
-      "move": "Detect",
-      "lvl": "12"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Aerial Ace",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "25"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "30"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "35"
-    },
-    {
-      "move": "Blaze Kick",
-      "lvl": "42"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "49"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "56"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "63"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 70,
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "SpAtk": 110,
-  "SpDef": 70,
+  "SpAtkYield": 0,
+  "height": "1.9m",
+  "Speed": 80,
+  "type2": "Fighting",
+  "DefYield": 0,
+  "WhiteEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+  "Def": 70,
+  "weight": "52.0kg",
+  "eggGroup1": "Field",
   "RubyEntry": "In battle, Blaziken blows out intense flames from its wrists and attacks the foe courageously. The stronger the foes, the more intensely this Pokémon's wrists burn.",
+  "type1": "Fire",
   "BlackEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "OmegaRubyEntry": "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn.",
+  "SpDefYield": 0,
   "colour": "Red",
+  "SapphireEntry": "Blaziken has incredibly strong legs - it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened.",
+  "DiamondEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "SoulsilverEntry": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+  "name": "Blaziken",
   "FireRedEntry": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
   "Atk": 120,
   "White2Entry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "PearlEntry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
   "category": "Blaze Pokémon",
   "LeafGreenEntry": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+  "HPYield": 0,
   "Black2Entry": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes."
 }

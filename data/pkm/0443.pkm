@@ -2,27 +2,16 @@
   "ability1": "Sand Veil",
   "AlphaSapphireEntry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
   "HP": 58,
-  "Speed": 42,
-  "ability2": "",
+  "SpDef": 45,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Its original home is an area much hotter than Alola. If you're planning to live with one, your heating bill will soar.",
-  "eggMoves": [
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Metal Claw"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Twister"
-    }
-  ],
   "number": 443,
   "MoonEntry": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
-  "UltraSunEntry": "It reacts to anything that moves—flies right at it and bites it. Sometimes it injures itself, but it doesn't care too much.",
+  "UltraSunEntry": "It reacts to anything that moves\u2014flies right at it and bites it. Sometimes it injures itself, but it doesn't care too much.",
+  "RedEntry": "Upright",
   "LegendsArceusEntry": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.7m",
   "type2": "Ground",
   "WhiteEntry": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
@@ -30,217 +19,26 @@
   "ScarletEntry": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
   "weight": "20.5kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "Its original home is an area much hotter than Alola. If you're planning to live with one, your heating bill will soar.",
   "DiamondEntry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
   "name": "Gible",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Gible attacks anything that moves, and it drags whatever it catches into the crevice that is its lair. Despite the big mouth, Gible's stomach is small.",
-  "extraMega": false,
   "HearthGoldEntry": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
   "YEntry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
-  "SpeedYield": 0,
   "SunEntry": "It lives in caves warmed by geothermal heat. Even so, when the weather gets cold, it will huddle close with others of its kind.",
   "XPYield": 60,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
   "BrilliantDiamondEntry": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
   "AtkYield": 1,
   "PlatinumEntry": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
   "abilityHidden": "Rough Skin",
-  "lvlUpMoves": [
-    {
-      "move": "Sand Tomb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "6"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "12"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "18"
-    },
-    {
-      "move": "Bite",
-      "lvl": "25"
-    },
-    {
-      "move": "Slash",
-      "lvl": "30"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "36"
-    },
-    {
-      "move": "Dig",
-      "lvl": "42"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "48"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "54"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 42,
   "DefYield": 0,
   "Def": 45,
-  "SpAtk": 40,
-  "SpDef": 45,
   "BlackEntry": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
   "OmegaRubyEntry": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
   "colour": "Blue",

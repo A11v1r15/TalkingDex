@@ -3,354 +3,42 @@
   "ability1": "Pressure",
   "AlphaSapphireEntry": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
   "HP": 65,
-  "Speed": 75,
   "ability2": "Super Luck",
+  "SpDef": 60,
+  "SpeedYield": 0,
   "UltraMoonEntry": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
-  "eggMoves": [
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Magic Coat"
-    },
-    {
-      "move": "Mean Look"
-    },
-    {
-      "move": "Bite"
-    },
-    {
-      "move": "Feint"
-    }
-  ],
   "number": 359,
   "MoonEntry": "Although it's said to bring disaster, in actuality, this Pokémon possesses a calm disposition and warns people of any crises that loom.",
   "UltraSunEntry": "The only thing unlucky about Absol is its appearance. It protects fields and warns people of disaster, so one ought to be grateful for it.",
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
+  "SpAtk": 75,
+  "SpAtkYield": 0,
   "height": "1.2m",
-  "type2": "",
   "WhiteEntry": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
-  "eggGroup2": "",
   "weight": "47.0kg",
   "eggGroup1": "Field",
-  "hasMega": true,
   "type1": "Dark",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
   "DiamondEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
   "name": "Absol",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer of doom.",
-  "extraMega": false,
   "HearthGoldEntry": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
   "YEntry": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
-  "SpeedYield": 0,
   "SunEntry": "Long ago, superstitions were spread about it, saying it brought disaster. This fed a hatred of it, and it was driven deep into the mountains.",
   "XPYield": 163,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
   "BrilliantDiamondEntry": "It senses coming disasters and appears before people only to warn them of impending danger.",
   "AtkYield": 2,
   "PlatinumEntry": "Rumored to sense danger with its horn, it became a target. It fled deep into the mountains.",
   "abilityHidden": "Justified",
-  "lvlUpMoves": [
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "5"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "10"
-    },
-    {
-      "move": "Detect",
-      "lvl": "15"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "25"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "30"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "35"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "40"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "45"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "50"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 75,
   "DefYield": 0,
   "Def": 60,
-  "SpAtk": 75,
-  "SpDef": 60,
   "RubyEntry": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
   "BlackEntry": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
   "OmegaRubyEntry": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",

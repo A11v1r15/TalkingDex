@@ -5,309 +5,46 @@
   "AlphaSapphireEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
   "HP": 90,
   "SilverEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
-  "Speed": 95,
   "ability2": "Flash Fire",
-  "eggMoves": [],
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "There are so many old tales about them that they're called legendary Pokémon, but there are way more of them around than you'd expect.",
   "number": 59,
   "MoonEntry": "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
   "UltraSunEntry": "Legends tell of its fighting alongside a general and conquering a whole country.",
   "RedEntry": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+  "LegendsArceusEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
+  "SpAtk": 100,
+  "SpAtkYield": 0,
   "height": "1.9m",
-  "type2": "",
   "WhiteEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
-  "eggGroup2": "",
   "ScarletEntry": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
   "CrystalEntry": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
   "weight": "155.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
   "GoldEntry": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
   "SapphireEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
   "DiamondEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "name": "Arcanine",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
-  "extraMega": false,
   "HearthGoldEntry": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
   "YEntry": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
-  "SpeedYield": 0,
   "SunEntry": "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore.",
   "XPYield": 194,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
   "BrilliantDiamondEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "AtkYield": 2,
   "PlatinumEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "abilityHidden": "Justified",
-  "lvlUpMoves": [
-    {
-      "move": "Extreme Speeded",
-      "lvl": "0"
-    },
-    {
-      "move": "Extreme Speeded",
-      "lvl": "1"
-    },
-    {
-      "move": "Burn Up",
-      "lvl": "1"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Agility",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Retaliate",
-      "lvl": "1"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "1"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "1"
-    },
-    {
-      "move": "Roar",
-      "lvl": "1"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "1"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "1"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Howl",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    }
-  ],
+  "Speed": 95,
   "DefYield": 0,
   "Def": 80,
-  "SpAtk": 100,
-  "SpDef": 80,
   "RubyEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
   "BlackEntry": "Its proud and regal appearance has captured the hearts of people since long ago.",
   "OmegaRubyEntry": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",

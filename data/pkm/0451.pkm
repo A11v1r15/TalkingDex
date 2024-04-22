@@ -1,286 +1,50 @@
 {
+  "ShieldEntry": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon's poison seeps in.",
+  "HearthGoldEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
   "ability1": "Battle Armor",
+  "YEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
   "AlphaSapphireEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
   "HP": 40,
-  "Speed": 65,
-  "ability2": "Sniper",
-  "eggMoves": [
-    {
-      "move": "Sand Attack"
-    },
-    {
-      "move": "Slash"
-    },
-    {
-      "move": "Confuse Ray"
-    },
-    {
-      "move": "Whirlwind"
-    }
-  ],
-  "number": 451,
-  "LegendsArceusEntry": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
-  "height": "0.8m",
-  "type2": "Bug",
-  "WhiteEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
-  "eggGroup2": "Water 3",
-  "weight": "12.0kg",
-  "eggGroup1": "Bug",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
-  "name": "Skorupi",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon's poison seeps in.",
-  "extraMega": false,
-  "HearthGoldEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-  "YEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-  "SpeedYield": 0,
+  "SunEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
   "XPYield": 66,
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    }
-  ],
-  "hasGigantamax": false,
+  "ability2": "Sniper",
+  "SpDef": 55,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+  "number": 451,
   "BrilliantDiamondEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
   "AtkYield": 0,
   "PlatinumEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
   "abilityHidden": "Keen Eye",
-  "lvlUpMoves": [
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "3"
-    },
-    {
-      "move": "Fell Stinger",
-      "lvl": "6"
-    },
-    {
-      "move": "Poison Fang",
-      "lvl": "9"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "15"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "18"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "21"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "24"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "27"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "30"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "33"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Cross Poison",
-      "lvl": "39"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "42"
-    },
-    {
-      "move": "Acupressure",
-      "lvl": "45"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 1,
-  "Def": 90,
+  "RedEntry": "Insectoid ",
+  "LegendsArceusEntry": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
   "SpAtk": 30,
-  "SpDef": 55,
+  "SpAtkYield": 0,
+  "height": "0.8m",
+  "Speed": 65,
+  "type2": "Bug",
+  "DefYield": 1,
+  "WhiteEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+  "Def": 90,
+  "eggGroup2": "Water 3",
+  "ScarletEntry": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
+  "weight": "12.0kg",
+  "eggGroup1": "Bug",
+  "type1": "Poison",
   "BlackEntry": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
   "OmegaRubyEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+  "SpDefYield": 0,
   "colour": "Purple",
+  "DiamondEntry": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
   "SoulsilverEntry": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+  "name": "Skorupi",
   "Atk": 50,
   "White2Entry": "It lives in arid regions and can go without food for a year while waiting for prey.",
   "SwordEntry": "After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.",
   "ShiningPearlEntry": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
   "PearlEntry": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
   "category": "Scorpion Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It lives in arid regions and can go without food for a year while waiting for prey."
 }

@@ -5,44 +5,16 @@
   "AlphaSapphireEntry": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
   "HP": 35,
   "SilverEntry": "This Pokémon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
-  "Speed": 35,
   "ability2": "Shell Armor",
+  "SpDef": 55,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
-  "eggMoves": [
-    {
-      "move": "Aurora Beam"
-    },
-    {
-      "move": "Bubble Beam"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Reflect Type"
-    },
-    {
-      "move": "Slam"
-    },
-    {
-      "move": "Supersonic"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Bite"
-    },
-    {
-      "move": "Tickle"
-    }
-  ],
   "number": 138,
   "UltraSunEntry": "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
   "RedEntry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+  "LegendsArceusEntry": "It's a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+  "SpAtk": 90,
+  "SpAtkYield": 0,
   "height": "0.4m",
   "type2": "Water",
   "WhiteEntry": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
@@ -50,236 +22,29 @@
   "CrystalEntry": "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.",
   "weight": "7.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
   "GoldEntry": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
   "SapphireEntry": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
   "DiamondEntry": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
   "name": "Omanyte",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.",
-  "extraMega": false,
   "HearthGoldEntry": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
   "YEntry": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
-  "SpeedYield": 0,
+  "SunEntry": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
   "XPYield": 71,
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
   "BrilliantDiamondEntry": "It's a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
   "AtkYield": 0,
   "PlatinumEntry": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
   "abilityHidden": "Weak Armor",
-  "lvlUpMoves": [
-    {
-      "move": "Bind",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "5"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "10"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "15"
-    },
-    {
-      "move": "Leer",
-      "lvl": "20"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "25"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Brine",
-      "lvl": "35"
-    },
-    {
-      "move": "Protect",
-      "lvl": "41"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "45"
-    },
-    {
-      "move": "Surf",
-      "lvl": "50"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "55"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 35,
   "DefYield": 1,
   "Def": 100,
-  "SpAtk": 90,
-  "SpDef": 55,
   "RubyEntry": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
   "BlackEntry": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
   "OmegaRubyEntry": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",

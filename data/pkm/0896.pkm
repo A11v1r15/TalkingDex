@@ -1,249 +1,29 @@
 {
   "ShieldEntry": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
-  "extraMega": false,
   "ability1": "Chilling Neigh",
   "HP": 100,
-  "Speed": 30,
-  "SpeedYield": 0,
   "XPYield": 290,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Icicle Speedar",
-      "technical": "TM51"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "eggMoves": [],
-  "number": 896,
-  "AtkYield": 3,
-  "abilityHidden": "",
-  "height": "2.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "6"
-    },
-    {
-      "move": "Avalanche",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "18"
-    },
-    {
-      "move": "Torment",
-      "lvl": "24"
-    },
-    {
-      "move": "Mist",
-      "lvl": "30"
-    },
-    {
-      "move": "Icicle Crash",
-      "lvl": "36"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "42"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "48"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "54"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "60"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "72"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 130,
-  "SpAtk": 65,
-  "eggGroup2": "",
   "SpDef": 110,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "number": 896,
+  "BrilliantDiamondEntry": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
+  "AtkYield": 3,
+  "RedEntry": "Quadruped",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
+  "height": "2.2m",
+  "Speed": 30,
+  "DefYield": 0,
+  "Def": 130,
   "weight": "800.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Ice",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "White",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Glastrier",
   "Atk": 145,
-  "SwordEntry": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon—anything it wants, it takes by force.",
-  "SpDefYield": 0,
+  "SwordEntry": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon\u2014anything it wants, it takes by force.",
   "category": "Wild Horse Pokémon",
   "HPYield": 0
 }

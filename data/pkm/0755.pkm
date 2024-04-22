@@ -1,210 +1,37 @@
 {
   "ShieldEntry": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.",
-  "extraMega": false,
   "ability1": "Illuminate",
   "HP": 40,
   "SunEntry": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
-  "Speed": 15,
-  "SpeedYield": 0,
   "XPYield": 57,
   "ability2": "Effect Spore",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 75,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Poison Powder"
-    },
-    {
-      "move": "Stun Spore"
-    },
-    {
-      "move": "Growth"
-    },
-    {
-      "move": "Leech Seed"
-    }
-  ],
   "UltraMoonEntry": "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
   "number": 755,
   "MoonEntry": "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
   "UltraSunEntry": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+  "BrilliantDiamondEntry": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.",
   "AtkYield": 0,
   "abilityHidden": "Rain Dish",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "4"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "8"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "16"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "20"
-    },
-    {
-      "move": "Strength Sap",
-      "lvl": "25"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "32"
-    },
-    {
-      "move": "Spore",
-      "lvl": "36"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "40"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "44"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fairy",
-  "Def": 55,
+  "RedEntry": "Blob",
   "SpAtk": 65,
-  "eggGroup2": "",
-  "SpDef": 75,
+  "SpAtkYield": 0,
+  "height": "0.2m",
+  "Speed": 15,
+  "type2": "Fairy",
+  "DefYield": 0,
+  "Def": 55,
   "weight": "1.5kg",
   "eggGroup1": "Grass",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
   "name": "Morelull",
   "Atk": 35,
   "SwordEntry": "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
-  "SpDefYield": 1,
   "category": "Illuminating Pokémon",
   "HPYield": 0
 }

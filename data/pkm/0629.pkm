@@ -1,247 +1,45 @@
 {
+  "ShieldEntry": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
   "ability1": "Big Pecks",
+  "YEntry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
   "AlphaSapphireEntry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
   "HP": 70,
-  "Speed": 60,
+  "SunEntry": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
+  "XPYield": 74,
   "ability2": "Overcoat",
-  "eggMoves": [
-    {
-      "move": "Mean Look"
-    },
-    {
-      "move": "Roost"
-    },
-    {
-      "move": "Toxic"
-    }
-  ],
+  "SpDef": 65,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "XEntry": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
   "UltraMoonEntry": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
   "number": 629,
   "MoonEntry": "It can't fly yet and must wait until its wings have developed more. Since it's still at a playful age, it hops around friskily.",
   "UltraSunEntry": "Mandibuzz gives it the bones it wears. Vullaby's wings are short, so it can't fly yet, but it jumps around, dreaming of wide open skies.",
-  "height": "0.5m",
-  "type2": "Flying",
-  "WhiteEntry": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
-  "eggGroup2": "",
-  "weight": "9.0kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Vullaby",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
-  "extraMega": false,
-  "YEntry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
-  "SunEntry": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
-  "SpeedYield": 0,
-  "XPYield": 74,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "XEntry": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+  "BrilliantDiamondEntry": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
   "AtkYield": 0,
   "abilityHidden": "Weak Armor",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "6"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "12"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "18"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "24"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "30"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "36"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "42"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "48"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "54"
-    },
-    {
-      "move": "Defog",
-      "lvl": "60"
-    },
-    {
-      "move": "Attract",
-      "lvl": "66"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "72"
-    }
-  ],
-  "DefYield": 1,
-  "Def": 75,
+  "RedEntry": "Wings",
   "SpAtk": 45,
-  "SpDef": 65,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 60,
+  "type2": "Flying",
+  "DefYield": 1,
+  "WhiteEntry": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+  "Def": 75,
+  "weight": "9.0kg",
+  "eggGroup1": "Flying",
+  "type1": "Dark",
   "BlackEntry": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
   "OmegaRubyEntry": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+  "SpDefYield": 0,
   "colour": "Brown",
+  "LetsGoPikachuEntry": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+  "name": "Vullaby",
   "Atk": 55,
   "White2Entry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
   "SwordEntry": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
   "category": "Diapered Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."
 }

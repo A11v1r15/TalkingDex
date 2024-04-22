@@ -1,272 +1,39 @@
 {
   "ShieldEntry": "It drowses and dreams all the time. It's best to leave it be if it's just woken up, as it's a terrible grump when freshly roused from sleep.",
-  "extraMega": false,
   "ability1": "Forewarn",
   "YEntry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "AlphaSapphireEntry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "HP": 116,
-  "Speed": 29,
-  "SpeedYield": 0,
+  "SunEntry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "XPYield": 170,
   "ability2": "Synchronize",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 95,
+  "SpeedYield": 0,
   "xpGroup": "Fast",
-  "eggMoves": [],
   "XEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
   "number": 518,
+  "BrilliantDiamondEntry": "It drowses and dreams all the time. It's best to leave it be if it's just woken up, as it's a terrible grump when freshly roused from sleep.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
+  "RedEntry": "Humanoid",
+  "SpAtk": 107,
+  "SpAtkYield": 0,
   "height": "1.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Psychic Terrain",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "1"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "1"
-    },
-    {
-      "move": "Magic Coat",
-      "lvl": "1"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "1"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "1"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "1"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "1"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "1"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "1"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "1"
-    },
-    {
-      "move": "Stored Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "1"
-    }
-  ],
+  "Speed": 29,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
   "Def": 85,
-  "SpAtk": 107,
-  "eggGroup2": "",
-  "SpDef": 95,
   "weight": "60.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
   "BlackEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
   "OmegaRubyEntry": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Musharna",
   "Atk": 55,
   "White2Entry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
   "SwordEntry": "When dark mists emanate from its body, don't get too near. If you do, your nightmares will become reality.",
-  "SpDefYield": 0,
   "category": "Drowsing Pokémon",
   "HPYield": 2,
   "Black2Entry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."

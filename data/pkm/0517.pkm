@@ -1,263 +1,39 @@
 {
   "ShieldEntry": "It eats dreams and releases mist. The mist is pink when it's eating a good dream, and black when it's eating a nightmare.",
-  "extraMega": false,
   "ability1": "Forewarn",
   "YEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
   "AlphaSapphireEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
   "HP": 76,
-  "Speed": 24,
-  "SpeedYield": 0,
+  "SunEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
   "XPYield": 58,
   "ability2": "Synchronize",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 55,
+  "SpeedYield": 0,
   "xpGroup": "Fast",
-  "eggMoves": [
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Healing Wish"
-    }
-  ],
   "XEntry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
   "number": 517,
+  "BrilliantDiamondEntry": "It eats dreams and releases mist. The mist is pink when it's eating a good dream, and black when it's eating a nightmare.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
+  "RedEntry": "Quadruped",
+  "SpAtk": 67,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Stored Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "4"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "8"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "12"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "16"
-    },
-    {
-      "move": "Magic Coat",
-      "lvl": "20"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "28"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "32"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "36"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "40"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "44"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "48"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 24,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
   "Def": 45,
-  "SpAtk": 67,
-  "eggGroup2": "",
-  "SpDef": 55,
   "weight": "23.3kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
   "BlackEntry": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
   "OmegaRubyEntry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Munna",
   "Atk": 25,
   "White2Entry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
   "SwordEntry": "Late at night, it appears beside people's pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
-  "SpDefYield": 0,
   "category": "Dream Eater Pokémon",
   "HPYield": 1,
   "Black2Entry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams."

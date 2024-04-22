@@ -1,311 +1,43 @@
 {
   "ShieldEntry": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
-  "extraMega": false,
   "ability1": "Rough Skin",
   "YEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "AlphaSapphireEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "HP": 77,
-  "Speed": 48,
-  "SpeedYield": 0,
+  "SunEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "XPYield": 170,
   "ability2": "Sheer Force",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 90,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Night Slash"
-    },
-    {
-      "move": "Glare"
-    },
-    {
-      "move": "Poison Tail"
-    },
-    {
-      "move": "Sucker Punch"
-    }
-  ],
   "XEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "UltraMoonEntry": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
   "number": 621,
   "UltraSunEntry": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
+  "BrilliantDiamondEntry": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
   "AtkYield": 2,
   "abilityHidden": "Mold Breaker",
+  "RedEntry": "Upright",
+  "SpAtk": 60,
+  "SpAtkYield": 0,
   "height": "1.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "5"
-    },
-    {
-      "move": "Dragon Tail",
-      "lvl": "10"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "15"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "25"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "30"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "35"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "45"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "50"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 48,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
   "Def": 90,
-  "SpAtk": 60,
   "eggGroup2": "Monster",
-  "SpDef": 90,
   "weight": "139.0kg",
   "eggGroup1": "Dragon",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
   "BlackEntry": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
   "OmegaRubyEntry": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
   "name": "Druddigon",
   "Atk": 120,
   "White2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
-  "SwordEntry": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.",
-  "SpDefYield": 0,
+  "SwordEntry": "Druddigon lives in caves, but it never skips sunbathing\u2014it won't be able to move if its body gets too cold.",
   "category": "Cave Pokémon",
   "HPYield": 0,
   "Black2Entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey."

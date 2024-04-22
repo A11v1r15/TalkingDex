@@ -1,68 +1,35 @@
 {
   "ShieldEntry": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
-  "extraMega": false,
   "ability1": "Ripen",
   "HP": 40,
-  "Speed": 20,
-  "SpeedYield": 0,
   "XPYield": 52,
   "ability2": "Gluttony",
-  "tmTrMoves": [
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 0,
   "xpGroup": "Erratic",
-  "eggMoves": [
-    {
-      "move": "Sucker Punch"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Defense Curl"
-    },
-    {
-      "move": "Recycle"
-    }
-  ],
   "number": 840,
+  "BrilliantDiamondEntry": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
   "AtkYield": 0,
   "abilityHidden": "Bulletproof",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    }
-  ],
-  "DefYield": 1,
-  "type2": "Dragon",
-  "Def": 80,
+  "RedEntry": "Squiggle",
   "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "0.2m",
+  "Speed": 20,
+  "type2": "Dragon",
+  "DefYield": 1,
+  "Def": 80,
   "eggGroup2": "Dragon",
-  "ScarletEntry": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.",
-  "SpDef": 40,
+  "ScarletEntry": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple\u2019s skin and prevent it from rotting.",
   "weight": "0.5kg",
   "eggGroup1": "Grass",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "Applin lives inside an apple. When an Applin is separated from its apple, its body loses moisture and the Pokémon grows weak.",
   "name": "Applin",
   "Atk": 40,
   "SwordEntry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
-  "SpDefYield": 0,
   "category": "Apple Core Pokémon",
   "HPYield": 0
 }

@@ -1,201 +1,42 @@
 {
   "ShieldEntry": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
-  "extraMega": false,
   "ability1": "Big Pecks",
   "YEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
   "AlphaSapphireEntry": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
   "HP": 45,
   "SunEntry": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
-  "Speed": 62,
-  "SpeedYield": 1,
   "XPYield": 56,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 38,
+  "SpeedYield": 1,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "Flame Charge"
-    },
-    {
-      "move": "Quick Guard"
-    },
-    {
-      "move": "Defog"
-    }
-  ],
   "XEntry": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
   "UltraMoonEntry": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
   "number": 661,
   "MoonEntry": "When it's excited, its temperature can double, spiking hormone production in its body.",
   "UltraSunEntry": "While it's an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you'll be burned.",
+  "BrilliantDiamondEntry": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
   "AtkYield": 0,
   "abilityHidden": "Gale Wings",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "5"
-    },
-    {
-      "move": "Ember",
-      "lvl": "10"
-    },
-    {
-      "move": "Flail",
-      "lvl": "15"
-    },
-    {
-      "move": "Acrobatics",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "25"
-    },
-    {
-      "move": "Aerial Ace",
-      "lvl": "30"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "35"
-    },
-    {
-      "move": "Steel Wing",
-      "lvl": "40"
-    },
-    {
-      "move": "Roost",
-      "lvl": "45"
-    },
-    {
-      "move": "Fly",
-      "lvl": "50"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Flying",
-  "Def": 43,
+  "RedEntry": "Wings",
   "SpAtk": 40,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 62,
+  "type2": "Flying",
+  "DefYield": 0,
+  "Def": 43,
   "ScarletEntry": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
-  "SpDef": 38,
   "weight": "1.7kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
   "OmegaRubyEntry": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
   "VioletEntry": "Fletchling can be found in both rural and urban areas. They once had a huge territorial dispute with Squawkabilly. Fights broke out all over town.",
   "name": "Fletchling",
   "Atk": 50,
   "SwordEntry": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
-  "SpDefYield": 0,
   "category": "Tiny Robin Pokémon",
   "HPYield": 0
 }

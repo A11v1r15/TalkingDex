@@ -1,228 +1,34 @@
 {
   "ShieldEntry": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
-  "extraMega": false,
   "ability1": "Tough Claws",
   "HP": 45,
   "SunEntry": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
-  "Speed": 40,
-  "SpeedYield": 0,
   "XPYield": 61,
-  "ability2": "",
-  "title": "Solo Form",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 25,
+  "SpeedYield": 0,
   "xpGroup": "Fast",
-  "eggMoves": [
-    {
-      "move": "Mist"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Take Down"
-    }
-  ],
   "UltraMoonEntry": "When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
   "number": 746,
   "MoonEntry": "It's awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson.",
   "UltraSunEntry": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
+  "BrilliantDiamondEntry": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
   "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "4"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "8"
-    },
-    {
-      "move": "Brine",
-      "lvl": "12"
-    },
-    {
-      "move": "Tearful Look",
-      "lvl": "16"
-    },
-    {
-      "move": "Dive",
-      "lvl": "20"
-    },
-    {
-      "move": "Soak",
-      "lvl": "24"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "28"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "32"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "36"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "40"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "44"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 20,
+  "RedEntry": "Fish",
   "SpAtk": 25,
-  "eggGroup2": "",
-  "SpDef": 25,
+  "SpAtkYield": 0,
+  "height": "0.2m",
+  "Speed": 40,
+  "DefYield": 0,
+  "Def": 20,
   "weight": "0.3kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
   "name": "Wishiwashi",
   "Atk": 20,
   "SwordEntry": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
-  "SpDefYield": 0,
   "category": "Small Fry Pokémon",
   "HPYield": 1
 }

@@ -1,309 +1,46 @@
 {
+  "HearthGoldEntry": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
   "ability1": "Pressure",
+  "YEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
   "AlphaSapphireEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
   "HP": 100,
-  "Speed": 90,
-  "ability2": "",
-  "eggMoves": [],
-  "number": 483,
-  "LegendsArceusEntry": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
-  "height": "5.4m",
-  "type2": "Dragon",
-  "WhiteEntry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
-  "eggGroup2": "",
-  "weight": "683.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 3,
-  "DiamondEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
-  "name": "Dialga",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
-  "HearthGoldEntry": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
-  "YEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
-  "SpeedYield": 0,
+  "SunEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
   "XPYield": 340,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 100,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+  "number": 483,
   "BrilliantDiamondEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
   "AtkYield": 0,
   "PlatinumEntry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
   "abilityHidden": "Telepathy",
-  "lvlUpMoves": [
-    {
-      "move": "Scary Face",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "8"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "32"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "40"
-    },
-    {
-      "move": "Aura Sphere",
-      "lvl": "48"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "56"
-    },
-    {
-      "move": "Metal Burst",
-      "lvl": "64"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "72"
-    },
-    {
-      "move": "Iron Tail",
-      "lvl": "80"
-    },
-    {
-      "move": "Roar of Time",
-      "lvl": "88"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 120,
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
   "SpAtk": 150,
-  "SpDef": 100,
+  "SpAtkYield": 3,
+  "height": "5.4m",
+  "Speed": 90,
+  "type2": "Dragon",
+  "DefYield": 0,
+  "WhiteEntry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
+  "Def": 120,
+  "ScarletEntry": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
+  "weight": "683.0kg",
+  "eggGroup1": "Undiscovered",
+  "type1": "Steel",
   "BlackEntry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
   "OmegaRubyEntry": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+  "SpDefYield": 0,
   "colour": "White",
+  "DiamondEntry": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
   "SoulsilverEntry": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
+  "name": "Dialga",
   "Atk": 120,
   "White2Entry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "This Pokémon is spoken of in legend. It is said that time began moving when Dialga was born.",
   "PearlEntry": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
   "category": "Temporal Pokémon",
+  "HPYield": 0,
   "Black2Entry": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats."
 }

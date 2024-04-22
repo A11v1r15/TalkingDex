@@ -1,255 +1,43 @@
 {
   "ShieldEntry": "Since Dedenne can't generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
-  "extraMega": false,
   "ability1": "Cheek Pouch",
   "YEntry": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
   "AlphaSapphireEntry": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
   "HP": 67,
-  "Speed": 101,
-  "SpeedYield": 2,
+  "SunEntry": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
   "XPYield": 151,
   "ability2": "Pickup",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 67,
+  "SpeedYield": 2,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Covet"
-    },
-    {
-      "move": "Tearful Look"
-    },
-    {
-      "move": "Magnet Rise"
-    }
-  ],
   "XEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
   "UltraMoonEntry": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
   "number": 702,
   "UltraSunEntry": "It sneaks into people's homes and steals electricity from their outlets. When your electric bill seems off, it's the handiwork of this rascal.",
+  "BrilliantDiamondEntry": "Since Dedenne can't generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.",
   "AtkYield": 0,
   "abilityHidden": "Plus",
-  "height": "0.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "5"
-    },
-    {
-      "move": "Charge",
-      "lvl": "10"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "15"
-    },
-    {
-      "move": "Charm",
-      "lvl": "20"
-    },
-    {
-      "move": "Parabolic Charge",
-      "lvl": "25"
-    },
-    {
-      "move": "Volt Switch",
-      "lvl": "30"
-    },
-    {
-      "move": "Rest",
-      "lvl": "35"
-    },
-    {
-      "move": "Snore",
-      "lvl": "35"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "40"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "45"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "50"
-    },
-    {
-      "move": "Entrainment",
-      "lvl": "55"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fairy",
-  "Def": 57,
+  "RedEntry": "Upright",
   "SpAtk": 81,
+  "SpAtkYield": 0,
+  "height": "0.2m",
+  "Speed": 101,
+  "type2": "Fairy",
+  "DefYield": 0,
+  "Def": 57,
   "eggGroup2": "Fairy",
-  "ScarletEntry": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
-  "SpDef": 67,
+  "ScarletEntry": "It\u2019s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people\u2019s homes and charge itself.",
   "weight": "2.2kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
   "OmegaRubyEntry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
   "VioletEntry": "Dedenne emit electrical waves from the whiskers on their cheeks to communicate with each other. When low on electricity, they curl up and sleep.",
   "name": "Dedenne",
   "Atk": 58,
   "SwordEntry": "A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
-  "SpDefYield": 0,
   "category": "Antenna Pokémon",
   "HPYield": 0
 }

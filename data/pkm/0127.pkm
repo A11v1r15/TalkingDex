@@ -5,288 +5,45 @@
   "AlphaSapphireEntry": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
   "HP": 65,
   "SilverEntry": "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
-  "Speed": 85,
   "ability2": "Mold Breaker",
-  "eggMoves": [
-    {
-      "move": "Feint"
-    },
-    {
-      "move": "Flail"
-    },
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Fury Attack"
-    },
-    {
-      "move": "Quick Attack"
-    }
-  ],
+  "SpDef": 70,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Although it's tough, it can't handle cold well. When night falls, it buries itself in leafage and sleeps.",
   "number": 127,
   "MoonEntry": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
   "UltraSunEntry": "It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with Heracross in Alola.",
   "RedEntry": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+  "LegendsArceusEntry": "It grips prey with its pincers until the prey is torn apart. What it can't tear, it tosses far away.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "1.5m",
-  "type2": "",
   "WhiteEntry": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
-  "eggGroup2": "",
   "CrystalEntry": "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",
   "weight": "55.0kg",
   "eggGroup1": "Bug",
-  "hasMega": true,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
   "GoldEntry": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
   "SapphireEntry": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
   "DiamondEntry": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
   "name": "Pinsir",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
-  "extraMega": false,
   "HearthGoldEntry": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
   "YEntry": "It swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
-  "SpeedYield": 0,
   "SunEntry": "It grips its prey in its pincers and splits them apart. Although it is a powerful Pokémon, it can't deal with the cold.",
   "XPYield": 175,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
   "BrilliantDiamondEntry": "It grips prey with its pincers until the prey is torn apart. What it can't tear, it tosses far away.",
   "AtkYield": 2,
   "PlatinumEntry": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
   "abilityHidden": "Moxie",
-  "lvlUpMoves": [
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "4"
-    },
-    {
-      "move": "Bind",
-      "lvl": "8"
-    },
-    {
-      "move": "Seismic Toss",
-      "lvl": "12"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Storm Throw",
-      "lvl": "20"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "24"
-    },
-    {
-      "move": "Vital Throw",
-      "lvl": "28"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "32"
-    },
-    {
-      "move": "Strength",
-      "lvl": "36"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "40"
-    },
-    {
-      "move": "Submission",
-      "lvl": "44"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "48"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 85,
   "DefYield": 0,
   "Def": 100,
-  "SpAtk": 55,
-  "SpDef": 70,
   "RubyEntry": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
   "BlackEntry": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
   "OmegaRubyEntry": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",

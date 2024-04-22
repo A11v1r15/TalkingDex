@@ -3,32 +3,13 @@
   "ability1": "Natural Cure",
   "AlphaSapphireEntry": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
   "HP": 45,
-  "Speed": 50,
-  "ability2": "",
-  "eggMoves": [
-    {
-      "move": "Dragon Rush"
-    },
-    {
-      "move": "Feather Dance"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Tailwind"
-    },
-    {
-      "move": "Astonish"
-    },
-    {
-      "move": "Roost"
-    }
-  ],
+  "SpDef": 75,
+  "SpeedYield": 0,
   "number": 333,
+  "RedEntry": "Wings",
+  "LegendsArceusEntry": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.4m",
   "type2": "Flying",
   "WhiteEntry": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
@@ -36,205 +17,26 @@
   "ScarletEntry": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
   "weight": "1.2kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "SapphireEntry": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
   "name": "Swablu",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
-  "extraMega": false,
   "HearthGoldEntry": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
   "YEntry": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
-  "SpeedYield": 0,
+  "SunEntry": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
   "XPYield": 62,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Erratic",
   "XEntry": "For some reason, it likes to land on people's heads softly and act like it's a hat.",
   "BrilliantDiamondEntry": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
   "AtkYield": 0,
   "PlatinumEntry": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
   "abilityHidden": "Cloud Nine",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "4"
-    },
-    {
-      "move": "Mist",
-      "lvl": "8"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Round",
-      "lvl": "16"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "20"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "24"
-    },
-    {
-      "move": "Sing",
-      "lvl": "28"
-    },
-    {
-      "move": "Cotton Guard",
-      "lvl": "32"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "36"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "40"
-    },
-    {
-      "move": "Perish Song",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 0,
   "Def": 60,
-  "SpAtk": 40,
-  "SpDef": 75,
   "RubyEntry": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
   "BlackEntry": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
   "OmegaRubyEntry": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",

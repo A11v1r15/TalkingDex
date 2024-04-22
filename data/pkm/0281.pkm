@@ -3,11 +3,14 @@
   "ability1": "Synchronize",
   "AlphaSapphireEntry": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
   "HP": 38,
-  "Speed": 50,
   "ability2": "Trace",
-  "eggMoves": [],
+  "SpDef": 55,
+  "SpeedYield": 0,
   "number": 281,
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
+  "SpAtk": 65,
+  "SpAtkYield": 2,
   "height": "0.8m",
   "type2": "Fairy",
   "WhiteEntry": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
@@ -15,301 +18,26 @@
   "ScarletEntry": "It has a psychic power that enables it to distort the space around it and see into the future.",
   "weight": "20.2kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "DiamondEntry": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
   "name": "Kirlia",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It has a psychic power that enables it to distort the space around it and see into the future.",
-  "extraMega": false,
   "HearthGoldEntry": "It has a psychic power that enables it to distort the space around it and see into the future.",
   "YEntry": "It has a psychic power that enables it to distort the space around it and see into the future.",
-  "SpeedYield": 0,
+  "SunEntry": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
   "XPYield": 97,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
   "BrilliantDiamondEntry": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
   "AtkYield": 0,
   "PlatinumEntry": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
   "abilityHidden": "Telepathy",
-  "lvlUpMoves": [
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "9"
-    },
-    {
-      "move": "Draining Kiss",
-      "lvl": "12"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "15"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "18"
-    },
-    {
-      "move": "Life Dew",
-      "lvl": "23"
-    },
-    {
-      "move": "Charm",
-      "lvl": "28"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "33"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "38"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "43"
-    },
-    {
-      "move": "Dream Eater",
-      "lvl": "48"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "53"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 0,
   "Def": 35,
-  "SpAtk": 65,
-  "SpDef": 55,
   "RubyEntry": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain.",
   "BlackEntry": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
   "OmegaRubyEntry": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain.",

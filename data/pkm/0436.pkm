@@ -1,275 +1,50 @@
 {
+  "ShieldEntry": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+  "HearthGoldEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
   "ability1": "Levitate",
+  "YEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "AlphaSapphireEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "HP": 57,
-  "Speed": 23,
-  "ability2": "Heatproof",
-  "eggMoves": [],
-  "number": 436,
-  "LegendsArceusEntry": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
-  "height": "0.5m",
-  "type2": "Psychic",
-  "WhiteEntry": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
-  "eggGroup2": "",
-  "ScarletEntry": "Ancient people believed that the pattern on Bronzor’s back contained a mysterious power.",
-  "weight": "60.5kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Steel",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
-  "name": "Bronzor",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
-  "extraMega": false,
-  "HearthGoldEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
-  "YEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
-  "SpeedYield": 0,
+  "SunEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "XPYield": 60,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Speeded Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
+  "ability2": "Heatproof",
+  "SpDef": 86,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
   "XEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+  "number": 436,
   "BrilliantDiamondEntry": "Implements shaped like Bronzor were discovered in ancient tombs. It is unknown whether they are related.",
   "AtkYield": 0,
   "PlatinumEntry": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
   "abilityHidden": "Heavy Metal",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "4"
-    },
-    {
-      "move": "Payback",
-      "lvl": "8"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "12"
-    },
-    {
-      "move": "Gyro Ball",
-      "lvl": "16"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "20"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "24"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "28"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "32"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "44"
-    }
-  ],
-  "DefYield": 1,
-  "Def": 86,
+  "RedEntry": "Ball",
+  "LegendsArceusEntry": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
   "SpAtk": 24,
-  "SpDef": 86,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 23,
+  "type2": "Psychic",
+  "DefYield": 1,
+  "WhiteEntry": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+  "Def": 86,
+  "ScarletEntry": "Ancient people believed that the pattern on Bronzor\u2019s back contained a mysterious power.",
+  "weight": "60.5kg",
+  "eggGroup1": "Mineral",
+  "type1": "Steel",
   "BlackEntry": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
   "OmegaRubyEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+  "SpDefYield": 0,
   "colour": "Green",
   "VioletEntry": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.",
+  "DiamondEntry": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
   "SoulsilverEntry": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+  "name": "Bronzor",
   "Atk": 24,
   "White2Entry": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.",
   "SwordEntry": "It appears in ancient ruins. The pattern on its body doesn't come from any culture in the Galar region, so it remains shrouded in mystery.",
   "ShiningPearlEntry": "X-ray photos were taken to check its body structure, but nothing was seen.",
   "PearlEntry": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
   "category": "Bronze Pokémon",
+  "HPYield": 0,
   "Black2Entry": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power."
 }

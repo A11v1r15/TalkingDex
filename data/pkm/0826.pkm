@@ -1,281 +1,32 @@
 {
-  "ShieldEntry": "It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away.",
-  "extraMega": false,
+  "ShieldEntry": "It emits psychic energy to observe and study what's around it\u2014and what's around it can include things over six miles away.",
   "ability1": "Swarm",
   "HP": 60,
-  "Speed": 90,
-  "SpeedYield": 0,
   "XPYield": 253,
   "ability2": "Frisk",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": true,
+  "SpDef": 120,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "number": 826,
+  "BrilliantDiamondEntry": "It emits psychic energy to observe and study what's around it�and what's around it can include things over six miles away.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Reflect",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "4"
-    },
-    {
-      "move": "Magic Coat",
-      "lvl": "8"
-    },
-    {
-      "move": "Agility",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "16"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "20"
-    },
-    {
-      "move": "Ally Switch",
-      "lvl": "24"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "28"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "32"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "36"
-    },
-    {
-      "move": "After You",
-      "lvl": "40"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "44"
-    },
-    {
-      "move": "Psychic Terrain",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Psychic",
-  "Def": 110,
+  "RedEntry": "Wings",
   "SpAtk": 80,
-  "eggGroup2": "",
-  "SpDef": 120,
+  "SpAtkYield": 0,
+  "height": "0.4m",
+  "Speed": 90,
+  "type2": "Psychic",
+  "DefYield": 0,
+  "Def": 110,
   "weight": "40.8kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 3,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Orbeetle",
   "Atk": 45,
   "SwordEntry": "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
-  "SpDefYield": 3,
   "category": "Seven Spot Pokémon",
   "HPYield": 0
 }

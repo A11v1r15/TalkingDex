@@ -2,14 +2,16 @@
   "YellowEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
   "EmeraldEntry": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
   "ability1": "Overgrow",
-  "AlphaSapphireEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+  "AlphaSapphireEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
   "HP": 80,
   "SilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
-  "Speed": 80,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 100,
+  "SpeedYield": 0,
   "number": 3,
   "RedEntry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+  "LegendsArceusEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+  "SpAtk": 100,
+  "SpAtkYield": 2,
   "height": "2.0m",
   "type2": "Poison",
   "WhiteEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
@@ -17,271 +19,32 @@
   "CrystalEntry": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
   "weight": "100.0kg",
   "eggGroup1": "Monster",
-  "hasMega": true,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "BlueEntry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
   "GoldEntry": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
   "SapphireEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "LetsGoPikachuEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
   "DiamondEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "name": "Venusaur",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
-  "extraMega": false,
   "HearthGoldEntry": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
   "YEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
-  "SpeedYield": 0,
+  "SunEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower�s aroma soothes the emotions of people.",
   "XPYield": 263,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": true,
   "xpGroup": "Medium Slow",
   "XEntry": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
   "BrilliantDiamondEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "AtkYield": 0,
   "PlatinumEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
   "abilityHidden": "Chlorophyll",
-  "lvlUpMoves": [
-    {
-      "move": "Petal Blizzard",
-      "lvl": "0"
-    },
-    {
-      "move": "Petal Blizzard",
-      "lvl": "1"
-    },
-    {
-      "move": "Petal Dance",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Vine Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "1"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "9"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "12"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "15"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "15"
-    },
-    {
-      "move": "Seed Bomb",
-      "lvl": "20"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "25"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "30"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "37"
-    },
-    {
-      "move": "Worry Seed",
-      "lvl": "44"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "51"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "58"
-    }
-  ],
+  "Speed": 80,
   "DefYield": 0,
   "Def": 83,
-  "SpAtk": 100,
-  "SpDef": 100,
   "RubyEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
   "BlackEntry": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
-  "OmegaRubyEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+  "OmegaRubyEntry": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\u2019s aroma soothes the emotions of people.",
   "LetsGoEeveeEntry": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
   "colour": "Green",
   "SoulsilverEntry": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",

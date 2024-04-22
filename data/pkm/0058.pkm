@@ -5,277 +5,46 @@
   "AlphaSapphireEntry": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
   "HP": 55,
   "SilverEntry": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
-  "Speed": 60,
   "ability2": "Flash Fire",
-  "eggMoves": [
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Morning Sun"
-    },
-    {
-      "move": "Covet"
-    },
-    {
-      "move": "Double Kick"
-    }
-  ],
+  "SpDef": 50,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
   "number": 58,
   "MoonEntry": "It looks cute, but when you approach another Trainer's Growlithe, it will bark at you and bite.",
   "UltraSunEntry": "While it's quite friendly toward humans once it's grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
   "RedEntry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+  "LegendsArceusEntry": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "0.7m",
-  "type2": "",
   "WhiteEntry": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
-  "eggGroup2": "",
   "ScarletEntry": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
   "CrystalEntry": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
   "weight": "19.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
   "GoldEntry": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
   "SapphireEntry": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
   "DiamondEntry": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
   "name": "Growlithe",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
-  "extraMega": false,
   "HearthGoldEntry": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
   "YEntry": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
-  "SpeedYield": 0,
   "SunEntry": "It's both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
   "XPYield": 70,
-  "tmTrMoves": [
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
   "BrilliantDiamondEntry": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
   "AtkYield": 1,
   "PlatinumEntry": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
   "abilityHidden": "Justified",
-  "lvlUpMoves": [
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Howl",
-      "lvl": "4"
-    },
-    {
-      "move": "Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "12"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "16"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "24"
-    },
-    {
-      "move": "Retaliate",
-      "lvl": "28"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "32"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "36"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "40"
-    },
-    {
-      "move": "Roar",
-      "lvl": "44"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "48"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "52"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "56"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 45,
-  "SpAtk": 70,
-  "SpDef": 50,
   "RubyEntry": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
   "BlackEntry": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
   "OmegaRubyEntry": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",

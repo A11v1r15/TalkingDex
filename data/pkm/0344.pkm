@@ -3,345 +3,40 @@
   "ability1": "Levitate",
   "AlphaSapphireEntry": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.",
   "HP": 60,
-  "Speed": 75,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 120,
+  "SpeedYield": 0,
   "UltraMoonEntry": "The ancient people who made it apparently modeled it after something that descended from the sky. It fires beams from both arms.",
   "number": 344,
   "UltraSunEntry": "If it gets wet, its body melts. When rain starts to fall, it wraps its whole body up with its psychic powers to protect itself.",
+  "RedEntry": "Arms",
+  "LegendsArceusEntry": "An ancient clay figurine was exposed to a mysterious ray of light, and it came to life as a Pokémon.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "1.5m",
   "type2": "Psychic",
   "WhiteEntry": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
-  "eggGroup2": "",
   "weight": "108.0kg",
   "eggGroup1": "Mineral",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 2,
   "SapphireEntry": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "The ancient people who made it apparently modeled it after something that descended from the sky. It fires beams from both arms.",
   "DiamondEntry": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
   "name": "Claydol",
-  "SpDefYield": 2,
   "HPYield": 0,
   "ShieldEntry": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
-  "extraMega": false,
   "HearthGoldEntry": "It is said that it originates from clay dolls made by an ancient civilization.",
   "YEntry": "It is said that it originates from clay dolls made by an ancient civilization.",
-  "SpeedYield": 0,
+  "SunEntry": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.",
   "XPYield": 175,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
   "BrilliantDiamondEntry": "An ancient clay figurine was exposed to a mysterious ray of light, and it came to life as a Pokémon.",
   "AtkYield": 0,
   "PlatinumEntry": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Hyper Beam",
-      "lvl": "0"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Tomb",
-      "lvl": "9"
-    },
-    {
-      "move": "Power Trick",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "18"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "21"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "24"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "27"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Self-Destruct",
-      "lvl": "33"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "38"
-    },
-    {
-      "move": "Power Split",
-      "lvl": "38"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "43"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 75,
   "DefYield": 0,
   "Def": 105,
-  "SpAtk": 70,
-  "SpDef": 120,
   "RubyEntry": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.",
   "BlackEntry": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
   "OmegaRubyEntry": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.",

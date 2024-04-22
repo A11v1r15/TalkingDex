@@ -1,268 +1,37 @@
 {
   "ShieldEntry": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.",
-  "extraMega": false,
   "ability1": "Pickup",
   "YEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "AlphaSapphireEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "HP": 49,
-  "Speed": 51,
-  "SpeedYield": 0,
+  "SunEntry": "It is said to carry wandering spirits to the place where they belong so they can move on.",
   "XPYield": 67,
   "ability2": "Frisk",
-  "title": "Super Size",
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 55,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Disable"
-    },
-    {
-      "move": "Destiny Bond"
-    },
-    {
-      "move": "Curse"
-    }
-  ],
   "XEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
   "number": 710,
+  "BrilliantDiamondEntry": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.",
   "AtkYield": 0,
   "abilityHidden": "Insomnia",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Trick-or-Treat",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Shadow Sneak",
-      "lvl": "4"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "8"
-    },
-    {
-      "move": "Trick-or-Treat",
-      "lvl": "12"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "12"
-    },
-    {
-      "move": "Leech Seed",
-      "lvl": "16"
-    },
-    {
-      "move": "Bullet Seed",
-      "lvl": "20"
-    },
-    {
-      "move": "Trick-or-Treat",
-      "lvl": "24"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "24"
-    },
-    {
-      "move": "Worry Seed",
-      "lvl": "28"
-    },
-    {
-      "move": "Seed Bomb",
-      "lvl": "32"
-    },
-    {
-      "move": "Trick-or-Treat",
-      "lvl": "36"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "36"
-    },
-    {
-      "move": "Trick",
-      "lvl": "40"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "44"
-    }
-  ],
-  "DefYield": 1,
-  "type2": "Grass",
-  "Def": 70,
+  "RedEntry": "Ball",
   "SpAtk": 44,
-  "eggGroup2": "",
-  "SpDef": 55,
+  "SpAtkYield": 0,
+  "height": "0.4m",
+  "Speed": 51,
+  "type2": "Grass",
+  "DefYield": 1,
+  "Def": 70,
   "weight": "5.0kg",
   "eggGroup1": "Amorphous",
-  "hasMega": false,
   "type1": "Ghost",
-  "hasGalarian": false,
   "OmegaRubyEntry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Pumpkaboo",
   "Atk": 66,
   "SwordEntry": "Spirits that wander this world are placed into Pumpkaboo's body. They're then moved on to the afterlife.",
-  "SpDefYield": 0,
   "category": "Pumpkin Pokémon",
   "HPYield": 0
 }

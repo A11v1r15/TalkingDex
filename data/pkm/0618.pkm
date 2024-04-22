@@ -1,278 +1,41 @@
 {
   "ShieldEntry": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
-  "extraMega": false,
   "ability1": "Static",
   "YEntry": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
   "AlphaSapphireEntry": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
   "HP": 109,
-  "Speed": 32,
-  "SpeedYield": 0,
+  "SunEntry": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
   "XPYield": 165,
   "ability2": "Limber",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 99,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Yawn"
-    },
-    {
-      "move": "Astonish"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Spite"
-    },
-    {
-      "move": "Spark"
-    },
-    {
-      "move": "Pain Split"
-    },
-    {
-      "move": "Reflect Type"
-    }
-  ],
   "XEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
   "number": 618,
+  "BrilliantDiamondEntry": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
   "AtkYield": 0,
   "abilityHidden": "Sand Veil",
+  "RedEntry": "Fish",
+  "SpAtk": 81,
+  "SpAtkYield": 0,
   "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Endure",
-      "lvl": "5"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "10"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "15"
-    },
-    {
-      "move": "Charge",
-      "lvl": "20"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "25"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "30"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "35"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "40"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "45"
-    },
-    {
-      "move": "Flail",
-      "lvl": "50"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "55"
-    }
-  ],
-  "DefYield": 0,
+  "Speed": 32,
   "type2": "Electric",
+  "DefYield": 0,
   "WhiteEntry": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
   "Def": 84,
-  "SpAtk": 81,
   "eggGroup2": "Amorphous",
-  "SpDef": 99,
   "weight": "11.0kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": true,
   "BlackEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
   "OmegaRubyEntry": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Stunfisk",
   "Atk": 66,
   "White2Entry": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
   "SwordEntry": "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
-  "SpDefYield": 0,
   "category": "Trap Pokémon",
   "HPYield": 2,
   "Black2Entry": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away."

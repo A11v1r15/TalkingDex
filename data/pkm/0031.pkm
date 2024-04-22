@@ -5,396 +5,43 @@
   "AlphaSapphireEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
   "HP": 90,
   "SilverEntry": "It uses its scaly rugged body to seal the entrance of its nest and protect its young from predators.",
-  "Speed": 76,
   "ability2": "Rivalry",
-  "eggMoves": [],
+  "SpDef": 85,
+  "SpeedYield": 0,
   "number": 31,
   "RedEntry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+  "LegendsArceusEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+  "SpAtk": 75,
+  "SpAtkYield": 0,
   "height": "1.3m",
   "type2": "Ground",
   "WhiteEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
-  "eggGroup2": "",
   "CrystalEntry": "The hard scales that cover its strong body serve as excellent protection from any attack.",
   "weight": "60.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Poison",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
   "GoldEntry": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
   "SapphireEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
   "DiamondEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
   "name": "Nidoqueen",
-  "SpDefYield": 0,
   "HPYield": 3,
   "ShieldEntry": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
-  "extraMega": false,
   "HearthGoldEntry": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
   "YEntry": "The body is covered by stiff, needle-like scales. If it becomes excited, the needles bristle outwards.",
-  "SpeedYield": 0,
+  "SunEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
   "XPYield": 253,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
   "BrilliantDiamondEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
   "AtkYield": 0,
   "PlatinumEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
   "abilityHidden": "Sheer Force",
-  "lvlUpMoves": [
-    {
-      "move": "Superpower",
-      "lvl": "0"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "1"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "1"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    }
-  ],
+  "Speed": 76,
   "DefYield": 0,
   "Def": 87,
-  "SpAtk": 75,
-  "SpDef": 85,
   "RubyEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
   "BlackEntry": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
   "OmegaRubyEntry": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",

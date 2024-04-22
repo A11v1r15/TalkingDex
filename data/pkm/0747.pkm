@@ -1,239 +1,39 @@
 {
   "ShieldEntry": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
-  "extraMega": false,
   "ability1": "Merciless",
   "HP": 50,
   "SunEntry": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
-  "Speed": 45,
-  "SpeedYield": 0,
   "XPYield": 61,
   "ability2": "Limber",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 52,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Stockpile"
-    },
-    {
-      "move": "Swallow"
-    },
-    {
-      "move": "Spit Up"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Infestation"
-    }
-  ],
   "UltraMoonEntry": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.",
   "number": 747,
   "MoonEntry": "It's found crawling on beaches and seafloors. The coral that grows on Corsola's head is as good as a five-star banquet to this Pokémon.",
   "UltraSunEntry": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
+  "BrilliantDiamondEntry": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
   "AtkYield": 0,
   "abilityHidden": "Regenerator",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "5"
-    },
-    {
-      "move": "Bite",
-      "lvl": "10"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "15"
-    },
-    {
-      "move": "Recover",
-      "lvl": "20"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "25"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "30"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "35"
-    },
-    {
-      "move": "Venom Drench",
-      "lvl": "40"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "45"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "50"
-    }
-  ],
-  "DefYield": 1,
-  "type2": "Water",
-  "Def": 62,
+  "RedEntry": "Blob",
   "SpAtk": 43,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "0.4m",
+  "Speed": 45,
+  "type2": "Water",
+  "DefYield": 1,
+  "Def": 62,
   "ScarletEntry": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
-  "SpDef": 52,
   "weight": "8.0kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Poison",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "VioletEntry": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they're not suitable as food.",
+  "LetsGoPikachuEntry": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.",
+  "VioletEntry": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor�they're not suitable as food.",
   "name": "Mareanie",
   "Atk": 53,
   "SwordEntry": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",
-  "SpDefYield": 0,
   "category": "Brutal Star Pokémon",
   "HPYield": 0
 }

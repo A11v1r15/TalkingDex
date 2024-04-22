@@ -5,244 +5,42 @@
   "AlphaSapphireEntry": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
   "HP": 90,
   "SilverEntry": "This legendary bird Pokémon is said to bring early spring to the wintry lands it visits.",
-  "Speed": 90,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 85,
+  "SpeedYield": 0,
   "number": 146,
   "RedEntry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+  "LegendsArceusEntry": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring.",
+  "SpAtk": 125,
+  "SpAtkYield": 3,
   "height": "2.0m",
   "type2": "Flying",
   "WhiteEntry": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
-  "eggGroup2": "",
   "CrystalEntry": "Legendary bird Pokémon. It is said to migrate from the south along with the spring.",
   "weight": "60.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": true,
+  "SpDefYield": 0,
   "BlueEntry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
   "GoldEntry": "This legendary Pokémon scatters embers with every flap of its wings. It is a thrilling sight to behold.",
   "SapphireEntry": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
-  "hasAlolan": false,
-  "SpAtkYield": 3,
   "LetsGoPikachuEntry": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
   "DiamondEntry": "One of the legendary bird Pokémon. It is said that spring will soon arrive if Moltres shows itself.",
   "name": "Moltres",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
-  "extraMega": false,
   "HearthGoldEntry": "This legendary Pokémon scatters embers with every flap of its wings. It is a thrilling sight to behold.",
   "YEntry": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
-  "SpeedYield": 0,
+  "SunEntry": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
   "XPYield": 290,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.",
   "BrilliantDiamondEntry": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring.",
   "AtkYield": 0,
   "PlatinumEntry": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
   "abilityHidden": "Marvel Scale",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "5"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "10"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "30"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "35"
-    },
-    {
-      "move": "Roost",
-      "lvl": "40"
-    },
-    {
-      "move": "Heat Wave",
-      "lvl": "45"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "50"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "55"
-    },
-    {
-      "move": "Endure",
-      "lvl": "60"
-    },
-    {
-      "move": "Burn Up",
-      "lvl": "65"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "70"
-    }
-  ],
+  "Speed": 90,
   "DefYield": 0,
   "Def": 90,
-  "SpAtk": 125,
-  "SpDef": 85,
   "RubyEntry": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
   "BlackEntry": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
   "OmegaRubyEntry": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",

@@ -5,204 +5,42 @@
   "AlphaSapphireEntry": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
   "HP": 60,
   "SilverEntry": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
-  "Speed": 40,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 75,
+  "SpeedYield": 0,
   "number": 44,
   "RedEntry": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+  "LegendsArceusEntry": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.",
+  "SpAtk": 85,
+  "SpAtkYield": 2,
   "height": "0.8m",
   "type2": "Poison",
   "WhiteEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-  "eggGroup2": "",
   "CrystalEntry": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
   "weight": "8.6kg",
   "eggGroup1": "Grass",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
   "GoldEntry": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
   "SapphireEntry": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drips even more of its honey.",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "LetsGoPikachuEntry": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
   "DiamondEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
   "name": "Gloom",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
-  "extraMega": false,
   "HearthGoldEntry": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
   "YEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
-  "SpeedYield": 0,
+  "SunEntry": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
   "XPYield": 138,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
   "BrilliantDiamondEntry": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.",
   "AtkYield": 0,
   "PlatinumEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
   "abilityHidden": "Stench",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "14"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "16"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "18"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "20"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "26"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "32"
-    },
-    {
-      "move": "Grassy Terrain",
-      "lvl": "38"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "44"
-    },
-    {
-      "move": "Petal Dance",
-      "lvl": "50"
-    }
-  ],
+  "Speed": 40,
   "DefYield": 0,
   "Def": 70,
-  "SpAtk": 85,
-  "SpDef": 75,
   "RubyEntry": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
   "BlackEntry": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
   "OmegaRubyEntry": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",

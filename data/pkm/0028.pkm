@@ -5,308 +5,44 @@
   "AlphaSapphireEntry": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
   "HP": 75,
   "SilverEntry": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
-  "Speed": 65,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 55,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Thanks to its thick claws, it's good at climbing trees. There are plenty of Sandslash that park themselves in trees and go right to sleep.",
   "number": 28,
   "MoonEntry": "It uses its claws to climb trees and then curls its body into a spiny ball, ready to drop onto any prey that appears.",
   "UltraSunEntry": "Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.",
   "RedEntry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+  "LegendsArceusEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+  "SpAtk": 45,
+  "SpAtkYield": 0,
   "height": "1.0m",
-  "type2": "",
   "WhiteEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
-  "eggGroup2": "",
   "CrystalEntry": "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.",
   "weight": "29.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
   "GoldEntry": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
   "SapphireEntry": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
-  "hasAlolan": true,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
   "DiamondEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
   "name": "Sandslash",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
-  "extraMega": false,
   "HearthGoldEntry": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
   "YEntry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-  "SpeedYield": 0,
   "SunEntry": "Although they are sharp, its claws and spikes often break off. They grow back the next day, so it is not bothered by the temporary loss.",
   "XPYield": 158,
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
   "BrilliantDiamondEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
   "AtkYield": 0,
   "PlatinumEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
   "abilityHidden": "Sand Rush",
-  "lvlUpMoves": [
-    {
-      "move": "Crush Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "9"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "12"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "15"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "18"
-    },
-    {
-      "move": "Swift",
-      "lvl": "21"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "26"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "31"
-    },
-    {
-      "move": "Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Dig",
-      "lvl": "41"
-    },
-    {
-      "move": "Gyro Ball",
-      "lvl": "46"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "51"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "56"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "61"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 2,
   "Def": 110,
-  "SpAtk": 45,
-  "SpDef": 55,
   "RubyEntry": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
   "BlackEntry": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
   "OmegaRubyEntry": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",

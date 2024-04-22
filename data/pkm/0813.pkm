@@ -1,234 +1,31 @@
 {
   "ShieldEntry": "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.",
-  "extraMega": false,
   "ability1": "Blaze",
   "HP": 50,
-  "Speed": 69,
-  "SpeedYield": 1,
   "XPYield": 62,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Blaze Kick",
-      "technical": "TR41"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 1,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "High Jump Kick"
-    },
-    {
-      "move": "Sand Attack"
-    },
-    {
-      "move": "Sucker Punch"
-    },
-    {
-      "move": "Super Fang"
-    }
-  ],
   "number": 813,
+  "BrilliantDiamondEntry": "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.",
   "AtkYield": 0,
   "abilityHidden": "Libero",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "6"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "8"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "12"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": "17"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Counter",
-      "lvl": "28"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "32"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "36"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 40,
+  "RedEntry": "Upright",
   "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 69,
+  "DefYield": 0,
+  "Def": 40,
   "eggGroup2": "Human-Like",
-  "SpDef": 40,
   "weight": "4.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "White",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Scorbunny",
   "Atk": 71,
   "SwordEntry": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
-  "SpDefYield": 0,
   "category": "Rabbit Pokémon",
   "HPYield": 0
 }

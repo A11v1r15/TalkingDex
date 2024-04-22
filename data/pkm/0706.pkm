@@ -1,311 +1,42 @@
 {
   "ShieldEntry": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
-  "extraMega": false,
   "ability1": "Sap Sipper",
   "YEntry": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
   "AlphaSapphireEntry": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
   "HP": 90,
   "SunEntry": "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
-  "Speed": 80,
-  "SpeedYield": 0,
   "XPYield": 300,
   "ability2": "Hydration",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 150,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "XEntry": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
   "UltraMoonEntry": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.",
   "number": 706,
   "MoonEntry": "It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
   "UltraSunEntry": "It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.",
+  "BrilliantDiamondEntry": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
   "AtkYield": 0,
   "abilityHidden": "Gooey",
-  "height": "2.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Aqua Tail",
-      "lvl": "0"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid Spray",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Tail",
-      "lvl": "1"
-    },
-    {
-      "move": "Tearful Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "15"
-    },
-    {
-      "move": "Flail",
-      "lvl": "20"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "25"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "30"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Curse",
-      "lvl": "43"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "49"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "58"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "67"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 70,
+  "RedEntry": "Upright",
   "SpAtk": 110,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "2.0m",
+  "Speed": 80,
+  "DefYield": 0,
+  "Def": 70,
   "ScarletEntry": "It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.",
-  "SpDef": 150,
   "weight": "150.5kg",
   "eggGroup1": "Dragon",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
   "OmegaRubyEntry": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+  "SpDefYield": 3,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off.",
   "VioletEntry": "This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying.",
   "name": "Goodra",
   "Atk": 100,
   "SwordEntry": "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.",
-  "SpDefYield": 3,
   "category": "Dragon Pokémon",
   "HPYield": 0
 }

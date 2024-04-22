@@ -1,197 +1,31 @@
 {
   "ShieldEntry": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "5"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "10"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "25"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "30"
-    },
-    {
-      "move": "Heal Pulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "41"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "45"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "50"
-    },
-    {
-      "move": "Healing Wish",
-      "lvl": "55"
-    }
-  ],
   "ability1": "Run Away",
-  "type2": "",
-  "eggGroup2": "",
-  "Speed": 90,
   "HP": 50,
-  "eggGroup1": "Field",
+  "XPYield": 1,
   "ability2": "Pastel Veil",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    }
-  ],
-  "type1": "Psychic",
+  "SpDef": 65,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "Def": 55,
-  "eggMoves": [
-    {"move": "Double-Edge"},
-    {"move": "Double Kick"},
-    {"move": "Horn Drill"},
-    {"move": "Hypnosis"},
-    {"move": "Morning Sun"},
-    {"move": "Thrash"}
-  ],
   "number": 77,
+  "BrilliantDiamondEntry": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
+  "AtkYield": 0,
+  "abilityHidden": "Anticipation",
+  "RedEntry": "Quadruped",
   "SpAtk": 65,
+  "SpAtkYield": 0,
+  "height": "24.0kg",
+  "Speed": 90,
+  "DefYield": 0,
+  "Def": 55,
+  "weight": "0.8m",
+  "eggGroup1": "Field",
+  "type1": "Psychic",
+  "SpDefYield": 0,
+  "colour": "White",
   "name": "Galarian Ponyta",
   "Atk": 85,
   "SwordEntry": "Its small horn hides a healing power. With a few rubs from this Pokémon's horn, any slight wound you have will be healed.",
-  "abilityHidden": "Anticipation",
-  "SpDef": 65,
-  "category": "Unique Horn Pokémon"
+  "category": "Unique Horn Pokémon",
+  "HPYield": 82
 }

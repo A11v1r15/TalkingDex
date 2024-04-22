@@ -1,293 +1,43 @@
 {
   "ShieldEntry": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
-  "extraMega": false,
   "ability1": "Frisk",
   "YEntry": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
   "AlphaSapphireEntry": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
   "HP": 85,
-  "Speed": 123,
-  "SpeedYield": 2,
+  "SunEntry": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
   "XPYield": 187,
   "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 80,
+  "SpeedYield": 2,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
   "UltraMoonEntry": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
   "number": 715,
   "UltraSunEntry": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+  "BrilliantDiamondEntry": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "height": "1.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Dragon Pulse",
-      "lvl": "0"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Moonlight",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "12"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "24"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "28"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "32"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Roost",
-      "lvl": "44"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "51"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "56"
-    },
-    {
-      "move": "Boomburst",
-      "lvl": "62"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Dragon",
-  "Def": 80,
+  "RedEntry": "Wings",
   "SpAtk": 97,
+  "SpAtkYield": 0,
+  "height": "1.5m",
+  "Speed": 123,
+  "type2": "Dragon",
+  "DefYield": 0,
+  "Def": 80,
   "eggGroup2": "Dragon",
   "ScarletEntry": "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pokémon has a cruel disposition.",
-  "SpDef": 80,
   "weight": "85.0kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Flying",
-  "hasGalarian": false,
   "OmegaRubyEntry": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+  "SpDefYield": 0,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
   "VioletEntry": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
   "name": "Noivern",
   "Atk": 70,
   "SwordEntry": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
-  "SpDefYield": 0,
   "category": "Sound Wave Pokémon",
   "HPYield": 0
 }

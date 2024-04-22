@@ -1,225 +1,38 @@
 {
   "ShieldEntry": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
-  "extraMega": false,
   "ability1": "Keen Eye",
   "HP": 45,
   "SunEntry": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
-  "Speed": 60,
-  "SpeedYield": 0,
   "XPYield": 56,
   "ability2": "Vital Spirit",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Endeavor"
-    },
-    {
-      "move": "Last Resort"
-    }
-  ],
   "UltraMoonEntry": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
   "number": 744,
   "MoonEntry": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
   "UltraSunEntry": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+  "BrilliantDiamondEntry": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.",
   "AtkYield": 1,
   "abilityHidden": "Steadfast",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "4"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "8"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "12"
-    },
-    {
-      "move": "Howl",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Rock Tomb",
-      "lvl": "24"
-    },
-    {
-      "move": "Roar",
-      "lvl": "28"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "32"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "36"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "40"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "44"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 40,
+  "RedEntry": "Quadruped",
   "SpAtk": 30,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 60,
+  "DefYield": 0,
+  "Def": 40,
   "ScarletEntry": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
-  "SpDef": 40,
   "weight": "9.2kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
   "VioletEntry": "This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck.",
   "name": "Rockruff",
   "Atk": 65,
   "SwordEntry": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
-  "SpDefYield": 0,
   "category": "Puppy Pokémon",
   "HPYield": 0
 }

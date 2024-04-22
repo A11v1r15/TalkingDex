@@ -4,331 +4,42 @@
   "AlphaSapphireEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
   "HP": 65,
   "SilverEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-  "Speed": 85,
   "ability2": "Swift Swim",
-  "eggMoves": [
-    {
-      "move": "Flail"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Bubble Beam"
-    },
-    {
-      "move": "Supersonic"
-    },
-    {
-      "move": "Astonish"
-    },
-    {
-      "move": "Aqua Jet"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Acid Spray"
-    }
-  ],
+  "SpDef": 55,
+  "SpeedYield": 0,
   "number": 211,
+  "RedEntry": "Fish",
+  "LegendsArceusEntry": "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "0.5m",
   "type2": "Poison",
   "WhiteEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
-  "eggGroup2": "",
-  "ScarletEntry": "Be cautious if this Pokémon starts sucking in water—it will soon attack by scattering the toxic spikes that grow all over its body.",
+  "ScarletEntry": "Be cautious if this Pokémon starts sucking in water\u2014it will soon attack by scattering the toxic spikes that grow all over its body.",
   "CrystalEntry": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
   "weight": "3.9kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
   "SapphireEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
   "name": "Qwilfish",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-  "extraMega": false,
   "HearthGoldEntry": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
   "YEntry": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
-  "SpeedYield": 0,
+  "SunEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
   "XPYield": 88,
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water at once.",
   "BrilliantDiamondEntry": "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.",
   "AtkYield": 1,
   "PlatinumEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
   "abilityHidden": "Intimidate",
-  "lvlUpMoves": [
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "4"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "8"
-    },
-    {
-      "move": "Fell Stinger",
-      "lvl": "12"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "16"
-    },
-    {
-      "move": "Spikes",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "28"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "32"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "36"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "40"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "44"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "44"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "48"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "52"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "56"
-    },
-    {
-      "move": "Acupressure",
-      "lvl": "60"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "66"
-    }
-  ],
+  "Speed": 85,
   "DefYield": 0,
   "Def": 85,
-  "SpAtk": 55,
-  "SpDef": 55,
   "RubyEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
   "BlackEntry": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
   "OmegaRubyEntry": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",

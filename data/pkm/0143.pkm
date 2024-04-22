@@ -5,441 +5,45 @@
   "AlphaSapphireEntry": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
   "HP": 160,
   "SilverEntry": "Its stomach's digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
-  "Speed": 30,
-  "ability2": "",
-  "eggMoves": [
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Fissure"
-    },
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Gastro Acid"
-    }
-  ],
+  "SpDef": 110,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It has no interest in anything other than eating. Even if you climb up on its stomach while it's napping, it doesn't seem to mind at all!",
   "number": 143,
-  "MoonEntry": "It eats nearly 900 pounds of food every day. It starts nodding off while eating—and continues to eat even while it's asleep.",
+  "MoonEntry": "It eats nearly 900 pounds of food every day. It starts nodding off while eating\u2014and continues to eat even while it's asleep.",
   "UltraSunEntry": "It doesn't do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
   "RedEntry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
   "LegendsArceusEntry": "This glutton appears in villages without warning and devours the entirety of their rice granaries-such occurrences have long been counted among the gravest of disasters.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "2.1m",
-  "type2": "",
   "WhiteEntry": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
-  "eggGroup2": "",
+  "ScarletEntry": "This glutton appears in villages without warning and devours the entirety of their rice granaries-such occurrences have long been counted among the gravest of disasters.",
   "CrystalEntry": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
   "weight": "460.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
   "GoldEntry": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
   "SapphireEntry": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
   "DiamondEntry": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
   "name": "Snorlax",
-  "SpDefYield": 0,
   "HPYield": 2,
   "ShieldEntry": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
-  "extraMega": false,
   "HearthGoldEntry": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
   "YEntry": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
-  "SpeedYield": 0,
   "SunEntry": "Its stomach is said to be incomparably strong. Even Muk's poison is nothing more than a hint of spice on Snorlax's tongue.",
   "XPYield": 189,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    },
-    {
-      "move": "Darkest Lariat",
-      "technical": "TR93"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": true,
   "xpGroup": "Slow",
   "XEntry": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
   "BrilliantDiamondEntry": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
   "AtkYield": 0,
   "PlatinumEntry": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
   "abilityHidden": "Snow Cloak",
-  "lvlUpMoves": [
-    {
-      "move": "Recycle",
-      "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "1"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "1"
-    },
-    {
-      "move": "Screech",
-      "lvl": "1"
-    },
-    {
-      "move": "Fling",
-      "lvl": "1"
-    },
-    {
-      "move": "Metronome",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "1"
-    },
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Block",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Rest",
-      "lvl": "20"
-    },
-    {
-      "move": "Snore",
-      "lvl": "20"
-    },
-    {
-      "move": "Sleep Talk",
-      "lvl": "20"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "24"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "28"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "32"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "36"
-    },
-    {
-      "move": "High Horsepower",
-      "lvl": "40"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "44"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "48"
-    },
-    {
-      "move": "Belch",
-      "lvl": "52"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "56"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 65,
-  "SpDef": 110,
   "RubyEntry": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
   "BlackEntry": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
   "OmegaRubyEntry": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",

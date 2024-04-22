@@ -1,325 +1,46 @@
 {
+  "HearthGoldEntry": "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.",
   "ability1": "Pressure",
+  "YEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
   "AlphaSapphireEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
   "HP": 90,
-  "Speed": 100,
-  "ability2": "",
-  "eggMoves": [],
-  "number": 484,
-  "LegendsArceusEntry": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
-  "height": "4.2m",
-  "type2": "Dragon",
-  "WhiteEntry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.",
-  "eggGroup2": "",
-  "weight": "336.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Water",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 3,
-  "DiamondEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
-  "name": "Palkia",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
-  "HearthGoldEntry": "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.",
-  "YEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
-  "SpeedYield": 0,
+  "SunEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
   "XPYield": 340,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 120,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+  "number": 484,
   "BrilliantDiamondEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
   "AtkYield": 0,
   "PlatinumEntry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.",
   "abilityHidden": "Telepathy",
-  "lvlUpMoves": [
-    {
-      "move": "Scary Face",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "8"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "32"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "40"
-    },
-    {
-      "move": "Aura Sphere",
-      "lvl": "48"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "56"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "64"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "72"
-    },
-    {
-      "move": "Spacial Rend",
-      "lvl": "80"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "88"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 100,
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
   "SpAtk": 150,
-  "SpDef": 120,
+  "SpAtkYield": 3,
+  "height": "4.2m",
+  "Speed": 100,
+  "type2": "Dragon",
+  "DefYield": 0,
+  "WhiteEntry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.",
+  "Def": 100,
+  "ScarletEntry": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
+  "weight": "336.0kg",
+  "eggGroup1": "Undiscovered",
+  "type1": "Water",
   "BlackEntry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.",
   "OmegaRubyEntry": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+  "SpDefYield": 0,
   "colour": "Purple",
+  "DiamondEntry": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
   "SoulsilverEntry": "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.",
+  "name": "Palkia",
   "Atk": 120,
   "White2Entry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "It is said to live in a gap in the spatial dimension parallel to ours. Palkia appears in mythology.",
   "PearlEntry": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
   "category": "Spatial Pokémon",
+  "HPYield": 0,
   "Black2Entry": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath."
 }

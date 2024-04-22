@@ -1,314 +1,48 @@
 {
   "EmeraldEntry": "Its toughened hind legs enable it to stand upright. Because it weakens if its skin dries out, it replenishes fluids by playing in mud.",
   "ability1": "Torrent",
-  "AlphaSapphireEntry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
+  "AlphaSapphireEntry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon\u2019s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
   "HP": 70,
-  "Speed": 50,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 70,
+  "SpeedYield": 0,
   "number": 259,
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+  "SpAtk": 60,
+  "SpAtkYield": 0,
   "height": "0.7m",
   "type2": "Ground",
   "WhiteEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "eggGroup2": "Water 1",
   "weight": "28.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon's hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "name": "Marshtomp",
-  "SpDefYield": 0,
   "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
   "HearthGoldEntry": "Living on muddy ground that provides poor footing has made its legs sturdy.",
   "YEntry": "Living on muddy ground that provides poor footing has made its legs sturdy.",
-  "SpeedYield": 0,
+  "SunEntry": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon�s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
   "XPYield": 142,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "BrilliantDiamondEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "AtkYield": 2,
   "PlatinumEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "abilityHidden": "Damp",
-  "lvlUpMoves": [
-    {
-      "move": "Mud Shot",
-      "lvl": "0"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "1"
-    },
-    {
-      "move": "Surf",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "9"
-    },
-    {
-      "move": "Protect",
-      "lvl": "12"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "15"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "20"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "25"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "30"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "35"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "40"
-    },
-    {
-      "move": "Screech",
-      "lvl": "45"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "50"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 0,
   "Def": 70,
-  "SpAtk": 60,
-  "SpDef": 70,
   "RubyEntry": "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
   "BlackEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
-  "OmegaRubyEntry": "The surface of Marshtomp’s body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
+  "OmegaRubyEntry": "The surface of Marshtomp\u2019s body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
   "colour": "Blue",
   "SoulsilverEntry": "Living on muddy ground that provides poor footing has made its legs sturdy.",
   "FireRedEntry": "It is at its best when on muddy ground with poor footing. It quickly overwhelms foes struggling in mud.",
   "Atk": 85,
   "White2Entry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "PearlEntry": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
   "category": "Mud Fish Pokémon",

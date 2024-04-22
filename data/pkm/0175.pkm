@@ -4,309 +4,41 @@
   "AlphaSapphireEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon then stores up feelings of happiness inside its shell, then shares them with others.",
   "HP": 35,
   "SilverEntry": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
-  "Speed": 20,
   "ability2": "Serene Grace",
-  "eggMoves": [
-    {
-      "move": "Present"
-    },
-    {
-      "move": "Peck"
-    },
-    {
-      "move": "Psycho Shift"
-    },
-    {
-      "move": "Extrasensory"
-    },
-    {
-      "move": "Morning Sun"
-    },
-    {
-      "move": "Aerial Ace"
-    }
-  ],
+  "SpDef": 65,
+  "SpeedYield": 0,
   "number": 175,
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.3m",
-  "type2": "",
   "WhiteEntry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
-  "eggGroup2": "",
+  "ScarletEntry": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
   "CrystalEntry": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
   "weight": "1.5kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Fairy",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "GoldEntry": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
   "SapphireEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
   "name": "Togepi",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
-  "extraMega": false,
   "HearthGoldEntry": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
   "YEntry": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
-  "SpeedYield": 0,
+  "SunEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon then stores up feelings of happiness inside its shell, then shares them with others.",
   "XPYield": 49,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
   "BrilliantDiamondEntry": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
   "AtkYield": 0,
   "PlatinumEntry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
   "abilityHidden": "Super Luck",
-  "lvlUpMoves": [
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Sweet Kiss",
-      "lvl": "4"
-    },
-    {
-      "move": "Life Dew",
-      "lvl": "8"
-    },
-    {
-      "move": "Charm",
-      "lvl": "12"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "20"
-    },
-    {
-      "move": "Metronome",
-      "lvl": "24"
-    },
-    {
-      "move": "After You",
-      "lvl": "28"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "32"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "36"
-    },
-    {
-      "move": "Follow Me",
-      "lvl": "40"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "44"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "48"
-    },
-    {
-      "move": "Wish",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 20,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 40,
-  "SpDef": 65,
   "RubyEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
   "BlackEntry": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
   "OmegaRubyEntry": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon then stores up feelings of happiness inside its shell, then shares them with others.",

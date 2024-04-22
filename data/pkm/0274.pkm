@@ -3,311 +3,40 @@
   "ability1": "Chlorophyll",
   "AlphaSapphireEntry": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
   "HP": 70,
-  "Speed": 60,
   "ability2": "Early Bird",
-  "eggMoves": [],
+  "SpDef": 40,
+  "SpeedYield": 0,
   "number": 274,
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest.",
+  "SpAtk": 60,
+  "SpAtkYield": 0,
   "height": "1.0m",
   "type2": "Dark",
   "WhiteEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "eggGroup2": "Grass",
   "weight": "28.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "name": "Nuzleaf",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "They live in holes bored in large trees. The sound of Nuzleaf's grass flute fills listeners with dread.",
-  "extraMega": false,
   "HearthGoldEntry": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
   "YEntry": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
-  "SpeedYield": 0,
+  "SunEntry": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
   "XPYield": 119,
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "BrilliantDiamondEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest.",
   "AtkYield": 2,
   "PlatinumEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "abilityHidden": "Pickpocket",
-  "lvlUpMoves": [
-    {
-      "move": "Razor Leaf",
-      "lvl": "0"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "1"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Torment",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "1"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "1"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "9"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "12"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "18"
-    },
-    {
-      "move": "Payback",
-      "lvl": "24"
-    },
-    {
-      "move": "Nature Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "36"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "43"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "50"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "57"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 40,
-  "SpAtk": 60,
-  "SpDef": 40,
   "RubyEntry": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to scare people. This Pokémon dislikes having its long nose pinched.",
   "BlackEntry": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
   "OmegaRubyEntry": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched.",

@@ -1,276 +1,39 @@
 {
   "ShieldEntry": "They train in groups of five. Any member that can't keep up will discard its belt and leave the group.",
-  "extraMega": false,
   "ability1": "Guts",
   "YEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "AlphaSapphireEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "HP": 120,
-  "Speed": 45,
-  "SpeedYield": 0,
+  "SunEntry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "XPYield": 163,
   "ability2": "Inner Focus",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 85,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
   "number": 538,
+  "BrilliantDiamondEntry": "They train in groups of five. Any member that can't keep up will discard its belt and leave the group.",
   "AtkYield": 0,
   "abilityHidden": "Mold Breaker",
+  "RedEntry": "Humanoid",
+  "SpAtk": 30,
+  "SpAtkYield": 0,
   "height": "1.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Bind",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "5"
-    },
-    {
-      "move": "Circle Throw",
-      "lvl": "10"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "15"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "20"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "25"
-    },
-    {
-      "move": "Storm Throw",
-      "lvl": "30"
-    },
-    {
-      "move": "Vital Throw",
-      "lvl": "35"
-    },
-    {
-      "move": "Seismic Toss",
-      "lvl": "40"
-    },
-    {
-      "move": "Endure",
-      "lvl": "45"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "50"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 45,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
   "Def": 85,
-  "SpAtk": 30,
-  "eggGroup2": "",
-  "SpDef": 85,
   "weight": "55.5kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
   "BlackEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
   "OmegaRubyEntry": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Throh",
   "Atk": 100,
   "White2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
   "SwordEntry": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.",
-  "SpDefYield": 0,
   "category": "Judo Pokémon",
   "HPYield": 2,
   "Black2Entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."

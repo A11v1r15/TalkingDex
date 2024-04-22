@@ -2,292 +2,41 @@
   "ability1": "Snow Cloak",
   "AlphaSapphireEntry": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
   "HP": 65,
-  "Speed": 65,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 95,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey.",
   "number": 471,
   "MoonEntry": "It freezes its fur into icicles, spiky and sharp, and tackles its prey.",
-  "UltraSunEntry": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below –75 degrees Fahrenheit.",
+  "UltraSunEntry": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below \u201375 degrees Fahrenheit.",
+  "RedEntry": "Quadruped",
   "LegendsArceusEntry": "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around.",
+  "SpAtk": 130,
+  "SpAtkYield": 2,
   "height": "0.8m",
-  "type2": "",
   "WhiteEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
-  "eggGroup2": "",
   "ScarletEntry": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
   "weight": "25.9kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ice",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 2,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey.",
   "DiamondEntry": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
   "name": "Glaceon",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
-  "extraMega": false,
   "HearthGoldEntry": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
   "YEntry": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
-  "SpeedYield": 0,
   "SunEntry": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
   "XPYield": 184,
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Icicle Speedar",
-      "technical": "TM51"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "BrilliantDiamondEntry": "As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles.",
   "AtkYield": 0,
   "PlatinumEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "abilityHidden": "Ice Body",
-  "lvlUpMoves": [
-    {
-      "move": "Icy Wind",
-      "lvl": "0"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Covet",
-      "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Charm",
-      "lvl": "1"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "5"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "10"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "15"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "20"
-    },
-    {
-      "move": "Bite",
-      "lvl": "25"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "30"
-    },
-    {
-      "move": "Hail",
-      "lvl": "35"
-    },
-    {
-      "move": "Freeze-Dry",
-      "lvl": "40"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "45"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "50"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 0,
   "Def": 110,
-  "SpAtk": 130,
-  "SpDef": 95,
   "BlackEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "OmegaRubyEntry": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
   "colour": "Blue",

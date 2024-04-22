@@ -5,303 +5,49 @@
   "AlphaSapphireEntry": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors.",
   "HP": 60,
   "SilverEntry": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
-  "Speed": 115,
   "ability2": "Natural Cure",
-  "eggMoves": [],
+  "SpDef": 85,
+  "SpeedYield": 2,
   "UltraMoonEntry": "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
   "number": 121,
   "MoonEntry": "Its unusual body shape, reminiscent of abstract art, led local people to spread rumors that this Pokémon may be an invader from outer space.",
-  "UltraSunEntry": "Its sparkling core is called “the gem of the sea.” This core can be made into high-priced accessories that are traded in secret.",
+  "UltraSunEntry": "Its sparkling core is called \u201cthe gem of the sea.\u201d This core can be made into high-priced accessories that are traded in secret.",
   "RedEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+  "LegendsArceusEntry": "At the center of its body is a red core that sends mysterious radio signals into the night sky.",
+  "SpAtk": 100,
+  "SpAtkYield": 0,
   "height": "1.1m",
   "type2": "Psychic",
   "WhiteEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-  "eggGroup2": "",
   "CrystalEntry": "It is said that it uses the seven colored core of its body to send electric waves into outer space.",
   "weight": "80.0kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
   "GoldEntry": "The center section of its body is called the core. It glows in a different color each time it is seen.",
   "SapphireEntry": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "The center section is named the core. People think it is communicating when it glows in seven colors.",
   "DiamondEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
   "name": "Starmie",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
-  "extraMega": false,
   "HearthGoldEntry": "The center section of its body is called the core. It glows in a different color each time it is seen.",
   "YEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-  "SpeedYield": 2,
   "SunEntry": "Its shining core is thought to receive and transmit enigmatic signals. It has been known to cause headaches in those who approach it.",
   "XPYield": 182,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
   "BrilliantDiamondEntry": "At the center of its body is a red core that sends mysterious radio signals into the night sky.",
   "AtkYield": 0,
   "PlatinumEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
   "abilityHidden": "Analytic",
-  "lvlUpMoves": [
-    {
-      "move": "Rapid Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "1"
-    },
-    {
-      "move": "Brine",
-      "lvl": "1"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "1"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "1"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "1"
-    },
-    {
-      "move": "Surf",
-      "lvl": "1"
-    },
-    {
-      "move": "Recover",
-      "lvl": "1"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "1"
-    }
-  ],
+  "Speed": 115,
   "DefYield": 0,
   "Def": 85,
-  "SpAtk": 100,
-  "SpDef": 85,
-  "RubyEntry": "Starmie's center section - the core - glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\"",
+  "RubyEntry": "\"Starmie's center section - the core - glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"\"the gem of the sea.\"\"\"",
   "BlackEntry": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
-  "OmegaRubyEntry": "Starmie's center section-the core-glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\"",
+  "OmegaRubyEntry": "\"Starmie's center section-the core-glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"\"the gem of the sea.\"\"\"",
   "LetsGoEeveeEntry": "The center section is named the core. People think it is communicating when it glows in seven colors.",
   "colour": "Purple",
   "SoulsilverEntry": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",

@@ -1,283 +1,39 @@
 {
   "ShieldEntry": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
-  "extraMega": false,
   "ability1": "Guts",
   "YEntry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
   "AlphaSapphireEntry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
   "HP": 75,
-  "Speed": 35,
-  "SpeedYield": 0,
+  "SunEntry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
   "XPYield": 61,
   "ability2": "Sheer Force",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 35,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Detect"
-    },
-    {
-      "move": "Wide Guard"
-    },
-    {
-      "move": "Mach Punch"
-    },
-    {
-      "move": "Power"
-    },
-    {
-      "move": "Defog"
-    }
-  ],
   "XEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
   "number": 532,
+  "BrilliantDiamondEntry": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
   "AtkYield": 1,
   "abilityHidden": "Iron Fist",
+  "RedEntry": "Humanoid",
+  "SpAtk": 25,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "4"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "8"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "12"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "16"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "20"
-    },
-    {
-      "move": "Slam",
-      "lvl": "24"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "28"
-    },
-    {
-      "move": "Dynamic Punch",
-      "lvl": "32"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "36"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "40"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "44"
-    },
-    {
-      "move": "Focus Punch",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 35,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
   "Def": 55,
-  "SpAtk": 25,
-  "eggGroup2": "",
-  "SpDef": 35,
   "weight": "12.5kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
   "BlackEntry": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
   "OmegaRubyEntry": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Timburr",
   "Atk": 80,
   "White2Entry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
   "SwordEntry": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
-  "SpDefYield": 0,
   "category": "Muscular Pokémon",
   "HPYield": 0,
   "Black2Entry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."

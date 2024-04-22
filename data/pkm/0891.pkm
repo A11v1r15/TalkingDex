@@ -1,233 +1,29 @@
 {
   "ShieldEntry": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
-  "extraMega": false,
   "ability1": "Inner Focus",
   "HP": 60,
-  "Speed": 72,
-  "SpeedYield": 0,
   "XPYield": 77,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "eggMoves": [],
-  "number": 891,
-  "AtkYield": 1,
-  "abilityHidden": "",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Rock Smash",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Endure",
-      "lvl": "4"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "8"
-    },
-    {
-      "move": "Aerial Ace",
-      "lvl": "12"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "16"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "24"
-    },
-    {
-      "move": "Detect",
-      "lvl": "28"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "32"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "36"
-    },
-    {
-      "move": "Dynamic Punch",
-      "lvl": "40"
-    },
-    {
-      "move": "Counter",
-      "lvl": "44"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "48"
-    },
-    {
-      "move": "Focus Punch",
-      "lvl": "52"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 60,
-  "SpAtk": 53,
-  "eggGroup2": "",
   "SpDef": 50,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "number": 891,
+  "BrilliantDiamondEntry": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
+  "AtkYield": 1,
+  "RedEntry": "Upright",
+  "SpAtk": 53,
+  "SpAtkYield": 0,
+  "height": "0.6m",
+  "Speed": 72,
+  "DefYield": 0,
+  "Def": 60,
   "weight": "12.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Kubfu",
   "Atk": 90,
   "SwordEntry": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
-  "SpDefYield": 0,
   "category": "Wushu Pokémon",
   "HPYield": 0
 }

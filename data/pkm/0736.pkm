@@ -1,184 +1,34 @@
 {
   "ShieldEntry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
-  "extraMega": false,
   "ability1": "Swarm",
   "HP": 47,
   "SunEntry": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
-  "Speed": 46,
-  "SpeedYield": 0,
   "XPYield": 60,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 45,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Harden"
-    },
-    {
-      "move": "Discharge"
-    }
-  ],
   "UltraMoonEntry": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
   "number": 736,
   "MoonEntry": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
   "UltraSunEntry": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
+  "BrilliantDiamondEntry": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
   "AtkYield": 1,
-  "abilityHidden": "",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "5"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "10"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "21"
-    },
-    {
-      "move": "Sticky Web",
-      "lvl": "25"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "30"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "35"
-    },
-    {
-      "move": "Dig",
-      "lvl": "40"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 45,
+  "RedEntry": "Insectoid ",
   "SpAtk": 55,
-  "eggGroup2": "",
-  "SpDef": 45,
+  "SpAtkYield": 0,
+  "height": "0.4m",
+  "Speed": 46,
+  "DefYield": 0,
+  "Def": 45,
   "weight": "4.4kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
   "name": "Grubbin",
   "Atk": 62,
   "SwordEntry": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
-  "SpDefYield": 0,
   "category": "Larva Pokémon",
   "HPYield": 0
 }

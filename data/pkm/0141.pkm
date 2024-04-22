@@ -5,13 +5,16 @@
   "AlphaSapphireEntry": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
   "HP": 60,
   "SilverEntry": "With sharp claws, this ferocious, ancient Pokémon rips apart prey and sucks their body fluids.",
-  "Speed": 80,
   "ability2": "Pressure",
+  "SpDef": 70,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It swims at speeds of roughly 29 knots, quickly closing in on its prey and slashing into them with its scythes to finish them off.",
-  "eggMoves": [],
   "number": 141,
   "UltraSunEntry": "Its body had begun to change so it could function on land. But it didn't adapt in time and went extinct.",
   "RedEntry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+  "LegendsArceusEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "1.3m",
   "type2": "Water",
   "WhiteEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
@@ -19,304 +22,29 @@
   "CrystalEntry": "It was able to swim quickly through the water by compactly folding up its razor-sharp sickles.",
   "weight": "40.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
   "GoldEntry": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
   "SapphireEntry": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
   "DiamondEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
   "name": "Kabutops",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
-  "extraMega": false,
   "HearthGoldEntry": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
   "YEntry": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
-  "SpeedYield": 0,
+  "SunEntry": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
   "XPYield": 173,
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
   "BrilliantDiamondEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
   "AtkYield": 2,
   "PlatinumEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
   "abilityHidden": "Unnerve",
-  "lvlUpMoves": [
-    {
-      "move": "Slash",
-      "lvl": "0"
-    },
-    {
-      "move": "Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "15"
-    },
-    {
-      "move": "Leer",
-      "lvl": "20"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "25"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Brine",
-      "lvl": "35"
-    },
-    {
-      "move": "Protect",
-      "lvl": "43"
-    },
-    {
-      "move": "Leech Life",
-      "lvl": "49"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "56"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "63"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "70"
-    }
-  ],
+  "Speed": 80,
   "DefYield": 0,
   "Def": 105,
-  "SpAtk": 65,
-  "SpDef": 70,
   "RubyEntry": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
   "BlackEntry": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
   "OmegaRubyEntry": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",

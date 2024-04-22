@@ -1,314 +1,38 @@
 {
-  "ShieldEntry": "",
-  "extraMega": false,
   "ability1": "Prankster",
   "YEntry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
   "AlphaSapphireEntry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
   "HP": 79,
-  "Speed": 111,
-  "SpeedYield": 0,
+  "SunEntry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
   "XPYield": 290,
-  "ability2": "",
-  "title": "Incarnate Forme",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 80,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
-  "eggMoves": [],
   "number": 642,
   "AtkYield": 0,
   "abilityHidden": "Defiant",
+  "RedEntry": "Arms",
   "LegendsArceusEntry": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
+  "SpAtk": 125,
+  "SpAtkYield": 3,
   "height": "1.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "5"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "10"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "25"
-    },
-    {
-      "move": "Charge",
-      "lvl": "30"
-    },
-    {
-      "move": "Volt Switch",
-      "lvl": "35"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "40"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "45"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "50"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "55"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "60"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "65"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "70"
-    }
-  ],
-  "DefYield": 0,
+  "Speed": 111,
   "type2": "Flying",
+  "DefYield": 0,
   "WhiteEntry": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
   "Def": 70,
-  "SpAtk": 125,
-  "eggGroup2": "",
-  "SpDef": 80,
+  "ScarletEntry": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
   "weight": "61.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
   "BlackEntry": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
   "OmegaRubyEntry": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 3,
   "name": "Thundurus",
   "Atk": 115,
   "White2Entry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
-  "SwordEntry": "",
-  "SpDefYield": 0,
   "category": "Bolt Strike Pokémon",
   "HPYield": 0,
   "Black2Entry": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."

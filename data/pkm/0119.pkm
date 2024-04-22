@@ -5,240 +5,45 @@
   "AlphaSapphireEntry": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month.",
   "HP": 80,
   "SilverEntry": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-  "Speed": 68,
   "ability2": "Water Veil",
-  "eggMoves": [],
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "To attract females, males dance on the river's floor. The females gather around the male that dances most gracefully.",
   "number": 119,
   "MoonEntry": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
-  "UltraSunEntry": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
+  "UltraSunEntry": "Its horn spins like a drill to steadily hollow out rocks\u2014even harder ones. The coloration of the male is more vivid.",
   "RedEntry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+  "LegendsArceusEntry": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "1.3m",
-  "type2": "",
   "WhiteEntry": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
-  "eggGroup2": "",
   "CrystalEntry": "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
   "weight": "39.0kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
   "GoldEntry": "During spawning season, Seaking gather from all over, coloring the rivers a brilliant red.",
   "SapphireEntry": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
   "DiamondEntry": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
   "name": "Seaking",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
-  "extraMega": false,
   "HearthGoldEntry": "During spawning season, Seaking gather from all over, coloring the rivers a brilliant red.",
   "YEntry": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
-  "SpeedYield": 0,
   "SunEntry": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
   "XPYield": 158,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
   "BrilliantDiamondEntry": "It makes its nest by hollowing out boulders in streams with its horn. The Pokémon defends its eggs with its life.",
   "AtkYield": 2,
   "PlatinumEntry": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
   "abilityHidden": "Lightning Rod",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "25"
-    },
-    {
-      "move": "Flail",
-      "lvl": "30"
-    },
-    {
-      "move": "Waterfall",
-      "lvl": "37"
-    },
-    {
-      "move": "Soak",
-      "lvl": "44"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "51"
-    },
-    {
-      "move": "Horn Drill",
-      "lvl": "58"
-    }
-  ],
+  "Speed": 68,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 65,
-  "SpDef": 80,
   "RubyEntry": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
   "BlackEntry": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
   "OmegaRubyEntry": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",

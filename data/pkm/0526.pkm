@@ -1,241 +1,44 @@
 {
+  "ShieldEntry": "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
   "ability1": "Sturdy",
+  "YEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
   "AlphaSapphireEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
   "HP": 85,
-  "Speed": 25,
+  "SunEntry": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
+  "XPYield": 258,
   "ability2": "Sand Stream",
-  "eggMoves": [],
+  "SpDef": 80,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Slow",
+  "XEntry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
   "UltraMoonEntry": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.",
   "number": 526,
   "MoonEntry": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
   "UltraSunEntry": "When it fires off energy with all its might, the power creates countless fissures on its body.",
-  "height": "1.7m",
-  "type2": "",
-  "WhiteEntry": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
-  "eggGroup2": "",
-  "weight": "260.0kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Rock",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Gigalith",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.",
-  "extraMega": false,
-  "YEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
-  "SunEntry": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
-  "SpeedYield": 0,
-  "XPYield": 258,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Slow",
-  "XEntry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+  "BrilliantDiamondEntry": "Although its energy blasts can blow away a dump truck, they have a limitation� they can only be fired when the sun is out.",
   "AtkYield": 3,
   "abilityHidden": "Sand Force",
-  "lvlUpMoves": [
-    {
-      "move": "Power Gem",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Stealth Rock",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "12"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "16"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "30"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "36"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "42"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "48"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "54"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 130,
+  "RedEntry": "Tentacles",
   "SpAtk": 60,
-  "SpDef": 80,
+  "SpAtkYield": 0,
+  "height": "1.7m",
+  "Speed": 25,
+  "DefYield": 0,
+  "WhiteEntry": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
+  "Def": 130,
+  "weight": "260.0kg",
+  "eggGroup1": "Mineral",
+  "type1": "Rock",
   "BlackEntry": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
   "OmegaRubyEntry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+  "SpDefYield": 0,
   "colour": "Blue",
+  "LetsGoPikachuEntry": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.",
+  "name": "Gigalith",
   "Atk": 135,
   "White2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
   "SwordEntry": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
   "category": "Compressed Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."
 }

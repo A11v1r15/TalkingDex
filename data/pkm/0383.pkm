@@ -1,321 +1,48 @@
 {
+  "HearthGoldEntry": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
   "EmeraldEntry": "Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
   "ability1": "Drought",
-  "AlphaSapphireEntry": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
-  "HP": 100,
-  "Speed": 90,
-  "ability2": "",
-  "eggMoves": [],
-  "number": 383,
-  "height": "3.5m",
-  "type2": "",
-  "WhiteEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-  "eggGroup2": "",
-  "weight": "950.0kg",
-  "eggGroup1": "Undiscovered",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "SapphireEntry": "Groudon has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-  "name": "Groudon",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "",
-  "extraMega": false,
-  "HearthGoldEntry": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
   "YEntry": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
-  "SpeedYield": 0,
+  "AlphaSapphireEntry": "Through Primal Reversion and with nature\u2019s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+  "HP": 100,
+  "SunEntry": "Through Primal Reversion and with nature�s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
   "XPYield": 335,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 90,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+  "number": 383,
   "BrilliantDiamondEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "AtkYield": 3,
   "PlatinumEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Mud Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "1"
-    },
-    {
-      "move": "Lava Plume",
-      "lvl": "1"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "1"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "9"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "18"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "27"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "36"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "45"
-    },
-    {
-      "move": "Rest",
-      "lvl": "54"
-    },
-    {
-      "move": "Precipice Blades",
-      "lvl": "63"
-    },
-    {
-      "move": "Fire Blast",
-      "lvl": "72"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "81"
-    },
-    {
-      "move": "Eruption",
-      "lvl": "90"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 140,
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "SpAtk": 100,
-  "SpDef": 90,
+  "SpAtkYield": 0,
+  "height": "3.5m",
+  "Speed": 90,
+  "DefYield": 0,
+  "WhiteEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+  "Def": 140,
+  "weight": "950.0kg",
+  "eggGroup1": "Undiscovered",
   "RubyEntry": "Groudon has long been described in mythology as the Pokémon that raised lands and expanded continents. This Pokémon took to sleep after a cataclysmic battle with Kyogre.",
+  "type1": "Ground",
   "BlackEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "OmegaRubyEntry": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+  "SpDefYield": 0,
   "colour": "Red",
+  "SapphireEntry": "Groudon has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
+  "DiamondEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "SoulsilverEntry": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+  "name": "Groudon",
   "FireRedEntry": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
   "Atk": 150,
   "White2Entry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
-  "SwordEntry": "",
   "ShiningPearlEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "PearlEntry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
   "category": "Continent Pokémon",
   "LeafGreenEntry": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+  "HPYield": 0,
   "Black2Entry": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago."
 }

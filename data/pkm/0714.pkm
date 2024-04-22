@@ -1,260 +1,43 @@
 {
   "ShieldEntry": "No wavelength of sound is beyond Noibat's ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.",
-  "extraMega": false,
   "ability1": "Frisk",
   "YEntry": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
   "AlphaSapphireEntry": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
   "HP": 40,
-  "Speed": 55,
-  "SpeedYield": 1,
+  "SunEntry": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
   "XPYield": 49,
   "ability2": "Infiltrator",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 1,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Dragon Rush"
-    }
-  ],
   "XEntry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
   "UltraMoonEntry": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.",
   "number": 714,
   "UltraSunEntry": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.",
+  "BrilliantDiamondEntry": "No wavelength of sound is beyond Noibat's ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "4"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "8"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "12"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "24"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "28"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "32"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Roost",
-      "lvl": "44"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "49"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "52"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Dragon",
-  "Def": 35,
+  "RedEntry": "Wings",
   "SpAtk": 45,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 55,
+  "type2": "Dragon",
+  "DefYield": 0,
+  "Def": 35,
   "eggGroup2": "Dragon",
   "ScarletEntry": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
-  "SpDef": 40,
   "weight": "8.0kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Flying",
-  "hasGalarian": false,
   "OmegaRubyEntry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+  "SpDefYield": 0,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.",
   "VioletEntry": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
   "name": "Noibat",
   "Atk": 30,
   "SwordEntry": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",
-  "SpDefYield": 0,
   "category": "Sound Wave Pokémon",
   "HPYield": 0
 }

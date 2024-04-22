@@ -4,246 +4,45 @@
   "AlphaSapphireEntry": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
   "HP": 75,
   "SilverEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-  "Speed": 67,
   "ability2": "Illuminate",
-  "eggMoves": [
-    {
-      "move": "Psybeam"
-    },
-    {
-      "move": "Mist"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Soak"
-    }
-  ],
+  "SpDef": 56,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Chinchou blink their shining antennae at one another to claim their respective turf.",
   "number": 170,
   "MoonEntry": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
   "UltraSunEntry": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.",
+  "RedEntry": "Fish",
+  "LegendsArceusEntry": "It discharges positive and negative electricity from the tips of its antennae to shock its foes.",
+  "SpAtk": 56,
+  "SpAtkYield": 0,
   "height": "0.5m",
   "type2": "Electric",
   "WhiteEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
-  "eggGroup2": "",
   "CrystalEntry": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
   "weight": "12.0kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
   "SapphireEntry": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Chinchou blink their shining antennae at one another to claim their respective turf.",
   "DiamondEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
   "name": "Chinchou",
-  "SpDefYield": 0,
   "HPYield": 1,
   "ShieldEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
-  "extraMega": false,
   "HearthGoldEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
   "YEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-  "SpeedYield": 0,
   "SunEntry": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
   "XPYield": 66,
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
   "BrilliantDiamondEntry": "It discharges positive and negative electricity from the tips of its antennae to shock its foes.",
   "AtkYield": 0,
   "PlatinumEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
   "abilityHidden": "Water Absorb",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "4"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "8"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "12"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "16"
-    },
-    {
-      "move": "Spark",
-      "lvl": "20"
-    },
-    {
-      "move": "Charge",
-      "lvl": "24"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "28"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "32"
-    },
-    {
-      "move": "Flail",
-      "lvl": "36"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "40"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 67,
   "DefYield": 0,
   "Def": 38,
-  "SpAtk": 56,
-  "SpDef": 56,
   "RubyEntry": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
   "BlackEntry": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
   "OmegaRubyEntry": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",

@@ -1,205 +1,35 @@
 {
   "ShieldEntry": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
-  "extraMega": false,
   "ability1": "Battery",
   "HP": 57,
   "SunEntry": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
-  "Speed": 36,
-  "SpeedYield": 0,
   "XPYield": 140,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 75,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "UltraMoonEntry": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
   "number": 737,
   "MoonEntry": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
   "UltraSunEntry": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
+  "BrilliantDiamondEntry": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
   "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Charge",
-      "lvl": "0"
-    },
-    {
-      "move": "Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "23"
-    },
-    {
-      "move": "Sticky Web",
-      "lvl": "29"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "36"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "43"
-    },
-    {
-      "move": "Dig",
-      "lvl": "50"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "57"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "64"
-    }
-  ],
-  "DefYield": 2,
-  "type2": "Electric",
-  "Def": 95,
+  "RedEntry": "Squiggle",
   "SpAtk": 55,
-  "eggGroup2": "",
-  "SpDef": 75,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 36,
+  "type2": "Electric",
+  "DefYield": 2,
+  "Def": 95,
   "weight": "10.5kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
   "name": "Charjabug",
   "Atk": 82,
   "SwordEntry": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
-  "SpDefYield": 0,
   "category": "Battery Pokémon",
   "HPYield": 0
 }

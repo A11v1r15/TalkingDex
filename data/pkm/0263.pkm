@@ -3,265 +3,38 @@
   "ability1": "Pickup",
   "AlphaSapphireEntry": "The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
   "HP": 38,
-  "Speed": 60,
   "ability2": "Gluttony",
-  "eggMoves": [
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Simple Beam"
-    },
-    {
-      "move": "Extreme Speeded"
-    }
-  ],
+  "SpDef": 41,
+  "SpeedYield": 1,
   "number": 263,
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
+  "SpAtk": 30,
+  "SpAtkYield": 0,
   "height": "0.4m",
-  "type2": "",
   "WhiteEntry": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
-  "eggGroup2": "",
   "weight": "17.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": true,
+  "SpDefYield": 0,
   "SapphireEntry": "The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
   "name": "Zigzagoon",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you've lost something, this Pokémon can likely find it.",
-  "extraMega": false,
   "HearthGoldEntry": "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
   "YEntry": "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
-  "SpeedYield": 1,
+  "SunEntry": "The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
   "XPYield": 56,
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
   "BrilliantDiamondEntry": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
   "AtkYield": 0,
   "PlatinumEntry": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
   "abilityHidden": "Quick Feet",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "3"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "6"
-    },
-    {
-      "move": "Covet",
-      "lvl": "9"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "12"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "15"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "18"
-    },
-    {
-      "move": "Rest",
-      "lvl": "21"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Fling",
-      "lvl": "27"
-    },
-    {
-      "move": "Flail",
-      "lvl": "30"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "33"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "36"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 41,
-  "SpAtk": 30,
-  "SpDef": 41,
   "RubyEntry": "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.",
   "BlackEntry": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
   "OmegaRubyEntry": "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.",

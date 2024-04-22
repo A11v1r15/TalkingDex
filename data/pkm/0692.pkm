@@ -1,227 +1,40 @@
 {
   "ShieldEntry": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.",
-  "extraMega": false,
   "ability1": "Mega Launcher",
   "YEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
   "AlphaSapphireEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
   "HP": 50,
-  "Speed": 44,
-  "SpeedYield": 0,
+  "SunEntry": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
   "XPYield": 66,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Aura Sphere",
-      "technical": "TR56"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 63,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [
-    {
-      "move": "Entrainment"
-    },
-    {
-      "move": "Aqua Tail"
-    },
-    {
-      "move": "Bubble Beam"
-    }
-  ],
   "XEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
   "UltraMoonEntry": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it's terrible at swimming straight.",
   "number": 692,
   "UltraSunEntry": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
+  "BrilliantDiamondEntry": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.",
   "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "5"
-    },
-    {
-      "move": "Flail",
-      "lvl": "10"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "15"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "20"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "25"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "30"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "35"
-    },
-    {
-      "move": "Aura Sphere",
-      "lvl": "40"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "45"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "50"
-    },
-    {
-      "move": "Crabhammer",
-      "lvl": "55"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 62,
+  "RedEntry": "Insectoid ",
   "SpAtk": 58,
+  "SpAtkYield": 1,
+  "height": "0.5m",
+  "Speed": 44,
+  "DefYield": 0,
+  "Def": 62,
   "eggGroup2": "Water 3",
   "ScarletEntry": "This Pokémon launches water by detonating gas inside its right claw. It snipes flying Pokémon.",
-  "SpDef": 63,
   "weight": "8.3kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
   "OmegaRubyEntry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
+  "LetsGoPikachuEntry": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it's terrible at swimming straight.",
   "VioletEntry": "Clauncher's claws will regrow if they fall off. The meat inside the claws is edible, but it has a distinct flavor that doesn't appeal to all tastes.",
   "name": "Clauncher",
   "Atk": 53,
   "SwordEntry": "Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
-  "SpDefYield": 0,
   "category": "Water Gun Pokémon",
   "HPYield": 0
 }

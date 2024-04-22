@@ -1,218 +1,37 @@
 {
   "ShieldEntry": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
-  "extraMega": false,
   "ability1": "Water Bubble",
   "HP": 38,
   "SunEntry": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
-  "Speed": 27,
-  "SpeedYield": 0,
   "XPYield": 54,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 72,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Power Split"
-    },
-    {
-      "move": "Stockpile"
-    },
-    {
-      "move": "Spit Up"
-    },
-    {
-      "move": "Sticky Web"
-    }
-  ],
   "UltraMoonEntry": "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
   "number": 751,
   "MoonEntry": "When it comes across enemies or potential prey, this Pokémon smashes its water-bubble-covered head into them.",
   "UltraSunEntry": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.",
+  "BrilliantDiamondEntry": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
   "AtkYield": 0,
   "abilityHidden": "Water Absorb",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Infestation",
-      "lvl": "1"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "4"
-    },
-    {
-      "move": "Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "12"
-    },
-    {
-      "move": "Aqua Ring",
-      "lvl": "16"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "24"
-    },
-    {
-      "move": "Soak",
-      "lvl": "28"
-    },
-    {
-      "move": "Entrainment",
-      "lvl": "32"
-    },
-    {
-      "move": "Lunge",
-      "lvl": "36"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "40"
-    },
-    {
-      "move": "Leech Life",
-      "lvl": "44"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Bug",
-  "Def": 52,
+  "RedEntry": "Legs",
   "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 27,
+  "type2": "Bug",
+  "DefYield": 0,
+  "Def": 52,
   "eggGroup2": "Bug",
-  "SpDef": 72,
   "weight": "4.0kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
   "name": "Dewpider",
   "Atk": 40,
   "SwordEntry": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
-  "SpDefYield": 1,
   "category": "Water Bubble Pokémon",
   "HPYield": 0
 }

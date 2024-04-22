@@ -5,289 +5,47 @@
   "AlphaSapphireEntry": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from the small round organ above its eyes.",
   "HP": 40,
   "SilverEntry": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
-  "Speed": 70,
   "ability2": "Liquid Ooze",
-  "eggMoves": [
-    {
-      "move": "Acupressure"
-    },
-    {
-      "move": "Aqua Ring"
-    },
-    {
-      "move": "Aurora Beam"
-    },
-    {
-      "move": "Confuse Ray"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Mirror Coat"
-    },
-    {
-      "move": "Rapid Spin"
-    },
-    {
-      "move": "Tickle"
-    }
-  ],
+  "SpDef": 100,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Its body is 99% water. The remaining 1% contains the organ that makes its poison.",
   "number": 72,
   "MoonEntry": "It drifts in shallow seas, such as the areas near beaches. If you get bitten or stabbed by its toxic tentacles, rush to the hospital.",
   "UltraSunEntry": "It drifts through the sea searching for prey. Its poisonous tentacles break off sometimes, but after a while, they grow back.",
   "RedEntry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
   "LegendsArceusEntry": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "0.9m",
   "type2": "Poison",
   "WhiteEntry": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
-  "eggGroup2": "",
+  "ScarletEntry": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated.",
   "CrystalEntry": "As it floats along on the waves, it uses its toxic feelers to stab anything it touches.",
   "weight": "45.5kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "BlueEntry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
   "GoldEntry": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
   "SapphireEntry": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from its crystal-like eyes.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
   "DiamondEntry": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
   "name": "Tentacool",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
-  "extraMega": false,
   "HearthGoldEntry": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
   "YEntry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
-  "SpeedYield": 0,
   "SunEntry": "They can be found lying dehydrated on beaches, but they are often still alive. When soaked in water, they will revive.",
   "XPYield": 67,
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
   "BrilliantDiamondEntry": "Its body is mostly composed of water. It shoots strange beams from its crystal-like eyes.",
   "AtkYield": 0,
   "PlatinumEntry": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
   "abilityHidden": "Rain Dish",
-  "lvlUpMoves": [
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "4"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "8"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "12"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "16"
-    },
-    {
-      "move": "Screech",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "24"
-    },
-    {
-      "move": "Hex",
-      "lvl": "28"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "32"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "36"
-    },
-    {
-      "move": "Surf",
-      "lvl": "40"
-    },
-    {
-      "move": "Sludge Wave",
-      "lvl": "44"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 70,
   "DefYield": 0,
   "Def": 35,
-  "SpAtk": 50,
-  "SpDef": 100,
   "RubyEntry": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
   "BlackEntry": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
   "OmegaRubyEntry": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",

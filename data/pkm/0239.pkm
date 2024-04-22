@@ -4,258 +4,44 @@
   "AlphaSapphireEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
   "HP": 45,
   "SilverEntry": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky.",
-  "Speed": 95,
-  "ability2": "",
+  "SpDef": 55,
+  "SpeedYield": 1,
   "UltraMoonEntry": "When its horns shine a bluish white, that's the sign it's fully charged. You'll get a shocking jolt if you touch it!",
-  "eggMoves": [
-    {
-      "move": "Cross Chop"
-    },
-    {
-      "move": "Dynamic Punch"
-    },
-    {
-      "move": "Focus Punch"
-    },
-    {
-      "move": "Hammer Arm"
-    },
-    {
-      "move": "Feint"
-    }
-  ],
   "number": 239,
   "MoonEntry": "This Pokémon is constantly fighting with Togedemaru that try to steal its electricity. It's a pretty even match.",
   "UltraSunEntry": "When it hears the crash of thunder, Elekid's mood improves. It can be useful to record that sound and play it when Elekid's feeling down.",
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "type2": "",
   "WhiteEntry": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
-  "eggGroup2": "",
+  "ScarletEntry": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.",
   "CrystalEntry": "It loves violent thunder. The space between its horns flickers bluish-white when it is charging energy.",
   "weight": "23.5kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
   "SapphireEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "When its horns shine a bluish white, that's the sign it's fully charged. You'll get a shocking jolt if you touch it!",
   "DiamondEntry": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
   "name": "Elekid",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It's not good at storing electricity yet. This Pokémon sneaks into people's homes, looking for electrical outlets to eat electricity from.",
-  "extraMega": false,
   "HearthGoldEntry": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
   "YEntry": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
-  "SpeedYield": 1,
   "SunEntry": "When it's in a house, electrical outlets serve as its baby bottles. It sucks down electricity.",
   "XPYield": 72,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
   "BrilliantDiamondEntry": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
   "AtkYield": 0,
   "PlatinumEntry": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
   "abilityHidden": "Vital Spirit",
-  "lvlUpMoves": [
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "4"
-    },
-    {
-      "move": "Charge",
-      "lvl": "8"
-    },
-    {
-      "move": "Swift",
-      "lvl": "12"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "32"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "36"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "40"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "44"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 95,
   "DefYield": 0,
   "Def": 37,
-  "SpAtk": 65,
-  "SpDef": 55,
   "RubyEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
   "BlackEntry": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
   "OmegaRubyEntry": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",

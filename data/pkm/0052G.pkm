@@ -2,258 +2,30 @@
   "ShieldEntry": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
   "ability1": "Pickup",
   "HP": 50,
-  "Speed": 40,
-  "SpeedYield": 0,
   "XPYield": 58,
   "ability2": "Tough Claws",
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
+  "SpDef": 40,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {"move": "Covet"},
-    {"move": "Curse"},
-    {"move": "Double-Edge"},
-    {"move": "Flail"},
-    {"move": "Night Slash"},
-    {"move": "Spite"}
-  ],
   "number": 52,
+  "BrilliantDiamondEntry": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
   "AtkYield": 1,
   "abilityHidden": "Unnerve",
-  "lvlUpMoves": [
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "4"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "8"
-    },
-    {
-      "move": "Pay Day",
-      "lvl": "12"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "29"
-    },
-    {
-      "move": "Screech",
-      "lvl": "32"
-    },
-    {
-      "move": "Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "44"
-    }
-  ],
-  "type2": "",
+  "RedEntry": "Upright",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "7.5kg",
+  "Speed": 40,
   "DefYield": 0,
   "Def": 55,
-  "eggGroup2": "",
-  "SpAtk": 40,
-  "SpDef": 40,
+  "weight": "0.4m",
   "eggGroup1": "Field",
   "type1": "Steel",
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "colour": "Brown",
   "name": "Galarian Meowth",
   "Atk": 65,
   "SwordEntry": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
-  "SpDefYield": 0,
+  "category": "Scratch Cat Pokémon",
   "HPYield": 0
 }

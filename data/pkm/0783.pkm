@@ -1,277 +1,37 @@
 {
   "ShieldEntry": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
-  "extraMega": false,
   "ability1": "Bulletproof",
   "HP": 55,
   "SunEntry": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
-  "Speed": 65,
-  "SpeedYield": 0,
   "XPYield": 147,
   "ability2": "Soundproof",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 70,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "UltraMoonEntry": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.",
   "number": 783,
   "MoonEntry": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
   "UltraSunEntry": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
+  "BrilliantDiamondEntry": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
   "AtkYield": 0,
   "abilityHidden": "Overcoat",
-  "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Autotomize",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Tail",
-      "lvl": "1"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "16"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "28"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "32"
-    },
-    {
-      "move": "Noble Roar",
-      "lvl": "38"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "44"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "50"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 2,
-  "type2": "Fighting",
-  "Def": 90,
+  "RedEntry": "Upright",
   "SpAtk": 65,
-  "eggGroup2": "",
-  "SpDef": 70,
+  "SpAtkYield": 0,
+  "height": "1.2m",
+  "Speed": 65,
+  "type2": "Fighting",
+  "DefYield": 2,
+  "Def": 90,
   "weight": "47.0kg",
   "eggGroup1": "Dragon",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.",
   "name": "Hakamo-o",
   "Atk": 75,
   "SwordEntry": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
-  "SpDefYield": 0,
   "category": "Scaly Pokémon",
   "HPYield": 0
 }

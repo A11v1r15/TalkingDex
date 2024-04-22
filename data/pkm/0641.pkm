@@ -1,290 +1,37 @@
 {
-  "ShieldEntry": "",
-  "extraMega": false,
   "ability1": "Prankster",
   "YEntry": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
   "AlphaSapphireEntry": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
   "HP": 79,
-  "Speed": 111,
-  "SpeedYield": 3,
+  "SunEntry": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
   "XPYield": 290,
-  "ability2": "",
-  "title": "Incarnate Forme",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 80,
+  "SpeedYield": 3,
   "xpGroup": "Slow",
   "XEntry": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
-  "eggMoves": [],
   "number": 641,
   "AtkYield": 0,
   "abilityHidden": "Defiant",
+  "RedEntry": "Arms",
   "LegendsArceusEntry": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
+  "SpAtk": 125,
+  "SpAtkYield": 0,
   "height": "1.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "5"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "10"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "25"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "30"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "35"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "40"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "45"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "50"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "55"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "60"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "65"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "70"
-    }
-  ],
+  "Speed": 111,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
   "Def": 70,
-  "SpAtk": 125,
-  "eggGroup2": "",
-  "SpDef": 80,
+  "ScarletEntry": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
   "weight": "63.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Flying",
-  "hasGalarian": false,
   "BlackEntry": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
   "OmegaRubyEntry": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Tornadus",
   "Atk": 115,
   "White2Entry": "In every direction it flies, creating winds so powerful, they blow everything away.",
-  "SwordEntry": "",
-  "SpDefYield": 0,
   "category": "Cyclone Pokémon",
   "HPYield": 0,
   "Black2Entry": "In every direction it flies, creating winds so powerful, they blow everything away."

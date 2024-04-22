@@ -3,279 +3,42 @@
   "ability1": "Rough Skin",
   "AlphaSapphireEntry": "If anything invades Carvanha's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
   "HP": 45,
-  "Speed": 65,
-  "ability2": "",
-  "eggMoves": [
-    {
-      "move": "Ancient Power"
-    },
-    {
-      "move": "Destiny Bond"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Water Pulse"
-    }
-  ],
+  "SpDef": 20,
+  "SpeedYield": 0,
   "UltraMoonEntry": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
   "number": 318,
   "MoonEntry": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they're rather cowardly.",
   "UltraSunEntry": "They're such cowards that they won't hunt alone. When five or so of them get together, they suddenly turn ferocious!",
+  "RedEntry": "Fish",
+  "LegendsArceusEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "0.8m",
   "type2": "Dark",
   "WhiteEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-  "eggGroup2": "",
   "weight": "20.8kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "If anything invades Carvanha's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
   "DiamondEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "name": "Carvanha",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
-  "extraMega": false,
   "HearthGoldEntry": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
   "YEntry": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
-  "SpeedYield": 0,
   "SunEntry": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
   "XPYield": 61,
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
   "BrilliantDiamondEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "AtkYield": 1,
   "PlatinumEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "abilityHidden": "Speeded Boost",
-  "lvlUpMoves": [
-    {
-      "move": "Aqua Jet",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Fang",
-      "lvl": "4"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "8"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "28"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "32"
-    },
-    {
-      "move": "Agility",
-      "lvl": "36"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "40"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 0,
   "Def": 20,
-  "SpAtk": 65,
-  "SpDef": 20,
   "RubyEntry": "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
   "BlackEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "OmegaRubyEntry": "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
@@ -284,7 +47,7 @@
   "FireRedEntry": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
   "Atk": 90,
   "White2Entry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
-  "SwordEntry": "It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
+  "SwordEntry": "It won't attack while it's alone\u2014not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
   "ShiningPearlEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "PearlEntry": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
   "category": "Savage Pokémon",

@@ -1,261 +1,45 @@
 {
+  "ShieldEntry": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
   "ability1": "Big Pecks",
+  "YEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
   "AlphaSapphireEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
   "HP": 110,
-  "Speed": 80,
+  "SunEntry": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
+  "XPYield": 179,
   "ability2": "Overcoat",
-  "eggMoves": [],
+  "SpDef": 95,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "XEntry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
   "UltraMoonEntry": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
   "number": 630,
   "MoonEntry": "It circles in the sky, keeping a keen eye out for Pokémon in a weakened state. Its choicest food is Cubone.",
   "UltraSunEntry": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
-  "height": "1.2m",
-  "type2": "Flying",
-  "WhiteEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
-  "eggGroup2": "",
-  "weight": "39.5kg",
-  "eggGroup1": "Flying",
-  "hasMega": false,
-  "type1": "Dark",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 2,
-  "name": "Mandibuzz",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
-  "extraMega": false,
-  "YEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
-  "SunEntry": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
-  "SpeedYield": 0,
-  "XPYield": 179,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "XEntry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+  "BrilliantDiamondEntry": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
   "AtkYield": 0,
   "abilityHidden": "Weak Armor",
-  "lvlUpMoves": [
-    {
-      "move": "Bone Rush",
-      "lvl": "0"
-    },
-    {
-      "move": "Bone Rush",
-      "lvl": "1"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "1"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "1"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "18"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "24"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "30"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "36"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "42"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "48"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "57"
-    },
-    {
-      "move": "Defog",
-      "lvl": "64"
-    },
-    {
-      "move": "Attract",
-      "lvl": "72"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "80"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 105,
+  "RedEntry": "Wings",
   "SpAtk": 55,
-  "SpDef": 95,
+  "SpAtkYield": 2,
+  "height": "1.2m",
+  "Speed": 80,
+  "type2": "Flying",
+  "DefYield": 0,
+  "WhiteEntry": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+  "Def": 105,
+  "weight": "39.5kg",
+  "eggGroup1": "Flying",
+  "type1": "Dark",
   "BlackEntry": "It makes a nest out of the bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
   "OmegaRubyEntry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+  "SpDefYield": 0,
   "colour": "Brown",
+  "LetsGoPikachuEntry": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
+  "name": "Mandibuzz",
   "Atk": 65,
   "White2Entry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
   "SwordEntry": "Although it's a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they're ready to leave the nest.",
   "category": "Bone Vulture Pokémon",
+  "HPYield": 0,
   "Black2Entry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease."
 }

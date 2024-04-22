@@ -5,277 +5,46 @@
   "AlphaSapphireEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
   "HP": 35,
   "SilverEntry": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
-  "Speed": 120,
   "ability2": "Arena Trap",
-  "eggMoves": [],
+  "SpDef": 70,
+  "SpeedYield": 2,
   "UltraMoonEntry": "Dugtrio's heads are sleek and smooth and incredibly hard. It can dig through any soil with its headbutts.",
   "number": 51,
   "MoonEntry": "Despite the closeness between this Pokémon and farmers and other people, no one has ever seen the parts of it concealed underground.",
   "UltraSunEntry": "While the three of them normally get along splendidly, on rare occasions a huge fight will break out over which head gets to eat first.",
   "RedEntry": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+  "LegendsArceusEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "0.7m",
-  "type2": "",
   "WhiteEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
-  "eggGroup2": "",
   "ScarletEntry": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
   "CrystalEntry": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
   "weight": "33.3kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
   "GoldEntry": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
   "SapphireEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
-  "hasAlolan": true,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "A team of triplets that can burrow to a depth of 60 miles. It's reported that this triggers an earthquake.",
   "DiamondEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
   "name": "Dugtrio",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
-  "extraMega": false,
   "HearthGoldEntry": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
   "YEntry": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
-  "SpeedYield": 2,
   "SunEntry": "This set of triplets moves cooperatively. It's the power of teamwork that enables this Pokémon to dig to a depth of 60 miles.",
   "XPYield": 149,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
   "BrilliantDiamondEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
   "AtkYield": 0,
   "PlatinumEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
   "abilityHidden": "Sand Force",
-  "lvlUpMoves": [
-    {
-      "move": "Sand Tomb",
-      "lvl": "0"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "1"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Tri Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "12"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "16"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "30"
-    },
-    {
-      "move": "Dig",
-      "lvl": "36"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "42"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "48"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "54"
-    }
-  ],
+  "Speed": 120,
   "DefYield": 0,
   "Def": 50,
-  "SpAtk": 50,
-  "SpDef": 70,
   "RubyEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
   "BlackEntry": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
   "OmegaRubyEntry": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",

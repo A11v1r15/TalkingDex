@@ -5,264 +5,45 @@
   "AlphaSapphireEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
   "HP": 60,
   "SilverEntry": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
-  "Speed": 70,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
   "number": 12,
   "MoonEntry": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
   "UltraSunEntry": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
   "RedEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+  "LegendsArceusEntry": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.",
+  "SpAtk": 90,
+  "SpAtkYield": 2,
   "height": "1.1m",
   "type2": "Flying",
   "WhiteEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
-  "eggGroup2": "",
   "CrystalEntry": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
   "weight": "32.0kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "BlueEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
   "GoldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
   "SapphireEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "LetsGoPikachuEntry": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
   "DiamondEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "name": "Butterfree",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
-  "extraMega": false,
   "HearthGoldEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
   "YEntry": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
-  "SpeedYield": 0,
   "SunEntry": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
   "XPYield": 198,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Pollen Puff",
-      "technical": "TR96"
-    }
-  ],
-  "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "XEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "BrilliantDiamondEntry": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "AtkYield": 0,
   "PlatinumEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "abilityHidden": "Tinted Lens",
-  "lvlUpMoves": [
-    {
-      "move": "Gust",
-      "lvl": "0"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "4"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "8"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "12"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "12"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "16"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "28"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "32"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "36"
-    },
-    {
-      "move": "Rage Powder",
-      "lvl": "40"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 70,
   "DefYield": 0,
   "Def": 50,
-  "SpAtk": 90,
-  "SpDef": 80,
   "RubyEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
   "BlackEntry": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
   "OmegaRubyEntry": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",

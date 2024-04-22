@@ -1,237 +1,36 @@
 {
   "ShieldEntry": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.",
-  "extraMega": false,
   "ability1": "Torrent",
   "HP": 60,
   "SunEntry": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
-  "Speed": 50,
-  "SpeedYield": 0,
   "XPYield": 147,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 81,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "UltraMoonEntry": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
   "number": 729,
   "MoonEntry": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
   "UltraSunEntry": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+  "BrilliantDiamondEntry": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.",
   "AtkYield": 0,
   "abilityHidden": "Liquid Voice",
-  "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "9"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "12"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "15"
-    },
-    {
-      "move": "Sing",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "25"
-    },
-    {
-      "move": "Encore",
-      "lvl": "30"
-    },
-    {
-      "move": "Misty Terrain",
-      "lvl": "35"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "40"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "45"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "50"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 69,
+  "RedEntry": "Fish",
   "SpAtk": 91,
+  "SpAtkYield": 2,
+  "height": "0.6m",
+  "Speed": 50,
+  "DefYield": 0,
+  "Def": 69,
   "eggGroup2": "Field",
-  "SpDef": 81,
   "weight": "17.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
+  "LetsGoPikachuEntry": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
   "name": "Brionne",
   "Atk": 69,
   "SwordEntry": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.",
-  "SpDefYield": 0,
   "category": "Pop Star Pokémon",
   "HPYield": 0
 }

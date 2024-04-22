@@ -1,247 +1,36 @@
 {
   "ShieldEntry": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
-  "extraMega": false,
   "ability1": "Torrent",
   "HP": 50,
   "SunEntry": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
-  "Speed": 40,
-  "SpeedYield": 0,
   "XPYield": 64,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 56,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "Aqua Ring"
-    },
-    {
-      "move": "Perish Song"
-    },
-    {
-      "move": "Life Dew"
-    }
-  ],
   "UltraMoonEntry": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!",
   "number": 728,
   "MoonEntry": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
   "UltraSunEntry": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+  "BrilliantDiamondEntry": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
   "AtkYield": 0,
   "abilityHidden": "Liquid Voice",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "3"
-    },
-    {
-      "move": "Disarming Voice",
-      "lvl": "6"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "9"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "12"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "15"
-    },
-    {
-      "move": "Sing",
-      "lvl": "18"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "21"
-    },
-    {
-      "move": "Encore",
-      "lvl": "24"
-    },
-    {
-      "move": "Misty Terrain",
-      "lvl": "27"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "30"
-    },
-    {
-      "move": "Moonblast",
-      "lvl": "33"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "36"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 54,
+  "RedEntry": "Fish",
   "SpAtk": 66,
+  "SpAtkYield": 1,
+  "height": "0.4m",
+  "Speed": 40,
+  "DefYield": 0,
+  "Def": 54,
   "eggGroup2": "Field",
-  "SpDef": 56,
   "weight": "7.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
+  "LetsGoPikachuEntry": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!",
   "name": "Popplio",
   "Atk": 54,
   "SwordEntry": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.",
-  "SpDefYield": 0,
   "category": "Sea Lion Pokémon",
   "HPYield": 0
 }

@@ -1,234 +1,33 @@
 {
   "ShieldEntry": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
-  "extraMega": false,
   "ability1": "Lightning Rod",
   "HP": 48,
-  "Speed": 15,
-  "SpeedYield": 0,
   "XPYield": 152,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 85,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Memento"
-    },
-    {
-      "move": "Sucker Punch"
-    }
-  ],
   "number": 871,
+  "BrilliantDiamondEntry": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
   "AtkYield": 2,
   "abilityHidden": "Electric Surge",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "5"
-    },
-    {
-      "move": "Charge",
-      "lvl": "10"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "20"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "25"
-    },
-    {
-      "move": "Recover",
-      "lvl": "30"
-    },
-    {
-      "move": "Curse",
-      "lvl": "35"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "40"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "45"
-    },
-    {
-      "move": "Zing Zap",
-      "lvl": "50"
-    },
-    {
-      "move": "Acupressure",
-      "lvl": "55"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 95,
+  "RedEntry": "Tentacles",
   "SpAtk": 91,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 15,
+  "DefYield": 0,
+  "Def": 95,
   "eggGroup2": "Amorphous",
   "ScarletEntry": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
-  "SpDef": 85,
   "weight": "1.0kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
   "name": "Pincurchin",
   "Atk": 101,
   "SwordEntry": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
-  "SpDefYield": 0,
   "category": "Sea Urchin Pokémon",
   "HPYield": 0
 }

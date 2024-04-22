@@ -5,305 +5,46 @@
   "AlphaSapphireEntry": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.",
   "HP": 80,
   "SilverEntry": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
-  "Speed": 45,
   "ability2": "No Guard",
-  "eggMoves": [],
+  "SpDef": 60,
+  "SpeedYield": 0,
   "UltraMoonEntry": "A popular motif for sculptures, its incredibly well-developed muscles have captured the imagination of many an artist.",
   "number": 67,
   "MoonEntry": "It willingly assists with hard labor because it knows the work is good training for its muscles.",
   "UltraSunEntry": "When it encounters an enemy that's truly mighty, this Pokémon removes the power-save belt from its waist and unleashes its full power.",
   "RedEntry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
   "LegendsArceusEntry": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "1.5m",
-  "type2": "",
   "WhiteEntry": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
-  "eggGroup2": "",
+  "ScarletEntry": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.",
   "CrystalEntry": "This tough Pokémon always stays in the zone. Its muscles become thicker after every battle.",
   "weight": "70.5kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
   "GoldEntry": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
   "SapphireEntry": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
   "DiamondEntry": "Machoke's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
   "name": "Machoke",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
-  "extraMega": false,
   "HearthGoldEntry": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
   "YEntry": "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
-  "SpeedYield": 0,
   "SunEntry": "As a result of its continual workouts, it has developed tremendous power. It uses that power to help people with their work.",
   "XPYield": 142,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
   "BrilliantDiamondEntry": "Machoke's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
   "AtkYield": 2,
   "PlatinumEntry": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
   "abilityHidden": "Steadfast",
-  "lvlUpMoves": [
-    {
-      "move": "Low Kick",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "1"
-    },
-    {
-      "move": "Low Sweep",
-      "lvl": "12"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "16"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Vital Throw",
-      "lvl": "24"
-    },
-    {
-      "move": "Strength",
-      "lvl": "31"
-    },
-    {
-      "move": "Dual Chop",
-      "lvl": "36"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "42"
-    },
-    {
-      "move": "Seismic Toss",
-      "lvl": "48"
-    },
-    {
-      "move": "Dynamic Punch",
-      "lvl": "54"
-    },
-    {
-      "move": "Cross Chop",
-      "lvl": "60"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    }
-  ],
+  "Speed": 45,
   "DefYield": 0,
   "Def": 70,
-  "SpAtk": 50,
-  "SpDef": 60,
   "RubyEntry": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
   "BlackEntry": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
   "OmegaRubyEntry": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",

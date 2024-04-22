@@ -1,338 +1,44 @@
 {
   "ShieldEntry": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
-  "extraMega": false,
   "ability1": "Shed Skin",
   "YEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "AlphaSapphireEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "HP": 65,
-  "Speed": 58,
-  "SpeedYield": 0,
+  "SunEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "XPYield": 171,
   "ability2": "Moxie",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 115,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
   "UltraMoonEntry": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
   "number": 560,
   "UltraSunEntry": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
+  "BrilliantDiamondEntry": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
   "AtkYield": 0,
   "abilityHidden": "Intimidate",
+  "RedEntry": "Upright",
+  "SpAtk": 45,
+  "SpAtkYield": 0,
   "height": "1.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Low Kick",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "1"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "12"
-    },
-    {
-      "move": "Facade",
-      "lvl": "16"
-    },
-    {
-      "move": "Protect",
-      "lvl": "20"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "24"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "28"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "32"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "36"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "42"
-    },
-    {
-      "move": "High Jump Kick",
-      "lvl": "48"
-    },
-    {
-      "move": "Focus Punch",
-      "lvl": "54"
-    },
-    {
-      "move": "Head Smash",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 1,
+  "Speed": 58,
   "type2": "Fighting",
+  "DefYield": 1,
   "WhiteEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
   "Def": 115,
-  "SpAtk": 45,
   "eggGroup2": "Dragon",
-  "SpDef": 115,
   "weight": "30.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Dark",
-  "hasGalarian": false,
   "BlackEntry": "Groups of them beat up anything that enter their territory. Each can spit acidic liquid from its mouth.",
   "OmegaRubyEntry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+  "SpDefYield": 1,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
   "name": "Scrafty",
   "Atk": 90,
   "White2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
   "SwordEntry": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
-  "SpDefYield": 1,
   "category": "Hoodlum Pokémon",
   "HPYield": 0,
   "Black2Entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."

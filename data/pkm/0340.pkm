@@ -3,281 +3,44 @@
   "ability1": "Oblivious",
   "AlphaSapphireEntry": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.",
   "HP": 110,
-  "Speed": 60,
   "ability2": "Anticipation",
-  "eggMoves": [],
+  "SpDef": 71,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
   "number": 340,
   "MoonEntry": "Sighting Whiscash leaping from the water is believed to herald an earthquake.",
-  "UltraSunEntry": "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole—along with mud from the swamp floor.",
+  "UltraSunEntry": "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole\u2014along with mud from the swamp floor.",
+  "RedEntry": "Fish",
   "LegendsArceusEntry": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
+  "SpAtk": 76,
+  "SpAtkYield": 0,
   "height": "0.9m",
   "type2": "Ground",
   "WhiteEntry": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-  "eggGroup2": "",
   "ScarletEntry": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
   "weight": "23.6kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
   "DiamondEntry": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
   "name": "Whiscash",
-  "SpDefYield": 0,
   "HPYield": 2,
   "ShieldEntry": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
-  "extraMega": false,
   "HearthGoldEntry": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
   "YEntry": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, Whiscash will eat it.",
-  "SpeedYield": 0,
   "SunEntry": "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
   "XPYield": 164,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
   "BrilliantDiamondEntry": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
   "AtkYield": 0,
   "PlatinumEntry": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
   "abilityHidden": "Hydration",
-  "lvlUpMoves": [
-    {
-      "move": "Thrash",
-      "lvl": "0"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "1"
-    },
-    {
-      "move": "Belch",
-      "lvl": "1"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "1"
-    },
-    {
-      "move": "Tickle",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Rest",
-      "lvl": "1"
-    },
-    {
-      "move": "Snore",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "12"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "18"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "24"
-    },
-    {
-      "move": "Muddy Water",
-      "lvl": "33"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "40"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "48"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "56"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 73,
-  "SpAtk": 76,
-  "SpDef": 71,
   "RubyEntry": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
   "BlackEntry": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
   "OmegaRubyEntry": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
@@ -287,7 +50,7 @@
   "FireRedEntry": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, Whiscash will eat it.",
   "Atk": 78,
   "White2Entry": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
-  "SwordEntry": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
+  "SwordEntry": "It makes its nest at the bottom of swamps. It will eat anything\u2014if it is alive, Whiscash will eat it.",
   "ShiningPearlEntry": "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
   "PearlEntry": "As a result of causing tremors by thrashing about, it developed the ability to foretell real earthquakes.",
   "category": "Whiskers Pokémon",

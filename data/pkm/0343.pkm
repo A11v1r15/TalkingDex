@@ -3,301 +3,40 @@
   "ability1": "Levitate",
   "AlphaSapphireEntry": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
   "HP": 40,
-  "Speed": 55,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 70,
+  "SpeedYield": 0,
   "UltraMoonEntry": "When they find others of their kind, they cry out loudly and gather together. Large numbers of them can be found in old graveyards.",
   "number": 343,
   "UltraSunEntry": "Depictions of Pokémon similar to Baltoy have been found on the walls of caves where primitive humans lived.",
+  "RedEntry": "Arms",
+  "LegendsArceusEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.5m",
   "type2": "Psychic",
   "WhiteEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
-  "eggGroup2": "",
   "weight": "21.5kg",
   "eggGroup1": "Mineral",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "SapphireEntry": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "When they find others of their kind, they cry out loudly and gather together. Large numbers of them can be found in old graveyards.",
   "DiamondEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
   "name": "Baltoy",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
-  "extraMega": false,
   "HearthGoldEntry": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
   "YEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
-  "SpeedYield": 0,
+  "SunEntry": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
   "XPYield": 60,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
   "BrilliantDiamondEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
   "AtkYield": 0,
   "PlatinumEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Rapid Spin",
-      "lvl": "3"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "6"
-    },
-    {
-      "move": "Rock Tomb",
-      "lvl": "9"
-    },
-    {
-      "move": "Power Trick",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "15"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "18"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "21"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "24"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "27"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "30"
-    },
-    {
-      "move": "Self-Destruct",
-      "lvl": "33"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "36"
-    },
-    {
-      "move": "Power Split",
-      "lvl": "36"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "39"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "42"
-    }
-  ],
+  "Speed": 55,
   "DefYield": 0,
   "Def": 55,
-  "SpAtk": 40,
-  "SpDef": 70,
   "RubyEntry": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",
   "BlackEntry": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
   "OmegaRubyEntry": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",

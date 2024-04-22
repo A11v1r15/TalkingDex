@@ -1,254 +1,27 @@
 {
   "ability1": "Defiant",
   "HP": 90,
-  "Speed": 100,
-  "SpeedYield": 0,
   "XPYield": 290,
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Blaze Kick",
-      "technical": "TR41"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "ability2": "",
+  "SpDef": 90,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "number": 145,
   "AtkYield": 3,
-  "abilityHidden": "",
+  "RedEntry": "Wings",
+  "SpAtk": 85,
+  "SpAtkYield": 0,
   "height": "1.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "5"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "10"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "15"
-    },
-    {
-      "move": "Agility",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "30"
-    },
-    {
-      "move": "Drill Peck",
-      "lvl": "35"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "40"
-    },
-    {
-      "move": "Thunderous Kick",
-      "lvl": "45"
-    },
-    {
-      "move": "Bulk Up",
-      "lvl": "50"
-    },
-    {
-      "move": "Counter",
-      "lvl": "55"
-    },
-    {
-      "move": "Detect",
-      "lvl": "60"
-    },
-    {
-      "move": "Close Combat",
-      "lvl": "65"
-    },
-    {
-      "move": "Reversal",
-      "lvl": "70"
-    }
-  ],
+  "Speed": 100,
   "type2": "Flying",
   "DefYield": 0,
   "Def": 90,
-  "eggGroup2": "",
-  "SpAtk": 85,
-  "SpDef": 90,
   "weight": "58.2kg",
   "eggGroup1": "Undiscovered",
   "type1": "Fighting",
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "SpAtkYield": 0,
   "name": "Galarian Zapdos",
   "Atk": 125,
-  "SpDefYield": 0,
   "category": "Strong Legs Pokémon",
   "HPYield": 0
 }

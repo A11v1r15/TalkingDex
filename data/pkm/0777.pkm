@@ -1,280 +1,38 @@
 {
   "ShieldEntry": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
-  "extraMega": false,
   "ability1": "Iron Barbs",
   "HP": 65,
   "SunEntry": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
-  "Speed": 96,
-  "SpeedYield": 0,
   "XPYield": 152,
   "ability2": "Lightning Rod",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 73,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Present"
-    },
-    {
-      "move": "Wish"
-    },
-    {
-      "move": "Fake Out"
-    },
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Flail"
-    },
-    {
-      "move": "Disarming Voice"
-    }
-  ],
   "UltraMoonEntry": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
   "number": 777,
   "MoonEntry": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
   "UltraSunEntry": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
+  "BrilliantDiamondEntry": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
   "AtkYield": 2,
   "abilityHidden": "Sturdy",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "5"
-    },
-    {
-      "move": "Charge",
-      "lvl": "10"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "15"
-    },
-    {
-      "move": "Fell Stinger",
-      "lvl": "20"
-    },
-    {
-      "move": "Spark",
-      "lvl": "25"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "30"
-    },
-    {
-      "move": "Magnet Rise",
-      "lvl": "35"
-    },
-    {
-      "move": "Zing Zap",
-      "lvl": "40"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "45"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "50"
-    },
-    {
-      "move": "Wild Charge",
-      "lvl": "55"
-    },
-    {
-      "move": "Spiky Shield",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Steel",
-  "Def": 63,
+  "RedEntry": "Upright",
   "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 96,
+  "type2": "Steel",
+  "DefYield": 0,
+  "Def": 63,
   "eggGroup2": "Fairy",
-  "SpDef": 73,
   "weight": "3.3kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
   "name": "Togedemaru",
   "Atk": 98,
   "SwordEntry": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
-  "SpDefYield": 0,
   "category": "Roly-Poly Pokémon",
   "HPYield": 0
 }

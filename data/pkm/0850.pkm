@@ -1,186 +1,32 @@
 {
   "ShieldEntry": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.",
-  "extraMega": false,
   "ability1": "Flash Fire",
   "HP": 50,
-  "Speed": 45,
-  "SpeedYield": 0,
   "XPYield": 61,
   "ability2": "White Smoke",
-  "tmTrMoves": [
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 50,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Struggle Bug"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Defense Curl"
-    }
-  ],
   "number": 850,
+  "BrilliantDiamondEntry": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.",
   "AtkYield": 1,
   "abilityHidden": "Flame Body",
-  "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "5"
-    },
-    {
-      "move": "Bite",
-      "lvl": "10"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "15"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Coil",
-      "lvl": "25"
-    },
-    {
-      "move": "Slam",
-      "lvl": "30"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "35"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "40"
-    },
-    {
-      "move": "Fire Lash",
-      "lvl": "45"
-    },
-    {
-      "move": "Lunge",
-      "lvl": "50"
-    },
-    {
-      "move": "Burn Up",
-      "lvl": "55"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Bug",
-  "Def": 45,
+  "RedEntry": "Tentacles",
   "SpAtk": 50,
-  "eggGroup2": "",
-  "SpDef": 50,
+  "SpAtkYield": 0,
+  "height": "0.7m",
+  "Speed": 45,
+  "type2": "Bug",
+  "DefYield": 0,
+  "Def": 45,
   "weight": "1.0kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Sizzlipede",
   "Atk": 65,
   "SwordEntry": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
-  "SpDefYield": 0,
   "category": "Radiator Pokémon",
   "HPYield": 0
 }

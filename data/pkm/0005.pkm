@@ -5,276 +5,42 @@
   "AlphaSapphireEntry": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
   "HP": 58,
   "SilverEntry": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-  "Speed": 80,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 65,
+  "SpeedYield": 1,
   "number": 5,
   "RedEntry": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+  "LegendsArceusEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+  "SpAtk": 80,
+  "SpAtkYield": 1,
   "height": "1.1m",
-  "type2": "",
   "WhiteEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
   "eggGroup2": "Dragon",
   "CrystalEntry": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
   "weight": "19.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
   "GoldEntry": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
   "SapphireEntry": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
   "LetsGoPikachuEntry": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames.",
   "DiamondEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
   "name": "Charmeleon",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
-  "extraMega": false,
   "HearthGoldEntry": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
   "YEntry": "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
-  "SpeedYield": 1,
+  "SunEntry": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
   "XPYield": 142,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
   "BrilliantDiamondEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
   "AtkYield": 0,
   "PlatinumEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
   "abilityHidden": "Solar Power",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Smokescreen",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "12"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "19"
-    },
-    {
-      "move": "Slash",
-      "lvl": "24"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "30"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "37"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "42"
-    },
-    {
-      "move": "Inferno",
-      "lvl": "48"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "54"
-    }
-  ],
+  "Speed": 80,
   "DefYield": 0,
   "Def": 58,
-  "SpAtk": 80,
-  "SpDef": 65,
   "RubyEntry": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
   "BlackEntry": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
   "OmegaRubyEntry": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",

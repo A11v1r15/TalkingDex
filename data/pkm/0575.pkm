@@ -1,278 +1,41 @@
 {
   "ShieldEntry": "On nights when the stars shine, this Pokémon's psychic power is at its strongest. It's unknown just what link Gothorita has to the greater universe.",
-  "extraMega": false,
   "ability1": "Frisk",
   "YEntry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "AlphaSapphireEntry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "HP": 60,
-  "Speed": 55,
-  "SpeedYield": 0,
+  "SunEntry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "XPYield": 137,
   "ability2": "Competitive",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 85,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "XEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
   "number": 575,
+  "BrilliantDiamondEntry": "On nights when the stars shine, this Pokémon's psychic power is at its strongest. It's unknown just what link Gothorita has to the greater universe.",
   "AtkYield": 0,
   "abilityHidden": "Shadow Tag",
+  "RedEntry": "Humanoid",
+  "SpAtk": 75,
+  "SpAtkYield": 0,
   "height": "0.7m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Play Nice",
-      "lvl": "1"
-    },
-    {
-      "move": "Tickle",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "12"
-    },
-    {
-      "move": "Charm",
-      "lvl": "16"
-    },
-    {
-      "move": "Psyshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "24"
-    },
-    {
-      "move": "Fake Tears",
-      "lvl": "28"
-    },
-    {
-      "move": "Psych Up",
-      "lvl": "35"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "40"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "46"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "52"
-    },
-    {
-      "move": "Magic Room",
-      "lvl": "58"
-    }
-  ],
+  "Speed": 55,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
   "Def": 70,
-  "SpAtk": 75,
-  "eggGroup2": "",
   "ScarletEntry": "This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
-  "SpDef": 85,
   "weight": "18.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
   "BlackEntry": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
   "OmegaRubyEntry": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+  "SpDefYield": 2,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "Using its psychic power, it arranges pebbles to form the shapes of constellations. Some people believe this Pokémon came from outer space.",
   "name": "Gothorita",
   "Atk": 45,
   "White2Entry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
   "SwordEntry": "It's said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
-  "SpDefYield": 2,
   "category": "Manipulate Pokémon",
   "HPYield": 0,
   "Black2Entry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."

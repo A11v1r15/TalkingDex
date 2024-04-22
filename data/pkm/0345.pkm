@@ -3,237 +3,41 @@
   "ability1": "Suction Cups",
   "AlphaSapphireEntry": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.",
   "HP": 66,
-  "Speed": 23,
-  "ability2": "",
+  "SpDef": 87,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It sticks to rocks with its powerful suckers and can't be washed away no matter how rough the surf gets.",
-  "eggMoves": [
-    {
-      "move": "Recover"
-    },
-    {
-      "move": "Mirror Coat"
-    },
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Bind"
-    },
-    {
-      "move": "Curse"
-    }
-  ],
   "number": 345,
   "UltraSunEntry": "In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.",
+  "RedEntry": "Blob",
+  "LegendsArceusEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+  "SpAtk": 61,
+  "SpAtkYield": 0,
   "height": "1.0m",
   "type2": "Grass",
   "WhiteEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-  "eggGroup2": "",
   "weight": "23.8kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "SapphireEntry": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It sticks to rocks with its powerful suckers and can't be washed away no matter how rough the surf gets.",
   "DiamondEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
   "name": "Lileep",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
-  "extraMega": false,
   "HearthGoldEntry": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
   "YEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
-  "SpeedYield": 0,
+  "SunEntry": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.",
   "XPYield": 71,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Erratic",
   "XEntry": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
   "BrilliantDiamondEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
   "AtkYield": 0,
   "PlatinumEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
   "abilityHidden": "Storm Drain",
-  "lvlUpMoves": [
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "4"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "8"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "12"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "28"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "32"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "36"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "41"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "41"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "41"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 23,
   "DefYield": 0,
   "Def": 77,
-  "SpAtk": 61,
-  "SpDef": 87,
   "RubyEntry": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
   "BlackEntry": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
   "OmegaRubyEntry": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",

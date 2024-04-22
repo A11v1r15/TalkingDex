@@ -1,243 +1,38 @@
 {
   "ShieldEntry": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
-  "extraMega": false,
   "ability1": "Honey Gather",
   "HP": 40,
   "SunEntry": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
-  "Speed": 84,
-  "SpeedYield": 1,
   "XPYield": 61,
   "ability2": "Shield Dust",
-  "tmTrMoves": [
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Speeded Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 1,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Moonblast"
-    },
-    {
-      "move": "Sticky Web"
-    },
-    {
-      "move": "Aromatic Mist"
-    }
-  ],
   "UltraMoonEntry": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.",
   "number": 742,
   "MoonEntry": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
   "UltraSunEntry": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
+  "BrilliantDiamondEntry": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
   "AtkYield": 0,
   "abilityHidden": "Sweet Veil",
-  "height": "0.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "1"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "6"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "12"
-    },
-    {
-      "move": "Draining Kiss",
-      "lvl": "18"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "24"
-    },
-    {
-      "move": "Aromatherapy",
-      "lvl": "30"
-    },
-    {
-      "move": "Switcheroo",
-      "lvl": "36"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "42"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "48"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "54"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fairy",
-  "Def": 40,
+  "RedEntry": "Insectoid ",
   "SpAtk": 55,
+  "SpAtkYield": 0,
+  "height": "0.1m",
+  "Speed": 84,
+  "type2": "Fairy",
+  "DefYield": 0,
+  "Def": 40,
   "eggGroup2": "Fairy",
-  "SpDef": 40,
   "weight": "0.2kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.",
   "name": "Cutiefly",
   "Atk": 45,
   "SwordEntry": "Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.",
-  "SpDefYield": 0,
   "category": "Bee Fly Pokémon",
   "HPYield": 0
 }

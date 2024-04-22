@@ -1,277 +1,42 @@
 {
   "ShieldEntry": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn't a concern.",
-  "extraMega": false,
   "ability1": "Rivalry",
   "YEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
   "AlphaSapphireEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
   "HP": 46,
-  "Speed": 57,
-  "SpeedYield": 0,
+  "SunEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
   "XPYield": 64,
   "ability2": "Mold Breaker",
-  "tmTrMoves": [
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Night Slash"
-    },
-    {
-      "move": "Endeavor"
-    },
-    {
-      "move": "Harden"
-    },
-    {
-      "move": "First Impression"
-    },
-    {
-      "move": "Counter"
-    }
-  ],
   "XEntry": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
   "number": 610,
+  "BrilliantDiamondEntry": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn't a concern.",
   "AtkYield": 1,
   "abilityHidden": "Unnerve",
+  "RedEntry": "Upright",
+  "SpAtk": 30,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "3"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "6"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "9"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "12"
-    },
-    {
-      "move": "Slash",
-      "lvl": "15"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "18"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "21"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "24"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "27"
-    },
-    {
-      "move": "Dual Chop",
-      "lvl": "30"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "33"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "36"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "39"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "42"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "45"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 57,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
   "Def": 60,
-  "SpAtk": 30,
   "eggGroup2": "Dragon",
   "ScarletEntry": "This Pokémon lives in nests that are made in the ground. People in ancient times used its tusks as cooking knives.",
-  "SpDef": 40,
   "weight": "18.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
   "BlackEntry": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
   "OmegaRubyEntry": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby.",
   "name": "Axew",
   "Atk": 87,
   "White2Entry": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
   "SwordEntry": "These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other's strength.",
-  "SpDefYield": 0,
   "category": "Tusk Pokémon",
   "HPYield": 0,
   "Black2Entry": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier."

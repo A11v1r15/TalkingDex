@@ -1,275 +1,42 @@
 {
   "ShieldEntry": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
-  "extraMega": false,
   "ability1": "Telepathy",
   "YEntry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "AlphaSapphireEntry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "HP": 55,
-  "Speed": 30,
-  "SpeedYield": 0,
+  "SunEntry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "XPYield": 67,
   "ability2": "Synchronize",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 55,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Disable"
-    },
-    {
-      "move": "Astonish"
-    },
-    {
-      "move": "Psych Up"
-    },
-    {
-      "move": "Destiny Bond"
-    }
-  ],
   "XEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "UltraMoonEntry": "This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.",
   "number": 605,
   "UltraSunEntry": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
+  "BrilliantDiamondEntry": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
   "AtkYield": 0,
   "abilityHidden": "Analytic",
+  "RedEntry": "Upright",
+  "SpAtk": 85,
+  "SpAtkYield": 1,
   "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "6"
-    },
-    {
-      "move": "Teleport",
-      "lvl": "12"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "18"
-    },
-    {
-      "move": "Power Split",
-      "lvl": "24"
-    },
-    {
-      "move": "Guard Split",
-      "lvl": "24"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "30"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "36"
-    },
-    {
-      "move": "Recover",
-      "lvl": "43"
-    },
-    {
-      "move": "Calm Mind",
-      "lvl": "48"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "54"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
   "Def": 55,
-  "SpAtk": 85,
-  "eggGroup2": "",
-  "SpDef": 55,
   "weight": "9.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
   "BlackEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
   "OmegaRubyEntry": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
+  "LetsGoPikachuEntry": "This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.",
   "name": "Elgyem",
   "Atk": 55,
   "White2Entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
   "SwordEntry": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
-  "SpDefYield": 0,
   "category": "Cerebral Pokémon",
   "HPYield": 0,
   "Black2Entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago."

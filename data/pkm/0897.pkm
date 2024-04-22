@@ -1,225 +1,29 @@
 {
   "ShieldEntry": "As it dashes through the night, Speedctrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
-  "extraMega": false,
   "ability1": "Grim Neigh",
   "HP": 100,
-  "Speed": 130,
-  "SpeedYield": 0,
   "XPYield": 290,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Phantom Force",
-      "technical": "TM86"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "eggMoves": [],
-  "number": 897,
-  "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "2.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "6"
-    },
-    {
-      "move": "Hex",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "18"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "24"
-    },
-    {
-      "move": "Haze",
-      "lvl": "30"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "36"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "42"
-    },
-    {
-      "move": "Agility",
-      "lvl": "48"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "54"
-    },
-    {
-      "move": "Disable",
-      "lvl": "60"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "72"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 60,
-  "SpAtk": 145,
-  "eggGroup2": "",
   "SpDef": 80,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "number": 897,
+  "BrilliantDiamondEntry": "As it dashes through the night, Speedctrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
+  "AtkYield": 0,
+  "RedEntry": "Quadruped",
+  "SpAtk": 145,
+  "SpAtkYield": 3,
+  "height": "2.0m",
+  "Speed": 130,
+  "DefYield": 0,
+  "Def": 60,
   "weight": "44.5kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Ghost",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Black",
-  "hasAlolan": false,
-  "SpAtkYield": 3,
   "name": "Speedctrier",
   "Atk": 65,
-  "SwordEntry": "It probes its surroundings with all its senses save one—it doesn't use its sense of sight. Speedctrier's kicks are said to separate soul from body.",
-  "SpDefYield": 0,
+  "SwordEntry": "It probes its surroundings with all its senses save one\u2014it doesn't use its sense of sight. Speedctrier's kicks are said to separate soul from body.",
   "category": "Swift Horse Pokémon",
   "HPYield": 0
 }

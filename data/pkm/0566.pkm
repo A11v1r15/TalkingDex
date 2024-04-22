@@ -1,292 +1,44 @@
 {
+  "ShieldEntry": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.",
   "ability1": "Defeatist",
+  "YEntry": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
   "AlphaSapphireEntry": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
   "HP": 55,
-  "Speed": 70,
-  "ability2": "",
+  "SunEntry": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop.",
+  "XPYield": 71,
+  "SpDef": 45,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Fast",
+  "XEntry": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
   "UltraMoonEntry": "Restored from a fossil, this ancient bird Pokémon has wings but can't yet fly.",
-  "eggMoves": [
-    {
-      "move": "Bite"
-    },
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Double Team"
-    },
-    {
-      "move": "Head Smash"
-    },
-    {
-      "move": "Switcheroo"
-    }
-  ],
   "number": 566,
   "MoonEntry": "To all appearances flightless, it was able to glide down from tall treetops to snag its prey.",
   "UltraSunEntry": "Once thought to be the ancestor of all bird Pokémon, some of the latest research suggests that may not be the case.",
+  "BrilliantDiamondEntry": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.",
+  "AtkYield": 1,
+  "RedEntry": "Wings",
+  "SpAtk": 74,
+  "SpAtkYield": 0,
   "height": "0.5m",
+  "Speed": 70,
   "type2": "Flying",
+  "DefYield": 0,
   "WhiteEntry": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+  "Def": 45,
   "eggGroup2": "Water 3",
   "weight": "9.5kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Archen",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.",
-  "extraMega": false,
-  "YEntry": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
-  "SunEntry": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop.",
-  "SpeedYield": 0,
-  "XPYield": 71,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Fast",
-  "XEntry": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
-  "AtkYield": 1,
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "3"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "6"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "9"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "15"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "18"
-    },
-    {
-      "move": "U-turn",
-      "lvl": "21"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "24"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "27"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "30"
-    },
-    {
-      "move": "Agility",
-      "lvl": "33"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "36"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "39"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "42"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "45"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 45,
-  "SpAtk": 74,
-  "SpDef": 45,
   "BlackEntry": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
   "OmegaRubyEntry": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+  "SpDefYield": 0,
   "colour": "Yellow",
+  "LetsGoPikachuEntry": "Restored from a fossil, this ancient bird Pokémon has wings but can't yet fly.",
+  "name": "Archen",
   "Atk": 112,
   "White2Entry": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another.",
   "SwordEntry": "This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it's very good at jumping.",
   "category": "First Bird Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another."
 }

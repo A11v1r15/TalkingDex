@@ -1,204 +1,40 @@
 {
   "ShieldEntry": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it'll need for evolution.",
-  "extraMega": false,
   "ability1": "Poison Point",
   "YEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "AlphaSapphireEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "HP": 40,
-  "Speed": 47,
-  "SpeedYield": 0,
+  "SunEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "XPYield": 126,
   "ability2": "Swarm",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 79,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "XEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "number": 544,
+  "BrilliantDiamondEntry": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it'll need for evolution.",
   "AtkYield": 0,
   "abilityHidden": "Speeded Boost",
+  "RedEntry": "Ball",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Defense",
-      "lvl": "0"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Tail",
-      "lvl": "12"
-    },
-    {
-      "move": "Screech",
-      "lvl": "16"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "26"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "32"
-    },
-    {
-      "move": "Agility",
-      "lvl": "38"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "44"
-    },
-    {
-      "move": "Venom Drench",
-      "lvl": "50"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 2,
+  "Speed": 47,
   "type2": "Poison",
+  "DefYield": 2,
   "WhiteEntry": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
   "Def": 99,
-  "SpAtk": 40,
-  "eggGroup2": "",
-  "SpDef": 79,
   "weight": "58.5kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
   "BlackEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
   "OmegaRubyEntry": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Whirlipede",
   "Atk": 55,
   "White2Entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
   "SwordEntry": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
-  "SpDefYield": 0,
   "category": "Curlipede Pokémon",
   "HPYield": 0,
   "Black2Entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes."

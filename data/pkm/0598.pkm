@@ -1,268 +1,40 @@
 {
   "ShieldEntry": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
-  "extraMega": false,
   "ability1": "Iron Barbs",
   "YEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "AlphaSapphireEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "HP": 74,
-  "Speed": 20,
-  "SpeedYield": 0,
+  "SunEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "XPYield": 171,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 116,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
   "number": 598,
+  "BrilliantDiamondEntry": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
   "AtkYield": 0,
   "abilityHidden": "Anticipation",
+  "RedEntry": "Tentacles",
+  "SpAtk": 54,
+  "SpAtkYield": 0,
   "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Power Whip",
-      "lvl": "0"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Pin Missile",
-      "lvl": "1"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "15"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "20"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "25"
-    },
-    {
-      "move": "Self-Destruct",
-      "lvl": "30"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "35"
-    },
-    {
-      "move": "Curse",
-      "lvl": "43"
-    },
-    {
-      "move": "Gyro Ball",
-      "lvl": "49"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 2,
+  "Speed": 20,
   "type2": "Steel",
+  "DefYield": 2,
   "WhiteEntry": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
   "Def": 131,
-  "SpAtk": 54,
   "eggGroup2": "Mineral",
-  "SpDef": 116,
   "weight": "110.0kg",
   "eggGroup1": "Grass",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
   "BlackEntry": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
   "OmegaRubyEntry": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent.",
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Ferrothorn",
   "Atk": 94,
   "White2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",
   "SwordEntry": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
-  "SpDefYield": 0,
   "category": "Thorn Pod Pokémon",
   "HPYield": 0,
   "Black2Entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent."

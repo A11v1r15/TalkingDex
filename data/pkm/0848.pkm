@@ -1,117 +1,34 @@
 {
   "ShieldEntry": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
-  "extraMega": false,
   "ability1": "Rattled",
   "HP": 40,
-  "Speed": 40,
-  "SpeedYield": 0,
   "XPYield": 48,
   "ability2": "Static",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 35,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "Endeavor"
-    },
-    {
-      "move": "Metal Sound"
-    },
-    {
-      "move": "Power"
-    }
-  ],
   "number": 848,
+  "BrilliantDiamondEntry": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
   "AtkYield": 0,
   "abilityHidden": "Klutz",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Belch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tearful Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Poison",
-  "Def": 35,
+  "RedEntry": "Upright",
   "SpAtk": 54,
-  "eggGroup2": "",
-  "ScarletEntry": "It has no problem drinking dirty water. An organ inside Toxel’s body filters such water into a poisonous liquid that is harmless to Toxel.",
-  "SpDef": 35,
+  "SpAtkYield": 1,
+  "height": "0.4m",
+  "Speed": 40,
+  "type2": "Poison",
+  "DefYield": 0,
+  "Def": 35,
+  "ScarletEntry": "It has no problem drinking dirty water. An organ inside Toxel\u2019s body filters such water into a poisonous liquid that is harmless to Toxel.",
   "weight": "11.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
   "VioletEntry": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
   "name": "Toxel",
   "Atk": 38,
   "SwordEntry": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
-  "SpDefYield": 0,
   "category": "Baby Pokémon",
   "HPYield": 0
 }

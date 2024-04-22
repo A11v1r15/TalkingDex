@@ -1,382 +1,40 @@
 {
   "ShieldEntry": "The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down.",
-  "extraMega": false,
   "ability1": "Levitate",
   "YEntry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "AlphaSapphireEntry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "HP": 92,
-  "Speed": 98,
-  "SpeedYield": 0,
+  "SunEntry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "XPYield": 300,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Tri Attack",
-      "technical": "TR19"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 90,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "XEntry": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
   "number": 635,
+  "BrilliantDiamondEntry": "The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down.",
   "AtkYield": 0,
-  "abilityHidden": "",
+  "RedEntry": "Upright",
+  "SpAtk": 125,
+  "SpAtkYield": 3,
   "height": "1.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Hit",
-      "lvl": "1"
-    },
-    {
-      "move": "Tri Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Roar",
-      "lvl": "12"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "16"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "24"
-    },
-    {
-      "move": "Slam",
-      "lvl": "28"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "32"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "36"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "40"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "44"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "48"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "54"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "60"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "68"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "76"
-    }
-  ],
-  "DefYield": 0,
+  "Speed": 98,
   "type2": "Dragon",
+  "DefYield": 0,
   "WhiteEntry": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
   "Def": 90,
-  "SpAtk": 125,
-  "eggGroup2": "",
   "ScarletEntry": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
-  "SpDef": 90,
   "weight": "160.0kg",
   "eggGroup1": "Dragon",
-  "hasMega": false,
   "type1": "Dark",
-  "hasGalarian": false,
   "BlackEntry": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
   "OmegaRubyEntry": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+  "SpDefYield": 0,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 3,
   "VioletEntry": "It's said that Hydreigon grew ferocious because people in times long past loathed it, considering it to be evil incarnate and attacking it relentlessly.",
   "name": "Hydreigon",
   "Atk": 105,
   "White2Entry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
   "SwordEntry": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
-  "SpDefYield": 0,
   "category": "Brutal Pokémon",
   "HPYield": 0,
   "Black2Entry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"

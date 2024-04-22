@@ -1,289 +1,37 @@
 {
   "ShieldEntry": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
-  "extraMega": false,
   "ability1": "Fluffy",
   "HP": 120,
   "SunEntry": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
-  "Speed": 60,
-  "SpeedYield": 0,
   "XPYield": 175,
   "ability2": "Klutz",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Darkest Lariat",
-      "technical": "TR93"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 60,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "UltraMoonEntry": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
   "number": 760,
   "MoonEntry": "This Pokémon has the habit of hugging its companions. Many Trainers have left this world after their spines were squashed by its hug.",
   "UltraSunEntry": "It waves its hands wildly in intimidation and warning. Life is over for anyone who doesn't run away as fast as possible.",
+  "BrilliantDiamondEntry": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
   "AtkYield": 2,
   "abilityHidden": "Unnerve",
-  "height": "2.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Bind",
-      "lvl": "0"
-    },
-    {
-      "move": "Bind",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "1"
-    },
-    {
-      "move": "Payback",
-      "lvl": "1"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "12"
-    },
-    {
-      "move": "Endure",
-      "lvl": "16"
-    },
-    {
-      "move": "Strength",
-      "lvl": "20"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Flail",
-      "lvl": "30"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "36"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "42"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "48"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "54"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "60"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fighting",
-  "Def": 80,
+  "RedEntry": "Upright",
   "SpAtk": 55,
-  "eggGroup2": "",
-  "SpDef": 60,
+  "SpAtkYield": 0,
+  "height": "2.1m",
+  "Speed": 60,
+  "type2": "Fighting",
+  "DefYield": 0,
+  "Def": 80,
   "weight": "135.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
   "name": "Bewear",
   "Atk": 125,
-  "SwordEntry": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
-  "SpDefYield": 0,
+  "SwordEntry": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous\u2014it could easily shatter your bones.",
   "category": "Strong Arm Pokémon",
   "HPYield": 0
 }

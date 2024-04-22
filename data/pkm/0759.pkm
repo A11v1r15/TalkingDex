@@ -1,242 +1,37 @@
 {
   "ShieldEntry": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
-  "extraMega": false,
   "ability1": "Fluffy",
   "HP": 70,
   "SunEntry": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
-  "Speed": 50,
-  "SpeedYield": 0,
   "XPYield": 68,
   "ability2": "Klutz",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 50,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Force Palm"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Defense Curl"
-    },
-    {
-      "move": "Stomp"
-    }
-  ],
   "UltraMoonEntry": "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.",
   "number": 759,
   "MoonEntry": "A touch from anyone except a known friend sends it into a surging frenzy. It's an incredibly dangerous Pokémon.",
   "UltraSunEntry": "It boasts power enough to split large trees in half. The organ on its rear releases an odor that it uses to communicate with others of its kind.",
+  "BrilliantDiamondEntry": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
   "AtkYield": 1,
   "abilityHidden": "Cute Charm",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "4"
-    },
-    {
-      "move": "Payback",
-      "lvl": "8"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "12"
-    },
-    {
-      "move": "Endure",
-      "lvl": "16"
-    },
-    {
-      "move": "Strength",
-      "lvl": "20"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "24"
-    },
-    {
-      "move": "Flail",
-      "lvl": "28"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "32"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "36"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "40"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "44"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fighting",
-  "Def": 50,
+  "RedEntry": "Quadruped",
   "SpAtk": 45,
-  "eggGroup2": "",
-  "SpDef": 50,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 50,
+  "type2": "Fighting",
+  "DefYield": 0,
+  "Def": 50,
   "weight": "6.8kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.",
   "name": "Stufful",
   "Atk": 75,
   "SwordEntry": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
-  "SpDefYield": 0,
   "category": "Flailing Pokémon",
   "HPYield": 0
 }

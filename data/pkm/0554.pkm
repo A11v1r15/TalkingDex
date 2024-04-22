@@ -1,275 +1,38 @@
 {
   "ShieldEntry": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
-  "extraMega": false,
   "ability1": "Hustle",
   "YEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
   "AlphaSapphireEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
   "HP": 70,
-  "Speed": 50,
-  "SpeedYield": 0,
+  "SunEntry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
   "XPYield": 63,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 45,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [
-    {
-      "move": "Focus Punch"
-    },
-    {
-      "move": "Hammer Arm"
-    },
-    {
-      "move": "Take Down"
-    },
-    {
-      "move": "Flame Wheel"
-    },
-    {
-      "move": "Yawn"
-    },
-    {
-      "move": "Extrasensory"
-    }
-  ],
   "XEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
   "number": 554,
+  "BrilliantDiamondEntry": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
   "AtkYield": 1,
   "abilityHidden": "Inner Focus",
+  "RedEntry": "Humanoid",
+  "SpAtk": 15,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "4"
-    },
-    {
-      "move": "Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "12"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "16"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "20"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "24"
-    },
-    {
-      "move": "Fire Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "32"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "36"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "40"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "44"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
   "Def": 45,
-  "SpAtk": 15,
-  "eggGroup2": "",
-  "SpDef": 45,
   "weight": "37.5kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": true,
   "BlackEntry": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
   "OmegaRubyEntry": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Darumaka",
   "Atk": 90,
   "White2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
   "SwordEntry": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
-  "SpDefYield": 0,
   "category": "Zen Charm Pokémon",
   "HPYield": 0,
   "Black2Entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F."

@@ -1,293 +1,33 @@
 {
-  "ShieldEntry": "",
-  "extraMega": false,
   "ability1": "Electric Surge",
   "HP": 70,
   "SunEntry": "This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.",
-  "Speed": 130,
-  "SpeedYield": 3,
   "XPYield": 285,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Electric Terrain",
-      "technical": "TM90"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 75,
+  "SpeedYield": 3,
   "xpGroup": "Slow",
   "UltraMoonEntry": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
-  "eggMoves": [],
   "number": 785,
   "MoonEntry": "It confuses its enemies by flying too quickly for the eye to follow. It has a hair-trigger temper but forgets what made it angry an instant later.",
   "UltraSunEntry": "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
   "AtkYield": 0,
   "abilityHidden": "Telepathy",
-  "height": "1.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "5"
-    },
-    {
-      "move": "Fairy Wind",
-      "lvl": "10"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "15"
-    },
-    {
-      "move": "Spark",
-      "lvl": "20"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "25"
-    },
-    {
-      "move": "Charge",
-      "lvl": "30"
-    },
-    {
-      "move": "Agility",
-      "lvl": "35"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "45"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "50"
-    },
-    {
-      "move": "Nature’s Madness",
-      "lvl": "55"
-    },
-    {
-      "move": "Wild Charge",
-      "lvl": "60"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "65"
-    },
-    {
-      "move": "Power Swap",
-      "lvl": "70"
-    },
-    {
-      "move": "Electric Terrain",
-      "lvl": "75"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Fairy",
-  "Def": 85,
+  "RedEntry": "Arms",
   "SpAtk": 95,
-  "eggGroup2": "",
-  "SpDef": 75,
+  "SpAtkYield": 0,
+  "height": "1.8m",
+  "Speed": 130,
+  "type2": "Fairy",
+  "DefYield": 0,
+  "Def": 85,
   "weight": "20.5kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
   "name": "Tapu Koko",
   "Atk": 115,
-  "SwordEntry": "",
-  "SpDefYield": 0,
   "category": "Land Spirit Pokémon",
   "HPYield": 0
 }

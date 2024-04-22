@@ -2,350 +2,49 @@
   "ability1": "Pickup",
   "AlphaSapphireEntry": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
   "HP": 135,
-  "Speed": 5,
   "ability2": "Thick Fat",
-  "eggMoves": [
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Fissure"
-    },
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Belch"
-    }
-  ],
+  "SpDef": 85,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
   "number": 446,
   "MoonEntry": "When it finds something that looks like it might be edible, it goes right ahead and swallows it whole. That's why it gets fatter day by day.",
   "UltraSunEntry": "It hides food under its long fur, but it sometimes forgets about it and causes a stinky disturbance.",
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "type2": "",
   "WhiteEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-  "eggGroup2": "",
+  "ScarletEntry": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
   "weight": "105.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
   "DiamondEntry": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
   "name": "Munchlax",
-  "SpDefYield": 0,
   "HPYield": 1,
   "ShieldEntry": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
-  "extraMega": false,
   "HearthGoldEntry": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
   "YEntry": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
-  "SpeedYield": 0,
   "SunEntry": "It needs to consume its own weight in food every day. As far as flavor is concerned, it's indifferent.",
   "XPYield": 78,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "BrilliantDiamondEntry": "It wolfs down its weight in food once a day, swallowing it whole with almost no chewing.",
   "AtkYield": 0,
   "PlatinumEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
   "abilityHidden": "Gluttony",
-  "lvlUpMoves": [
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "4"
-    },
-    {
-      "move": "Recycle",
-      "lvl": "8"
-    },
-    {
-      "move": "Covet",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "20"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "28"
-    },
-    {
-      "move": "Fling",
-      "lvl": "32"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "36"
-    },
-    {
-      "move": "Metronome",
-      "lvl": "40"
-    },
-    {
-      "move": "Flail",
-      "lvl": "44"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "48"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 5,
   "DefYield": 0,
   "Def": 40,
-  "SpAtk": 40,
-  "SpDef": 85,
   "BlackEntry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
   "OmegaRubyEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "colour": "Black",
   "SoulsilverEntry": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
   "Atk": 85,
   "White2Entry": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
-  "SwordEntry": "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care.",
+  "SwordEntry": "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless\u2014it does not care.",
   "ShiningPearlEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "PearlEntry": "It hides food under its long body hair. However, it forgets it has hidden the food.",
   "category": "Big Eater Pokémon",

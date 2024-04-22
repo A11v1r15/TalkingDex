@@ -1,208 +1,32 @@
 {
   "ShieldEntry": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.",
-  "extraMega": false,
   "ability1": "Swift Swim",
   "HP": 41,
-  "Speed": 66,
-  "SpeedYield": 1,
   "XPYield": 56,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Psychic Fangs",
-      "technical": "TR97"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 30,
+  "SpeedYield": 1,
   "xpGroup": "Slow",
-  "eggMoves": [
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Acupressure"
-    },
-    {
-      "move": "Slash"
-    },
-    {
-      "move": "Night Slash"
-    }
-  ],
   "number": 846,
+  "BrilliantDiamondEntry": "After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.",
   "AtkYield": 0,
   "abilityHidden": "Propeller Tail",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "6"
-    },
-    {
-      "move": "Bite",
-      "lvl": "12"
-    },
-    {
-      "move": "Agility",
-      "lvl": "18"
-    },
-    {
-      "move": "Dive",
-      "lvl": "24"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "30"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "36"
-    },
-    {
-      "move": "Liquidation",
-      "lvl": "42"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 40,
+  "RedEntry": "Fish",
   "SpAtk": 40,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 66,
+  "DefYield": 0,
+  "Def": 40,
   "ScarletEntry": "Arrokuda can swim quickly only in a straight line. The ones that become sluggish from overeating are the first to be targeted by flocks of Wattrel.",
-  "SpDef": 30,
   "weight": "1.0kg",
   "eggGroup1": "Water 2",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "It takes down prey by charging into them with its hard, pointed jaw. But Arrokuda's eyesight is poor, so this tactic has a low success rate.",
   "name": "Arrokuda",
   "Atk": 63,
   "SwordEntry": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
-  "SpDefYield": 0,
   "category": "Rush Pokémon",
   "HPYield": 0
 }

@@ -1,249 +1,31 @@
 {
   "ShieldEntry": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
-  "extraMega": false,
   "ability1": "Gulp Missile",
   "HP": 70,
-  "Speed": 85,
-  "SpeedYield": 0,
   "XPYield": 166,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Aerial Ace"
-    },
-    {
-      "move": "Feather Dance"
-    },
-    {
-      "move": "Aqua Ring"
-    },
-    {
-      "move": "Roost"
-    }
-  ],
-  "number": 845,
-  "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Belch",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "1"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "1"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "7"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "14"
-    },
-    {
-      "move": "Pluck",
-      "lvl": "21"
-    },
-    {
-      "move": "Dive",
-      "lvl": "28"
-    },
-    {
-      "move": "Drill Peck",
-      "lvl": "35"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "42"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "49"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Water",
-  "Def": 55,
-  "SpAtk": 85,
-  "eggGroup2": "Flying",
   "SpDef": 95,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Fast",
+  "number": 845,
+  "BrilliantDiamondEntry": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
+  "AtkYield": 0,
+  "RedEntry": "Wings",
+  "SpAtk": 85,
+  "SpAtkYield": 0,
+  "height": "0.8m",
+  "Speed": 85,
+  "type2": "Water",
+  "DefYield": 0,
+  "Def": 55,
+  "eggGroup2": "Flying",
   "weight": "18.0kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Flying",
-  "hasGalarian": false,
+  "SpDefYield": 2,
   "colour": "Blue",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Cramorant",
   "Atk": 85,
   "SwordEntry": "It's so strong that it can knock out some opponents in a single hit, but it also may forget what it's battling midfight.",
-  "SpDefYield": 2,
   "category": "Gulp Pokémon",
   "HPYield": 0
 }

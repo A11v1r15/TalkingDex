@@ -1,268 +1,39 @@
 {
   "ShieldEntry": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
-  "extraMega": false,
   "ability1": "Overcoat",
   "YEntry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
   "AlphaSapphireEntry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
   "HP": 65,
-  "Speed": 30,
-  "SpeedYield": 0,
+  "SunEntry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
   "XPYield": 130,
   "ability2": "Magic Guard",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 60,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "XEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
   "number": 578,
+  "BrilliantDiamondEntry": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
   "AtkYield": 0,
   "abilityHidden": "Regenerator",
+  "RedEntry": "Ball",
+  "SpAtk": 125,
+  "SpAtkYield": 2,
   "height": "0.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Recover",
-      "lvl": "1"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "12"
-    },
-    {
-      "move": "Charm",
-      "lvl": "16"
-    },
-    {
-      "move": "Psyshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "24"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "24"
-    },
-    {
-      "move": "Ally Switch",
-      "lvl": "28"
-    },
-    {
-      "move": "Pain Split",
-      "lvl": "35"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "40"
-    },
-    {
-      "move": "Skill Swap",
-      "lvl": "46"
-    },
-    {
-      "move": "Future Sight",
-      "lvl": "52"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "58"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
   "Def": 50,
-  "SpAtk": 125,
-  "eggGroup2": "",
-  "SpDef": 60,
   "weight": "8.0kg",
   "eggGroup1": "Amorphous",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
   "BlackEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
   "OmegaRubyEntry": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "name": "Duosion",
   "Atk": 40,
   "White2Entry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
-  "SwordEntry": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
-  "SpDefYield": 0,
+  "SwordEntry": "Its psychic power can supposedly cover a range of more than half a mile\u2014but only if its two brains can agree with each other.",
   "category": "Mitosis Pokémon",
   "HPYield": 0,
   "Black2Entry": "When their two divided brains think the same thoughts, their psychic power is maximized."

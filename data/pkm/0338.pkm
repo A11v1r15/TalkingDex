@@ -1,349 +1,39 @@
 {
   "EmeraldEntry": "Solar energy is the source of this Pokémon's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.",
   "ability1": "Levitate",
-  "AlphaSapphireEntry": "Sunlight is the source of Solrock’s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
+  "AlphaSapphireEntry": "Sunlight is the source of Solrock\u2019s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
   "HP": 90,
-  "Speed": 70,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 65,
+  "SpeedYield": 0,
   "number": 338,
+  "RedEntry": "Ball",
+  "LegendsArceusEntry": "This new Pokémon species is rumored to be an avatar of the sun. The Pokémon gives off light while spinning.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "1.2m",
   "type2": "Psychic",
   "WhiteEntry": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-  "eggGroup2": "",
   "weight": "154.0kg",
   "eggGroup1": "Mineral",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Sunlight is the source of Solrock's power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
   "name": "Solrock",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
-  "extraMega": false,
   "HearthGoldEntry": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
   "YEntry": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
-  "SpeedYield": 0,
+  "SunEntry": "Sunlight is the source of Solrock�s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
   "XPYield": 161,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Fast",
   "XEntry": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
   "BrilliantDiamondEntry": "This new Pokémon species is rumored to be an avatar of the sun. The Pokémon gives off light while spinning.",
   "AtkYield": 2,
   "PlatinumEntry": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
-  "abilityHidden": "",
-  "lvlUpMoves": [
-    {
-      "move": "Flare Blitz",
-      "lvl": "1"
-    },
-    {
-      "move": "Morning Sun",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "5"
-    },
-    {
-      "move": "Rock Polish",
-      "lvl": "10"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "15"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Cosmic Power",
-      "lvl": "25"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "30"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "35"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "40"
-    },
-    {
-      "move": "Wonder Room",
-      "lvl": "45"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "50"
-    }
-  ],
+  "Speed": 70,
   "DefYield": 0,
   "Def": 85,
-  "SpAtk": 55,
-  "SpDef": 65,
   "RubyEntry": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in the air and moves silently. In battle, this Pokémon releases intensely bright light.",
   "BlackEntry": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
   "OmegaRubyEntry": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light.",

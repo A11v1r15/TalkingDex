@@ -1,259 +1,42 @@
 {
   "ShieldEntry": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
-  "extraMega": false,
   "ability1": "Cute Charm",
   "YEntry": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
   "AlphaSapphireEntry": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
   "HP": 55,
-  "Speed": 75,
-  "SpeedYield": 1,
+  "SunEntry": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
   "XPYield": 60,
   "ability2": "Technician",
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 40,
+  "SpeedYield": 1,
   "xpGroup": "Fast",
-  "eggMoves": [
-    {
-      "move": "Tail Whip"
-    },
-    {
-      "move": "Aqua Tail"
-    },
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Flail"
-    }
-  ],
   "XEntry": "Minccino greet each other by grooming one another thoroughly with their tails.",
   "UltraMoonEntry": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
   "number": 572,
   "UltraSunEntry": "A clean freak that will not allow even the slightest mess, it uses its tail like a mop to thoroughly clean any and all filth.",
+  "BrilliantDiamondEntry": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
   "AtkYield": 0,
   "abilityHidden": "Skill Link",
+  "RedEntry": "Quadruped",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Baby-Doll Eyes",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "4"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "8"
-    },
-    {
-      "move": "Sing",
-      "lvl": "12"
-    },
-    {
-      "move": "Charm",
-      "lvl": "16"
-    },
-    {
-      "move": "Swift",
-      "lvl": "20"
-    },
-    {
-      "move": "Encore",
-      "lvl": "24"
-    },
-    {
-      "move": "After You",
-      "lvl": "28"
-    },
-    {
-      "move": "Tail Slap",
-      "lvl": "32"
-    },
-    {
-      "move": "Tickle",
-      "lvl": "36"
-    },
-    {
-      "move": "Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "44"
-    },
-    {
-      "move": "Last Resort",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 75,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
   "Def": 40,
-  "SpAtk": 40,
-  "eggGroup2": "",
-  "SpDef": 40,
   "weight": "5.8kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
   "BlackEntry": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
   "OmegaRubyEntry": "Minccino greet each other by grooming one another thoroughly with their tails.",
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
   "name": "Minccino",
   "Atk": 50,
   "White2Entry": "Minccino greet each other by grooming one another thoroughly with their tails.",
   "SwordEntry": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
-  "SpDefYield": 0,
   "category": "Chinchilla Pokémon",
   "HPYield": 0,
   "Black2Entry": "Minccino greet each other by grooming one another thoroughly with their tails."

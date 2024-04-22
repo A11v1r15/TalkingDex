@@ -1,244 +1,40 @@
 {
   "ShieldEntry": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters.",
-  "extraMega": false,
   "ability1": "Compound Eyes",
   "YEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "AlphaSapphireEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "HP": 50,
-  "Speed": 65,
-  "SpeedYield": 1,
+  "SunEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "XPYield": 64,
   "ability2": "Unnerve",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Speeded Swap",
-      "technical": "TM62"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 50,
+  "SpeedYield": 1,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Poison Sting"
-    },
-    {
-      "move": "Lunge"
-    },
-    {
-      "move": "Struggle Bug"
-    },
-    {
-      "move": "Double Team"
-    },
-    {
-      "move": "Infestation"
-    }
-  ],
   "XEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "number": 595,
+  "BrilliantDiamondEntry": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters.",
   "AtkYield": 0,
   "abilityHidden": "Swarm",
+  "RedEntry": "Insectoid ",
+  "SpAtk": 57,
+  "SpAtkYield": 0,
   "height": "0.1m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Electroweb",
-      "lvl": "4"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "8"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Electro Ball",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Slash",
-      "lvl": "32"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "37"
-    },
-    {
-      "move": "Screech",
-      "lvl": "40"
-    },
-    {
-      "move": "Gastro Acid",
-      "lvl": "44"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
+  "Speed": 65,
   "type2": "Electric",
+  "DefYield": 0,
   "WhiteEntry": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
   "Def": 50,
-  "SpAtk": 57,
-  "eggGroup2": "",
-  "SpDef": 50,
   "weight": "0.6kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
   "BlackEntry": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
   "OmegaRubyEntry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Joltik",
   "Atk": 47,
   "White2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
   "SwordEntry": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
-  "SpDefYield": 0,
   "category": "Attaching Pokémon",
   "HPYield": 0,
   "Black2Entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."

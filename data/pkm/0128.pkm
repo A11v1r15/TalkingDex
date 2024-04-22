@@ -5,313 +5,46 @@
   "AlphaSapphireEntry": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
   "HP": 75,
   "SilverEntry": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
-  "Speed": 110,
   "ability2": "Anger Point",
-  "eggMoves": [],
+  "SpDef": 70,
+  "SpeedYield": 1,
   "UltraMoonEntry": "The climate seems to be related to the reason Tauros in Alola are a little calmer than those in other regions.",
   "number": 128,
   "MoonEntry": "Although it's known to be a fierce Pokémon, Tauros in the Alola region are said to possess a measure of calmness.",
   "UltraSunEntry": "They live in groups. The one with the longest, thickest, and most-scarred horns is the boss of the herd.",
   "RedEntry": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+  "LegendsArceusEntry": "Once it takes aim at its prey, it makes a headlong charge. It is famous for its violent nature.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "1.4m",
-  "type2": "",
   "WhiteEntry": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
-  "eggGroup2": "",
   "ScarletEntry": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
   "CrystalEntry": "These violent Pokémon fight with other members of their herd in order to prove their strength.",
   "weight": "88.4kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
   "GoldEntry": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
   "SapphireEntry": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "A rowdy Pokémon with a lot of stamina. Once running, it won't stop until it hits something.",
   "DiamondEntry": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
   "name": "Tauros",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "The Tauros of the Galar region are volatile in nature, and they won't allow people to ride on their backs.",
-  "extraMega": false,
   "HearthGoldEntry": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
   "YEntry": "When it is about to tackle, it whips its body repeatedly with its three long tails.",
-  "SpeedYield": 1,
   "SunEntry": "Historically, people in areas all over the world have ridden Tauros, but the practice is said to have started in Alola.",
   "XPYield": 172,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
   "BrilliantDiamondEntry": "Once it takes aim at its prey, it makes a headlong charge. It is famous for its violent nature.",
   "AtkYield": 1,
   "PlatinumEntry": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
   "abilityHidden": "Sheer Force",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Work Up",
-      "lvl": "5"
-    },
-    {
-      "move": "Payback",
-      "lvl": "10"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "15"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "20"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "25"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "30"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "35"
-    },
-    {
-      "move": "Rest",
-      "lvl": "40"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "45"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "50"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "55"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 110,
   "DefYield": 0,
   "Def": 95,
-  "SpAtk": 40,
-  "SpDef": 70,
   "RubyEntry": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
   "BlackEntry": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
   "OmegaRubyEntry": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",

@@ -1,228 +1,44 @@
 {
+  "ShieldEntry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
   "ability1": "Ice Body",
+  "YEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
   "AlphaSapphireEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
   "HP": 36,
-  "Speed": 44,
+  "SunEntry": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
+  "XPYield": 61,
   "ability2": "Snow Cloak",
-  "eggMoves": [
-    {
-      "move": "Autotomize"
-    },
-    {
-      "move": "Magnet Rise"
-    },
-    {
-      "move": "Ice Shard"
-    },
-    {
-      "move": "Explosion"
-    },
-    {
-      "move": "Aurora Veil"
-    },
-    {
-      "move": "Icicle Crash"
-    }
-  ],
+  "SpDef": 60,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "XEntry": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
   "UltraMoonEntry": "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
   "number": 582,
   "MoonEntry": "It feels pleasantly cool when embraced. This Pokémon is treasured by households in warm regions.",
-  "UltraSunEntry": "It exhales cold air that is at –58 degrees Fahrenheit. When it's in a warm place, it shrinks little by little.",
-  "height": "0.4m",
-  "type2": "",
-  "WhiteEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
-  "eggGroup2": "",
-  "weight": "5.7kg",
-  "eggGroup1": "Mineral",
-  "hasMega": false,
-  "type1": "Ice",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 1,
-  "name": "Vanillite",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
-  "extraMega": false,
-  "YEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
-  "SunEntry": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
-  "SpeedYield": 0,
-  "XPYield": 61,
-  "tmTrMoves": [
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Icicle Speedar",
-      "technical": "TM51"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "XEntry": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+  "UltraSunEntry": "It exhales cold air that is at \u201358 degrees Fahrenheit. When it's in a warm place, it shrinks little by little.",
+  "BrilliantDiamondEntry": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at ?58 degrees Fahrenheit to make itself more comfortable.",
   "AtkYield": 0,
   "abilityHidden": "Weak Armor",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "4"
-    },
-    {
-      "move": "Mist",
-      "lvl": "8"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "12"
-    },
-    {
-      "move": "Avalanche",
-      "lvl": "16"
-    },
-    {
-      "move": "Hail",
-      "lvl": "20"
-    },
-    {
-      "move": "Icicle Speedar",
-      "lvl": "24"
-    },
-    {
-      "move": "Uproar",
-      "lvl": "28"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "32"
-    },
-    {
-      "move": "Mirror Coat",
-      "lvl": "36"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "40"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "44"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "48"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 50,
+  "RedEntry": "Blob",
   "SpAtk": 65,
-  "SpDef": 60,
+  "SpAtkYield": 1,
+  "height": "0.4m",
+  "Speed": 44,
+  "DefYield": 0,
+  "WhiteEntry": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+  "Def": 50,
+  "weight": "5.7kg",
+  "eggGroup1": "Mineral",
+  "type1": "Ice",
   "BlackEntry": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
   "OmegaRubyEntry": "The temperature of their breath is -58 degrees Fahrenheit. They create snow crystals and make snow fall in the areas around them.",
+  "SpDefYield": 0,
   "colour": "White",
+  "LetsGoPikachuEntry": "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
+  "name": "Vanillite",
   "Atk": 50,
   "White2Entry": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
   "SwordEntry": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
   "category": "Fresh Snow Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F."
 }

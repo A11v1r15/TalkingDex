@@ -3,283 +3,37 @@
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "Regirock's body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
   "HP": 80,
-  "Speed": 50,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 100,
+  "SpeedYield": 0,
   "number": 377,
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "Its entire body is made of rock. If any part chips off in battle, Regirock attaches rocks to repair itself.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "1.7m",
-  "type2": "",
   "WhiteEntry": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
-  "eggGroup2": "",
   "weight": "230.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Regirock's body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
   "name": "Regirock",
-  "SpDefYield": 0,
   "HPYield": 0,
-  "ShieldEntry": "Cutting-edge technology was used to study the internals of this Pokémon's rock body, but nothing was found—not even a brain or a heart.",
-  "extraMega": false,
+  "ShieldEntry": "Cutting-edge technology was used to study the internals of this Pokémon's rock body, but nothing was found\u2014not even a brain or a heart.",
   "HearthGoldEntry": "The same rocks that form its body have been found in ground layers around the world.",
   "YEntry": "The same rocks that form its body have been found in ground layers around the world.",
-  "SpeedYield": 0,
+  "SunEntry": "Regirock's body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
   "XPYield": 290,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
   "BrilliantDiamondEntry": "Its entire body is made of rock. If any part chips off in battle, Regirock attaches rocks to repair itself.",
   "AtkYield": 0,
   "PlatinumEntry": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
   "abilityHidden": "Sturdy",
-  "lvlUpMoves": [
-    {
-      "move": "Charge Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "6"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "18"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "24"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "36"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "42"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "48"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "54"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "60"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "66"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "72"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "78"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 3,
   "Def": 200,
-  "SpAtk": 50,
-  "SpDef": 100,
   "RubyEntry": "Regirock was sealed away by people long ago. If this Pokémon's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
   "BlackEntry": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
   "OmegaRubyEntry": "Regirock was sealed away by people long ago. If this Pokémon's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",

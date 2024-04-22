@@ -4,294 +4,46 @@
   "AlphaSapphireEntry": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
   "HP": 85,
   "SilverEntry": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
-  "Speed": 130,
   "ability2": "Illuminate",
+  "SpDef": 80,
+  "SpeedYield": 3,
   "UltraMoonEntry": "It feeds on the blood of living people and Pokémon. If it can't drink any blood for even a short while, it becomes weak and unable to fly.",
-  "eggMoves": [],
   "number": 169,
   "MoonEntry": "Silent and swift in its four-winged flight, it bites down on its prey before they realize what's happening. In a heartbeat, it drains their blood.",
   "UltraSunEntry": "Its fangs are so sharp, if it bites you in the dark and sucks your blood, you won't notice any pain or realize you've been bitten.",
+  "RedEntry": "Bug-wings",
   "LegendsArceusEntry": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "1.8m",
   "type2": "Flying",
   "WhiteEntry": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
-  "eggGroup2": "",
+  "ScarletEntry": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed.",
   "CrystalEntry": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
   "weight": "75.0kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Poison",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
   "SapphireEntry": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It feeds on the blood of living people and Pokémon. If it can't drink any blood for even a short while, it becomes weak and unable to fly.",
   "DiamondEntry": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
   "name": "Crobat",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "This Pokémon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.",
-  "extraMega": false,
   "HearthGoldEntry": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
   "YEntry": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
-  "SpeedYield": 3,
   "SunEntry": "Both its legs became wings, and as a result, it can't move well on the ground. All it can do is crawl around.",
   "XPYield": 268,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Air Slash",
-      "technical": "TM95"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
   "BrilliantDiamondEntry": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
   "AtkYield": 0,
   "PlatinumEntry": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
   "abilityHidden": "Water Absorb",
-  "lvlUpMoves": [
-    {
-      "move": "Cross Poison",
-      "lvl": "0"
-    },
-    {
-      "move": "Cross Poison",
-      "lvl": "1"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "1"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "1"
-    },
-    {
-      "move": "Screech",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Fang",
-      "lvl": "15"
-    },
-    {
-      "move": "Quick Guard",
-      "lvl": "20"
-    },
-    {
-      "move": "Air Cutter",
-      "lvl": "27"
-    },
-    {
-      "move": "Bite",
-      "lvl": "34"
-    },
-    {
-      "move": "Haze",
-      "lvl": "41"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "48"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "55"
-    },
-    {
-      "move": "Air Slash",
-      "lvl": "62"
-    },
-    {
-      "move": "Leech Life",
-      "lvl": "69"
-    }
-  ],
+  "Speed": 130,
   "DefYield": 0,
   "Def": 80,
-  "SpAtk": 70,
-  "SpDef": 80,
   "RubyEntry": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
   "BlackEntry": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
   "OmegaRubyEntry": "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",

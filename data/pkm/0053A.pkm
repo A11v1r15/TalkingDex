@@ -3,288 +3,35 @@
   "ability1": "Fur Coat",
   "HP": 65,
   "SunEntry": "Its round face and smooth coat\u2014softer than the most high-class velvet\u2014have made this a very popular Pokémon in Alola.",
+  "XPYield": 2,
   "ability2": "Technician",
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
+  "SpDef": 65,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {"move": "Covet"},
-    {"move": "Flail"},
-    {"move": "Flatter"},
-    {"move": "Hypnosis"},
-    {"move": "Parting Shot"},
-    {"move": "Spite"}
-  ],
   "UltraMoonEntry": "This Pokémon is popular with rich people. It's also targeted by hunters who are after the jewel in its forehead.",
   "number": 53,
   "MoonEntry": "It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.",
-  "SpAtk": 75,
   "UltraSunEntry": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it's mostly made of the same material.",
-  "Atk": 60,
+  "BrilliantDiamondEntry": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+  "AtkYield": 0,
   "abilityHidden": "Rattled",
-  "lvlUpMoves": [
-    {
-      "move": "Power Gem",
-      "lvl": "1"
-    },
-    {
-      "move": "Quash",
-      "lvl": "1"
-    },
-    {
-      "move": "Switcheroo",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": ""
-    },
-    {
-      "move": "Pay Day",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "31"
-    },
-    {
-      "move": "Screech",
-      "lvl": "36"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "42"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "48"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "54"
-    }
-  ],
-  "type2": "",
-  "eggGroup2": "",
+  "RedEntry": "Quadruped",
+  "SpAtk": 75,
+  "SpAtkYield": 0,
+  "height": "33.0kg",
   "Speed": 115,
+  "DefYield": 0,
+  "Def": 60,
+  "weight": "1.1m",
   "eggGroup1": "Field",
   "type1": "Dark",
-  "Def": 60,
+  "SpDefYield": 0,
   "LetsGoEeveeEntry": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+  "colour": "Blue",
   "LetsGoPikachuEntry": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
   "name": "Alolan Persian",
+  "Atk": 60,
   "SwordEntry": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
-  "SpDef": 65
+  "category": "Classy Cat Pokémon",
+  "HPYield": 154
 }

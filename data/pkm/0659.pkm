@@ -1,248 +1,36 @@
 {
   "ShieldEntry": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments.",
-  "extraMega": false,
   "ability1": "Pickup",
   "YEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
   "AlphaSapphireEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
   "HP": 38,
-  "Speed": 57,
-  "SpeedYield": 1,
+  "SunEntry": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
   "XPYield": 47,
   "ability2": "Cheek Pouch",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 36,
+  "SpeedYield": 1,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Defense Curl"
-    },
-    {
-      "move": "Rollout"
-    }
-  ],
   "XEntry": "They use their large ears to dig burrows. They will dig the whole night through.",
   "number": 659,
+  "BrilliantDiamondEntry": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments.",
   "AtkYield": 0,
   "abilityHidden": "Huge Power",
-  "height": "0.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "3"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "6"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "9"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Flail",
-      "lvl": "15"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "18"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "21"
-    },
-    {
-      "move": "Dig",
-      "lvl": "24"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "27"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "30"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "33"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "36"
-    },
-    {
-      "move": "Super Fang",
-      "lvl": "39"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 38,
+  "RedEntry": "Upright",
   "SpAtk": 32,
-  "eggGroup2": "",
-  "SpDef": 36,
+  "SpAtkYield": 0,
+  "height": "0.4m",
+  "Speed": 57,
+  "DefYield": 0,
+  "Def": 38,
   "weight": "5.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
   "OmegaRubyEntry": "They use their large ears to dig burrows. They will dig the whole night through.",
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Bunnelby",
   "Atk": 36,
   "SwordEntry": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
-  "SpDefYield": 0,
   "category": "Digging Pokémon",
   "HPYield": 0
 }

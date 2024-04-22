@@ -1,295 +1,37 @@
 {
   "ShieldEntry": "If the two don't work well together, both their offense and defense fall apart. Without good teamwork, they won't survive.",
-  "extraMega": false,
   "ability1": "Tough Claws",
   "YEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
   "AlphaSapphireEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
   "HP": 42,
-  "Speed": 50,
-  "SpeedYield": 0,
+  "SunEntry": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
   "XPYield": 61,
   "ability2": "Sniper",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Razor Shell",
-      "technical": "TM83"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 56,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Switcheroo"
-    },
-    {
-      "move": "Night Slash"
-    },
-    {
-      "move": "Sand Attack"
-    }
-  ],
   "XEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
   "number": 688,
+  "BrilliantDiamondEntry": "If the two don't work well together, both their offense and defense fall apart. Without good teamwork, they won't survive.",
   "AtkYield": 1,
   "abilityHidden": "Pickpocket",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "4"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "8"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "12"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "16"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "20"
-    },
-    {
-      "move": "Rock Polish",
-      "lvl": "24"
-    },
-    {
-      "move": "Slash",
-      "lvl": "28"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "32"
-    },
-    {
-      "move": "Razor Shell",
-      "lvl": "36"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "40"
-    },
-    {
-      "move": "Cross Chop",
-      "lvl": "44"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Water",
-  "Def": 67,
+  "RedEntry": "Heads",
   "SpAtk": 39,
-  "eggGroup2": "",
-  "SpDef": 56,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 50,
+  "type2": "Water",
+  "DefYield": 0,
+  "Def": 67,
   "weight": "31.0kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
   "OmegaRubyEntry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Binacle",
   "Atk": 52,
   "SwordEntry": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
-  "SpDefYield": 0,
   "category": "Two-Handed Pokémon",
   "HPYield": 0
 }

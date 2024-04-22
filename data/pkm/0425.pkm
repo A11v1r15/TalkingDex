@@ -1,282 +1,54 @@
 {
   "ability1": "Aftermath",
-  "AlphaSapphireEntry": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+  "AlphaSapphireEntry": "\"These Pokémon are called the \"\"Signpost for Wandering Spirits.\"\" Children holding them sometimes vanish.\"",
   "HP": 90,
-  "Speed": 70,
   "ability2": "Unburden",
-  "eggMoves": [
-    {
-      "move": "Memento"
-    },
-    {
-      "move": "Disable"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Hypnosis"
-    },
-    {
-      "move": "Clear Smog"
-    },
-    {
-      "move": "Defog"
-    }
-  ],
+  "SpDef": 44,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
   "number": 425,
   "MoonEntry": "If for some reason its body bursts, its soul spills out with a screaming sound.",
   "UltraSunEntry": "Its round body is stuffed with souls and expands each time it leads someone away.",
+  "RedEntry": "Arms",
   "LegendsArceusEntry": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
+  "SpAtk": 60,
+  "SpAtkYield": 0,
   "height": "0.4m",
   "type2": "Flying",
-  "WhiteEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
-  "eggGroup2": "",
+  "WhiteEntry": "\"Because of the way it floats aimlessly, an old folktale calls it a \"\"Signpost for Wandering Spirits.\"\"\"",
   "ScarletEntry": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
   "weight": "1.2kg",
   "eggGroup1": "Amorphous",
-  "hasMega": false,
   "type1": "Ghost",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
   "DiamondEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "name": "Drifloon",
-  "SpDefYield": 0,
   "HPYield": 1,
   "ShieldEntry": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
-  "extraMega": false,
   "HearthGoldEntry": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
-  "YEntry": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
-  "SpeedYield": 0,
+  "YEntry": "\"These Pokémon are called the \"\"Signpost for Wandering Spirits.\"\" Children holding them sometimes vanish.\"",
   "SunEntry": "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
   "XPYield": 70,
-  "tmTrMoves": [
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Fluctuating",
   "XEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "BrilliantDiamondEntry": "It is a Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "AtkYield": 0,
-  "PlatinumEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+  "PlatinumEntry": "\"Because of the way it floats aimlessly, an old folktale calls it a \"\"Signpost for Wandering Spirits.\"\"\"",
   "abilityHidden": "Flare Boost",
-  "lvlUpMoves": [
-    {
-      "move": "Minimize",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "4"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "8"
-    },
-    {
-      "move": "Payback",
-      "lvl": "12"
-    },
-    {
-      "move": "Hex",
-      "lvl": "16"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "20"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "24"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "24"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "24"
-    },
-    {
-      "move": "Self-Destruct",
-      "lvl": "29"
-    },
-    {
-      "move": "Destiny Bond",
-      "lvl": "32"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "36"
-    },
-    {
-      "move": "Tailwind",
-      "lvl": "40"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 70,
   "DefYield": 0,
   "Def": 34,
-  "SpAtk": 60,
-  "SpDef": 44,
-  "BlackEntry": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+  "BlackEntry": "\"Because of the way it floats aimlessly, an old folktale calls it a \"\"Signpost for Wandering Spirits.\"\"\"",
   "OmegaRubyEntry": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
   "colour": "Purple",
-  "VioletEntry": "Because of the way it floats aimlessly, an old folktale calls it a “signpost for wandering spirits.”",
+  "VioletEntry": "Because of the way it floats aimlessly, an old folktale calls it a �signpost for wandering spirits.�",
   "SoulsilverEntry": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
   "Atk": 50,
-  "White2Entry": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+  "White2Entry": "\"These Pokémon are called the \"\"Signpost for Wandering Spirits.\"\" Children holding them sometimes vanish.\"",
   "SwordEntry": "Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",
   "ShiningPearlEntry": "It tugs on the hands of children to spirit them away. However, it gets pulled around instead.",
   "PearlEntry": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
   "category": "Balloon Pokémon",
-  "Black2Entry": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish."
+  "Black2Entry": "\"These Pokémon are called the \"\"Signpost for Wandering Spirits.\"\" Children holding them sometimes vanish.\""
 }

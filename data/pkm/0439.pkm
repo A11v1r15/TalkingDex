@@ -2,317 +2,42 @@
   "ability1": "Soundproof",
   "AlphaSapphireEntry": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
   "HP": 20,
-  "Speed": 60,
   "ability2": "Filter",
-  "eggMoves": [
-    {
-      "move": "Hypnosis"
-    },
-    {
-      "move": "Fake Out"
-    },
-    {
-      "move": "Confuse Ray"
-    },
-    {
-      "move": "Power Split"
-    },
-    {
-      "move": "Tickle"
-    }
-  ],
+  "SpDef": 90,
+  "SpeedYield": 0,
   "UltraMoonEntry": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
   "number": 439,
   "UltraSunEntry": "It does its absolute best to mimic the movements and expressions of its opponents, but it's still not very good at it.",
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "0.6m",
   "type2": "Fairy",
   "WhiteEntry": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
-  "eggGroup2": "",
+  "ScarletEntry": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
   "weight": "13.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Psychic",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 1,
+  "LetsGoPikachuEntry": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
   "DiamondEntry": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
   "name": "Mime Jr.",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "It looks for a Mr. Rime that's a good dancer and carefully copies the Mr. Rime's steps like an apprentice.",
-  "extraMega": false,
   "HearthGoldEntry": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
   "YEntry": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
-  "SpeedYield": 0,
+  "SunEntry": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
   "XPYield": 62,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Trick Room",
-      "technical": "TM70"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Magic Room",
-      "technical": "TM72"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Misty Terrain",
-      "technical": "TM89"
-    },
-    {
-      "move": "Psychic Terrain",
-      "technical": "TM91"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Future Sight",
-      "technical": "TR34"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
   "BrilliantDiamondEntry": "It habitually mimics foes. The mimicked foe is said to be unable to look away from Mime Jr.",
   "AtkYield": 0,
   "PlatinumEntry": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
   "abilityHidden": "Technician",
-  "lvlUpMoves": [
-    {
-      "move": "Pound",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "4"
-    },
-    {
-      "move": "Encore",
-      "lvl": "8"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "12"
-    },
-    {
-      "move": "Role Play",
-      "lvl": "16"
-    },
-    {
-      "move": "Protect",
-      "lvl": "20"
-    },
-    {
-      "move": "Recycle",
-      "lvl": "24"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "28"
-    },
-    {
-      "move": "Mimic",
-      "lvl": "32"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "36"
-    },
-    {
-      "move": "Reflect",
-      "lvl": "36"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "36"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "40"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "lvl": "44"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "48"
-    },
-    {
-      "move": "Teeter Dance",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 45,
-  "SpAtk": 70,
-  "SpDef": 90,
   "BlackEntry": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
   "OmegaRubyEntry": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
   "colour": "Pink",

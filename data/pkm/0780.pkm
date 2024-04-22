@@ -1,327 +1,38 @@
 {
-  "ShieldEntry": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
-  "extraMega": false,
+  "ShieldEntry": "Drampa is a kind and friendly Pokémon\u2014up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
   "ability1": "Berserk",
   "HP": 78,
   "SunEntry": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
-  "Speed": 36,
-  "SpeedYield": 0,
   "XPYield": 170,
   "ability2": "Sap Sipper",
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 91,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Dragon Rush"
-    },
-    {
-      "move": "Mist"
-    },
-    {
-      "move": "Tickle"
-    }
-  ],
   "UltraMoonEntry": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.",
   "number": 780,
   "MoonEntry": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
   "UltraSunEntry": "If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.",
+  "BrilliantDiamondEntry": "Drampa is a kind and friendly Pokémon�up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
   "AtkYield": 0,
   "abilityHidden": "Cloud Nine",
-  "height": "3.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Play Nice",
-      "lvl": "1"
-    },
-    {
-      "move": "Echoed Voice",
-      "lvl": "1"
-    },
-    {
-      "move": "Twister",
-      "lvl": "5"
-    },
-    {
-      "move": "Protect",
-      "lvl": "10"
-    },
-    {
-      "move": "Glare",
-      "lvl": "15"
-    },
-    {
-      "move": "Safeguard",
-      "lvl": "20"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "25"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "30"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "35"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "40"
-    },
-    {
-      "move": "Fly",
-      "lvl": "45"
-    },
-    {
-      "move": "Hyper Voice",
-      "lvl": "50"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "55"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Dragon",
-  "Def": 85,
+  "RedEntry": "Squiggle",
   "SpAtk": 135,
+  "SpAtkYield": 2,
+  "height": "3.0m",
+  "Speed": 36,
+  "type2": "Dragon",
+  "DefYield": 0,
+  "Def": 85,
   "eggGroup2": "Dragon",
-  "SpDef": 91,
   "weight": "185.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "White",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
+  "LetsGoPikachuEntry": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.",
   "name": "Drampa",
   "Atk": 60,
   "SwordEntry": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
-  "SpDefYield": 0,
   "category": "Placid Pokémon",
   "HPYield": 0
 }

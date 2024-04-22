@@ -4,304 +4,45 @@
   "AlphaSapphireEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
   "HP": 75,
   "SilverEntry": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.",
-  "Speed": 45,
   "ability2": "Sniper",
-  "eggMoves": [],
+  "SpDef": 75,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
   "number": 224,
   "UltraSunEntry": "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pokémon with keen noses get lost.",
+  "RedEntry": "Tentacles",
   "LegendsArceusEntry": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
+  "SpAtk": 105,
+  "SpAtkYield": 1,
   "height": "0.9m",
-  "type2": "",
   "WhiteEntry": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
   "eggGroup2": "Water 2",
+  "ScarletEntry": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
   "CrystalEntry": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
   "weight": "28.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
   "SapphireEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
-  "hasAlolan": false,
-  "SpAtkYield": 1,
+  "LetsGoPikachuEntry": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
   "DiamondEntry": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
   "name": "Octillery",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
-  "extraMega": false,
   "HearthGoldEntry": "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
   "YEntry": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
-  "SpeedYield": 0,
+  "SunEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
   "XPYield": 168,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
   "BrilliantDiamondEntry": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
   "AtkYield": 1,
   "PlatinumEntry": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
   "abilityHidden": "Moody",
-  "lvlUpMoves": [
-    {
-      "move": "Octazooka",
-      "lvl": "0"
-    },
-    {
-      "move": "Octazooka",
-      "lvl": "1"
-    },
-    {
-      "move": "Gunk Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "1"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Psybeam",
-      "lvl": "12"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "16"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "20"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "24"
-    },
-    {
-      "move": "Bullet Seed",
-      "lvl": "30"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "36"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "42"
-    },
-    {
-      "move": "Soak",
-      "lvl": "48"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "54"
-    }
-  ],
+  "Speed": 45,
   "DefYield": 0,
   "Def": 75,
-  "SpAtk": 105,
-  "SpDef": 75,
   "RubyEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
   "BlackEntry": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
   "OmegaRubyEntry": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",

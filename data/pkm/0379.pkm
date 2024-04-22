@@ -3,279 +3,37 @@
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
   "HP": 80,
-  "Speed": 50,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 150,
+  "SpeedYield": 0,
   "number": 379,
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+  "SpAtk": 75,
+  "SpAtkYield": 0,
   "height": "1.9m",
-  "type2": "",
   "WhiteEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
-  "eggGroup2": "",
   "weight": "205.0kg",
   "eggGroup1": "Undiscovered",
-  "hasMega": false,
   "type1": "Steel",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "SapphireEntry": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
   "name": "Registeel",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "It's rumored that this Pokémon was born deep underground in the planet's mantle and that it emerged onto the surface 10,000 years ago.",
-  "extraMega": false,
   "HearthGoldEntry": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
   "YEntry": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
-  "SpeedYield": 0,
+  "SunEntry": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
   "XPYield": 290,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
   "BrilliantDiamondEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
   "AtkYield": 0,
   "PlatinumEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
   "abilityHidden": "Light Metal",
-  "lvlUpMoves": [
-    {
-      "move": "Charge Beam",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "6"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "18"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "24"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "24"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "36"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "36"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "42"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "48"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "54"
-    },
-    {
-      "move": "Lock-On",
-      "lvl": "60"
-    },
-    {
-      "move": "Zap Cannon",
-      "lvl": "66"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "72"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "78"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 2,
   "Def": 150,
-  "SpAtk": 75,
-  "SpDef": 150,
   "RubyEntry": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
   "BlackEntry": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
   "OmegaRubyEntry": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",

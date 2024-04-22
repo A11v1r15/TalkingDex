@@ -1,272 +1,47 @@
 {
+  "ShieldEntry": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming.",
   "ability1": "Intimidate",
+  "YEntry": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
   "AlphaSapphireEntry": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
   "HP": 50,
-  "Speed": 65,
+  "SunEntry": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+  "XPYield": 58,
   "ability2": "Moxie",
-  "eggMoves": [
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Aqua Tail"
-    },
-    {
-      "move": "Spite"
-    }
-  ],
-  "UltraMoonEntry": "Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called “the cleaner of the desert.”",
+  "SpDef": 35,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Slow",
+  "XEntry": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+  "UltraMoonEntry": "Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called \u201cthe cleaner of the desert.\u201d",
   "number": 551,
   "MoonEntry": "It conceals itself in the sand and chomps down on the legs of any prey that unwarily walk over it. Its favorite food is Trapinch.",
   "UltraSunEntry": "Alola, where it's warm all year round, is a comfortable environment for this Pokémon. Sometimes you'll even see it outside of deserts.",
+  "BrilliantDiamondEntry": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming.",
+  "AtkYield": 1,
+  "abilityHidden": "Anger Point",
+  "RedEntry": "Quadruped",
+  "SpAtk": 35,
+  "SpAtkYield": 0,
   "height": "0.7m",
+  "Speed": 65,
   "type2": "Dark",
+  "DefYield": 0,
   "WhiteEntry": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
-  "eggGroup2": "",
+  "Def": 35,
   "ScarletEntry": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
   "weight": "15.2kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Sandile",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming.",
-  "extraMega": false,
-  "YEntry": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
-  "SunEntry": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
-  "SpeedYield": 0,
-  "XPYield": 58,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Slow",
-  "XEntry": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
-  "AtkYield": 1,
-  "abilityHidden": "Anger Point",
-  "lvlUpMoves": [
-    {
-      "move": "Power Trip",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "3"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "6"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "9"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Torment",
-      "lvl": "18"
-    },
-    {
-      "move": "Dig",
-      "lvl": "21"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "27"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "30"
-    },
-    {
-      "move": "Foul Play",
-      "lvl": "33"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "36"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "39"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 35,
-  "SpAtk": 35,
-  "SpDef": 35,
   "BlackEntry": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
   "OmegaRubyEntry": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+  "SpDefYield": 0,
   "colour": "Brown",
+  "LetsGoPikachuEntry": "Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called �the cleaner of the desert.�",
   "VioletEntry": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+  "name": "Sandile",
   "Atk": 72,
   "White2Entry": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
   "SwordEntry": "The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.",
   "category": "Desert Croc Pokémon",
+  "HPYield": 0,
   "Black2Entry": "They live hidden under hot desert sands in order to keep their body temperature from dropping."
 }

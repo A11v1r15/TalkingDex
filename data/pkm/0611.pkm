@@ -1,270 +1,42 @@
 {
   "ShieldEntry": "Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
-  "extraMega": false,
   "ability1": "Rivalry",
   "YEntry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
   "AlphaSapphireEntry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
   "HP": 66,
-  "Speed": 67,
-  "SpeedYield": 0,
+  "SunEntry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
   "XPYield": 144,
   "ability2": "Mold Breaker",
-  "tmTrMoves": [
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Dance",
-      "technical": "TR51"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 50,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
-  "eggMoves": [],
   "XEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
   "number": 611,
+  "BrilliantDiamondEntry": "Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
   "AtkYield": 2,
   "abilityHidden": "Unnerve",
+  "RedEntry": "Upright",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "1.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "1"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "9"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "12"
-    },
-    {
-      "move": "Slash",
-      "lvl": "15"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "18"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "21"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "24"
-    },
-    {
-      "move": "Dragon Dance",
-      "lvl": "27"
-    },
-    {
-      "move": "Dual Chop",
-      "lvl": "30"
-    },
-    {
-      "move": "Laser Focus",
-      "lvl": "33"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "36"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "41"
-    },
-    {
-      "move": "Outrage",
-      "lvl": "46"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "51"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "56"
-    }
-  ],
+  "Speed": 67,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
   "Def": 70,
-  "SpAtk": 40,
   "eggGroup2": "Dragon",
-  "ScarletEntry": "Because its tusks don’t grow back once they break, this Pokémon apparently won’t use them unless truly necessary.",
-  "SpDef": 50,
+  "ScarletEntry": "Because its tusks don\u2019t grow back once they break, this Pokémon apparently won\u2019t use them unless truly necessary.",
   "weight": "36.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
   "BlackEntry": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
   "OmegaRubyEntry": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "VioletEntry": "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.",
+  "VioletEntry": "Fraxure uses its thick tusks to neatly cut prey into two portions�one to eat now and one to save for later.",
   "name": "Fraxure",
   "Atk": 117,
   "White2Entry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
-  "SwordEntry": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.",
-  "SpDefYield": 0,
+  "SwordEntry": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks\u2014if one breaks, it will never grow back.",
   "category": "Axe Jaw Pokémon",
   "HPYield": 0,
   "Black2Entry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."

@@ -5,236 +5,43 @@
   "AlphaSapphireEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
   "HP": 61,
   "SilverEntry": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
-  "Speed": 65,
   "ability2": "Rivalry",
-  "eggMoves": [],
+  "SpDef": 55,
+  "SpeedYield": 0,
   "number": 33,
   "RedEntry": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+  "LegendsArceusEntry": "It has a violent disposition and stabs foes with its horn, which oozes venom upon impact.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "0.9m",
-  "type2": "",
   "WhiteEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
   "eggGroup2": "Field",
   "CrystalEntry": "It is easily agitated and uses its horn for offense as soon as it notices an attacker.",
   "weight": "19.5kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Poison",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
   "GoldEntry": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
   "SapphireEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
   "DiamondEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
   "name": "Nidorino",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It's nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
-  "extraMega": false,
   "HearthGoldEntry": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
   "YEntry": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
-  "SpeedYield": 0,
+  "SunEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
   "XPYield": 128,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
   "BrilliantDiamondEntry": "It has a violent disposition and stabs foes with its horn, which oozes venom upon impact.",
   "AtkYield": 2,
   "PlatinumEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
   "abilityHidden": "Hustle",
-  "lvlUpMoves": [
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "22"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "29"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "36"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "43"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "50"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "57"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "64"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "71"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 0,
   "Def": 57,
-  "SpAtk": 55,
-  "SpDef": 55,
   "RubyEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
   "BlackEntry": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
   "OmegaRubyEntry": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",

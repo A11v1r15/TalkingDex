@@ -1,183 +1,34 @@
 {
   "ShieldEntry": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
-  "extraMega": false,
   "ability1": "Sand Spit",
   "HP": 52,
-  "Speed": 46,
-  "SpeedYield": 0,
   "XPYield": 63,
   "ability2": "Shed Skin",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 50,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Dragon Rush"
-    },
-    {
-      "move": "Mud"
-    },
-    {
-      "move": "Last Resort"
-    },
-    {
-      "move": "Belch"
-    },
-    {
-      "move": "Poison Tail"
-    }
-  ],
   "number": 843,
+  "BrilliantDiamondEntry": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
   "AtkYield": 0,
   "abilityHidden": "Sand Veil",
-  "height": "2.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Wrap",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Minimize",
-      "lvl": "5"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "10"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "15"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "20"
-    },
-    {
-      "move": "Glare",
-      "lvl": "25"
-    },
-    {
-      "move": "Dig",
-      "lvl": "30"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "35"
-    },
-    {
-      "move": "Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Coil",
-      "lvl": "45"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "50"
-    }
-  ],
-  "DefYield": 1,
-  "type2": "",
-  "Def": 75,
+  "RedEntry": "Squiggle",
   "SpAtk": 35,
+  "SpAtkYield": 0,
+  "height": "2.2m",
+  "Speed": 46,
+  "DefYield": 1,
+  "Def": 75,
   "eggGroup2": "Dragon",
-  "ScarletEntry": "Silicobra’s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
-  "SpDef": 50,
+  "ScarletEntry": "Silicobra\u2019s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
   "weight": "7.6kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "Silicobra's large nostrils are specialized for spraying sand, so this Pokémon is not very good at telling apart different smells.",
   "name": "Silicobra",
   "Atk": 57,
   "SwordEntry": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
-  "SpDefYield": 0,
   "category": "Sand Snake Pokémon",
   "HPYield": 0
 }

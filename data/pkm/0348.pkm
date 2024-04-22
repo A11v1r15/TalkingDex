@@ -3,264 +3,44 @@
   "ability1": "Battle Armor",
   "AlphaSapphireEntry": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
   "HP": 75,
-  "Speed": 45,
-  "ability2": "",
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
-  "eggMoves": [],
   "number": 348,
   "UltraSunEntry": "It lived on land and went out into the sea to hunt for prey. Its sharp claws were its greatest weapon.",
+  "RedEntry": "Upright",
+  "LegendsArceusEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "1.5m",
   "type2": "Bug",
   "WhiteEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-  "eggGroup2": "",
   "weight": "68.2kg",
   "eggGroup1": "Water 3",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
   "DiamondEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
   "name": "Armaldo",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Though it lives on land, it's also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
-  "extraMega": false,
   "HearthGoldEntry": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
   "YEntry": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
-  "SpeedYield": 0,
+  "SunEntry": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
   "XPYield": 173,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Erratic",
   "XEntry": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
   "BrilliantDiamondEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
   "AtkYield": 2,
   "PlatinumEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
   "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "12"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "16"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Slash",
-      "lvl": "28"
-    },
-    {
-      "move": "Crush Claw",
-      "lvl": "32"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "36"
-    },
-    {
-      "move": "Protect",
-      "lvl": "43"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 45,
   "DefYield": 0,
   "Def": 100,
-  "SpAtk": 70,
-  "SpDef": 80,
   "RubyEntry": "Armaldo's tough armor makes all attacks bounce off. This Pokémon's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
   "BlackEntry": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
-  "OmegaRubyEntry": "Armaldo’s tough armor makes all attacks bounce off. This Pokémon’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+  "OmegaRubyEntry": "Armaldo\u2019s tough armor makes all attacks bounce off. This Pokémon\u2019s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
   "colour": "Gray",
   "SoulsilverEntry": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
   "FireRedEntry": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",

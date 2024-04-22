@@ -3,279 +3,44 @@
   "ability1": "Thick Fat",
   "AlphaSapphireEntry": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
   "HP": 110,
-  "Speed": 65,
   "ability2": "Ice Body",
-  "eggMoves": [],
+  "SpDef": 90,
+  "SpeedYield": 0,
   "number": 365,
+  "RedEntry": "Quadruped",
   "LegendsArceusEntry": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
+  "SpAtk": 95,
+  "SpAtkYield": 0,
   "height": "1.4m",
   "type2": "Water",
   "WhiteEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
   "eggGroup2": "Field",
+  "ScarletEntry": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
   "weight": "150.6kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Ice",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
   "name": "Walrein",
-  "SpDefYield": 0,
   "HPYield": 3,
   "ShieldEntry": "Walrein's tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
-  "extraMega": false,
   "HearthGoldEntry": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
   "YEntry": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
-  "SpeedYield": 0,
+  "SunEntry": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
   "XPYield": 265,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Icicle Speedar",
-      "technical": "TM51"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
   "BrilliantDiamondEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold but also enemy attacks.",
   "AtkYield": 0,
   "PlatinumEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
   "abilityHidden": "Oblivious",
-  "lvlUpMoves": [
-    {
-      "move": "Swagger",
-      "lvl": "1"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "12"
-    },
-    {
-      "move": "Rest",
-      "lvl": "16"
-    },
-    {
-      "move": "Snore",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "28"
-    },
-    {
-      "move": "Encore",
-      "lvl": "35"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Surf",
-      "lvl": "48"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "56"
-    },
-    {
-      "move": "Hail",
-      "lvl": "64"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "72"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 0,
   "Def": 90,
-  "SpAtk": 95,
-  "SpDef": 90,
   "RubyEntry": "Walrein's two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This Pokémon's thick coat of blubber insulates it from subzero temperatures.",
   "BlackEntry": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
-  "OmegaRubyEntry": "Walrein’s two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon’s thick coat of blubber insulates it from subzero temperatures.",
+  "OmegaRubyEntry": "Walrein\u2019s two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon\u2019s thick coat of blubber insulates it from subzero temperatures.",
   "colour": "Blue",
   "SoulsilverEntry": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
   "FireRedEntry": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",

@@ -1,217 +1,37 @@
 {
   "ShieldEntry": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
-  "extraMega": false,
   "ability1": "Leaf Guard",
   "HP": 40,
   "SunEntry": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep.",
-  "Speed": 35,
-  "SpeedYield": 0,
   "XPYield": 50,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Magical Leaf",
-      "technical": "TM10"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 35,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Aromatherapy"
-    },
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Worry Seed"
-    }
-  ],
   "UltraMoonEntry": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
   "number": 753,
   "MoonEntry": "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.",
   "UltraSunEntry": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma.",
+  "BrilliantDiamondEntry": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.",
   "AtkYield": 1,
   "abilityHidden": "Contrary",
-  "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Leafage",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "5"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "10"
-    },
-    {
-      "move": "Razor Leaf",
-      "lvl": "15"
-    },
-    {
-      "move": "Sweet Scent",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "25"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "30"
-    },
-    {
-      "move": "Synthesis",
-      "lvl": "35"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "40"
-    },
-    {
-      "move": "Sunny Day",
-      "lvl": "45"
-    },
-    {
-      "move": "Solar Beam",
-      "lvl": "50"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 35,
+  "RedEntry": "Upright",
   "SpAtk": 50,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "0.3m",
+  "Speed": 35,
+  "DefYield": 0,
+  "Def": 35,
   "ScarletEntry": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
-  "SpDef": 35,
   "weight": "1.5kg",
   "eggGroup1": "Grass",
-  "hasMega": false,
   "type1": "Grass",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Pink",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
   "VioletEntry": "Many Trainers give their Fomantis their own flowerpots so they can sunbathe in peace and quiet.",
   "name": "Fomantis",
   "Atk": 55,
   "SwordEntry": "When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it.",
-  "SpDefYield": 0,
   "category": "Sickle Grass Pokémon",
   "HPYield": 0
 }

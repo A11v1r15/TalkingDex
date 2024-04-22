@@ -2,352 +2,42 @@
   "ability1": "Pressure",
   "AlphaSapphireEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
   "HP": 70,
-  "Speed": 125,
-  "ability2": "",
-  "eggMoves": [],
+  "SpDef": 85,
+  "SpeedYield": 1,
   "UltraMoonEntry": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
   "number": 461,
   "MoonEntry": "They dwell in cold places. This Pokémon's main food source in Alola is Vulpix and Sandshrew, which they carefully divide among their group.",
   "UltraSunEntry": "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws.",
+  "RedEntry": "Upright",
   "LegendsArceusEntry": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
+  "SpAtk": 45,
+  "SpAtkYield": 0,
   "height": "1.1m",
   "type2": "Ice",
   "WhiteEntry": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
-  "eggGroup2": "",
   "ScarletEntry": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
   "weight": "34.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Dark",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
   "DiamondEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
   "name": "Weavile",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
-  "extraMega": false,
   "HearthGoldEntry": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
   "YEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
-  "SpeedYield": 1,
   "SunEntry": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
   "XPYield": 179,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Icicle Speedar",
-      "technical": "TM51"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
   "BrilliantDiamondEntry": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
   "AtkYield": 1,
   "PlatinumEntry": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
   "abilityHidden": "Pickpocket",
-  "lvlUpMoves": [
-    {
-      "move": "Revenge",
-      "lvl": "1"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "1"
-    },
-    {
-      "move": "Agility",
-      "lvl": "1"
-    },
-    {
-      "move": "Slash",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "1"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "18"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "30"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "36"
-    },
-    {
-      "move": "Fling",
-      "lvl": "42"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "48"
-    },
-    {
-      "move": "Screech",
-      "lvl": "54"
-    },
-    {
-      "move": "Night Slash",
-      "lvl": "60"
-    },
-    {
-      "move": "Dark Pulse",
-      "lvl": "66"
-    }
-  ],
+  "Speed": 125,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 45,
-  "SpDef": 85,
   "BlackEntry": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
   "OmegaRubyEntry": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
   "colour": "Black",

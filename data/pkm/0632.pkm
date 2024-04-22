@@ -1,256 +1,40 @@
 {
   "ShieldEntry": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
-  "extraMega": false,
   "ability1": "Swarm",
   "YEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "AlphaSapphireEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "HP": 58,
-  "Speed": 109,
-  "SpeedYield": 0,
+  "SunEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "XPYield": 169,
   "ability2": "Hustle",
-  "tmTrMoves": [
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 48,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Struggle Bug"
-    },
-    {
-      "move": "First Impression"
-    },
-    {
-      "move": "Metal Burst"
-    },
-    {
-      "move": "Infestation"
-    },
-    {
-      "move": "Flail"
-    }
-  ],
   "XEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "number": 632,
+  "BrilliantDiamondEntry": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
   "AtkYield": 0,
   "abilityHidden": "Truant",
+  "RedEntry": "Insectoid ",
+  "SpAtk": 48,
+  "SpAtkYield": 0,
   "height": "0.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Vise Grip",
-      "lvl": "4"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "8"
-    },
-    {
-      "move": "Beat Up",
-      "lvl": "12"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Dig",
-      "lvl": "28"
-    },
-    {
-      "move": "X-Scissor",
-      "lvl": "32"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "36"
-    },
-    {
-      "move": "Metal Sound",
-      "lvl": "40"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "44"
-    },
-    {
-      "move": "Entrainment",
-      "lvl": "48"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "52"
-    },
-    {
-      "move": "Guillotine",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 2,
+  "Speed": 109,
   "type2": "Steel",
+  "DefYield": 2,
   "WhiteEntry": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
   "Def": 112,
-  "SpAtk": 48,
-  "eggGroup2": "",
-  "SpDef": 48,
   "weight": "33.0kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
   "BlackEntry": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
   "OmegaRubyEntry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Durant",
   "Atk": 109,
   "White2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
   "SwordEntry": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
-  "SpDefYield": 0,
   "category": "Iron Ant Pokémon",
   "HPYield": 0,
   "Black2Entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."

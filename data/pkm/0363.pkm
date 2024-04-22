@@ -3,240 +3,41 @@
   "ability1": "Thick Fat",
   "AlphaSapphireEntry": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
   "HP": 70,
-  "Speed": 25,
   "ability2": "Ice Body",
-  "eggMoves": [
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Fissure"
-    },
-    {
-      "move": "Stockpile"
-    },
-    {
-      "move": "Swallow"
-    },
-    {
-      "move": "Spit Up"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Yawn"
-    },
-    {
-      "move": "Aqua Ring"
-    },
-    {
-      "move": "Belly Drum"
-    }
-  ],
+  "SpDef": 50,
+  "SpeedYield": 0,
   "number": 363,
+  "RedEntry": "Fish",
   "LegendsArceusEntry": "During the season when drift ice approaches the shore, Spheal prefers living on the ice-where fewer predators lurk-rather than the land. Its fur retains heat superbly and resists harsh cold.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "0.8m",
   "type2": "Water",
   "WhiteEntry": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
   "eggGroup2": "Field",
+  "ScarletEntry": "During the season when drift ice approaches the shore, Spheal prefers living on the ice-where fewer predators lurk-rather than the land. Its fur retains heat superbly and resists harsh cold.",
   "weight": "39.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Ice",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
   "name": "Spheal",
-  "SpDefYield": 0,
   "HPYield": 1,
   "ShieldEntry": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
-  "extraMega": false,
   "HearthGoldEntry": "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing.",
   "YEntry": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
-  "SpeedYield": 0,
+  "SunEntry": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
   "XPYield": 58,
-  "tmTrMoves": [
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins.",
   "BrilliantDiamondEntry": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
   "AtkYield": 0,
   "PlatinumEntry": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
   "abilityHidden": "Oblivious",
-  "lvlUpMoves": [
-    {
-      "move": "Rollout",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "4"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "8"
-    },
-    {
-      "move": "Powder Snow",
-      "lvl": "12"
-    },
-    {
-      "move": "Rest",
-      "lvl": "16"
-    },
-    {
-      "move": "Snore",
-      "lvl": "20"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "28"
-    },
-    {
-      "move": "Encore",
-      "lvl": "33"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "36"
-    },
-    {
-      "move": "Surf",
-      "lvl": "40"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "44"
-    },
-    {
-      "move": "Hail",
-      "lvl": "48"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 25,
   "DefYield": 0,
   "Def": 50,
-  "SpAtk": 55,
-  "SpDef": 50,
   "RubyEntry": "Spheal is much faster rolling than walking to get around. When groups of this Pokémon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
   "BlackEntry": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
   "OmegaRubyEntry": "Spheal is much faster rolling than walking to get around. When groups of this Pokémon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",

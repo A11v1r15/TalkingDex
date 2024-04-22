@@ -1,293 +1,45 @@
 {
+  "ShieldEntry": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
   "ability1": "Flame Body",
+  "YEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
   "AlphaSapphireEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
   "HP": 85,
-  "Speed": 100,
-  "ability2": "",
-  "eggMoves": [],
+  "SunEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+  "XPYield": 275,
+  "SpDef": 105,
+  "SpeedYield": 0,
+  "xpGroup": "Slow",
+  "XEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
   "UltraMoonEntry": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
   "number": 637,
-  "UltraSunEntry": "As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as \"the rage of the sun.\"",
+  "UltraSunEntry": "\"As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as \"\"the rage of the sun.\"\"\"",
+  "BrilliantDiamondEntry": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
+  "AtkYield": 0,
+  "abilityHidden": "Swarm",
+  "RedEntry": "Bug-wings",
+  "SpAtk": 135,
+  "SpAtkYield": 3,
   "height": "1.6m",
+  "Speed": 100,
   "type2": "Fire",
+  "DefYield": 0,
   "WhiteEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-  "eggGroup2": "",
+  "Def": 65,
   "ScarletEntry": "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",
   "weight": "46.0kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 3,
-  "name": "Volcarona",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
-  "extraMega": false,
-  "YEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
-  "SpeedYield": 0,
-  "XPYield": 275,
-  "tmTrMoves": [
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Mystical Fire",
-      "technical": "TM92"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Hurricane",
-      "technical": "TR89"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Slow",
-  "XEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
-  "AtkYield": 0,
-  "abilityHidden": "Swarm",
-  "lvlUpMoves": [
-    {
-      "move": "Quiver Dance",
-      "lvl": "0"
-    },
-    {
-      "move": "Quiver Dance",
-      "lvl": "1"
-    },
-    {
-      "move": "Fiery Dance",
-      "lvl": "1"
-    },
-    {
-      "move": "Whirlwind",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "1"
-    },
-    {
-      "move": "Flame Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "1"
-    },
-    {
-      "move": "String Shot",
-      "lvl": "1"
-    },
-    {
-      "move": "Gust",
-      "lvl": "1"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "1"
-    },
-    {
-      "move": "Flame Wheel",
-      "lvl": "18"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "24"
-    },
-    {
-      "move": "Screech",
-      "lvl": "30"
-    },
-    {
-      "move": "Leech Life",
-      "lvl": "36"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "42"
-    },
-    {
-      "move": "Heat Wave",
-      "lvl": "48"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "54"
-    },
-    {
-      "move": "Hurricane",
-      "lvl": "62"
-    },
-    {
-      "move": "Fire Blast",
-      "lvl": "70"
-    },
-    {
-      "move": "Rage Powder",
-      "lvl": "78"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 65,
-  "SpAtk": 135,
-  "SpDef": 105,
   "BlackEntry": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
   "OmegaRubyEntry": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+  "SpDefYield": 0,
   "colour": "White",
-  "VioletEntry": "This Pokémon scatters burning scales. Most of the danger of these scales is not in their heat—it's in the way they rob the surrounding air of oxygen.",
+  "LetsGoPikachuEntry": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
+  "VioletEntry": "This Pokémon scatters burning scales. Most of the danger of these scales is not in their heat�it's in the way they rob the surrounding air of oxygen.",
+  "name": "Volcarona",
   "Atk": 60,
   "White2Entry": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
   "SwordEntry": "Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.",
   "category": "Sun Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing."
 }

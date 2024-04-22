@@ -1,343 +1,50 @@
 {
+  "ShieldEntry": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
+  "HearthGoldEntry": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
   "ability1": "Anticipation",
+  "YEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
   "AlphaSapphireEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
   "HP": 83,
-  "Speed": 85,
-  "ability2": "Dry Skin",
-  "eggMoves": [],
-  "number": 454,
-  "LegendsArceusEntry": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
-  "height": "1.3m",
-  "type2": "Fighting",
-  "WhiteEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.",
-  "eggGroup2": "",
-  "ScarletEntry": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
-  "weight": "44.4kg",
-  "eggGroup1": "Human-Like",
-  "hasMega": false,
-  "type1": "Poison",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-  "name": "Toxicroak",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
-  "extraMega": false,
-  "HearthGoldEntry": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
-  "YEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-  "SpeedYield": 0,
+  "SunEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
   "XPYield": 172,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "ability2": "Dry Skin",
+  "SpDef": 65,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
   "XEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+  "number": 454,
   "BrilliantDiamondEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
   "AtkYield": 2,
   "PlatinumEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.",
   "abilityHidden": "Poison Touch",
-  "lvlUpMoves": [
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "1"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "12"
-    },
-    {
-      "move": "Revenge",
-      "lvl": "16"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "24"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "28"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "32"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "36"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "42"
-    },
-    {
-      "move": "Sludge Bomb",
-      "lvl": "48"
-    },
-    {
-      "move": "Belch",
-      "lvl": "54"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 65,
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
   "SpAtk": 86,
-  "SpDef": 65,
+  "SpAtkYield": 0,
+  "height": "1.3m",
+  "Speed": 85,
+  "type2": "Fighting",
+  "DefYield": 0,
+  "WhiteEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.",
+  "Def": 65,
+  "ScarletEntry": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+  "weight": "44.4kg",
+  "eggGroup1": "Human-Like",
+  "type1": "Poison",
   "BlackEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.",
   "OmegaRubyEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+  "SpDefYield": 0,
   "colour": "Blue",
   "VioletEntry": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+  "DiamondEntry": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
   "SoulsilverEntry": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+  "name": "Toxicroak",
   "Atk": 106,
   "White2Entry": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.",
   "SwordEntry": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.",
   "ShiningPearlEntry": "The toxin made in its poison sac is pumped to the knuckle claws through tubes down its arms.",
   "PearlEntry": "The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms.",
   "category": "Toxic Mouth Pokémon",
+  "HPYield": 0,
   "Black2Entry": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac."
 }

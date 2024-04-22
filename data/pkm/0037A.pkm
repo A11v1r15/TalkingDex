@@ -1,223 +1,28 @@
 {
-  "lvlUpMoves": [
-    {
-      "move": "Powder Snow",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Disable",
-      "lvl": "4"
-    },
-    {
-      "move": "Ice Shard",
-      "lvl": "8"
-    },
-    {
-      "move": "Spite",
-      "lvl": "12"
-    },
-    {
-      "move": "Icy Wind",
-      "lvl": "16"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "20"
-    },
-    {
-      "move": "Aurora Beam",
-      "lvl": "24"
-    },
-    {
-      "move": "Extrasensory",
-      "lvl": "28"
-    },
-    {
-      "move": "Ice Beam",
-      "lvl": "32"
-    },
-    {
-      "move": "Imprison",
-      "lvl": "36"
-    },
-    {
-      "move": "Mist",
-      "lvl": "40"
-    },
-    {
-      "move": "Aurora Veil",
-      "lvl": "44"
-    },
-    {
-      "move": "Sheer Cold",
-      "lvl": "48"
-    },
-    {
-      "move": "Grudge",
-      "lvl": "52"
-    },
-    {
-      "move": "Blizzard",
-      "lvl": "56"
-    }
-  ],
   "ability1": "Snow Cloak",
-  "type2": "",
-  "eggGroup2": "",
-  "Speed": 65,
   "HP": 38,
-  "eggGroup1": "Field",
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Safeguard",
-      "technical": "TM19"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Tail Slap",
-      "technical": "TM84"
-    },
-    {
-      "move": "Draining Kiss",
-      "technical": "TM87"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "type1": "Ice",
-  "Def": 40,
-  "eggMoves": [
-    {"move": "Baby-Doll Eyes"},
-    {"move": "Flail"},
-    {"move": "Freeze-Dry"},
-    {"move": "Howl"},
-    {"move": "Hypnosis"},
-    {"move": "Moonblast"},
-    {"move": "Roar"}
-  ],
+  "XPYield": 1,
+  "SpDef": 65,
+  "SpeedYield": 0,
   "number": 37,
+  "AtkYield": 0,
+  "abilityHidden": "Snow Warning",
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate.",
   "SpAtk": 50,
+  "SpAtkYield": 0,
+  "height": "9.9kg",
+  "Speed": 65,
+  "DefYield": 0,
+  "Def": 40,
+  "ScarletEntry": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate.",
+  "weight": "0.6m",
+  "eggGroup1": "Field",
+  "type1": "Ice",
+  "SpDefYield": 0,
+  "colour": "White",
   "name": "Alolan Vulpix",
   "Atk": 41,
-  "abilityHidden": "Snow Warning",
-  "SpDef": 65,
-  "LegendsArceusEntry": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate."
+  "category": "Fox Pokémon",
+  "HPYield": 60
 }

@@ -3,237 +3,40 @@
   "ability1": "Swift Swim",
   "AlphaSapphireEntry": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
   "HP": 40,
-  "Speed": 30,
   "ability2": "Rain Dish",
-  "eggMoves": [
-    {
-      "move": "Synthesis"
-    },
-    {
-      "move": "Razor Leaf"
-    },
-    {
-      "move": "Sweet Scent"
-    },
-    {
-      "move": "Leech Seed"
-    },
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Teeter Dance"
-    }
-  ],
+  "SpDef": 50,
+  "SpeedYield": 0,
   "number": 270,
+  "RedEntry": "Insectoid ",
+  "LegendsArceusEntry": "It looks like an aquatic plant and serves as a ferry for Pokémon that can't swim.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.5m",
   "type2": "Grass",
   "WhiteEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "eggGroup2": "Grass",
   "weight": "2.6kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 1,
   "SapphireEntry": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "DiamondEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "name": "Lotad",
-  "SpDefYield": 1,
   "HPYield": 0,
   "ShieldEntry": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
-  "extraMega": false,
   "HearthGoldEntry": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
   "YEntry": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
-  "SpeedYield": 0,
+  "SunEntry": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
   "XPYield": 44,
-  "tmTrMoves": [
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "BrilliantDiamondEntry": "It looks like an aquatic plant and serves as a ferry for Pokémon that can't swim.",
   "AtkYield": 0,
   "PlatinumEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "abilityHidden": "Own Tempo",
-  "lvlUpMoves": [
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "3"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "6"
-    },
-    {
-      "move": "Mist",
-      "lvl": "9"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Flail",
-      "lvl": "16"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "20"
-    },
-    {
-      "move": "Nature Power",
-      "lvl": "24"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "33"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "38"
-    },
-    {
-      "move": "Energy Ball",
-      "lvl": "43"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 0,
   "Def": 30,
-  "SpAtk": 40,
-  "SpDef": 50,
   "RubyEntry": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
   "BlackEntry": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
   "OmegaRubyEntry": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",

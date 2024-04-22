@@ -2,14 +2,16 @@
   "ability1": "Sand Veil",
   "AlphaSapphireEntry": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
   "HP": 68,
-  "Speed": 82,
-  "ability2": "",
+  "SpDef": 55,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
-  "eggMoves": [],
   "number": 444,
   "MoonEntry": "Shiny objects are its passion. It can be found in its cave, scarcely moving, its gaze fixed on the jewels it's amassed or Carbink it has caught.",
   "UltraSunEntry": "It loves shiny things. When it finds a Sableye trying to catch a Carbink, Gabite becomes furiously angry and attacks the Sableye.",
+  "RedEntry": "Upright",
   "LegendsArceusEntry": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "1.4m",
   "type2": "Ground",
   "WhiteEntry": "It loves sparkly things. It seeks treasures in caves and hoards the loot into its nest.",
@@ -17,221 +19,26 @@
   "ScarletEntry": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
   "weight": "56.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Dragon",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "SpDefYield": 0,
+  "LetsGoPikachuEntry": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
   "DiamondEntry": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
   "name": "Gabite",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Jewels are buried in the caves these Pokémon nest in, but you'll be torn apart by claws and fangs the moment you enter one of these caves.",
-  "extraMega": false,
   "HearthGoldEntry": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
   "YEntry": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
-  "SpeedYield": 0,
   "SunEntry": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
   "XPYield": 144,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
   "BrilliantDiamondEntry": "There is a long-held belief that medicine made from its scales will heal incurable illnesses.",
   "AtkYield": 2,
   "PlatinumEntry": "It loves sparkly things. It seeks treasures in caves and hoards the loot into its nest.",
   "abilityHidden": "Rough Skin",
-  "lvlUpMoves": [
-    {
-      "move": "Dual Chop",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Dragon Breath",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "18"
-    },
-    {
-      "move": "Bite",
-      "lvl": "27"
-    },
-    {
-      "move": "Slash",
-      "lvl": "34"
-    },
-    {
-      "move": "Dragon Claw",
-      "lvl": "42"
-    },
-    {
-      "move": "Dig",
-      "lvl": "50"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "58"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "66"
-    },
-    {
-      "move": "Dragon Rush",
-      "lvl": "74"
-    }
-  ],
+  "Speed": 82,
   "DefYield": 0,
   "Def": 65,
-  "SpAtk": 50,
-  "SpDef": 55,
   "BlackEntry": "It loves sparkly things. It seeks treasures in caves and hoards the loot into its nest.",
   "OmegaRubyEntry": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
   "colour": "Blue",

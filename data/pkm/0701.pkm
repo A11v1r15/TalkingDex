@@ -1,360 +1,43 @@
 {
   "ShieldEntry": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
-  "extraMega": false,
   "ability1": "Limber",
   "YEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
   "AlphaSapphireEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
   "HP": 78,
-  "Speed": 118,
-  "SpeedYield": 0,
+  "SunEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
   "XPYield": 175,
   "ability2": "Unburden",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Fly",
-      "technical": "TM06"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Acrobatics",
-      "technical": "TM78"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 63,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Entrainment"
-    },
-    {
-      "move": "Quick Guard"
-    },
-    {
-      "move": "Feint"
-    },
-    {
-      "move": "Defog"
-    },
-    {
-      "move": "Mean Look"
-    },
-    {
-      "move": "Cross Chop"
-    }
-  ],
   "XEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
   "UltraMoonEntry": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds.",
   "number": 701,
   "UltraSunEntry": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
+  "BrilliantDiamondEntry": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.",
   "AtkYield": 2,
   "abilityHidden": "Mold Breaker",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "1"
-    },
-    {
-      "move": "Wing Attack",
-      "lvl": "4"
-    },
-    {
-      "move": "Detect",
-      "lvl": "8"
-    },
-    {
-      "move": "Aerial Ace",
-      "lvl": "12"
-    },
-    {
-      "move": "Encore",
-      "lvl": "16"
-    },
-    {
-      "move": "Feather Dance",
-      "lvl": "20"
-    },
-    {
-      "move": "Submission",
-      "lvl": "24"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "28"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "32"
-    },
-    {
-      "move": "Roost",
-      "lvl": "36"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "40"
-    },
-    {
-      "move": "Flying Press",
-      "lvl": "44"
-    },
-    {
-      "move": "High Jump Kick",
-      "lvl": "48"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "52"
-    },
-    {
-      "move": "Sky Attack",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Flying",
-  "Def": 75,
+  "RedEntry": "Humanoid",
   "SpAtk": 74,
+  "SpAtkYield": 0,
+  "height": "0.8m",
+  "Speed": 118,
+  "type2": "Flying",
+  "DefYield": 0,
+  "Def": 75,
   "eggGroup2": "Human-Like",
-  "ScarletEntry": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
-  "SpDef": 63,
+  "ScarletEntry": "Its elegant finishing moves\u2014performed by nimbly leaping around using its wings\u2014are polished in the forest where it was born and raised.",
   "weight": "21.5kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
   "OmegaRubyEntry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.",
+  "SpDefYield": 0,
   "colour": "Green",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds.",
   "VioletEntry": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
   "name": "Hawlucha",
   "Atk": 92,
   "SwordEntry": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
-  "SpDefYield": 0,
   "category": "Wrestling Pokémon",
   "HPYield": 0
 }

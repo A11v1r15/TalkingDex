@@ -1,272 +1,39 @@
 {
   "ShieldEntry": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
-  "extraMega": false,
   "ability1": "Hydration",
   "YEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "AlphaSapphireEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "HP": 80,
-  "Speed": 145,
-  "SpeedYield": 2,
+  "SunEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "XPYield": 173,
   "ability2": "Sticky Hold",
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 60,
+  "SpeedYield": 2,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "XEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
   "number": 617,
+  "BrilliantDiamondEntry": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
   "AtkYield": 0,
   "abilityHidden": "Unburden",
+  "RedEntry": "Arms",
+  "SpAtk": 100,
+  "SpAtkYield": 0,
   "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Water Shuriken",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Curse",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid Armor",
-      "lvl": "1"
-    },
-    {
-      "move": "Guard Swap",
-      "lvl": "1"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Double Team",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid Spray",
-      "lvl": "1"
-    },
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Struggle Bug",
-      "lvl": "16"
-    },
-    {
-      "move": "Swift",
-      "lvl": "20"
-    },
-    {
-      "move": "Agility",
-      "lvl": "24"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "28"
-    },
-    {
-      "move": "Power Swap",
-      "lvl": "32"
-    },
-    {
-      "move": "U-turn",
-      "lvl": "36"
-    },
-    {
-      "move": "Recover",
-      "lvl": "40"
-    },
-    {
-      "move": "Bug Buzz",
-      "lvl": "44"
-    },
-    {
-      "move": "Final Gambit",
-      "lvl": "48"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "52"
-    }
-  ],
+  "Speed": 145,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
   "Def": 40,
-  "SpAtk": 100,
-  "eggGroup2": "",
-  "SpDef": 60,
   "weight": "25.3kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
   "BlackEntry": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
   "OmegaRubyEntry": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Accelgor",
   "Atk": 70,
   "White2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
   "SwordEntry": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
-  "SpDefYield": 0,
   "category": "Shell Out Pokémon",
   "HPYield": 0,
   "Black2Entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."

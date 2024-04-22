@@ -4,314 +4,45 @@
   "AlphaSapphireEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
   "HP": 70,
   "SilverEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
-  "Speed": 30,
   "ability2": "Rock Head",
-  "eggMoves": [
-    {
-      "move": "Headbutt"
-    },
-    {
-      "move": "Harden"
-    },
-    {
-      "move": "Defense Curl"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Rock Polish"
-    }
-  ],
+  "SpDef": 65,
+  "SpeedYield": 0,
   "UltraMoonEntry": "The result of its holding the same pose all the time is arms that have become supple yet strong.",
   "number": 185,
   "MoonEntry": "Apparently, the larger the green parts of this Pokémon, the more collectors value it. It's a particular favorite among elderly people.",
   "UltraSunEntry": "It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
+  "RedEntry": "Humanoid",
   "LegendsArceusEntry": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note.",
+  "SpAtk": 30,
+  "SpAtkYield": 0,
   "height": "1.2m",
-  "type2": "",
   "WhiteEntry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
-  "eggGroup2": "",
   "ScarletEntry": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
   "CrystalEntry": "If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.",
   "weight": "38.0kg",
   "eggGroup1": "Mineral",
-  "hasMega": false,
   "type1": "Rock",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "GoldEntry": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
   "SapphireEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "The result of its holding the same pose all the time is arms that have become supple yet strong.",
   "DiamondEntry": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
   "name": "Sudowoodo",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
-  "extraMega": false,
   "HearthGoldEntry": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
   "YEntry": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
-  "SpeedYield": 0,
   "SunEntry": "To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.",
   "XPYield": 144,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fake Tears",
-      "technical": "TM47"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
   "BrilliantDiamondEntry": "Though it looks like a tree, its body is actually more like rock or stone. The Pokémon is very weak to water.",
   "AtkYield": 0,
   "PlatinumEntry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
   "abilityHidden": "Rattled",
-  "lvlUpMoves": [
-    {
-      "move": "Slam",
-      "lvl": "0"
-    },
-    {
-      "move": "Slam",
-      "lvl": "1"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "1"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Wood Hammer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fake Tears",
-      "lvl": "1"
-    },
-    {
-      "move": "Copycat",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Throw",
-      "lvl": "1"
-    },
-    {
-      "move": "Block",
-      "lvl": "12"
-    },
-    {
-      "move": "Mimic",
-      "lvl": "16"
-    },
-    {
-      "move": "Rock Tomb",
-      "lvl": "20"
-    },
-    {
-      "move": "Tearful Look",
-      "lvl": "24"
-    },
-    {
-      "move": "Sucker Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "32"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "36"
-    },
-    {
-      "move": "Counter",
-      "lvl": "40"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "44"
-    },
-    {
-      "move": "Head Smash",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 2,
   "Def": 115,
-  "SpAtk": 30,
-  "SpDef": 65,
   "RubyEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
   "BlackEntry": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
   "OmegaRubyEntry": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",

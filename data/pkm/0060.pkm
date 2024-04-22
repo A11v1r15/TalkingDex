@@ -5,239 +5,45 @@
   "AlphaSapphireEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
   "HP": 40,
   "SilverEntry": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
-  "Speed": 90,
   "ability2": "Damp",
-  "eggMoves": [
-    {
-      "move": "Endeavor"
-    },
-    {
-      "move": "Haze"
-    },
-    {
-      "move": "Mist"
-    },
-    {
-      "move": "Mind Reader"
-    },
-    {
-      "move": "Splash"
-    },
-    {
-      "move": "Water Pulse"
-    }
-  ],
+  "SpDef": 40,
+  "SpeedYield": 1,
   "UltraMoonEntry": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
   "number": 60,
   "MoonEntry": "It's still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
   "UltraSunEntry": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
   "RedEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+  "LegendsArceusEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.6m",
-  "type2": "",
   "WhiteEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
-  "eggGroup2": "",
   "CrystalEntry": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
   "weight": "12.4kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
   "GoldEntry": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
   "SapphireEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
   "DiamondEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
   "name": "Poliwag",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
-  "extraMega": false,
   "HearthGoldEntry": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
   "YEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
-  "SpeedYield": 1,
   "SunEntry": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it's affected by some disease.",
   "XPYield": 60,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
   "BrilliantDiamondEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
   "AtkYield": 0,
   "PlatinumEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
   "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "1"
-    },
-    {
-      "move": "Pound",
-      "lvl": "6"
-    },
-    {
-      "move": "Mud Shot",
-      "lvl": "12"
-    },
-    {
-      "move": "Bubble Beam",
-      "lvl": "18"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "24"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "30"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "36"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "42"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "48"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "54"
-    }
-  ],
+  "Speed": 90,
   "DefYield": 0,
   "Def": 40,
-  "SpAtk": 40,
-  "SpDef": 40,
   "RubyEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
   "BlackEntry": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
   "OmegaRubyEntry": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",

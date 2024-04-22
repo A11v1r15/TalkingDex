@@ -1,285 +1,48 @@
 {
+  "ShieldEntry": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
+  "HearthGoldEntry": "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines.",
   "ability1": "Chlorophyll",
+  "YEntry": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
   "AlphaSapphireEntry": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
   "HP": 100,
-  "Speed": 50,
-  "ability2": "Leaf Guard",
-  "eggMoves": [],
-  "number": 465,
-  "LegendsArceusEntry": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
-  "height": "2.0m",
-  "type2": "",
-  "WhiteEntry": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
-  "eggGroup2": "",
-  "weight": "128.6kg",
-  "eggGroup1": "Grass",
-  "hasMega": false,
-  "type1": "Grass",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
-  "name": "Tangrowth",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
-  "extraMega": false,
-  "HearthGoldEntry": "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines.",
-  "YEntry": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
-  "SpeedYield": 0,
+  "SunEntry": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
   "XPYield": 187,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bullet Seed",
-      "technical": "TM50"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Power Swap",
-      "technical": "TM60"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Grassy Terrain",
-      "technical": "TM88"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Leaf Storm",
-      "technical": "TR71"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    }
-  ],
-  "hasGigantamax": false,
+  "ability2": "Leaf Guard",
+  "SpDef": 50,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
   "XEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+  "number": 465,
   "BrilliantDiamondEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
   "AtkYield": 0,
   "PlatinumEntry": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
   "abilityHidden": "Regenerator",
-  "lvlUpMoves": [
-    {
-      "move": "Block",
-      "lvl": "1"
-    },
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Bind",
-      "lvl": "1"
-    },
-    {
-      "move": "Stun Spore",
-      "lvl": "1"
-    },
-    {
-      "move": "Growth",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "12"
-    },
-    {
-      "move": "Vine Whip",
-      "lvl": "16"
-    },
-    {
-      "move": "Poison Powder",
-      "lvl": "20"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "24"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "28"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "32"
-    },
-    {
-      "move": "Sleep Powder",
-      "lvl": "36"
-    },
-    {
-      "move": "Slam",
-      "lvl": "40"
-    },
-    {
-      "move": "Tickle",
-      "lvl": "44"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "48"
-    },
-    {
-      "move": "Ingrain",
-      "lvl": "52"
-    },
-    {
-      "move": "Grassy Terrain",
-      "lvl": "56"
-    }
-  ],
-  "DefYield": 2,
-  "Def": 125,
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
   "SpAtk": 110,
-  "SpDef": 50,
+  "SpAtkYield": 0,
+  "height": "2.0m",
+  "Speed": 50,
+  "DefYield": 2,
+  "WhiteEntry": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+  "Def": 125,
+  "ScarletEntry": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
+  "weight": "128.6kg",
+  "eggGroup1": "Grass",
+  "type1": "Grass",
   "BlackEntry": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
   "OmegaRubyEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+  "SpDefYield": 0,
   "colour": "Blue",
+  "DiamondEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
   "SoulsilverEntry": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
+  "name": "Tangrowth",
   "Atk": 100,
   "White2Entry": "Even if one of its arms is eaten, it's fine. The Pokémon regenerates quickly and will go right back to normal.",
   "SwordEntry": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
   "ShiningPearlEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
   "PearlEntry": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
   "category": "Vine Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Even if one of its arms is eaten, it's fine. The Pokémon regenerates quickly and will go right back to normal."
 }

@@ -5,312 +5,45 @@
   "AlphaSapphireEntry": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokemon's tempered and hardened spirit is not easily broken.",
   "HP": 60,
   "SilverEntry": "It collects bones from an unknown place. A Marowak graveyard exists somewhere in the world, rumors say.",
-  "Speed": 45,
   "ability2": "Lightning Rod",
-  "eggMoves": [],
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "They thump their bones rhythmically to communicate among themselves. There are nearly 50 different rhythmic patterns.",
   "number": 105,
   "MoonEntry": "This Pokémon is out for vengeance on its natural enemy, Mandibuzz. It throws bones like boomerangs to try to take it down.",
   "UltraSunEntry": "It throws bones at Mandibuzz to knock it down. It's thought that Marowak is trying to avenge its parent.",
   "RedEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+  "LegendsArceusEntry": "The bones it uses have been in its possession since it was born. It has a ferocious nature.",
+  "SpAtk": 50,
+  "SpAtkYield": 0,
   "height": "1.0m",
-  "type2": "",
   "WhiteEntry": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
-  "eggGroup2": "",
   "CrystalEntry": "Somewhere in the world is a cemetery just for Marowak. It gets its bones from those graves.",
   "weight": "45.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
   "GoldEntry": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
   "SapphireEntry": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
-  "hasAlolan": true,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
   "DiamondEntry": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
   "name": "Marowak",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
-  "extraMega": false,
   "HearthGoldEntry": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
   "YEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
-  "SpeedYield": 0,
   "SunEntry": "Originally, it was weak and timid. After evolution, its temperament becomes violent, and it begins to wield bones as weapons.",
   "XPYield": 149,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "False Swipe",
-      "technical": "TM94"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
   "BrilliantDiamondEntry": "The bones it uses have been in its possession since it was born. It has a ferocious nature.",
   "AtkYield": 0,
   "PlatinumEntry": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
   "abilityHidden": "Battle Armor",
-  "lvlUpMoves": [
-    {
-      "move": "Mud-Slap",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "False Swipe",
-      "lvl": "1"
-    },
-    {
-      "move": "Headbutt",
-      "lvl": "12"
-    },
-    {
-      "move": "Retaliate",
-      "lvl": "16"
-    },
-    {
-      "move": "Fling",
-      "lvl": "20"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "lvl": "24"
-    },
-    {
-      "move": "Bone Rush",
-      "lvl": "31"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "36"
-    },
-    {
-      "move": "Endeavor",
-      "lvl": "42"
-    },
-    {
-      "move": "Bonemerang",
-      "lvl": "48"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "54"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 45,
   "DefYield": 2,
   "Def": 110,
-  "SpAtk": 50,
-  "SpDef": 80,
   "RubyEntry": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
   "BlackEntry": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
   "OmegaRubyEntry": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokemon's tempered and hardened spirit is not easily broken.",

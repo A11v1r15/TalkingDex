@@ -1,252 +1,33 @@
 {
   "ShieldEntry": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
-  "extraMega": false,
   "ability1": "Sheer Force",
   "HP": 72,
-  "Speed": 40,
-  "SpeedYield": 0,
   "XPYield": 66,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 49,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Belch"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Slam"
-    },
-    {
-      "move": "Fissure"
-    },
-    {
-      "move": "Swagger"
-    },
-    {
-      "move": "Whirlwind"
-    },
-    {
-      "move": "Defense Curl"
-    }
-  ],
   "number": 878,
+  "BrilliantDiamondEntry": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
   "AtkYield": 1,
   "abilityHidden": "Heavy Metal",
-  "height": "1.2m",
-  "lvlUpMoves": [
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "5"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "10"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "15"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "20"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "25"
-    },
-    {
-      "move": "Dig",
-      "lvl": "30"
-    },
-    {
-      "move": "Strength",
-      "lvl": "35"
-    },
-    {
-      "move": "Iron Head",
-      "lvl": "40"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "45"
-    },
-    {
-      "move": "High Horsepower",
-      "lvl": "50"
-    },
-    {
-      "move": "Superpower",
-      "lvl": "55"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 49,
+  "RedEntry": "Quadruped",
   "SpAtk": 40,
+  "SpAtkYield": 0,
+  "height": "1.2m",
+  "Speed": 40,
+  "DefYield": 0,
+  "Def": 49,
   "eggGroup2": "Mineral",
   "ScarletEntry": "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
-  "SpDef": 49,
   "weight": "100.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Steel",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Yellow",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "VioletEntry": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
   "name": "Cufant",
   "Atk": 80,
   "SwordEntry": "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",
-  "SpDefYield": 0,
   "category": "Copperderm Pokémon",
   "HPYield": 0
 }

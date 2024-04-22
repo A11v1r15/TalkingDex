@@ -5,288 +5,46 @@
   "AlphaSapphireEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
   "HP": 40,
   "SilverEntry": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
-  "Speed": 90,
   "ability2": "Technician",
-  "eggMoves": [
-    {
-      "move": "Spite"
-    },
-    {
-      "move": "Hypnosis"
-    },
-    {
-      "move": "Last Resort"
-    },
-    {
-      "move": "Flail"
-    },
-    {
-      "move": "Tail Whip"
-    },
-    {
-      "move": "Covet"
-    }
-  ],
+  "SpDef": 40,
+  "SpeedYield": 1,
   "UltraMoonEntry": "It loves coins, so if you give it one, you can make friends with Meowth easily. But it's fickle, so you can't count on that friendship lasting.",
   "number": 52,
   "MoonEntry": "It loves shiny things. It often fights with Murkrow over prey they're both trying to catch.",
   "UltraSunEntry": "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
   "RedEntry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+  "LegendsArceusEntry": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.4m",
-  "type2": "",
   "WhiteEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
-  "eggGroup2": "",
   "ScarletEntry": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
   "CrystalEntry": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
   "weight": "4.2kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": true,
+  "SpDefYield": 0,
   "BlueEntry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
   "GoldEntry": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
   "SapphireEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
-  "hasAlolan": true,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Appears to be more active at night. It loves round and shiny things. It can't stop itself from picking them up.",
   "DiamondEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "name": "Meowth",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It washes its face regularly to keep the coin on its forehead spotless. It doesn't get along with Galarian Meowth.",
-  "extraMega": false,
   "HearthGoldEntry": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
   "YEntry": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
-  "SpeedYield": 1,
   "SunEntry": "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
   "XPYield": 58,
-  "tmTrMoves": [
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Charm",
-      "technical": "TM29"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "U-turn",
-      "technical": "TM56"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Seed Bomb",
-      "technical": "TR59"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Play Rough",
-      "technical": "TR90"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": true,
   "xpGroup": "Medium Fast",
   "XEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "BrilliantDiamondEntry": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
   "AtkYield": 0,
   "PlatinumEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "abilityHidden": "Unnerve",
-  "lvlUpMoves": [
-    {
-      "move": "Fake Out",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Feint",
-      "lvl": "4"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "8"
-    },
-    {
-      "move": "Pay Day",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "16"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "20"
-    },
-    {
-      "move": "Assurance",
-      "lvl": "24"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "29"
-    },
-    {
-      "move": "Screech",
-      "lvl": "32"
-    },
-    {
-      "move": "Slash",
-      "lvl": "36"
-    },
-    {
-      "move": "Nasty Plot",
-      "lvl": "40"
-    },
-    {
-      "move": "Play Rough",
-      "lvl": "44"
-    }
-  ],
+  "Speed": 90,
   "DefYield": 0,
   "Def": 35,
-  "SpAtk": 40,
-  "SpDef": 40,
   "RubyEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
   "BlackEntry": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
   "OmegaRubyEntry": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",

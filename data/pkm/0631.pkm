@@ -1,280 +1,39 @@
 {
   "ShieldEntry": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
-  "extraMega": false,
   "ability1": "Gluttony",
   "YEntry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "AlphaSapphireEntry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "HP": 85,
-  "Speed": 65,
-  "SpeedYield": 0,
+  "SunEntry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "XPYield": 169,
   "ability2": "Flash Fire",
-  "tmTrMoves": [
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Flare Blitz",
-      "technical": "TR55"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 66,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Night Slash"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Sucker Punch"
-    },
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Belch"
-    }
-  ],
   "XEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
   "number": 631,
+  "BrilliantDiamondEntry": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
   "AtkYield": 0,
   "abilityHidden": "White Smoke",
+  "RedEntry": "Upright",
+  "SpAtk": 105,
+  "SpAtkYield": 2,
   "height": "1.4m",
-  "lvlUpMoves": [
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "5"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "10"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Stockpile",
-      "lvl": "20"
-    },
-    {
-      "move": "Swallow",
-      "lvl": "20"
-    },
-    {
-      "move": "Spit Up",
-      "lvl": "20"
-    },
-    {
-      "move": "Slash",
-      "lvl": "25"
-    },
-    {
-      "move": "Bind",
-      "lvl": "30"
-    },
-    {
-      "move": "Fire Lash",
-      "lvl": "35"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "40"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "45"
-    },
-    {
-      "move": "Fire Spin",
-      "lvl": "50"
-    },
-    {
-      "move": "Inferno",
-      "lvl": "55"
-    },
-    {
-      "move": "Flare Blitz",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 65,
   "DefYield": 0,
-  "type2": "",
   "WhiteEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
   "Def": 66,
-  "SpAtk": 105,
-  "eggGroup2": "",
-  "SpDef": 66,
   "weight": "58.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
   "BlackEntry": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
   "OmegaRubyEntry": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "name": "Heatmor",
   "Atk": 97,
   "White2Entry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
   "SwordEntry": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
-  "SpDefYield": 0,
   "category": "Anteater Pokémon",
   "HPYield": 0,
   "Black2Entry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."

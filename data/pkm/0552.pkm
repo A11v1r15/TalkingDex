@@ -1,303 +1,47 @@
 {
+  "ShieldEntry": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night\u2014the desert gets cold after sunset.",
   "ability1": "Intimidate",
+  "YEntry": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
   "AlphaSapphireEntry": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
   "HP": 60,
-  "Speed": 74,
+  "SunEntry": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+  "XPYield": 123,
   "ability2": "Moxie",
-  "eggMoves": [],
+  "SpDef": 45,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Slow",
+  "XEntry": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
   "UltraMoonEntry": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
   "number": 552,
   "MoonEntry": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
   "UltraSunEntry": "Krokorok really hates it when its body gets cold. On nights when the temperature drops, it digs deep into the desert sands.",
+  "BrilliantDiamondEntry": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night�the desert gets cold after sunset.",
+  "AtkYield": 2,
+  "abilityHidden": "Anger Point",
+  "RedEntry": "Quadruped",
+  "SpAtk": 45,
+  "SpAtkYield": 0,
   "height": "1.0m",
+  "Speed": 74,
   "type2": "Dark",
+  "DefYield": 0,
   "WhiteEntry": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings, even in darkness.",
-  "eggGroup2": "",
+  "Def": 45,
   "ScarletEntry": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
   "weight": "33.4kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Krokorok",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night—the desert gets cold after sunset.",
-  "extraMega": false,
-  "YEntry": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
-  "SunEntry": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
-  "SpeedYield": 0,
-  "XPYield": 123,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Slow",
-  "XEntry": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
-  "AtkYield": 2,
-  "abilityHidden": "Anger Point",
-  "lvlUpMoves": [
-    {
-      "move": "Power Trip",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Hone Claws",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "9"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Torment",
-      "lvl": "18"
-    },
-    {
-      "move": "Dig",
-      "lvl": "21"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "27"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "32"
-    },
-    {
-      "move": "Foul Play",
-      "lvl": "35"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "42"
-    },
-    {
-      "move": "Thrash",
-      "lvl": "47"
-    }
-  ],
-  "DefYield": 0,
-  "Def": 45,
-  "SpAtk": 45,
-  "SpDef": 45,
   "BlackEntry": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
   "OmegaRubyEntry": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+  "SpDefYield": 0,
   "colour": "Brown",
+  "LetsGoPikachuEntry": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
   "VioletEntry": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
+  "name": "Krokorok",
   "Atk": 82,
   "White2Entry": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
   "SwordEntry": "Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.",
   "category": "Desert Croc Pokémon",
+  "HPYield": 0,
   "Black2Entry": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals."
 }

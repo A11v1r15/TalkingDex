@@ -1,233 +1,31 @@
 {
   "ShieldEntry": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
-  "extraMega": false,
   "ability1": "Steadfast",
   "HP": 62,
-  "Speed": 65,
-  "SpeedYield": 0,
   "XPYield": 177,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Solar Blade",
-      "technical": "TM12"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Steel Wing",
-      "technical": "TM30"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Leaf Blade",
-      "technical": "TR50"
-    },
-    {
-      "move": "Close Combat",
-      "technical": "TR53"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Brave Bird",
-      "technical": "TR66"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 82,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "number": 865,
+  "BrilliantDiamondEntry": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
   "AtkYield": 2,
   "abilityHidden": "Scrappy",
-  "height": "0.8m",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Defense",
-      "lvl": "0"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "First Impression",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Fury Cutter",
-      "lvl": "1"
-    },
-    {
-      "move": "Rock Smash",
-      "lvl": "15"
-    },
-    {
-      "move": "Brutal Swing",
-      "lvl": "20"
-    },
-    {
-      "move": "Detect",
-      "lvl": "25"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "30"
-    },
-    {
-      "move": "Defog",
-      "lvl": "35"
-    },
-    {
-      "move": "Brick Break",
-      "lvl": "40"
-    },
-    {
-      "move": "Swords Dance",
-      "lvl": "45"
-    },
-    {
-      "move": "Slam",
-      "lvl": "50"
-    },
-    {
-      "move": "Leaf Blade",
-      "lvl": "55"
-    },
-    {
-      "move": "Final Gambit",
-      "lvl": "60"
-    },
-    {
-      "move": "Brave Bird",
-      "lvl": "65"
-    },
-    {
-      "move": "Meteor Assault",
-      "lvl": "70"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "",
-  "Def": 95,
+  "RedEntry": "Wings",
   "SpAtk": 68,
+  "SpAtkYield": 0,
+  "height": "0.8m",
+  "Speed": 65,
+  "DefYield": 0,
+  "Def": 95,
   "eggGroup2": "Field",
-  "SpDef": 82,
   "weight": "117.0kg",
   "eggGroup1": "Flying",
-  "hasMega": false,
   "type1": "Fighting",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "White",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Sirfetch’d",
+  "name": "Sirfetch\u2019d",
   "Atk": 135,
   "SwordEntry": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.",
-  "SpDefYield": 0,
   "category": "Wild Duck Pokémon",
   "HPYield": 0
 }

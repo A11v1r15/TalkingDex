@@ -1,312 +1,34 @@
 {
   "ShieldEntry": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
-  "extraMega": false,
   "ability1": "Punk Rock",
   "HP": 75,
-  "Speed": 75,
-  "SpeedYield": 0,
   "XPYield": 176,
   "ability2": "Plus",
-  "title": "Amped Form",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Eerie Impulse",
-      "technical": "TM93"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Gunk Shot",
-      "technical": "TR73"
-    },
-    {
-      "move": "Sludge Wave",
-      "technical": "TR78"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Stored Power",
-      "technical": "TR82"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 70,
+  "SpeedYield": 0,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "number": 849,
+  "BrilliantDiamondEntry": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
   "AtkYield": 0,
   "abilityHidden": "Technician",
-  "height": "1.6m",
-  "lvlUpMoves": [
-    {
-      "move": "Spark",
-      "lvl": "0"
-    },
-    {
-      "move": "Spark",
-      "lvl": "1"
-    },
-    {
-      "move": "Eerie Impulse",
-      "lvl": "1"
-    },
-    {
-      "move": "Belch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tearful Look",
-      "lvl": "1"
-    },
-    {
-      "move": "Nuzzle",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "1"
-    },
-    {
-      "move": "Flail",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Acid Spray",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Noble Roar",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "4"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "8"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "12"
-    },
-    {
-      "move": "Taunt",
-      "lvl": "16"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Swagger",
-      "lvl": "28"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "32"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "36"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "40"
-    },
-    {
-      "move": "Overdrive",
-      "lvl": "44"
-    },
-    {
-      "move": "Boomburst",
-      "lvl": "48"
-    },
-    {
-      "move": "Shift Gear",
-      "lvl": "52"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Poison",
-  "Def": 70,
+  "RedEntry": "Upright",
   "SpAtk": 114,
-  "eggGroup2": "",
+  "SpAtkYield": 2,
+  "height": "1.6m",
+  "Speed": 75,
+  "type2": "Poison",
+  "DefYield": 0,
+  "Def": 70,
   "ScarletEntry": "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
-  "SpDef": 70,
   "weight": "40.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Purple",
-  "hasAlolan": false,
-  "SpAtkYield": 2,
   "VioletEntry": "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts.",
   "name": "Toxtricity",
   "Atk": 98,
   "SwordEntry": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
-  "SpDefYield": 0,
   "category": "Punk Pokémon",
   "HPYield": 0
 }

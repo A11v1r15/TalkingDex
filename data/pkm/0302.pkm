@@ -1,349 +1,46 @@
 {
-  "EmeraldEntry": "It digs branching holes in caves using its sharp claws in search of food—raw gems. A Sableye lurks in darkness and is seen only rarely.",
+  "EmeraldEntry": "It digs branching holes in caves using its sharp claws in search of food\u2014raw gems. A Sableye lurks in darkness and is seen only rarely.",
   "ability1": "Keen Eye",
-  "AlphaSapphireEntry": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.",
+  "AlphaSapphireEntry": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon\u2019s body surface.",
   "HP": 50,
-  "Speed": 50,
   "ability2": "Stall",
-  "eggMoves": [
-    {
-      "move": "Recover"
-    },
-    {
-      "move": "Flatter"
-    },
-    {
-      "move": "Feint"
-    },
-    {
-      "move": "Sucker Punch"
-    },
-    {
-      "move": "Metal Burst"
-    },
-    {
-      "move": "Torment"
-    }
-  ],
+  "SpDef": 65,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
   "number": 302,
   "MoonEntry": "This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.",
   "UltraSunEntry": "It digs through the ground with its hard claws and crunches down gems with its thick pointy teeth. Carbink is its favorite food.",
+  "RedEntry": "Humanoid",
+  "LegendsArceusEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+  "SpAtk": 65,
+  "SpAtkYield": 0,
   "height": "0.5m",
   "type2": "Ghost",
   "WhiteEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
-  "eggGroup2": "",
   "ScarletEntry": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
   "weight": "11.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": true,
   "type1": "Dark",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon's body surface.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
   "DiamondEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
   "name": "Sableye",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
-  "extraMega": false,
   "HearthGoldEntry": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
   "YEntry": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
-  "SpeedYield": 0,
   "SunEntry": "It's a fiend for gemstones, so it stalks Carbink. Unfortunately, Gabite almost always grabs them first.",
   "XPYield": 133,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Imprison",
-      "technical": "TM44"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Drain Punch",
-      "technical": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Wonder Room",
-      "technical": "TM71"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Snarl",
-      "technical": "TM85"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Metronome",
-      "technical": "TR14"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Encore",
-      "technical": "TR30"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Calm Mind",
-      "technical": "TR49"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dark Pulse",
-      "technical": "TR58"
-    },
-    {
-      "move": "Power Gem",
-      "technical": "TR63"
-    },
-    {
-      "move": "Nasty Plot",
-      "technical": "TR68"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Foul Play",
-      "technical": "TR81"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "technical": "TR92"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
   "BrilliantDiamondEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
   "AtkYield": 1,
   "PlatinumEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
   "abilityHidden": "Prankster",
-  "lvlUpMoves": [
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Scratch",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "3"
-    },
-    {
-      "move": "Confuse Ray",
-      "lvl": "6"
-    },
-    {
-      "move": "Shadow Sneak",
-      "lvl": "9"
-    },
-    {
-      "move": "Fake Out",
-      "lvl": "12"
-    },
-    {
-      "move": "Disable",
-      "lvl": "15"
-    },
-    {
-      "move": "Detect",
-      "lvl": "18"
-    },
-    {
-      "move": "Night Shade",
-      "lvl": "21"
-    },
-    {
-      "move": "Fury Swipes",
-      "lvl": "24"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "27"
-    },
-    {
-      "move": "Quash",
-      "lvl": "30"
-    },
-    {
-      "move": "Shadow Claw",
-      "lvl": "33"
-    },
-    {
-      "move": "Mean Look",
-      "lvl": "36"
-    },
-    {
-      "move": "Power Gem",
-      "lvl": "39"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "42"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "45"
-    },
-    {
-      "move": "Foul Play",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 1,
   "Def": 75,
-  "SpAtk": 65,
-  "SpDef": 65,
   "RubyEntry": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
   "BlackEntry": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
   "OmegaRubyEntry": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",

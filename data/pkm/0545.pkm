@@ -1,280 +1,40 @@
 {
   "ShieldEntry": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
-  "extraMega": false,
   "ability1": "Poison Point",
   "YEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "AlphaSapphireEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "HP": 60,
-  "Speed": 112,
-  "SpeedYield": 3,
+  "SunEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "XPYield": 243,
   "ability2": "Swarm",
-  "tmTrMoves": [
-    {
-      "move": "Pin Missile",
-      "technical": "TM07"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Cross Poison",
-      "technical": "TM73"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Hex",
-      "technical": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Baton Pass",
-      "technical": "TR29"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "X-Scissor",
-      "technical": "TR60"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    },
-    {
-      "move": "Throat Chop",
-      "technical": "TR95"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 69,
+  "SpeedYield": 3,
   "xpGroup": "Medium Slow",
-  "eggMoves": [],
   "XEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
   "number": 545,
+  "BrilliantDiamondEntry": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
   "AtkYield": 0,
   "abilityHidden": "Speeded Boost",
+  "RedEntry": "Insectoid ",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "2.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Iron Defense",
-      "lvl": "1"
-    },
-    {
-      "move": "Baton Pass",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Tail",
-      "lvl": "12"
-    },
-    {
-      "move": "Screech",
-      "lvl": "16"
-    },
-    {
-      "move": "Bug Bite",
-      "lvl": "20"
-    },
-    {
-      "move": "Venoshock",
-      "lvl": "26"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "34"
-    },
-    {
-      "move": "Agility",
-      "lvl": "42"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "50"
-    },
-    {
-      "move": "Venom Drench",
-      "lvl": "58"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "66"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "74"
-    }
-  ],
-  "DefYield": 0,
+  "Speed": 112,
   "type2": "Poison",
+  "DefYield": 0,
   "WhiteEntry": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
   "Def": 89,
-  "SpAtk": 55,
-  "eggGroup2": "",
-  "SpDef": 69,
   "weight": "200.5kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
   "BlackEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
   "OmegaRubyEntry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "name": "Scolipede",
   "Atk": 100,
   "White2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
   "SwordEntry": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",
-  "SpDefYield": 0,
   "category": "Megapede Pokémon",
   "HPYield": 0,
   "Black2Entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."

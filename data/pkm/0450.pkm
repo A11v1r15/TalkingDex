@@ -1,287 +1,48 @@
 {
+  "ShieldEntry": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
+  "HearthGoldEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
   "ability1": "Sand Stream",
+  "YEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
   "AlphaSapphireEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
   "HP": 108,
-  "Speed": 47,
-  "ability2": "",
-  "eggMoves": [],
-  "number": 450,
-  "LegendsArceusEntry": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
-  "height": "2.0m",
-  "type2": "",
-  "WhiteEntry": "Surprisingly quick to anger. It holds its mouth agape as a display of strength.",
-  "eggGroup2": "",
-  "ScarletEntry": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
-  "weight": "300.0kg",
-  "eggGroup1": "Field",
-  "hasMega": false,
-  "type1": "Ground",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "DiamondEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
-  "name": "Hippowdon",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
-  "extraMega": false,
-  "HearthGoldEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
-  "YEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
-  "SpeedYield": 0,
+  "SunEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
   "XPYield": 184,
-  "tmTrMoves": [
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 72,
+  "SpeedYield": 0,
   "xpGroup": "Slow",
   "XEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+  "number": 450,
   "BrilliantDiamondEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
   "AtkYield": 0,
   "PlatinumEntry": "Surprisingly quick to anger. It holds its mouth agape as a display of strength.",
   "abilityHidden": "Sand Force",
-  "lvlUpMoves": [
-    {
-      "move": "Ice Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Fire Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Fang",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Bite",
-      "lvl": "1"
-    },
-    {
-      "move": "Yawn",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "12"
-    },
-    {
-      "move": "Dig",
-      "lvl": "16"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "20"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "24"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "28"
-    },
-    {
-      "move": "Roar",
-      "lvl": "32"
-    },
-    {
-      "move": "Rest",
-      "lvl": "38"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "44"
-    },
-    {
-      "move": "Double-Edge",
-      "lvl": "50"
-    },
-    {
-      "move": "Fissure",
-      "lvl": "56"
-    },
-    {
-      "move": "Slack Off",
-      "lvl": "62"
-    }
-  ],
-  "DefYield": 2,
-  "Def": 118,
+  "RedEntry": "Quadruped",
+  "LegendsArceusEntry": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
   "SpAtk": 68,
-  "SpDef": 72,
+  "SpAtkYield": 0,
+  "height": "2.0m",
+  "Speed": 47,
+  "DefYield": 2,
+  "WhiteEntry": "Surprisingly quick to anger. It holds its mouth agape as a display of strength.",
+  "Def": 118,
+  "ScarletEntry": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+  "weight": "300.0kg",
+  "eggGroup1": "Field",
+  "type1": "Ground",
   "BlackEntry": "Surprisingly quick to anger. It holds its mouth agape as a display of strength.",
   "OmegaRubyEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+  "SpDefYield": 0,
   "colour": "Brown",
   "VioletEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+  "DiamondEntry": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
   "SoulsilverEntry": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+  "name": "Hippowdon",
   "Atk": 112,
   "White2Entry": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
   "SwordEntry": "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.",
   "ShiningPearlEntry": "Its huge mouth opens almost seven feet wide. It has enough power to completely crush a car.",
   "PearlEntry": "Its huge mouth is almost seven feet across. It has enough power to completely crush a car.",
   "category": "Heavyweight Pokémon",
+  "HPYield": 0,
   "Black2Entry": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength."
 }

@@ -5,269 +5,45 @@
   "AlphaSapphireEntry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
   "HP": 65,
   "SilverEntry": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
-  "Speed": 105,
-  "ability2": "",
+  "SpDef": 85,
+  "SpeedYield": 2,
   "UltraMoonEntry": "While it's often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.",
-  "eggMoves": [],
   "number": 125,
   "MoonEntry": "Electricity leaks from it in amounts far greater than the amount of electricity it eats.",
   "UltraSunEntry": "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.",
   "RedEntry": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
   "LegendsArceusEntry": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
+  "SpAtk": 95,
+  "SpAtkYield": 0,
   "height": "1.1m",
-  "type2": "",
   "WhiteEntry": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
-  "eggGroup2": "",
+  "ScarletEntry": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
   "CrystalEntry": "When two Electabuzz touch, they control the electric currents to communicate their feelings.",
   "weight": "30.0kg",
   "eggGroup1": "Human-Like",
-  "hasMega": false,
   "type1": "Electric",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
   "GoldEntry": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
   "SapphireEntry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
   "DiamondEntry": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
   "name": "Electabuzz",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.",
-  "extraMega": false,
   "HearthGoldEntry": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
   "YEntry": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
-  "SpeedYield": 2,
   "SunEntry": "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.",
   "XPYield": 172,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Thunder Wave",
-      "technical": "TM14"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Low Sweep",
-      "technical": "TM75"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Volt Switch",
-      "technical": "TM80"
-    },
-    {
-      "move": "Electroweb",
-      "technical": "TM82"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Low Kick",
-      "technical": "TR07"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Electro Ball",
-      "technical": "TR80"
-    },
-    {
-      "move": "Wild Charge",
-      "technical": "TR86"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Electricity runs across the surface of its body. In darkness, its body glows a whitish blue.",
   "BrilliantDiamondEntry": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
   "AtkYield": 0,
   "PlatinumEntry": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
   "abilityHidden": "Vital Spirit",
-  "lvlUpMoves": [
-    {
-      "move": "Quick Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Thunder Shock",
-      "lvl": "1"
-    },
-    {
-      "move": "Charge",
-      "lvl": "1"
-    },
-    {
-      "move": "Swift",
-      "lvl": "12"
-    },
-    {
-      "move": "Shock Wave",
-      "lvl": "16"
-    },
-    {
-      "move": "Thunder Wave",
-      "lvl": "20"
-    },
-    {
-      "move": "Screech",
-      "lvl": "24"
-    },
-    {
-      "move": "Thunder Punch",
-      "lvl": "28"
-    },
-    {
-      "move": "Discharge",
-      "lvl": "34"
-    },
-    {
-      "move": "Low Kick",
-      "lvl": "40"
-    },
-    {
-      "move": "Thunderbolt",
-      "lvl": "46"
-    },
-    {
-      "move": "Light Screen",
-      "lvl": "52"
-    },
-    {
-      "move": "Thunder",
-      "lvl": "58"
-    },
-    {
-      "move": "Giga Impact",
-      "lvl": "64"
-    }
-  ],
+  "Speed": 105,
   "DefYield": 0,
   "Def": 57,
-  "SpAtk": 95,
-  "SpDef": 85,
   "RubyEntry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
   "BlackEntry": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
   "OmegaRubyEntry": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",

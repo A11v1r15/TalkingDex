@@ -1,310 +1,36 @@
 {
   "ShieldEntry": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
-  "extraMega": false,
   "ability1": "Shell Armor",
   "HP": 60,
   "SunEntry": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
-  "Speed": 36,
-  "SpeedYield": 0,
   "XPYield": 170,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Fire Spin",
-      "technical": "TM13"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "technical": "TM38"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Revenge",
-      "technical": "TM42"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Heat Wave",
-      "technical": "TR36"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Overheat",
-      "technical": "TR43"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Dragon Claw",
-      "technical": "TR47"
-    },
-    {
-      "move": "Bulk Up",
-      "technical": "TR48"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 85,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Wide Guard"
-    },
-    {
-      "move": "Head Smash"
-    },
-    {
-      "move": "Rapid Spin"
-    },
-    {
-      "move": "Curse"
-    }
-  ],
   "UltraMoonEntry": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
   "number": 776,
   "MoonEntry": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses.",
   "UltraSunEntry": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell.",
+  "BrilliantDiamondEntry": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
   "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "2.0m",
-  "lvlUpMoves": [
-    {
-      "move": "Smog",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Ember",
-      "lvl": "4"
-    },
-    {
-      "move": "Protect",
-      "lvl": "8"
-    },
-    {
-      "move": "Endure",
-      "lvl": "12"
-    },
-    {
-      "move": "Flail",
-      "lvl": "16"
-    },
-    {
-      "move": "Incinerate",
-      "lvl": "20"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "24"
-    },
-    {
-      "move": "Dragon Pulse",
-      "lvl": "28"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "32"
-    },
-    {
-      "move": "Flamethrower",
-      "lvl": "36"
-    },
-    {
-      "move": "Shell Trap",
-      "lvl": "40"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "44"
-    },
-    {
-      "move": "Overheat",
-      "lvl": "48"
-    },
-    {
-      "move": "Explosion",
-      "lvl": "52"
-    }
-  ],
-  "DefYield": 2,
-  "type2": "Dragon",
-  "Def": 135,
+  "RedEntry": "Upright",
   "SpAtk": 91,
+  "SpAtkYield": 0,
+  "height": "2.0m",
+  "Speed": 36,
+  "type2": "Dragon",
+  "DefYield": 2,
+  "Def": 135,
   "eggGroup2": "Dragon",
-  "SpDef": 85,
   "weight": "212.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Fire",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Red",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
   "name": "Turtonator",
   "Atk": 78,
   "SwordEntry": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
-  "SpDefYield": 0,
   "category": "Blast Turtle Pokémon",
   "HPYield": 0
 }

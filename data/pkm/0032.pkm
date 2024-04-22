@@ -5,263 +5,43 @@
   "AlphaSapphireEntry": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
   "HP": 46,
   "SilverEntry": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
-  "Speed": 50,
   "ability2": "Rivalry",
-  "eggMoves": [
-    {
-      "move": "Confusion"
-    },
-    {
-      "move": "Counter"
-    },
-    {
-      "move": "Disable"
-    },
-    {
-      "move": "Head Smash"
-    },
-    {
-      "move": "Poison Tail"
-    },
-    {
-      "move": "Sucker Punch"
-    },
-    {
-      "move": "Supersonic"
-    },
-    {
-      "move": "Take Down"
-    },
-    {
-      "move": "Horn Drill"
-    },
-    {
-      "move": "Thrash"
-    }
-  ],
+  "SpDef": 40,
+  "SpeedYield": 0,
   "number": 32,
   "RedEntry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+  "LegendsArceusEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+  "SpAtk": 40,
+  "SpAtkYield": 0,
   "height": "0.5m",
-  "type2": "",
   "WhiteEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "eggGroup2": "Field",
   "CrystalEntry": "It constantly moves its large ears in many directions in order to detect danger right away.",
   "weight": "9.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Poison",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
   "GoldEntry": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
   "SapphireEntry": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
   "DiamondEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "name": "Nidoran♂",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it's friendly with.",
-  "extraMega": false,
   "HearthGoldEntry": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
   "YEntry": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
-  "SpeedYield": 0,
+  "SunEntry": "Nidoran? has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
   "XPYield": 55,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Beat Up",
-      "technical": "TM37"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Venoshock",
-      "technical": "TM74"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Focus Energy",
-      "technical": "TR13"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Toxic Spikes",
-      "technical": "TR54"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Venom Drench",
-      "technical": "TR91"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Slow",
   "XEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "BrilliantDiamondEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "AtkYield": 1,
   "PlatinumEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "abilityHidden": "Hustle",
-  "lvlUpMoves": [
-    {
-      "move": "Leer",
-      "lvl": "1"
-    },
-    {
-      "move": "Poison Sting",
-      "lvl": "1"
-    },
-    {
-      "move": "Peck",
-      "lvl": "5"
-    },
-    {
-      "move": "Focus Energy",
-      "lvl": "10"
-    },
-    {
-      "move": "Fury Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Toxic Spikes",
-      "lvl": "20"
-    },
-    {
-      "move": "Double Kick",
-      "lvl": "25"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "30"
-    },
-    {
-      "move": "Helping Hand",
-      "lvl": "35"
-    },
-    {
-      "move": "Toxic",
-      "lvl": "40"
-    },
-    {
-      "move": "Flatter",
-      "lvl": "45"
-    },
-    {
-      "move": "Poison Jab",
-      "lvl": "50"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "55"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 0,
   "Def": 40,
-  "SpAtk": 40,
-  "SpDef": 40,
   "RubyEntry": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
   "BlackEntry": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
   "OmegaRubyEntry": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",

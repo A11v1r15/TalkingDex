@@ -3,283 +3,42 @@
   "ability1": "Clear Body",
   "AlphaSapphireEntry": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. This Pokémon turns its arms to the rear for traveling at high speed.",
   "HP": 60,
-  "Speed": 50,
-  "ability2": "",
+  "SpDef": 80,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
-  "eggMoves": [],
   "number": 375,
   "MoonEntry": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
   "UltraSunEntry": "With its two brains, it fires powerful psychic energy to stop its prey in their tracks.",
+  "RedEntry": "Arms",
+  "LegendsArceusEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+  "SpAtk": 55,
+  "SpAtkYield": 0,
   "height": "1.2m",
   "type2": "Psychic",
   "WhiteEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
-  "eggGroup2": "",
   "weight": "202.5kg",
   "eggGroup1": "Mineral",
-  "hasMega": false,
   "type1": "Steel",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. This Pokémon turns its arms to the rear for traveling at high speed.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
   "DiamondEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
   "name": "Metang",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.",
-  "extraMega": false,
   "HearthGoldEntry": "When two Beldum fuse together, a magnetic nervous system places their brains in union.",
   "YEntry": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
-  "SpeedYield": 0,
   "SunEntry": "When two Beldum link together, their psychic power is doubled. Their intelligence, however, remains unchanged.",
   "XPYield": 147,
-  "tmTrMoves": [
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Light Screen",
-      "technical": "TM17"
-    },
-    {
-      "move": "Reflect",
-      "technical": "TM18"
-    },
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Psycho Cut",
-      "technical": "TM69"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Agility",
-      "technical": "TR12"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Psyshock",
-      "technical": "TR25"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Cosmic Power",
-      "technical": "TR44"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Gyro Ball",
-      "technical": "TR52"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Flash Cannon",
-      "technical": "TR70"
-    },
-    {
-      "move": "Iron Head",
-      "technical": "TR74"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Grass Knot",
-      "technical": "TR77"
-    },
-    {
-      "move": "Ally Switch",
-      "technical": "TR83"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
   "BrilliantDiamondEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
   "AtkYield": 0,
   "PlatinumEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
   "abilityHidden": "Light Metal",
-  "lvlUpMoves": [
-    {
-      "move": "Confusion",
-      "lvl": "0"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "0"
-    },
-    {
-      "move": "Confusion",
-      "lvl": "1"
-    },
-    {
-      "move": "Metal Claw",
-      "lvl": "1"
-    },
-    {
-      "move": "Bullet Punch",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Zen Headbutt",
-      "lvl": "6"
-    },
-    {
-      "move": "Magnet Rise",
-      "lvl": "12"
-    },
-    {
-      "move": "Flash Cannon",
-      "lvl": "18"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "26"
-    },
-    {
-      "move": "Psychic",
-      "lvl": "34"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "42"
-    },
-    {
-      "move": "Meteor Mash",
-      "lvl": "50"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "58"
-    },
-    {
-      "move": "Agility",
-      "lvl": "66"
-    },
-    {
-      "move": "Hyper Beam",
-      "lvl": "74"
-    }
-  ],
+  "Speed": 50,
   "DefYield": 2,
   "Def": 100,
-  "SpAtk": 55,
-  "SpDef": 80,
   "RubyEntry": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pokémon generates strong psychokinetic power.",
   "BlackEntry": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
   "OmegaRubyEntry": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pokémon generates strong psychokinetic power.",

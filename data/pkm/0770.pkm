@@ -1,227 +1,38 @@
 {
   "ShieldEntry": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
-  "extraMega": false,
   "ability1": "Water Compaction",
   "HP": 85,
   "SunEntry": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
-  "Speed": 35,
-  "SpeedYield": 0,
   "XPYield": 168,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Giga Drain",
-      "technical": "TM28"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Sand Tomb",
-      "technical": "TM49"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Psychic",
-      "technical": "TR11"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Sludge Bomb",
-      "technical": "TR22"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Trick",
-      "technical": "TR38"
-    },
-    {
-      "move": "Skill Swap",
-      "technical": "TR40"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Energy Ball",
-      "technical": "TR65"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 75,
+  "SpeedYield": 0,
   "xpGroup": "Medium Fast",
-  "eggMoves": [],
   "UltraMoonEntry": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
   "number": 770,
   "MoonEntry": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
   "UltraSunEntry": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
+  "BrilliantDiamondEntry": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.",
   "AtkYield": 0,
   "abilityHidden": "Sand Veil",
-  "height": "1.3m",
-  "lvlUpMoves": [
-    {
-      "move": "Absorb",
-      "lvl": "1"
-    },
-    {
-      "move": "Harden",
-      "lvl": "1"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Tomb",
-      "lvl": "1"
-    },
-    {
-      "move": "Mega Drain",
-      "lvl": "15"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "20"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "25"
-    },
-    {
-      "move": "Hypnosis",
-      "lvl": "30"
-    },
-    {
-      "move": "Giga Drain",
-      "lvl": "35"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "40"
-    },
-    {
-      "move": "Shadow Ball",
-      "lvl": "47"
-    },
-    {
-      "move": "Earth Power",
-      "lvl": "54"
-    },
-    {
-      "move": "Shore Up",
-      "lvl": "61"
-    },
-    {
-      "move": "Sandstorm",
-      "lvl": "68"
-    }
-  ],
-  "DefYield": 2,
-  "type2": "Ground",
-  "Def": 110,
+  "RedEntry": "Squiggle",
   "SpAtk": 100,
-  "eggGroup2": "",
+  "SpAtkYield": 0,
+  "height": "1.3m",
+  "Speed": 35,
+  "type2": "Ground",
+  "DefYield": 2,
+  "Def": 110,
   "ScarletEntry": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
-  "SpDef": 75,
   "weight": "250.0kg",
   "eggGroup1": "Amorphous",
-  "hasMega": false,
   "type1": "Ghost",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Brown",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
   "VioletEntry": "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality.",
   "name": "Palossand",
   "Atk": 75,
   "SwordEntry": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
-  "SpDefYield": 0,
   "category": "Sand Castle Pokémon",
   "HPYield": 0
 }

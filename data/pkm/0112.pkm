@@ -5,409 +5,45 @@
   "AlphaSapphireEntry": "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
   "HP": 105,
   "SilverEntry": "Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.",
-  "Speed": 40,
   "ability2": "Rock Head",
-  "eggMoves": [],
+  "SpDef": 45,
+  "SpeedYield": 0,
   "number": 112,
   "RedEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
   "LegendsArceusEntry": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
+  "SpAtk": 45,
+  "SpAtkYield": 0,
   "height": "1.9m",
   "type2": "Rock",
   "WhiteEntry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
   "eggGroup2": "Field",
+  "ScarletEntry": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
   "CrystalEntry": "By lightly spinning its drill-like horn, it can easily shatter even a diamond in the rough.",
   "weight": "120.0kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Ground",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
   "GoldEntry": "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
   "SapphireEntry": "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
   "DiamondEntry": "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
   "name": "Rhydon",
-  "SpDefYield": 0,
   "HPYield": 0,
   "ShieldEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
-  "extraMega": false,
   "HearthGoldEntry": "Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.",
   "YEntry": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
-  "SpeedYield": 0,
+  "SunEntry": "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
   "XPYield": 170,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Pay Day",
-      "technical": "TM02"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Scary Face",
-      "technical": "TM26"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Payback",
-      "technical": "TM57"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Shadow Claw",
-      "technical": "TM65"
-    },
-    {
-      "move": "Thunder Fang",
-      "technical": "TM66"
-    },
-    {
-      "move": "Ice Fang",
-      "technical": "TM67"
-    },
-    {
-      "move": "Fire Fang",
-      "technical": "TM68"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Smart Strike",
-      "technical": "TM96"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Breaking Swipe",
-      "technical": "TM99"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Reversal",
-      "technical": "TR21"
-    },
-    {
-      "move": "Outrage",
-      "technical": "TR24"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Megahorn",
-      "technical": "TR28"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Uproar",
-      "technical": "TR35"
-    },
-    {
-      "move": "Superpower",
-      "technical": "TR39"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Poison Jab",
-      "technical": "TR57"
-    },
-    {
-      "move": "Dragon Pulse",
-      "technical": "TR62"
-    },
-    {
-      "move": "Focus Blast",
-      "technical": "TR64"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Drill Run",
-      "technical": "TR87"
-    },
-    {
-      "move": "Heat Crash",
-      "technical": "TR88"
-    },
-    {
-      "move": "High Horsepower",
-      "technical": "TR94"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Slow",
   "XEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
   "BrilliantDiamondEntry": "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
   "AtkYield": 2,
   "PlatinumEntry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
   "abilityHidden": "Reckless",
-  "lvlUpMoves": [
-    {
-      "move": "Hammer Arm",
-      "lvl": "0"
-    },
-    {
-      "move": "Hammer Arm",
-      "lvl": "1"
-    },
-    {
-      "move": "Tackle",
-      "lvl": "1"
-    },
-    {
-      "move": "Tail Whip",
-      "lvl": "1"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "1"
-    },
-    {
-      "move": "Bulldoze",
-      "lvl": "1"
-    },
-    {
-      "move": "Horn Attack",
-      "lvl": "15"
-    },
-    {
-      "move": "Scary Face",
-      "lvl": "20"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "25"
-    },
-    {
-      "move": "Rock Blast",
-      "lvl": "30"
-    },
-    {
-      "move": "Drill Run",
-      "lvl": "35"
-    },
-    {
-      "move": "Take Down",
-      "lvl": "40"
-    },
-    {
-      "move": "Earthquake",
-      "lvl": "47"
-    },
-    {
-      "move": "Stone Edge",
-      "lvl": "54"
-    },
-    {
-      "move": "Megahorn",
-      "lvl": "61"
-    },
-    {
-      "move": "Horn Drill",
-      "lvl": "68"
-    }
-  ],
+  "Speed": 40,
   "DefYield": 0,
   "Def": 120,
-  "SpAtk": 45,
-  "SpDef": 45,
   "RubyEntry": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
   "BlackEntry": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
   "OmegaRubyEntry": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",

@@ -5,328 +5,45 @@
   "AlphaSapphireEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
   "HP": 90,
   "SilverEntry": "Its long tongue, slathered with a thick gooey saliva, sticks to anything, so it is very useful.",
-  "Speed": 30,
   "ability2": "Oblivious",
-  "eggMoves": [
-    {
-      "move": "Belch"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Hammer Arm"
-    },
-    {
-      "move": "Thrash"
-    }
-  ],
+  "SpDef": 75,
+  "SpeedYield": 0,
   "UltraMoonEntry": "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it's really clean is...questionable.",
   "number": 108,
   "UltraSunEntry": "It checks out whatever's around it by licking everything. If you don't clean off a spot where it's licked you, you'll break out in a rash!",
   "RedEntry": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
   "LegendsArceusEntry": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.",
+  "SpAtk": 60,
+  "SpAtkYield": 0,
   "height": "1.2m",
-  "type2": "",
   "WhiteEntry": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
-  "eggGroup2": "",
-  "CrystalEntry": "It has a tongue that is over 6'6\" long. It uses this long tongue to lick its body clean.",
+  "ScarletEntry": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.",
+  "CrystalEntry": "\"It has a tongue that is over 6'6\"\" long. It uses this long tongue to lick its body clean.\"",
   "weight": "65.5kg",
   "eggGroup1": "Monster",
-  "hasMega": false,
   "type1": "Normal",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "BlueEntry": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
   "GoldEntry": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
   "SapphireEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
   "LetsGoPikachuEntry": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
   "DiamondEntry": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
   "name": "Lickitung",
-  "SpDefYield": 0,
   "HPYield": 2,
   "ShieldEntry": "Bug Pokémon are Lickitung's main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
-  "extraMega": false,
   "HearthGoldEntry": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
   "YEntry": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
-  "SpeedYield": 0,
+  "SunEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
   "XPYield": 77,
-  "tmTrMoves": [
-    {
-      "move": "Mega Punch",
-      "technical": "TM00"
-    },
-    {
-      "move": "Mega Kick",
-      "technical": "TM01"
-    },
-    {
-      "move": "Fire Punch",
-      "technical": "TM03"
-    },
-    {
-      "move": "Ice Punch",
-      "technical": "TM04"
-    },
-    {
-      "move": "Thunder Punch",
-      "technical": "TM05"
-    },
-    {
-      "move": "Hyper Beam",
-      "technical": "TM08"
-    },
-    {
-      "move": "Giga Impact",
-      "technical": "TM09"
-    },
-    {
-      "move": "Solar Beam",
-      "technical": "TM11"
-    },
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Thief",
-      "technical": "TM23"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Sunny Day",
-      "technical": "TM34"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Helping Hand",
-      "technical": "TM41"
-    },
-    {
-      "move": "Brick Break",
-      "technical": "TM43"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Fling",
-      "technical": "TM59"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Retaliate",
-      "technical": "TM79"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Brutal Swing",
-      "technical": "TM97"
-    },
-    {
-      "move": "Stomping Tantrum",
-      "technical": "TM98"
-    },
-    {
-      "move": "Swords Dance",
-      "technical": "TR00"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Flamethrower",
-      "technical": "TR02"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Thunderbolt",
-      "technical": "TR08"
-    },
-    {
-      "move": "Thunder",
-      "technical": "TR09"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Fire Blast",
-      "technical": "TR15"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Shadow Ball",
-      "technical": "TR33"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Power Whip",
-      "technical": "TR72"
-    },
-    {
-      "move": "Work Up",
-      "technical": "TR85"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Medium Fast",
   "XEntry": "Its long tongue, slathered in a gooey saliva, sticks to anything, so it is very useful.",
   "BrilliantDiamondEntry": "Instead of its hands, it uses its tongue, which can stretch to twice this Pokémon's height. Lickitung's sticky saliva grips anything.",
   "AtkYield": 0,
   "PlatinumEntry": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
   "abilityHidden": "Cloud Nine",
-  "lvlUpMoves": [
-    {
-      "move": "Lick",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    },
-    {
-      "move": "Rollout",
-      "lvl": "6"
-    },
-    {
-      "move": "Supersonic",
-      "lvl": "12"
-    },
-    {
-      "move": "Wrap",
-      "lvl": "18"
-    },
-    {
-      "move": "Disable",
-      "lvl": "24"
-    },
-    {
-      "move": "Stomp",
-      "lvl": "30"
-    },
-    {
-      "move": "Knock Off",
-      "lvl": "36"
-    },
-    {
-      "move": "Screech",
-      "lvl": "42"
-    },
-    {
-      "move": "Slam",
-      "lvl": "48"
-    },
-    {
-      "move": "Power Whip",
-      "lvl": "54"
-    },
-    {
-      "move": "Belly Drum",
-      "lvl": "60"
-    }
-  ],
+  "Speed": 30,
   "DefYield": 0,
   "Def": 75,
-  "SpAtk": 60,
-  "SpDef": 75,
   "RubyEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
   "BlackEntry": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
   "OmegaRubyEntry": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",

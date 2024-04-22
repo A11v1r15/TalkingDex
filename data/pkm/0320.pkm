@@ -3,282 +3,46 @@
   "ability1": "Water Veil",
   "AlphaSapphireEntry": "Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces.",
   "HP": 130,
-  "Speed": 60,
   "ability2": "Oblivious",
-  "eggMoves": [
-    {
-      "move": "Double"
-    },
-    {
-      "move": "Thrash"
-    },
-    {
-      "move": "Curse"
-    },
-    {
-      "move": "Fissure"
-    },
-    {
-      "move": "Tickle"
-    },
-    {
-      "move": "Defense Curl"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Aqua Ring"
-    },
-    {
-      "move": "Soak"
-    }
-  ],
+  "SpDef": 35,
+  "SpeedYield": 0,
   "UltraMoonEntry": "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore.",
   "number": 320,
   "MoonEntry": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
   "UltraSunEntry": "It swims along with its mouth open and swallows down seawater along with its food. It sprays excess water out of its nostrils.",
+  "RedEntry": "Fish",
+  "LegendsArceusEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nostrils.",
+  "SpAtk": 70,
+  "SpAtkYield": 0,
   "height": "2.0m",
-  "type2": "",
   "WhiteEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
   "eggGroup2": "Water 2",
   "weight": "130.0kg",
   "eggGroup1": "Field",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "SapphireEntry": "Wailmer can store water inside its body to transform itself into a ball for bouncing on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces.",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore.",
   "DiamondEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
   "name": "Wailmer",
-  "SpDefYield": 0,
   "HPYield": 1,
   "ShieldEntry": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
-  "extraMega": false,
   "HearthGoldEntry": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
   "YEntry": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.",
-  "SpeedYield": 0,
   "SunEntry": "It loves to startle people. It fills itself up with seawater and plays by bouncing around like a ball.",
   "XPYield": 80,
-  "tmTrMoves": [
-    {
-      "move": "Self-Destruct",
-      "technical": "TM20"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Weather Ball",
-      "technical": "TM46"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Bounce",
-      "technical": "TM52"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Avalanche",
-      "technical": "TM64"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Amnesia",
-      "technical": "TR17"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Hyper Voice",
-      "technical": "TR42"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Heavy Slam",
-      "technical": "TR79"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Body Press",
-      "technical": "TR99"
-    }
-  ],
-  "hasGigantamax": false,
   "xpGroup": "Fluctuating",
   "XEntry": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
   "BrilliantDiamondEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nostrils.",
   "AtkYield": 0,
   "PlatinumEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
   "abilityHidden": "Pressure",
-  "lvlUpMoves": [
-    {
-      "move": "Splash",
-      "lvl": "1"
-    },
-    {
-      "move": "Growl",
-      "lvl": "3"
-    },
-    {
-      "move": "Astonish",
-      "lvl": "6"
-    },
-    {
-      "move": "Water Gun",
-      "lvl": "12"
-    },
-    {
-      "move": "Mist",
-      "lvl": "15"
-    },
-    {
-      "move": "Water Pulse",
-      "lvl": "18"
-    },
-    {
-      "move": "Heavy Slam",
-      "lvl": "21"
-    },
-    {
-      "move": "Brine",
-      "lvl": "24"
-    },
-    {
-      "move": "Whirlpool",
-      "lvl": "27"
-    },
-    {
-      "move": "Dive",
-      "lvl": "30"
-    },
-    {
-      "move": "Bounce",
-      "lvl": "33"
-    },
-    {
-      "move": "Body Slam",
-      "lvl": "36"
-    },
-    {
-      "move": "Rest",
-      "lvl": "39"
-    },
-    {
-      "move": "Amnesia",
-      "lvl": "42"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "45"
-    },
-    {
-      "move": "Water Spout",
-      "lvl": "48"
-    }
-  ],
+  "Speed": 60,
   "DefYield": 0,
   "Def": 35,
-  "SpAtk": 70,
-  "SpDef": 35,
   "RubyEntry": "Wailmer's nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
   "BlackEntry": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
-  "OmegaRubyEntry": "Wailmer’s nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
+  "OmegaRubyEntry": "Wailmer\u2019s nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
   "colour": "Blue",
   "SoulsilverEntry": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces.",
   "FireRedEntry": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",

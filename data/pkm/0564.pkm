@@ -1,296 +1,46 @@
 {
+  "ShieldEntry": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
   "ability1": "Solid Rock",
+  "YEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
   "AlphaSapphireEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
   "HP": 54,
-  "Speed": 22,
+  "SunEntry": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
+  "XPYield": 71,
   "ability2": "Sturdy",
+  "SpDef": 45,
+  "SpeedYield": 0,
+  "xpGroup": "Medium Fast",
+  "XEntry": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
   "UltraMoonEntry": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
-  "eggMoves": [
-    {
-      "move": "Knock Off"
-    },
-    {
-      "move": "Rollout"
-    },
-    {
-      "move": "Rock Throw"
-    },
-    {
-      "move": "Slam"
-    },
-    {
-      "move": "Water Pulse"
-    },
-    {
-      "move": "Block"
-    }
-  ],
   "number": 564,
   "MoonEntry": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago.",
   "UltraSunEntry": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
+  "BrilliantDiamondEntry": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
+  "AtkYield": 0,
+  "abilityHidden": "Swift Swim",
+  "RedEntry": "Quadruped",
+  "SpAtk": 53,
+  "SpAtkYield": 0,
   "height": "0.7m",
+  "Speed": 22,
   "type2": "Rock",
+  "DefYield": 1,
   "WhiteEntry": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+  "Def": 103,
   "eggGroup2": "Water 3",
   "weight": "16.5kg",
   "eggGroup1": "Water 1",
-  "hasMega": false,
   "type1": "Water",
-  "hasGalarian": false,
-  "hasAlolan": false,
-  "SpAtkYield": 0,
-  "name": "Tirtouga",
-  "SpDefYield": 0,
-  "HPYield": 0,
-  "ShieldEntry": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
-  "extraMega": false,
-  "YEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
-  "SunEntry": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
-  "SpeedYield": 0,
-  "XPYield": 71,
-  "tmTrMoves": [
-    {
-      "move": "Dig",
-      "technical": "TM15"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Rock Slide",
-      "technical": "TM22"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Icy Wind",
-      "technical": "TM27"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Sandstorm",
-      "technical": "TM32"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Whirlpool",
-      "technical": "TM36"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Dive",
-      "technical": "TM45"
-    },
-    {
-      "move": "Rock Tomb",
-      "technical": "TM48"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Rock Blast",
-      "technical": "TM54"
-    },
-    {
-      "move": "Brine",
-      "technical": "TM55"
-    },
-    {
-      "move": "Guard Swap",
-      "technical": "TM61"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "technical": "TM81"
-    },
-    {
-      "move": "Body Slam",
-      "technical": "TR01"
-    },
-    {
-      "move": "Hydro Pump",
-      "technical": "TR03"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Ice Beam",
-      "technical": "TR05"
-    },
-    {
-      "move": "Blizzard",
-      "technical": "TR06"
-    },
-    {
-      "move": "Earthquake",
-      "technical": "TR10"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Iron Tail",
-      "technical": "TR31"
-    },
-    {
-      "move": "Crunch",
-      "technical": "TR32"
-    },
-    {
-      "move": "Muddy Water",
-      "technical": "TR45"
-    },
-    {
-      "move": "Iron Defense",
-      "technical": "TR46"
-    },
-    {
-      "move": "Earth Power",
-      "technical": "TR67"
-    },
-    {
-      "move": "Zen Headbutt",
-      "technical": "TR69"
-    },
-    {
-      "move": "Stone Edge",
-      "technical": "TR75"
-    },
-    {
-      "move": "Stealth Rock",
-      "technical": "TR76"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    },
-    {
-      "move": "Liquidation",
-      "technical": "TR98"
-    }
-  ],
-  "hasGigantamax": false,
-  "xpGroup": "Medium Fast",
-  "XEntry": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
-  "AtkYield": 0,
-  "abilityHidden": "Swift Swim",
-  "lvlUpMoves": [
-    {
-      "move": "Water Gun",
-      "lvl": "1"
-    },
-    {
-      "move": "Withdraw",
-      "lvl": "1"
-    },
-    {
-      "move": "Protect",
-      "lvl": "3"
-    },
-    {
-      "move": "Aqua Jet",
-      "lvl": "6"
-    },
-    {
-      "move": "Smack Down",
-      "lvl": "9"
-    },
-    {
-      "move": "Ancient Power",
-      "lvl": "12"
-    },
-    {
-      "move": "Bite",
-      "lvl": "15"
-    },
-    {
-      "move": "Wide Guard",
-      "lvl": "18"
-    },
-    {
-      "move": "Brine",
-      "lvl": "21"
-    },
-    {
-      "move": "Rock Slide",
-      "lvl": "24"
-    },
-    {
-      "move": "Crunch",
-      "lvl": "27"
-    },
-    {
-      "move": "Curse",
-      "lvl": "30"
-    },
-    {
-      "move": "Iron Defense",
-      "lvl": "33"
-    },
-    {
-      "move": "Aqua Tail",
-      "lvl": "36"
-    },
-    {
-      "move": "Rain Dance",
-      "lvl": "39"
-    },
-    {
-      "move": "Hydro Pump",
-      "lvl": "42"
-    },
-    {
-      "move": "Shell Smash",
-      "lvl": "45"
-    }
-  ],
-  "DefYield": 1,
-  "Def": 103,
-  "SpAtk": 53,
-  "SpDef": 45,
   "BlackEntry": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
   "OmegaRubyEntry": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+  "SpDefYield": 0,
   "colour": "Blue",
+  "LetsGoPikachuEntry": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+  "name": "Tirtouga",
   "Atk": 78,
   "White2Entry": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
   "SwordEntry": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
   "category": "Prototurtle Pokémon",
+  "HPYield": 0,
   "Black2Entry": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile."
 }

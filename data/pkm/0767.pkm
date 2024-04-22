@@ -1,161 +1,36 @@
 {
   "ShieldEntry": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
-  "extraMega": false,
   "ability1": "Wimp Out",
   "HP": 25,
   "SunEntry": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
-  "Speed": 80,
-  "SpeedYield": 1,
   "XPYield": 46,
-  "ability2": "",
-  "tmTrMoves": [
-    {
-      "move": "Screech",
-      "technical": "TM16"
-    },
-    {
-      "move": "Rest",
-      "technical": "TM21"
-    },
-    {
-      "move": "Snore",
-      "technical": "TM24"
-    },
-    {
-      "move": "Protect",
-      "technical": "TM25"
-    },
-    {
-      "move": "Attract",
-      "technical": "TM31"
-    },
-    {
-      "move": "Rain Dance",
-      "technical": "TM33"
-    },
-    {
-      "move": "Hail",
-      "technical": "TM35"
-    },
-    {
-      "move": "Facade",
-      "technical": "TM39"
-    },
-    {
-      "move": "Swift",
-      "technical": "TM40"
-    },
-    {
-      "move": "Mud Shot",
-      "technical": "TM53"
-    },
-    {
-      "move": "Assurance",
-      "technical": "TM58"
-    },
-    {
-      "move": "Round",
-      "technical": "TM76"
-    },
-    {
-      "move": "Surf",
-      "technical": "TR04"
-    },
-    {
-      "move": "Waterfall",
-      "technical": "TR16"
-    },
-    {
-      "move": "Leech Life",
-      "technical": "TR18"
-    },
-    {
-      "move": "Substitute",
-      "technical": "TR20"
-    },
-    {
-      "move": "Spikes",
-      "technical": "TR23"
-    },
-    {
-      "move": "Endure",
-      "technical": "TR26"
-    },
-    {
-      "move": "Sleep Talk",
-      "technical": "TR27"
-    },
-    {
-      "move": "Taunt",
-      "technical": "TR37"
-    },
-    {
-      "move": "Bug Buzz",
-      "technical": "TR61"
-    },
-    {
-      "move": "Scald",
-      "technical": "TR84"
-    }
-  ],
-  "hasGigantamax": false,
+  "SpDef": 30,
+  "SpeedYield": 1,
   "xpGroup": "Medium Fast",
-  "eggMoves": [
-    {
-      "move": "Metal Claw"
-    },
-    {
-      "move": "Wide Guard"
-    },
-    {
-      "move": "Harden"
-    },
-    {
-      "move": "Aqua Jet"
-    },
-    {
-      "move": "Rollout"
-    }
-  ],
   "UltraMoonEntry": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
   "number": 767,
   "MoonEntry": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
   "UltraSunEntry": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+  "BrilliantDiamondEntry": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
   "AtkYield": 0,
-  "abilityHidden": "",
-  "height": "0.5m",
-  "lvlUpMoves": [
-    {
-      "move": "Struggle Bug",
-      "lvl": "1"
-    },
-    {
-      "move": "Sand Attack",
-      "lvl": "1"
-    },
-    {
-      "move": "Defense Curl",
-      "lvl": "1"
-    }
-  ],
-  "DefYield": 0,
-  "type2": "Water",
-  "Def": 40,
+  "RedEntry": "Tentacles",
   "SpAtk": 20,
+  "SpAtkYield": 0,
+  "height": "0.5m",
+  "Speed": 80,
+  "type2": "Water",
+  "DefYield": 0,
+  "Def": 40,
   "eggGroup2": "Water 3",
-  "SpDef": 30,
   "weight": "12.0kg",
   "eggGroup1": "Bug",
-  "hasMega": false,
   "type1": "Bug",
-  "hasGalarian": false,
+  "SpDefYield": 0,
   "colour": "Gray",
-  "hasAlolan": false,
-  "SpAtkYield": 0,
+  "LetsGoPikachuEntry": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
   "name": "Wimpod",
   "Atk": 35,
-  "SwordEntry": "It's nature's cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
-  "SpDefYield": 0,
+  "SwordEntry": "It's nature's cleaner\u2014it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
   "category": "Turn Tail Pokémon",
   "HPYield": 0
 }
