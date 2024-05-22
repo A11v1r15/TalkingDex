@@ -22,7 +22,7 @@ ArrayList<PImage> list = new ArrayList<PImage>();
 float cursor;
 int pkn = 1;
 JSONObject pkm;
-int MaxDex = 1008;
+int MaxDex = 1025;
 
 IntList alolan;
 IntList galarian;
