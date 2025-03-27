@@ -1,7 +1,7 @@
 {
   "ability1": "Poison Puppeteer",
   "HP": 88,
-  "XPYield": 0,
+  "XPYield": 300,
   "ability2": "",
   "SpDef": 88,
   "SpeedYield": 0,
@@ -10,15 +10,16 @@
   "introduced": "TheIndigoDisk",
   "AtkYield": 0,
   "SpAtk": 88,
-  "SpAtkYield": 3,
-  "height": "0.3kg",
+  "SpAtkYield": 0,
+  "height": "0.3m",
   "Speed": 88,
   "type2": "Ghost",
-  "DefYield": 0,
+  "DefYield": 3,
   "Def": 160,
+  "shape": "Ball",
   "eggGroup2": "",
   "ScarletEntry": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
-  "weight": "0.3m",
+  "weight": "0.3kg",
   "eggGroup1": "Undiscovered",
   "type1": "Poison",
   "SpDefYield": 0,
@@ -27,5 +28,5 @@
   "name": "Pecharunt",
   "Atk": 88,
   "category": "Subjugation Pokémon",
-  "HPYield": 300
+  "HPYield": 0
 }

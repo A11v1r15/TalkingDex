@@ -1,7 +1,7 @@
 {
   "ability1": "Tera Shift",
   "HP": 90,
-  "XPYield": 0,
+  "XPYield": 90,
   "ability2": "",
   "SpDef": 85,
   "SpeedYield": 0,
@@ -10,15 +10,16 @@
   "introduced": "TheIndigoDisk",
   "AtkYield": 0,
   "SpAtk": 65,
-  "SpAtkYield": 1,
-  "height": "6.5kg",
+  "SpAtkYield": 0,
+  "height": "0.2m",
   "Speed": 60,
   "type2": "",
-  "DefYield": 0,
+  "DefYield": 1,
   "Def": 85,
+  "shape": "Ball",
   "eggGroup2": "",
   "ScarletEntry": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
-  "weight": "0.2m",
+  "weight": "6.5kg",
   "eggGroup1": "Undiscovered",
   "type1": "Normal",
   "SpDefYield": 0,
@@ -27,5 +28,5 @@
   "name": "Terapagos",
   "Atk": 65,
   "category": "Tera Pokémon",
-  "HPYield": 90
+  "HPYield": 0
 }

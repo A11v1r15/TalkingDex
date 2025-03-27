@@ -1,7 +1,7 @@
 {
   "ability1": "Stamina",
   "HP": 90,
-  "XPYield": 0,
+  "XPYield": 300,
   "ability2": "Sturdy",
   "SpDef": 65,
   "SpeedYield": 0,
@@ -11,15 +11,16 @@
   "AtkYield": 0,
   "abilityHidden": "Stalwart",
   "SpAtk": 125,
-  "SpAtkYield": 3,
-  "height": "60.0kg",
+  "SpAtkYield": 0,
+  "height": "2.0m",
   "Speed": 85,
   "type2": "Dragon",
-  "DefYield": 0,
+  "DefYield": 3,
   "Def": 130,
+  "shape": "Kaiju",
   "eggGroup2": "Dragon",
   "ScarletEntry": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
-  "weight": "2.0m",
+  "weight": "60.0kg",
   "eggGroup1": "Mineral",
   "type1": "Steel",
   "SpDefYield": 0,
@@ -28,5 +29,5 @@
   "name": "Archaludon",
   "Atk": 105,
   "category": "Alloy Pokémon",
-  "HPYield": 300
+  "HPYield": 0
 }
